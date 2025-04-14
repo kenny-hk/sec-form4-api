@@ -5,10 +5,12 @@ import os
 import glob
 import xml.etree.ElementTree as ET
 import json
+import sqlite3
 from sec_edgar_downloader import Downloader
 
 # Use relative path for data directory
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
+DB_PATH = os.path.join(DATA_DIR, 'insider_trading.db')
 
 def main():
     """Main function to download and analyze Form 4 filings."""
@@ -20,6 +22,9 @@ def main():
     
     # Create data directory if it doesn't exist
     os.makedirs(DATA_DIR, exist_ok=True)
+    
+    # Initialize SQLite database
+    initialize_database()
     
     if not args.no_download:
         # Only run download code if --no-download is NOT specified
@@ -49,11 +54,44 @@ def main():
     else:
         print("Skipping download, processing existing files only...")
     
-    # Check the downloaded data structure
-    # check_downloaded_data()
-    
     # Process the downloaded Form 4 filings
     process_form4_filings()
+
+def initialize_database():
+    """Initialize SQLite database with the required tables."""
+    print("Initializing SQLite database...")
+    
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    # Create main insider trading table
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS insider_trading (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        issuer_name TEXT,
+        issuer_ticker TEXT,
+        reporting_owner TEXT,
+        reporting_owner_cik TEXT,
+        reporting_owner_position TEXT,
+        transaction_date TEXT,
+        transaction_shares TEXT,
+        transaction_price TEXT,
+        transaction_type TEXT,
+        shares_after_transaction TEXT,
+        source_file TEXT,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    )
+    ''')
+    
+    # Create index for faster queries
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_issuer_ticker ON insider_trading (issuer_ticker)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_transaction_date ON insider_trading (transaction_date)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_reporting_owner ON insider_trading (reporting_owner)')
+    
+    conn.commit()
+    conn.close()
+    
+    print("Database initialized successfully")
 
 def check_downloaded_data():
     """Examines the downloaded data structure and prints information about it."""
@@ -104,8 +142,13 @@ def process_form4_filings():
         print("No XML files found to process")
         return
     
-    # Create a DataFrame to store the insider trading data
-    insider_data = []
+    # Connect to SQLite database
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    # Track processed filings for summary
+    processed_count = 0
+    error_count = 0
     
     for xml_file in xml_files:
         try:
@@ -117,12 +160,13 @@ def process_form4_filings():
             issuer_name = None
             issuer_ticker = None
             reporting_owner = None
-            reporting_owner_cik = None  # Added for CIK
+            reporting_owner_cik = None
+            reporting_owner_position = None  # New field for position
             transaction_date = None
             transaction_shares = None
             transaction_price = None
             transaction_type = None
-            shares_after_transaction = None  # Added for shares owned after transaction
+            shares_after_transaction = None
             
             # Extract issuer information
             for elem in root.findall(".//issuerName"):
@@ -141,6 +185,11 @@ def process_form4_filings():
             # Extract reporting owner CIK
             for elem in root.findall(".//rptOwnerCik"):
                 reporting_owner_cik = elem.text
+                break
+            
+            # Extract reporting owner position/title
+            for elem in root.findall(".//reportingOwnerRelationship/officerTitle"):
+                reporting_owner_position = elem.text
                 break
             
             # Extract transaction information
@@ -174,40 +223,79 @@ def process_form4_filings():
                 if post_shares_elem is not None:
                     shares_after_transaction = post_shares_elem.text
             
-            # Add to our data list
-            insider_data.append({
-                'issuer_name': issuer_name,
-                'issuer_ticker': issuer_ticker,
-                'reporting_owner': reporting_owner,
-                'reporting_owner_cik': reporting_owner_cik,
-                'transaction_date': transaction_date,
-                'transaction_shares': transaction_shares,
-                'transaction_price': transaction_price,
-                'transaction_type': transaction_type,
-                'shares_after_transaction': shares_after_transaction,  # Added shares after transaction
-                'source_file': xml_file  # Full path instead of just filename
-            })
+            # Insert into SQLite database
+            cursor.execute('''
+            INSERT INTO insider_trading 
+            (issuer_name, issuer_ticker, reporting_owner, reporting_owner_cik, 
+             reporting_owner_position, transaction_date, transaction_shares, 
+             transaction_price, transaction_type, shares_after_transaction, source_file)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (
+                issuer_name, issuer_ticker, reporting_owner, reporting_owner_cik,
+                reporting_owner_position, transaction_date, transaction_shares,
+                transaction_price, transaction_type, shares_after_transaction, xml_file
+            ))
+            
+            processed_count += 1
         
         except Exception as e:
             print(f"Error processing {xml_file}: {e}")
+            error_count += 1
     
-    # Convert to DataFrame
-    if insider_data:
-        df = pd.DataFrame(insider_data)
-        print("\nInsider Trading Data Summary:")
-        print(f"Total transactions: {len(df)}")
+    # Commit changes and close connection
+    conn.commit()
+    conn.close()
+    
+    print(f"\nInsider Trading Data Summary:")
+    print(f"Total transactions processed: {processed_count}")
+    print(f"Errors encountered: {error_count}")
+    
+    # Display sample data from the database
+    display_sample_data()
+
+def display_sample_data():
+    """Display sample data from the SQLite database."""
+    try:
+        conn = sqlite3.connect(DB_PATH)
         
-        # Save to CSV
-        csv_path = os.path.join(DATA_DIR, 'insider_trading_data.csv')
-        df.to_csv(csv_path, index=False)
-        print(f"Saved insider trading data to {csv_path}")
+        # Convert SQLite data to DataFrame for easy display
+        df = pd.read_sql_query("SELECT * FROM insider_trading LIMIT 5", conn)
+        conn.close()
         
-        # Display sample data
-        if len(df) > 0:
+        if not df.empty:
             print("\nSample transactions:")
-            print(df.head(5).to_string())
-    else:
-        print("No insider trading data extracted")
+            print(df.to_string())
+        else:
+            print("\nNo insider trading data found in the database")
+    except Exception as e:
+        print(f"Error displaying sample data: {e}")
+
+def query_insider_trading(ticker=None, date_from=None, date_to=None, limit=10):
+    """Query insider trading data from the SQLite database."""
+    conn = sqlite3.connect(DB_PATH)
+    
+    query = "SELECT * FROM insider_trading WHERE 1=1"
+    params = []
+    
+    if ticker:
+        query += " AND issuer_ticker = ?"
+        params.append(ticker)
+    
+    if date_from:
+        query += " AND transaction_date >= ?"
+        params.append(date_from)
+    
+    if date_to:
+        query += " AND transaction_date <= ?"
+        params.append(date_to)
+    
+    query += " ORDER BY transaction_date DESC LIMIT ?"
+    params.append(limit)
+    
+    df = pd.read_sql_query(query, conn, params=params)
+    conn.close()
+    
+    return df
 
 if __name__ == "__main__":
     main()
