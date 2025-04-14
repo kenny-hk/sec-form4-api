@@ -50,7 +50,7 @@ def main():
         print("Skipping download, processing existing files only...")
     
     # Check the downloaded data structure
-    check_downloaded_data()
+    # check_downloaded_data()
     
     # Process the downloaded Form 4 filings
     process_form4_filings()
@@ -179,7 +179,7 @@ def process_form4_filings():
                 'issuer_name': issuer_name,
                 'issuer_ticker': issuer_ticker,
                 'reporting_owner': reporting_owner,
-                'reporting_owner_cik': reporting_owner_cik,  # Added CIK
+                'reporting_owner_cik': reporting_owner_cik,
                 'transaction_date': transaction_date,
                 'transaction_shares': transaction_shares,
                 'transaction_price': transaction_price,
