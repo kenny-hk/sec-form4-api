@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&P 500 Insider Trading API</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 { color: #2c3e50; }
+        h2 { color: #3498db; margin-top: 30px; }
+        h3 { color: #2980b9; }
+        pre {
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 15px;
+            overflow-x: auto;
+        }
+        code {
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .endpoint {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-left: 4px solid #3498db;
+            background-color: #ecf0f1;
+        }
+    </style>
+</head>
+<body>
+    <h1>S&P 500 Insider Trading API</h1>
+    
+    <p>
+        This API provides access to insider trading data from SEC Form 4 filings for S&P 500 companies.
+        All data is updated daily through automated GitHub Actions workflows.
+    </p>
+
+    <h2>API Endpoints</h2>
+
+    <div class="endpoint">
+        <h3>Get All Companies</h3>
+        <code>GET /data/json/companies.json</code>
+        <p>Returns a list of all companies with metadata including the number of transactions and date ranges.</p>
+        <pre><code>{
+  "last_updated": "2024-04-15T10:30:45.123456",
+  "count": 20,
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "transaction_count": 42,
+      "latest_transaction": "2025-04-10",
+      "earliest_transaction": "2024-10-15"
+    },
+    ...
+  ]
+}</code></pre>
+    </div>
+
+    <div class="endpoint">
+        <h3>Get Latest Transactions for a Company</h3>
+        <code>GET /data/json/{ticker}/latest.json</code>
+        <p>Returns the 50 most recent insider trading transactions for the specified company.</p>
+        <pre><code>{
+  "ticker": "AAPL",
+  "last_updated": "2024-04-15T10:30:45.123456",
+  "count": 50,
+  "trades": [
+    {
+      "id": 123,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Cook, Tim",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-04-10",
+      "transaction_shares": "10000",
+      "transaction_price": "180.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "845000"
+    },
+    ...
+  ]
+}</code></pre>
+    </div>
+
+    <div class="endpoint">
+        <h3>Get Summary Data</h3>
+        <code>GET /data/json/summary.json</code>
+        <p>Returns summary data including the largest transactions by value and the most recent transactions across all companies.</p>
+        <pre><code>{
+  "last_updated": "2024-04-15T10:30:45.123456",
+  "large_transactions": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "insider": "Nadella, Satya",
+      "position": "Chief Executive Officer",
+      "date": "2025-03-15",
+      "shares": "50000",
+      "price": "420.75",
+      "type": "S",
+      "value": 21037500
+    },
+    ...
+  ],
+  "recent_transactions": [
+    ...
+  ]
+}</code></pre>
+    </div>
+
+    <h2>Usage Examples</h2>
+
+    <h3>JavaScript Example</h3>
+    <pre><code>// Fetch all companies
+fetch('https://yourusername.github.io/insider-trading-detection/data/json/companies.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(`Found ${data.count} companies`);
+    // Process the data
+  });</code></pre>
+
+    <h3>Python Example</h3>
+    <pre><code>import requests
+
+# Fetch latest transactions for Apple
+response = requests.get('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/latest.json')
+data = response.json()
+
+print(f"Found {data['count']} transactions for {data['ticker']}")
+for trade in data['trades']:
+    print(f"{trade['transaction_date']}: {trade['reporting_owner']} {trade['transaction_type']} {trade['transaction_shares']} shares at ${trade['transaction_price']}")</code></pre>
+
+    <h2>Data Update Schedule</h2>
+    <p>
+        The insider trading data is updated daily at 8:00 UTC through an automated GitHub Actions workflow. 
+        Each update fetches the latest Form 4 filings from the SEC EDGAR database for 20 S&P 500 companies.
+    </p>
+
+    <h2>GitHub Repository</h2>
+    <p>
+        This API is built and maintained as an open-source project. The source code is available on GitHub:
+        <a href="https://github.com/yourusername/insider-trading-detection">https://github.com/yourusername/insider-trading-detection</a>
+    </p>
+
+    <footer>
+        <p><small>Data sourced from SEC EDGAR database. This is not financial advice.</small></p>
+    </footer>
+</body>
+</html>
