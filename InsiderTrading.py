@@ -6,18 +6,51 @@ import glob
 import xml.etree.ElementTree as ET
 import json
 import sqlite3
+import requests
+import io
 from sec_edgar_downloader import Downloader
 
 # Use relative path for data directory
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 DB_PATH = os.path.join(DATA_DIR, 'insider_trading.db')
+SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
+
+def get_sp500_companies():
+    """Fetch the list of S&P 500 companies from GitHub."""
+    try:
+        print("Fetching S&P 500 companies list...")
+        
+        # Fetch the CSV data from the URL
+        response = requests.get(SP500_URL)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+        
+        # Read the CSV into a DataFrame
+        df = pd.read_csv(io.StringIO(response.text))
+        
+        # Extract the ticker symbols (assuming the column is named 'Symbol')
+        if 'Symbol' in df.columns:
+            # Clean the ticker symbols (remove any special characters like dots)
+            tickers = [ticker.replace('.', '-') for ticker in df['Symbol'].tolist()]
+            print(f"Successfully fetched {len(tickers)} S&P 500 companies")
+            return tickers
+        else:
+            print(f"Column 'Symbol' not found in CSV. Available columns: {df.columns.tolist()}")
+            # Return a default list as fallback
+            return ["AAPL", "MSFT", "AMZN", "GOOGL", "META"]
+            
+    except Exception as e:
+        print(f"Error fetching S&P 500 companies: {e}")
+        # Return a default list as fallback
+        return ["AAPL", "MSFT", "AMZN", "GOOGL", "META"]
 
 def main():
-    """Main function to download and analyze Form 4 filings."""
+    """Main function to download Form 4 filings."""
     # Create an argument parser
     parser = argparse.ArgumentParser(description='Process SEC Form 4 filings.')
     parser.add_argument('--no-download', action='store_true', 
                         help='Skip downloading new filings and only process existing files')
+    parser.add_argument('--limit', type=int, default=0,
+                        help='Limit the number of S&P 500 companies to download (0 = all)')
     args = parser.parse_args()
     
     # Create data directory if it doesn't exist
@@ -38,13 +71,20 @@ def main():
         user_email = "kennylamitunes@yahoo.com"
         dl = Downloader(company_name, user_email, DATA_DIR)
         
-        # Define companies to track
-        companies = ["AAPL", "MSFT", "AMZN", "GOOGL", "META"]
+        # Get S&P 500 companies dynamically
+        companies = get_sp500_companies()
+        
+        # Apply limit if specified
+        if args.limit > 0 and args.limit < len(companies):
+            print(f"Limiting to the first {args.limit} companies (out of {len(companies)} total S&P 500 companies)")
+            companies = companies[:args.limit]
+        else:
+            print(f"Processing all {len(companies)} S&P 500 companies")
         
         # Download Form 4 filings for each company
-        for ticker in companies:
+        for i, ticker in enumerate(companies):
             try:
-                print(f"Downloading Form 4 filings for {ticker}...")
+                print(f"[{i+1}/{len(companies)}] Downloading Form 4 filings for {ticker}...")
                 # Download Form 4 filings within the specified date range
                 # Set download_details=True to get the XML files
                 dl.get("4", ticker, after=start_date, before=end_date, download_details=True)

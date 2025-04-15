@@ -18,3 +18,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Error handling: Use specific exceptions with descriptive messages
 - File paths: Store data in a 'data' subdirectory with appropriate structure
 - Function design: Single responsibility principle, clear input/output interfaces
+
+## External Resources
+- S&P 500 Companies List: https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv
