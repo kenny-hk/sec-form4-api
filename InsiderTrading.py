@@ -120,13 +120,8 @@ def main():
             print(f"DEBUG: Using email: {user_email}")
         
         try:
-            # Create custom headers that SEC will accept
-            headers = {
-                "User-Agent": f"{company_name} {user_email}",
-                "Accept-Encoding": "gzip, deflate",
-                "Host": "www.sec.gov"
-            }
-            dl = Downloader(company_name, user_email, DATA_DIR, user_agent=headers["User-Agent"])
+            # The library will automatically create headers using company_name and user_email
+            dl = Downloader(company_name, user_email, DATA_DIR)
             if debug:
                 print("DEBUG: Downloader initialized successfully")
         except Exception as e:
