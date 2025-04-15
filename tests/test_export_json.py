@@ -181,12 +181,14 @@ class TestExportJson:
     
     def test_missing_database_error(self, test_db_path, test_json_dir):
         """Test handling of missing database."""
-        # Patch dependencies
+        # Patch dependencies - ensure debug is False to avoid creating an empty DB
         with patch('export_json.DB_PATH', '/nonexistent/path.db'), \
              patch('os.path.exists', return_value=False), \
              patch('export_json.initialize_json_directory') as mock_init, \
              patch('export_json.export_companies_index') as mock_companies, \
-             patch('argparse.ArgumentParser.parse_args', return_value=MagicMock()):  # Avoid argparse error
+             patch('argparse.ArgumentParser.parse_args', 
+                   return_value=MagicMock(debug=False)), \
+             patch.dict('os.environ', {}, clear=True):  # Ensure GITHUB_ACTIONS is not set
             
             # Run the main function
             export_json.main()
