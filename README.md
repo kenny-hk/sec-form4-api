@@ -31,10 +31,45 @@ To optimize storage and performance while maintaining comprehensive historical d
 ## API Endpoints
 
 - **All Companies**: `/data/json/companies.json`
-- **Company Transactions**: `/data/json/{ticker}/latest.json`
+- **Company Transactions**: `/data/json/{ticker}/transactions.json`
+- **Quarterly Data**: `/data/json/{ticker}/quarterly/{YYYY-Q#}.json`
 - **Summary Data**: `/data/json/summary.json`
 
-See the [API Documentation](https://yourusername.github.io/insider-trading-detection/) for complete details and examples.
+See the [API Documentation](https://kenny-hk.github.io/insider-trading-detection/) for complete details and examples.
+
+## Usage Examples
+
+### JavaScript
+```javascript
+// Fetch all companies
+fetch('https://kenny-hk.github.io/insider-trading-detection/data/json/companies.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(`Found ${data.count} companies with insider trading data`);
+  });
+
+// Get Apple transactions and filter for sales
+fetch('https://kenny-hk.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
+  .then(response => response.json())
+  .then(data => {
+    const sales = data.transactions.filter(tx => tx.transaction_type === 'S');
+    console.log(`Found ${sales.length} sale transactions by Apple insiders`);
+  });
+```
+
+### Python
+```python
+import requests
+import pandas as pd
+
+# Get all large transactions from summary
+response = requests.get('https://kenny-hk.github.io/insider-trading-detection/data/json/summary.json')
+data = response.json()
+
+# Convert to DataFrame for easy analysis
+large_txs = pd.DataFrame(data['large_transactions'])
+print(f"Largest transaction: {large_txs.iloc[0]['ticker']} ${large_txs.iloc[0]['value']:,.2f}")
+```
 
 ## How It Works
 

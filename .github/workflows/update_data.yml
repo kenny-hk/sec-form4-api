@@ -27,10 +27,12 @@ jobs:
         run: |
           # Set up environment with GitHub-provided email
           sed -i 's/insidertrading-api@example.com/github-actions@github.com/g' InsiderTrading.py
-          # First run with no-download to test
+          # Create data directory structure
+          mkdir -p data/sec-edgar-filings
+          # First run with no-download to just create initial database
           python InsiderTrading.py --no-download
-          # Then gradually fetch data with increasing limits (to avoid timeouts)
-          python InsiderTrading.py --limit 10
+          # Then fetch a limited amount of data to avoid timeouts
+          python InsiderTrading.py --limit 5
       
       - name: Export data to JSON for API
         run: |
