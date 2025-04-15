@@ -1,20 +1,56 @@
 {
   "ticker": "BRK.A",
-  "last_updated": "2025-04-15T09:05:36.923300",
+  "last_updated": "2025-04-15T11:21:41.933799",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 234,
+      "id": 6731,
+      "issuer_name": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner": "OLSON RONALD L",
+      "reporting_owner_cik": "0001192668",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-05",
+      "transaction_shares": "895",
+      "transaction_price": "274.62",
+      "transaction_type": "P",
+      "shares_after_transaction": "5630"
+    },
+    {
+      "id": 6734,
+      "issuer_name": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner": "Jain Ajit",
+      "reporting_owner_cik": "0001728451",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2022-06-24",
+      "transaction_shares": "1200",
+      "transaction_price": "277.7212",
+      "transaction_type": "S",
+      "shares_after_transaction": "168843"
+    },
+    {
+      "id": 6732,
       "issuer_name": "BERKSHIRE HATHAWAY INC",
       "reporting_owner": "BUFFETT WARREN E",
       "reporting_owner_cik": "0000315090",
       "reporting_owner_position": "Chairman and CEO",
-      "transaction_date": "2025-04-09",
-      "transaction_shares": "160",
-      "transaction_price": "0",
+      "transaction_date": "2022-06-14",
+      "transaction_shares": "14412000",
+      "transaction_price": "0.00",
+      "transaction_type": "C",
+      "shares_after_transaction": "14414412"
+    },
+    {
+      "id": 6730,
+      "issuer_name": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner": "Jain Ajit",
+      "reporting_owner_cik": "0001728451",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2022-05-24",
+      "transaction_shares": "35",
+      "transaction_price": null,
       "transaction_type": "G",
-      "shares_after_transaction": "791"
+      "shares_after_transaction": "880"
     }
   ]
 }
