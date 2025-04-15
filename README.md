@@ -71,9 +71,44 @@ Generate the JSON API files:
 python export_json.py
 ```
 
+## Testing
+
+This project uses pytest for testing. The test suite includes:
+
+- Unit tests for data collection functionality
+- Unit tests for JSON export functionality
+- Structure tests for GitHub Actions workflows
+
+To run the tests:
+
+```bash
+# Install test dependencies
+pip install -r requirements.txt
+
+# Run all tests
+pytest
+
+# Run tests with coverage report
+pytest --cov=.
+
+# Run specific test file
+pytest tests/test_export_json.py
+```
+
+The test suite ensures:
+- Proper handling of different transaction types
+- Correct formatting of JSON data
+- Error resilience with bad or missing data
+- Validation of workflow configurations
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+Before submitting a pull request, please:
+1. Add tests for any new features or bug fixes
+2. Run the existing test suite to ensure everything passes
+3. Ensure your code follows the project's coding style
 
 ## License
 
