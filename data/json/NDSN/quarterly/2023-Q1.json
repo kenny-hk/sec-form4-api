@@ -2,8 +2,8 @@
   "ticker": "NDSN",
   "year": 2023,
   "quarter": 1,
-  "last_updated": "2025-04-15T14:01:53.509490",
-  "count": 23,
+  "last_updated": "2025-04-15T14:53:27.739286",
+  "count": 38,
   "transactions": [
     {
       "id": 44510,
@@ -30,7 +30,43 @@
       "shares_after_transaction": "17603"
     },
     {
+      "id": 78417,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Lovass Stephen",
+      "reporting_owner_cik": "0001319865",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-03-30",
+      "transaction_shares": "14",
+      "transaction_price": "218.81",
+      "transaction_type": "F",
+      "shares_after_transaction": "7938"
+    },
+    {
+      "id": 78436,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Pembroke Jeffrey A",
+      "reporting_owner_cik": "0001659738",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-03-30",
+      "transaction_shares": "13",
+      "transaction_price": "218.81",
+      "transaction_type": "F",
+      "shares_after_transaction": "17603"
+    },
+    {
       "id": 44501,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "PEET SHELLY",
+      "reporting_owner_cik": "0001390754",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-03-22",
+      "transaction_shares": "67",
+      "transaction_price": "204.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "25071"
+    },
+    {
+      "id": 78408,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "PEET SHELLY",
       "reporting_owner_cik": "0001390754",
@@ -54,7 +90,31 @@
       "shares_after_transaction": "311"
     },
     {
+      "id": 78409,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Siddiqui Sarah",
+      "reporting_owner_cik": "0001966801",
+      "reporting_owner_position": "EVP, CHRO",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "311",
+      "transaction_price": "219.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "311"
+    },
+    {
       "id": 44521,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Pembroke Jeffrey A",
+      "reporting_owner_cik": "0001659738",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-02-13",
+      "transaction_shares": "1800",
+      "transaction_price": "79.66",
+      "transaction_type": "M",
+      "shares_after_transaction": "19400"
+    },
+    {
+      "id": 78430,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "Pembroke Jeffrey A",
       "reporting_owner_cik": "0001659738",
@@ -78,7 +138,31 @@
       "shares_after_transaction": "9091"
     },
     {
+      "id": 78457,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Kelley Joseph P",
+      "reporting_owner_cik": "0001629963",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "2100",
+      "transaction_price": "246.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "9091"
+    },
+    {
       "id": 44541,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "DeFord John A",
+      "reporting_owner_cik": "0001403373",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-31",
+      "transaction_shares": "92",
+      "transaction_price": "243.30",
+      "transaction_type": "A",
+      "shares_after_transaction": "2818"
+    },
+    {
+      "id": 78450,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "DeFord John A",
       "reporting_owner_cik": "0001403373",
@@ -103,6 +187,18 @@
     },
     {
       "id": 44506,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "PEET SHELLY",
+      "reporting_owner_cik": "0001390754",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "1611",
+      "transaction_price": "238",
+      "transaction_type": "S",
+      "shares_after_transaction": "25061"
+    },
+    {
+      "id": 78413,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "PEET SHELLY",
       "reporting_owner_cik": "0001390754",
@@ -271,6 +367,90 @@
     },
     {
       "id": 44550,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Kelley Joseph P",
+      "reporting_owner_cik": "0001629963",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "5578",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "13497"
+    },
+    {
+      "id": 78401,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Pembroke Jeffrey A",
+      "reporting_owner_cik": "0001659738",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "1406",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "17759"
+    },
+    {
+      "id": 78402,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "DeVries James E",
+      "reporting_owner_cik": "0001536454",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "891",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "47403"
+    },
+    {
+      "id": 78405,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "MCDONOUGH JENNIFER L",
+      "reporting_owner_cik": "0001519559",
+      "reporting_owner_position": "EVP, GC, and Secretary",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "688",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "2862"
+    },
+    {
+      "id": 78414,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Subramanian Srinivas",
+      "reporting_owner_cik": "0001940653",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "935",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "2756"
+    },
+    {
+      "id": 78415,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "NAGARAJAN SUNDARAM",
+      "reporting_owner_cik": "0001498509",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "6090",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "35759"
+    },
+    {
+      "id": 78452,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Lovass Stephen",
+      "reporting_owner_cik": "0001319865",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "933",
+      "transaction_price": "238.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "8715"
+    },
+    {
+      "id": 78459,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "Kelley Joseph P",
       "reporting_owner_cik": "0001629963",

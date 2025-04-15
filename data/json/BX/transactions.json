@@ -1,9 +1,105 @@
 {
   "ticker": "BX",
-  "last_updated": "2025-04-15T14:01:53.509490",
+  "last_updated": "2025-04-15T14:53:27.739286",
   "retention_years": 3,
-  "count": 83,
+  "count": 124,
   "transactions": [
+    {
+      "id": 104180,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "BREYER JAMES",
+      "reporting_owner_cik": "0001194696",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-14",
+      "transaction_shares": "2019",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "38905"
+    },
+    {
+      "id": 104116,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "LAZARUS ROCHELLE B",
+      "reporting_owner_cik": "0001082206",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-09",
+      "transaction_shares": "2283",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "54676"
+    },
+    {
+      "id": 104157,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-05",
+      "transaction_shares": "73979",
+      "transaction_price": "92.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "1071469"
+    },
+    {
+      "id": 104128,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-25",
+      "transaction_shares": "2378",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "33510.431"
+    },
+    {
+      "id": 104159,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "MULRONEY BRIAN",
+      "reporting_owner_cik": "0001128476",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-21",
+      "transaction_shares": "2339",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "179770"
+    },
+    {
+      "id": 104192,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Hood John A.",
+      "reporting_owner_cik": "0001740037",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-14",
+      "transaction_shares": "2525",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "18023"
+    },
+    {
+      "id": 104122,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Ayotte Kelly",
+      "reporting_owner_cik": "0001702559",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-13",
+      "transaction_shares": "2525",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "16514"
+    },
+    {
+      "id": 104187,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-08",
+      "transaction_shares": "161.9445",
+      "transaction_price": "82.62",
+      "transaction_type": "P",
+      "shares_after_transaction": "31012.462"
+    },
     {
       "id": 65063,
       "issuer_name": "Blackstone Inc.",
@@ -65,7 +161,79 @@
       "shares_after_transaction": "63281"
     },
     {
+      "id": 104112,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Chae Michael",
+      "reporting_owner_cik": "0001510762",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "116397",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "745356"
+    },
+    {
+      "id": 104132,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "23280",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "1230448"
+    },
+    {
+      "id": 104145,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "GRAY JONATHAN",
+      "reporting_owner_cik": "0001208590",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "349191",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "2827384"
+    },
+    {
+      "id": 104155,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Finley John G",
+      "reporting_owner_cik": "0001500278",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "104758",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "454763"
+    },
+    {
+      "id": 104191,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Payne David",
+      "reporting_owner_cik": "0001861422",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "14550",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "63281"
+    },
+    {
       "id": 65077,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-13",
+      "transaction_shares": "157.7375",
+      "transaction_price": "93.24",
+      "transaction_type": "P",
+      "shares_after_transaction": "30731.5345"
+    },
+    {
+      "id": 104130,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Porat Ruth",
       "reporting_owner_cik": "0001479258",
@@ -89,7 +257,31 @@
       "shares_after_transaction": "1140418"
     },
     {
+      "id": 104171,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-03",
+      "transaction_shares": "66750",
+      "transaction_price": "95.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "1140418"
+    },
+    {
       "id": 65092,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Finley John G",
+      "reporting_owner_cik": "0001500278",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2023-02-02",
+      "transaction_shares": "40000",
+      "transaction_price": "100.37",
+      "transaction_type": "S",
+      "shares_after_transaction": "350005"
+    },
+    {
+      "id": 104149,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Finley John G",
       "reporting_owner_cik": "0001500278",
@@ -221,6 +413,66 @@
       "shares_after_transaction": "1207168"
     },
     {
+      "id": 104133,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Payne David",
+      "reporting_owner_cik": "0001861422",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "983",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "48731"
+    },
+    {
+      "id": 104136,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Chae Michael",
+      "reporting_owner_cik": "0001510762",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "42730",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "628959"
+    },
+    {
+      "id": 104150,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "GRAY JONATHAN",
+      "reporting_owner_cik": "0001208590",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "176874",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "2478193"
+    },
+    {
+      "id": 104166,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Finley John G",
+      "reporting_owner_cik": "0001500278",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "34307",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "390005"
+    },
+    {
+      "id": 104195,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "9723",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "1207168"
+    },
+    {
       "id": 35724,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Porat Ruth",
@@ -234,6 +486,18 @@
     },
     {
       "id": 65073,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-02",
+      "transaction_shares": "12000",
+      "transaction_price": "82.57",
+      "transaction_type": "P",
+      "shares_after_transaction": "12000"
+    },
+    {
+      "id": 104125,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Porat Ruth",
       "reporting_owner_cik": "0001479258",
@@ -269,6 +533,18 @@
       "shares_after_transaction": "378285"
     },
     {
+      "id": 104118,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Finley John G",
+      "reporting_owner_cik": "0001500278",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2022-11-11",
+      "transaction_shares": "27413",
+      "transaction_price": "106.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "378285"
+    },
+    {
       "id": 35763,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Parrett William G",
@@ -282,6 +558,18 @@
     },
     {
       "id": 65127,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Parrett William G",
+      "reporting_owner_cik": "0001418280",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-09",
+      "transaction_shares": "2414",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "34815"
+    },
+    {
+      "id": 104190,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Parrett William G",
       "reporting_owner_cik": "0001418280",
@@ -317,6 +605,18 @@
       "shares_after_transaction": "18573.797"
     },
     {
+      "id": 104170,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-07",
+      "transaction_shares": "155.9513",
+      "transaction_price": "92.38",
+      "transaction_type": "P",
+      "shares_after_transaction": "18573.797"
+    },
+    {
       "id": 35765,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Baratta Joseph",
@@ -330,6 +630,18 @@
     },
     {
       "id": 65130,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-01",
+      "transaction_shares": "55480",
+      "transaction_price": "0.00",
+      "transaction_type": "C",
+      "shares_after_transaction": "1197445"
+    },
+    {
+      "id": 104194,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Baratta Joseph",
       "reporting_owner_cik": "0001574706",
@@ -377,6 +689,18 @@
       "shares_after_transaction": "36672"
     },
     {
+      "id": 104134,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Light Jay O",
+      "reporting_owner_cik": "0001445077",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-18",
+      "transaction_shares": "2290",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "36672"
+    },
+    {
       "id": 17273,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Brown Reginald J",
@@ -402,6 +726,18 @@
     },
     {
       "id": 65074,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Brown Reginald J",
+      "reporting_owner_cik": "0001824685",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-15",
+      "transaction_shares": "2230",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "10865"
+    },
+    {
+      "id": 104126,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Brown Reginald J",
       "reporting_owner_cik": "0001824685",
@@ -449,6 +785,18 @@
       "shares_after_transaction": "8635"
     },
     {
+      "id": 104124,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Brown Reginald J",
+      "reporting_owner_cik": "0001824685",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-28",
+      "transaction_shares": "3100",
+      "transaction_price": "99.3502",
+      "transaction_type": "P",
+      "shares_after_transaction": "8635"
+    },
+    {
       "id": 17289,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Baratta Joseph",
@@ -474,6 +822,18 @@
     },
     {
       "id": 65111,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-27",
+      "transaction_shares": "56686",
+      "transaction_price": "93.72",
+      "transaction_type": "S",
+      "shares_after_transaction": "1156502"
+    },
+    {
+      "id": 104172,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Baratta Joseph",
       "reporting_owner_cik": "0001574706",
@@ -533,6 +893,18 @@
       "shares_after_transaction": "36886"
     },
     {
+      "id": 104115,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "BREYER JAMES",
+      "reporting_owner_cik": "0001194696",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-14",
+      "transaction_shares": "2364",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "36886"
+    },
+    {
       "id": 5408,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "LAZARUS ROCHELLE B",
@@ -570,6 +942,18 @@
     },
     {
       "id": 65107,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "LAZARUS ROCHELLE B",
+      "reporting_owner_cik": "0001082206",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-09",
+      "transaction_shares": "2181",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "52393"
+    },
+    {
+      "id": 104168,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "LAZARUS ROCHELLE B",
       "reporting_owner_cik": "0001082206",
@@ -629,6 +1013,18 @@
       "shares_after_transaction": "18157.9081"
     },
     {
+      "id": 104158,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-25",
+      "transaction_shares": "2166",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "18157.9081"
+    },
+    {
       "id": 5389,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "MULRONEY BRIAN",
@@ -666,6 +1062,18 @@
     },
     {
       "id": 65051,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "MULRONEY BRIAN",
+      "reporting_owner_cik": "0001128476",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-21",
+      "transaction_shares": "2273",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "177431"
+    },
+    {
+      "id": 104098,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "MULRONEY BRIAN",
       "reporting_owner_cik": "0001128476",
@@ -725,6 +1133,18 @@
       "shares_after_transaction": "1223267"
     },
     {
+      "id": 104144,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Baratta Joseph",
+      "reporting_owner_cik": "0001574706",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "19442",
+      "transaction_price": "113.63",
+      "transaction_type": "S",
+      "shares_after_transaction": "1223267"
+    },
+    {
       "id": 5414,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "BREYER JAMES",
@@ -762,6 +1182,18 @@
     },
     {
       "id": 65136,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "BREYER JAMES",
+      "reporting_owner_cik": "0001194696",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-25",
+      "transaction_shares": "8726",
+      "transaction_price": "107.18",
+      "transaction_type": "P",
+      "shares_after_transaction": "33922"
+    },
+    {
+      "id": 104200,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "BREYER JAMES",
       "reporting_owner_cik": "0001194696",
@@ -821,6 +1253,18 @@
       "shares_after_transaction": "14509"
     },
     {
+      "id": 104137,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Hood John A.",
+      "reporting_owner_cik": "0001740037",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-14",
+      "transaction_shares": "2000",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "14509"
+    },
+    {
       "id": 5400,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Ayotte Kelly",
@@ -858,6 +1302,18 @@
     },
     {
       "id": 65078,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Ayotte Kelly",
+      "reporting_owner_cik": "0001702559",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-13",
+      "transaction_shares": "2000",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "13989"
+    },
+    {
+      "id": 104131,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Ayotte Kelly",
       "reporting_owner_cik": "0001702559",
@@ -953,6 +1409,30 @@
       "shares_after_transaction": "15991.9081"
     },
     {
+      "id": 104108,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-09",
+      "transaction_shares": "66.591",
+      "transaction_price": "99.11",
+      "transaction_type": "L",
+      "shares_after_transaction": "18224.4991"
+    },
+    {
+      "id": 104185,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-09",
+      "transaction_shares": "50.2751",
+      "transaction_price": "98.73",
+      "transaction_type": "P",
+      "shares_after_transaction": "15991.9081"
+    },
+    {
       "id": 5392,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Porat Ruth",
@@ -990,6 +1470,18 @@
     },
     {
       "id": 65058,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-27",
+      "transaction_shares": "5000",
+      "transaction_price": "109.69",
+      "transaction_type": "P",
+      "shares_after_transaction": "15941.633"
+    },
+    {
+      "id": 104105,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Porat Ruth",
       "reporting_owner_cik": "0001479258",

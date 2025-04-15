@@ -2,11 +2,35 @@
   "ticker": "PCG",
   "year": 2023,
   "quarter": 1,
-  "last_updated": "2025-04-15T14:01:53.509490",
-  "count": 20,
+  "last_updated": "2025-04-15T14:53:27.739286",
+  "count": 39,
   "transactions": [
     {
+      "id": 111430,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Burke Carolyn Jeanne",
+      "reporting_owner_cik": "0001374018",
+      "reporting_owner_position": "EVP Finance",
+      "transaction_date": "2023-03-30",
+      "transaction_shares": "156",
+      "transaction_price": "15.90",
+      "transaction_type": "P",
+      "shares_after_transaction": "25072"
+    },
+    {
       "id": 70866,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Foster Christopher A",
+      "reporting_owner_cik": "0001825948",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2023-03-22",
+      "transaction_shares": "4519",
+      "transaction_price": "15.54",
+      "transaction_type": "F",
+      "shares_after_transaction": "61472"
+    },
+    {
+      "id": 111393,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "Foster Christopher A",
       "reporting_owner_cik": "0001825948",
@@ -30,7 +54,31 @@
       "shares_after_transaction": "24753"
     },
     {
+      "id": 111415,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Burke Carolyn Jeanne",
+      "reporting_owner_cik": "0001374018",
+      "reporting_owner_position": "EVP Finance",
+      "transaction_date": "2023-03-16",
+      "transaction_shares": "24753",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "24753"
+    },
+    {
       "id": 70883,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Santos Marlene",
+      "reporting_owner_cik": "0001850326",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-03-15",
+      "transaction_shares": "57185",
+      "transaction_price": "15.86",
+      "transaction_type": "F",
+      "shares_after_transaction": "108813"
+    },
+    {
+      "id": 111413,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "Santos Marlene",
       "reporting_owner_cik": "0001850326",
@@ -126,7 +174,103 @@
       "shares_after_transaction": "126835"
     },
     {
+      "id": 111391,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "SIMON JOHN R",
+      "reporting_owner_cik": "0001199412",
+      "reporting_owner_position": "EVP, GC, Chief E&C Officer",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "8237",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "23828.42"
+    },
+    {
+      "id": 111406,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Waghray Ajay",
+      "reporting_owner_cik": "0001673651",
+      "reporting_owner_position": "SVP & Chf Information Ofc",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "3420",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "85443"
+    },
+    {
+      "id": 111420,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Cox Julius",
+      "reporting_owner_cik": "0001620424",
+      "reporting_owner_position": "EVP/Ppl, Shrd Svcs & Spply Chn",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "9329",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "40316"
+    },
+    {
+      "id": 111422,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Williams Stephanie N",
+      "reporting_owner_cik": "0001961083",
+      "reporting_owner_position": "VP and Controller",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "3050",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "50508"
+    },
+    {
+      "id": 111431,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Singh Sumeet",
+      "reporting_owner_cik": "0001838817",
+      "reporting_owner_position": "EVP, Ops &COO at PG&E Company",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "3368",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "72613"
+    },
+    {
+      "id": 111438,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Foster Christopher A",
+      "reporting_owner_cik": "0001825948",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "1833",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "65991"
+    },
+    {
+      "id": 111441,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Poppe Patricia K",
+      "reporting_owner_cik": "0001592298",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-03-01",
+      "transaction_shares": "41807",
+      "transaction_price": "15.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "126835"
+    },
+    {
       "id": 70893,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Poppe Patricia K",
+      "reporting_owner_cik": "0001592298",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-02-27",
+      "transaction_shares": "31750",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "1293511"
+    },
+    {
+      "id": 111423,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "Poppe Patricia K",
       "reporting_owner_cik": "0001592298",
@@ -198,6 +342,66 @@
       "shares_after_transaction": "298868.42"
     },
     {
+      "id": 111389,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Williams Stephanie N",
+      "reporting_owner_cik": "0001961083",
+      "reporting_owner_position": "VP and Controller",
+      "transaction_date": "2023-02-15",
+      "transaction_shares": "45737",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "69722"
+    },
+    {
+      "id": 111402,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Singh Sumeet",
+      "reporting_owner_cik": "0001838817",
+      "reporting_owner_position": "EVP/CRO & Chf Safety Ofc",
+      "transaction_date": "2023-02-15",
+      "transaction_shares": "99098",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "120133"
+    },
+    {
+      "id": 111410,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Foster Christopher A",
+      "reporting_owner_cik": "0001825948",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2023-02-15",
+      "transaction_shares": "45737",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "86026"
+    },
+    {
+      "id": 111416,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Waghray Ajay",
+      "reporting_owner_cik": "0001673651",
+      "reporting_owner_position": "SVP & Chf Information Ofc",
+      "transaction_date": "2023-02-15",
+      "transaction_shares": "77076",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "121386"
+    },
+    {
+      "id": 111433,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "SIMON JOHN R",
+      "reporting_owner_cik": "0001199412",
+      "reporting_owner_position": "EVP, GC, Chief E&C Officer",
+      "transaction_date": "2023-02-15",
+      "transaction_shares": "266803",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "298868.42"
+    },
+    {
       "id": 39323,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "PG&E Fire Victim Trust",
@@ -222,6 +426,18 @@
       "shares_after_transaction": "187743590"
     },
     {
+      "id": 111387,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "PG&E Fire Victim Trust",
+      "reporting_owner_cik": "0001816434",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-09",
+      "transaction_shares": "60000000",
+      "transaction_price": "15.26",
+      "transaction_type": "S",
+      "shares_after_transaction": "187743590"
+    },
+    {
       "id": 39337,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "Poppe Patricia K",
@@ -235,6 +451,18 @@
     },
     {
       "id": 70882,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "Poppe Patricia K",
+      "reporting_owner_cik": "0001592298",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-01-04",
+      "transaction_shares": "776633",
+      "transaction_price": "15.88",
+      "transaction_type": "F",
+      "shares_after_transaction": "847112"
+    },
+    {
+      "id": 111412,
       "issuer_name": "PG&E Corp",
       "reporting_owner": "Poppe Patricia K",
       "reporting_owner_cik": "0001592298",

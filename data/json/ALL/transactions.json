@@ -1,11 +1,131 @@
 {
   "ticker": "ALL",
-  "last_updated": "2025-04-15T14:01:53.509490",
+  "last_updated": "2025-04-15T14:53:27.739286",
   "retention_years": 3,
-  "count": 83,
+  "count": 129,
   "transactions": [
     {
+      "id": 113829,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brown Donald Eugene",
+      "reporting_owner_cik": "0001638426",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-01",
+      "transaction_shares": "286",
+      "transaction_price": "109.04",
+      "transaction_type": "A",
+      "shares_after_transaction": "1802.422"
+    },
+    {
+      "id": 113849,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-01",
+      "transaction_shares": "286",
+      "transaction_price": "109.04",
+      "transaction_type": "A",
+      "shares_after_transaction": "11832.504"
+    },
+    {
+      "id": 113857,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-01",
+      "transaction_shares": "355",
+      "transaction_price": "109.04",
+      "transaction_type": "A",
+      "shares_after_transaction": "3132.267"
+    },
+    {
+      "id": 113827,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "HUME RICHARD T",
+      "reporting_owner_cik": "0001669810",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-09",
+      "transaction_shares": "1485",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1485"
+    },
+    {
+      "id": 113836,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Prindiville Mark Q",
+      "reporting_owner_cik": "0001811428",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-03",
+      "transaction_shares": "1510",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19120"
+    },
+    {
+      "id": 113804,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "SPRIESER JUDITH A",
+      "reporting_owner_cik": "0001206994",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "1565",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1565"
+    },
+    {
+      "id": 113816,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "1565",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "11498.209"
+    },
+    {
+      "id": 113826,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Mehta Siddharth N",
+      "reporting_owner_cik": "0001321443",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "1565",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "4840"
+    },
+    {
+      "id": 113866,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Sherrill Gregg M",
+      "reporting_owner_cik": "0001293040",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "1565",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "5965"
+    },
+    {
       "id": 72747,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Toohey Robert",
+      "reporting_owner_cik": "0001918701",
+      "reporting_owner_position": "EVP, Chief HR Officer - AIC",
+      "transaction_date": "2023-04-05",
+      "transaction_shares": "2429",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "2429"
+    },
+    {
+      "id": 113814,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Toohey Robert",
       "reporting_owner_cik": "0001918701",
@@ -53,7 +173,55 @@
       "shares_after_transaction": "1495.065"
     },
     {
+      "id": 113830,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "282",
+      "transaction_price": "110.81",
+      "transaction_type": "A",
+      "shares_after_transaction": "9888.934"
+    },
+    {
+      "id": 113832,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "349",
+      "transaction_price": "110.81",
+      "transaction_type": "A",
+      "shares_after_transaction": "2736.791"
+    },
+    {
+      "id": 113856,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brown Donald Eugene",
+      "reporting_owner_cik": "0001638426",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "282",
+      "transaction_price": "110.81",
+      "transaction_type": "A",
+      "shares_after_transaction": "1495.065"
+    },
+    {
       "id": 72774,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Merten Jesse E",
+      "reporting_owner_cik": "0001725539",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2023-02-22",
+      "transaction_shares": "9208",
+      "transaction_price": "92.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "24040"
+    },
+    {
+      "id": 113850,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Merten Jesse E",
       "reporting_owner_cik": "0001725539",
@@ -161,6 +329,102 @@
       "shares_after_transaction": "92149"
     },
     {
+      "id": 113805,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "WILSON THOMAS J",
+      "reporting_owner_cik": "0001190466",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "65937",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "72778.674"
+    },
+    {
+      "id": 113810,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Rizzo Mario",
+      "reporting_owner_cik": "0001727054",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "12933",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "64841"
+    },
+    {
+      "id": 113817,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Dugenske John E",
+      "reporting_owner_cik": "0001699842",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "15081",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "96983"
+    },
+    {
+      "id": 113823,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Merten Jesse E",
+      "reporting_owner_cik": "0001725539",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "5389",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "16437"
+    },
+    {
+      "id": 113825,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brady Elizabeth",
+      "reporting_owner_cik": "0001748839",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "6062",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19591"
+    },
+    {
+      "id": 113840,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Williams Terrance",
+      "reporting_owner_cik": "0001798480",
+      "reporting_owner_position": "AIC-President Protec Prod&Svcs",
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "7185",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "14747"
+    },
+    {
+      "id": 113845,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Prindiville Mark Q",
+      "reporting_owner_cik": "0001811428",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "2401",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18069"
+    },
+    {
+      "id": 113855,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Gupta Suren",
+      "reporting_owner_cik": "0001518079",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-02-19",
+      "transaction_shares": "9879",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "92149"
+    },
+    {
       "id": 72764,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Pintozzi John C",
@@ -173,7 +437,31 @@
       "shares_after_transaction": "16130"
     },
     {
+      "id": 113838,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Pintozzi John C",
+      "reporting_owner_cik": "0001787379",
+      "reporting_owner_position": "SVP, Controller, and CAO",
+      "transaction_date": "2023-02-17",
+      "transaction_shares": "269",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "16130"
+    },
+    {
       "id": 72771,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Williams Terrance",
+      "reporting_owner_cik": "0001798480",
+      "reporting_owner_position": "AIC-President Protec Prod&Svcs",
+      "transaction_date": "2023-02-05",
+      "transaction_shares": "12032",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "12032"
+    },
+    {
+      "id": 113846,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Williams Terrance",
       "reporting_owner_cik": "0001798480",
@@ -198,6 +486,18 @@
     },
     {
       "id": 72751,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Gupta Suren",
+      "reporting_owner_cik": "0001518079",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-03",
+      "transaction_shares": "20241",
+      "transaction_price": "52.18",
+      "transaction_type": "M",
+      "shares_after_transaction": "102511"
+    },
+    {
+      "id": 113820,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Gupta Suren",
       "reporting_owner_cik": "0001518079",
@@ -281,6 +581,42 @@
       "shares_after_transaction": "1207"
     },
     {
+      "id": 113818,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-01",
+      "transaction_shares": "230",
+      "transaction_price": "135.60",
+      "transaction_type": "A",
+      "shares_after_transaction": "9572.926"
+    },
+    {
+      "id": 113835,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-01",
+      "transaction_shares": "285",
+      "transaction_price": "135.60",
+      "transaction_type": "A",
+      "shares_after_transaction": "2374.776"
+    },
+    {
+      "id": 113863,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brown Donald Eugene",
+      "reporting_owner_cik": "0001638426",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-01-01",
+      "transaction_shares": "230",
+      "transaction_price": "135.60",
+      "transaction_type": "A",
+      "shares_after_transaction": "1207"
+    },
+    {
       "id": 40535,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
@@ -329,6 +665,30 @@
       "shares_after_transaction": "102270"
     },
     {
+      "id": 113851,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "WILSON THOMAS J",
+      "reporting_owner_cik": "0001190466",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2022-12-21",
+      "transaction_shares": "37315",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "6821.684"
+    },
+    {
+      "id": 113861,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Gupta Suren",
+      "reporting_owner_cik": "0001518079",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-21",
+      "transaction_shares": "20000",
+      "transaction_price": "52.18",
+      "transaction_type": "M",
+      "shares_after_transaction": "102270"
+    },
+    {
       "id": 20487,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Prindiville Mark Q",
@@ -354,6 +714,18 @@
     },
     {
       "id": 72772,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Prindiville Mark Q",
+      "reporting_owner_cik": "0001811428",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-03",
+      "transaction_shares": "210",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "15762"
+    },
+    {
+      "id": 113847,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Prindiville Mark Q",
       "reporting_owner_cik": "0001811428",
@@ -473,6 +845,42 @@
       "shares_after_transaction": "977"
     },
     {
+      "id": 113822,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-01",
+      "transaction_shares": "311",
+      "transaction_price": "124.53",
+      "transaction_type": "A",
+      "shares_after_transaction": "2089.776"
+    },
+    {
+      "id": 113843,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-01",
+      "transaction_shares": "250",
+      "transaction_price": "124.53",
+      "transaction_type": "A",
+      "shares_after_transaction": "9342.926"
+    },
+    {
+      "id": 113854,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brown Donald Eugene",
+      "reporting_owner_cik": "0001638426",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-01",
+      "transaction_shares": "250",
+      "transaction_price": "124.53",
+      "transaction_type": "A",
+      "shares_after_transaction": "977"
+    },
+    {
       "id": 40519,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
@@ -486,6 +894,18 @@
     },
     {
       "id": 72744,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "WILSON THOMAS J",
+      "reporting_owner_cik": "0001190466",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2022-09-21",
+      "transaction_shares": "104384",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 113809,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
       "reporting_owner_cik": "0001190466",
@@ -522,6 +942,18 @@
     },
     {
       "id": 72777,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Prindiville Mark Q",
+      "reporting_owner_cik": "0001811428",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-08",
+      "transaction_shares": "5511",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "21063"
+    },
+    {
+      "id": 113853,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Prindiville Mark Q",
       "reporting_owner_cik": "0001811428",
@@ -677,6 +1109,42 @@
       "shares_after_transaction": "9058.572"
     },
     {
+      "id": 113803,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-01",
+      "transaction_shares": "296",
+      "transaction_price": "130.70",
+      "transaction_type": "A",
+      "shares_after_transaction": "1767.052"
+    },
+    {
+      "id": 113828,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Brown Donald Eugene",
+      "reporting_owner_cik": "0001638426",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-01",
+      "transaction_shares": "239",
+      "transaction_price": "130.70",
+      "transaction_type": "A",
+      "shares_after_transaction": "727"
+    },
+    {
+      "id": 113844,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-01",
+      "transaction_shares": "239",
+      "transaction_price": "130.70",
+      "transaction_type": "A",
+      "shares_after_transaction": "9058.572"
+    },
+    {
       "id": 7282,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
@@ -714,6 +1182,18 @@
     },
     {
       "id": 72758,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "WILSON THOMAS J",
+      "reporting_owner_cik": "0001190466",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2022-06-02",
+      "transaction_shares": "124855",
+      "transaction_price": "133.303",
+      "transaction_type": "S",
+      "shares_after_transaction": "116973"
+    },
+    {
+      "id": 113831,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
       "reporting_owner_cik": "0001190466",
@@ -917,6 +1397,54 @@
       "shares_after_transaction": "4400"
     },
     {
+      "id": 113807,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Mehta Siddharth N",
+      "reporting_owner_cik": "0001321443",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-01",
+      "transaction_shares": "1623",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "3275"
+    },
+    {
+      "id": 113833,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "KEANE MARGARET M",
+      "reporting_owner_cik": "0001614718",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-01",
+      "transaction_shares": "1623",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "8787.568"
+    },
+    {
+      "id": 113839,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "SPRIESER JUDITH A",
+      "reporting_owner_cik": "0001206994",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-01",
+      "transaction_shares": "1623",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1623"
+    },
+    {
+      "id": 113860,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Sherrill Gregg M",
+      "reporting_owner_cik": "0001293040",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-01",
+      "transaction_shares": "1623",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "4400"
+    },
+    {
       "id": 7276,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "WILSON THOMAS J",
@@ -965,6 +1493,18 @@
       "shares_after_transaction": "363409"
     },
     {
+      "id": 113802,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "WILSON THOMAS J",
+      "reporting_owner_cik": "0001190466",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2022-05-31",
+      "transaction_shares": "363409",
+      "transaction_price": "45.61",
+      "transaction_type": "M",
+      "shares_after_transaction": "363409"
+    },
+    {
       "id": 20476,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Shapiro Glenn T",
@@ -990,6 +1530,18 @@
     },
     {
       "id": 72746,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Shapiro Glenn T",
+      "reporting_owner_cik": "0001727101",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-12",
+      "transaction_shares": "2000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "26423"
+    },
+    {
+      "id": 113813,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "Shapiro Glenn T",
       "reporting_owner_cik": "0001727101",

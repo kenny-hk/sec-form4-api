@@ -2,8 +2,8 @@
   "ticker": "FICO",
   "year": 2022,
   "quarter": 4,
-  "last_updated": "2025-04-15T14:01:53.509490",
-  "count": 36,
+  "last_updated": "2025-04-15T14:53:27.739286",
+  "count": 54,
   "transactions": [
     {
       "id": 23264,
@@ -19,6 +19,18 @@
     },
     {
       "id": 44908,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "MCMORRIS MARC F",
+      "reporting_owner_cik": "0001274127",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-14",
+      "transaction_shares": "3378",
+      "transaction_price": "128.8000",
+      "transaction_type": "M",
+      "shares_after_transaction": "3620"
+    },
+    {
+      "id": 78874,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "MCMORRIS MARC F",
       "reporting_owner_cik": "0001274127",
@@ -91,6 +103,42 @@
     },
     {
       "id": 44895,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "KELLY BRADEN R",
+      "reporting_owner_cik": "0001175873",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-13",
+      "transaction_shares": "3000",
+      "transaction_price": "95.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "12606"
+    },
+    {
+      "id": 78822,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Leonard Michael S",
+      "reporting_owner_cik": "0001540673",
+      "reporting_owner_position": "CAO and Vice President",
+      "transaction_date": "2022-12-13",
+      "transaction_shares": "640",
+      "transaction_price": "629.2513",
+      "transaction_type": "S",
+      "shares_after_transaction": "5237.48"
+    },
+    {
+      "id": 78853,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Rees Joanna",
+      "reporting_owner_cik": "0001605071",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-13",
+      "transaction_shares": "7453",
+      "transaction_price": "95.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "11453"
+    },
+    {
+      "id": 78860,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "KELLY BRADEN R",
       "reporting_owner_cik": "0001175873",
@@ -294,6 +342,102 @@
       "shares_after_transaction": "15702"
     },
     {
+      "id": 78824,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "McLaughlin Michael I.",
+      "reporting_owner_cik": "0001781299",
+      "reporting_owner_position": "Executive Vice President & CFO",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "11382",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "17088"
+    },
+    {
+      "id": 78833,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Leonard Michael S",
+      "reporting_owner_cik": "0001540673",
+      "reporting_owner_position": "CAO and Vice President",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "981",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "6218.48"
+    },
+    {
+      "id": 78839,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "DEAL RICHARD",
+      "reporting_owner_cik": "0001205411",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "16138",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "61498"
+    },
+    {
+      "id": 78846,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "LANSING WILLIAM J",
+      "reporting_owner_cik": "0001074500",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "53803",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "269342"
+    },
+    {
+      "id": 78848,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Wehmann James M",
+      "reporting_owner_cik": "0001545661",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "22157",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "58070"
+    },
+    {
+      "id": 78855,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Bowers Thomas A.",
+      "reporting_owner_cik": "0001675736",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "8483",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "8483"
+    },
+    {
+      "id": 78867,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Scadina Mark R",
+      "reporting_owner_cik": "0001402460",
+      "reporting_owner_position": "EVP, Gen. Counsel & Sec.",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "15586",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "32563"
+    },
+    {
+      "id": 78872,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Covert Stephanie",
+      "reporting_owner_cik": "0001825657",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-12-10",
+      "transaction_shares": "13190",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "15702"
+    },
+    {
       "id": 23248,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "KELLY BRADEN R",
@@ -318,6 +462,18 @@
       "shares_after_transaction": "13244"
     },
     {
+      "id": 78852,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "KELLY BRADEN R",
+      "reporting_owner_cik": "0001175873",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-08",
+      "transaction_shares": "3638",
+      "transaction_price": "95.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "13244"
+    },
+    {
       "id": 23225,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "DEAL RICHARD",
@@ -331,6 +487,18 @@
     },
     {
       "id": 44859,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "DEAL RICHARD",
+      "reporting_owner_cik": "0001205411",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-11-16",
+      "transaction_shares": "483",
+      "transaction_price": "617.4325",
+      "transaction_type": "S",
+      "shares_after_transaction": "59266"
+    },
+    {
+      "id": 78821,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "DEAL RICHARD",
       "reporting_owner_cik": "0001205411",
@@ -427,6 +595,54 @@
     },
     {
       "id": 44904,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Scadina Mark R",
+      "reporting_owner_cik": "0001402460",
+      "reporting_owner_position": "EVP, Gen. Counsel & Sec.",
+      "transaction_date": "2022-11-14",
+      "transaction_shares": "3120",
+      "transaction_price": "599.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "29859"
+    },
+    {
+      "id": 78823,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Wehmann James M",
+      "reporting_owner_cik": "0001545661",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-11-14",
+      "transaction_shares": "1179",
+      "transaction_price": "590.6233",
+      "transaction_type": "S",
+      "shares_after_transaction": "44734"
+    },
+    {
+      "id": 78847,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Leonard Michael S",
+      "reporting_owner_cik": "0001540673",
+      "reporting_owner_position": "CAO and Vice President",
+      "transaction_date": "2022-11-14",
+      "transaction_shares": "100",
+      "transaction_price": "600.66",
+      "transaction_type": "S",
+      "shares_after_transaction": "7071.48"
+    },
+    {
+      "id": 78868,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Covert Stephanie",
+      "reporting_owner_cik": "0001825657",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-11-14",
+      "transaction_shares": "1786",
+      "transaction_price": "600",
+      "transaction_type": "S",
+      "shares_after_transaction": "2512"
+    },
+    {
+      "id": 78870,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "Scadina Mark R",
       "reporting_owner_cik": "0001402460",
