@@ -1,0 +1,128 @@
+name: Download Historical Insider Trading Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Start date for historical data (YYYY-MM-DD)'
+        required: true
+        default: '2022-04-15'  # Default to 3 years ago
+      end_date:
+        description: 'End date for historical data (YYYY-MM-DD)'
+        required: true
+        default: '2025-04-14'  # Yesterday
+      chunk_months:
+        description: 'Months per chunk'
+        required: true
+        default: '3'
+        
+permissions:
+  contents: write
+
+jobs:
+  download_historical:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350  # Almost 6 hours maximum
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Generate date chunks
+        id: chunks
+        run: |
+          python3 - <<EOF
+          from datetime import datetime, timedelta
+          import json
+          
+          start_date = datetime.strptime('${{ github.event.inputs.start_date }}', '%Y-%m-%d')
+          end_date = datetime.strptime('${{ github.event.inputs.end_date }}', '%Y-%m-%d')
+          chunk_months = int('${{ github.event.inputs.chunk_months }}')
+          
+          chunks = []
+          current_start = start_date
+          
+          while current_start < end_date:
+              # Calculate end of this chunk
+              month = current_start.month - 1 + chunk_months
+              year = current_start.year + month // 12
+              month = month % 12 + 1
+              day = min(current_start.day, 28)  # Avoid month boundary issues
+              
+              current_end = datetime(year, month, day)
+              
+              # Don't go beyond the specified end date
+              if current_end > end_date:
+                  current_end = end_date
+              
+              chunks.append({
+                  'start': current_start.strftime('%Y-%m-%d'),
+                  'end': current_end.strftime('%Y-%m-%d')
+              })
+              
+              # Move to next chunk
+              current_start = current_end + timedelta(days=1)
+          
+          # Store the chunks as a JSON string
+          with open('date_chunks.json', 'w') as f:
+              json.dump(chunks, f)
+              
+          print(f"Generated {len(chunks)} date chunks")
+          EOF
+          
+          echo "Total chunks: $(jq length date_chunks.json)"
+          
+          # Export chunks to GitHub output to use in the matrix
+          echo "total=$(jq length date_chunks.json)" >> $GITHUB_OUTPUT
+      
+      - name: Download historical data
+        run: |
+          mkdir -p data/sec-edgar-filings
+          mkdir -p data/json
+          
+          # Make sure database exists
+          if [ ! -f "data/insider_trading.db" ]; then
+            echo "Creating initial database structure..."
+            python InsiderTrading.py --no-download
+          fi
+          
+          # Process each chunk
+          jq -c '.[]' date_chunks.json | while read -r chunk; do
+            start_date=$(echo $chunk | jq -r '.start')
+            end_date=$(echo $chunk | jq -r '.end')
+            
+            echo "=== Processing chunk from $start_date to $end_date ==="
+            DATE_RANGE="${start_date}:${end_date}"
+            
+            echo "Running data download for range: $DATE_RANGE"
+            python InsiderTrading.py --date-range $DATE_RANGE
+            
+            # Commit changes after each chunk to avoid losing progress
+            python export_json.py
+            
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            
+            git add data/json/ data/insider_trading.db
+            
+            if ! git diff --quiet --staged; then
+              git commit -m "Add historical data from $start_date to $end_date [skip ci]"
+              git push "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:main
+              echo "Changes committed and pushed"
+            else
+              echo "No changes to commit for this chunk"
+            fi
+            
+            # Add a small delay between chunks to avoid rate limiting
+            sleep 30
+          done
