@@ -2,11 +2,23 @@
   "ticker": "TGT",
   "year": 2022,
   "quarter": 3,
-  "last_updated": "2025-04-15T11:58:43.759656",
-  "count": 3,
+  "last_updated": "2025-04-15T12:45:33.214155",
+  "count": 6,
   "transactions": [
     {
       "id": 17798,
+      "issuer_name": "TARGET CORP",
+      "reporting_owner": "Mulligan John J",
+      "reporting_owner_cik": "0001545819",
+      "reporting_owner_position": "Executive Officer",
+      "transaction_date": "2022-09-14",
+      "transaction_shares": "100.0000",
+      "transaction_price": "168.5300",
+      "transaction_type": "S",
+      "shares_after_transaction": "157426.0000"
+    },
+    {
+      "id": 36585,
       "issuer_name": "TARGET CORP",
       "reporting_owner": "Mulligan John J",
       "reporting_owner_cik": "0001545819",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "2812.0000"
     },
     {
+      "id": 36584,
+      "issuer_name": "TARGET CORP",
+      "reporting_owner": "LIEGEL MATTHEW A",
+      "reporting_owner_cik": "0001921955",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2022-08-18",
+      "transaction_shares": "1226.0000",
+      "transaction_price": "173.8046",
+      "transaction_type": "S",
+      "shares_after_transaction": "2812.0000"
+    },
+    {
       "id": 17800,
+      "issuer_name": "TARGET CORP",
+      "reporting_owner": "Whiteford Grace Puma",
+      "reporting_owner_cik": "0001706213",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-08-10",
+      "transaction_shares": "849.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "1164.0000"
+    },
+    {
+      "id": 36588,
       "issuer_name": "TARGET CORP",
       "reporting_owner": "Whiteford Grace Puma",
       "reporting_owner_cik": "0001706213",

@@ -2,11 +2,23 @@
   "ticker": "TSLA",
   "year": 2022,
   "quarter": 3,
-  "last_updated": "2025-04-15T11:58:43.759656",
-  "count": 16,
+  "last_updated": "2025-04-15T12:45:33.214155",
+  "count": 32,
   "transactions": [
     {
       "id": 10882,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2022-09-27",
+      "transaction_shares": "10500",
+      "transaction_price": "20.91",
+      "transaction_type": "M",
+      "shares_after_transaction": "73488.5"
+    },
+    {
+      "id": 26088,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Baglino Andrew D",
       "reporting_owner_cik": "0001790565",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "192777"
     },
     {
+      "id": 26110,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Kirkhorn Zachary",
+      "reporting_owner_cik": "0001771364",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2022-09-12",
+      "transaction_shares": "3750",
+      "transaction_price": "300.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "192777"
+    },
+    {
       "id": 10884,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Wilson-Thompson Kathleen",
+      "reporting_owner_cik": "0001331680",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-08",
+      "transaction_shares": "26250",
+      "transaction_price": "14.99",
+      "transaction_type": "M",
+      "shares_after_transaction": "31650"
+    },
+    {
+      "id": 26091,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Wilson-Thompson Kathleen",
       "reporting_owner_cik": "0001331680",
@@ -78,7 +114,55 @@
       "shares_after_transaction": "87238.75"
     },
     {
+      "id": 26086,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Kirkhorn Zachary",
+      "reporting_owner_cik": "0001771364",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2022-09-05",
+      "transaction_shares": "648",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "187855.5"
+    },
+    {
+      "id": 26092,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2022-09-05",
+      "transaction_shares": "2586",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "64287"
+    },
+    {
+      "id": 26094,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2022-09-05",
+      "transaction_shares": "388",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "87238.75"
+    },
+    {
       "id": 10903,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2022-08-29",
+      "transaction_shares": "10500",
+      "transaction_price": "20.91",
+      "transaction_type": "M",
+      "shares_after_transaction": "72201"
+    },
+    {
+      "id": 26116,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Baglino Andrew D",
       "reporting_owner_cik": "0001790565",
@@ -114,6 +198,30 @@
       "shares_after_transaction": "155058484"
     },
     {
+      "id": 26090,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-09",
+      "transaction_shares": "18630",
+      "transaction_price": "838.571",
+      "transaction_type": "S",
+      "shares_after_transaction": "158060742"
+    },
+    {
+      "id": 26122,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-09",
+      "transaction_shares": "435",
+      "transaction_price": "872.469",
+      "transaction_type": "S",
+      "shares_after_transaction": "155058484"
+    },
+    {
       "id": 10900,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Elon",
@@ -127,6 +235,30 @@
     },
     {
       "id": 10901,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-08",
+      "transaction_shares": "6749",
+      "transaction_price": "897.878",
+      "transaction_type": "S",
+      "shares_after_transaction": "158132203"
+    },
+    {
+      "id": 26111,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-08",
+      "transaction_shares": "60567",
+      "transaction_price": "867.914",
+      "transaction_type": "S",
+      "shares_after_transaction": "159602684"
+    },
+    {
+      "id": 26114,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Elon",
       "reporting_owner_cik": "0001494730",
@@ -162,7 +294,43 @@
       "shares_after_transaction": "160649830"
     },
     {
+      "id": 26084,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-05",
+      "transaction_shares": "26730",
+      "transaction_price": "857.541",
+      "transaction_type": "S",
+      "shares_after_transaction": "162936521"
+    },
+    {
+      "id": 26118,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-08-05",
+      "transaction_shares": "35693",
+      "transaction_price": "887.905",
+      "transaction_type": "S",
+      "shares_after_transaction": "160649830"
+    },
+    {
       "id": 10886,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Wilson-Thompson Kathleen",
+      "reporting_owner_cik": "0001331680",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-29",
+      "transaction_shares": "17500",
+      "transaction_price": "44.95",
+      "transaction_type": "M",
+      "shares_after_transaction": "19300"
+    },
+    {
+      "id": 26093,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Wilson-Thompson Kathleen",
       "reporting_owner_cik": "0001331680",
@@ -186,7 +354,31 @@
       "shares_after_transaction": "24067"
     },
     {
+      "id": 26075,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2022-07-27",
+      "transaction_shares": "3500",
+      "transaction_price": "62.72",
+      "transaction_type": "M",
+      "shares_after_transaction": "24067"
+    },
+    {
       "id": 10879,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-25",
+      "transaction_shares": "25000",
+      "transaction_price": "74.17",
+      "transaction_type": "M",
+      "shares_after_transaction": "536240"
+    },
+    {
+      "id": 26083,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Kimbal",
       "reporting_owner_cik": "0001494731",

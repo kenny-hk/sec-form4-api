@@ -1,11 +1,95 @@
 {
   "ticker": "SNA",
-  "last_updated": "2025-04-15T11:58:43.759656",
+  "last_updated": "2025-04-15T12:45:33.214155",
   "retention_years": 3,
-  "count": 9,
+  "count": 22,
   "transactions": [
     {
+      "id": 33996,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Pagliari Aldo John",
+      "reporting_owner_cik": "0001486096",
+      "reporting_owner_position": "Sr VP - Finance & CFO",
+      "transaction_date": "2022-12-13",
+      "transaction_shares": "12500",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "85631.2909"
+    },
+    {
+      "id": 34000,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Ward Thomas J",
+      "reporting_owner_cik": "0001320928",
+      "reporting_owner_position": "Sr VP & President - RS&I Group",
+      "transaction_date": "2022-12-08",
+      "transaction_shares": "422",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "46588.6278"
+    },
+    {
+      "id": 33994,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Banerjee Anup R",
+      "reporting_owner_cik": "0001651010",
+      "reporting_owner_position": "Sr VP & Chief Devel. Officer",
+      "transaction_date": "2022-12-01",
+      "transaction_shares": "5000",
+      "transaction_price": "155.92",
+      "transaction_type": "M",
+      "shares_after_transaction": "8946"
+    },
+    {
+      "id": 33993,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Boyd Iain",
+      "reporting_owner_cik": "0001390311",
+      "reporting_owner_position": "VP - Operations Development",
+      "transaction_date": "2022-11-22",
+      "transaction_shares": "3500",
+      "transaction_price": "144.69",
+      "transaction_type": "M",
+      "shares_after_transaction": "9744.4446"
+    },
+    {
+      "id": 34003,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "PINCHUK NICHOLAS T",
+      "reporting_owner_cik": "0001246136",
+      "reporting_owner_position": "Chairman, President and CEO",
+      "transaction_date": "2022-11-16",
+      "transaction_shares": "50000",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "690340.5196"
+    },
+    {
+      "id": 33999,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "HOLDEN JAMES P",
+      "reporting_owner_cik": "0001233398",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "56",
+      "transaction_price": "222.05",
+      "transaction_type": "A",
+      "shares_after_transaction": "5441.2123"
+    },
+    {
       "id": 16088,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Pagliari Aldo John",
+      "reporting_owner_cik": "0001486096",
+      "reporting_owner_position": "Sr VP - Finance & CFO",
+      "transaction_date": "2022-09-13",
+      "transaction_shares": "10000",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "79721.119"
+    },
+    {
+      "id": 34004,
       "issuer_name": "Snap-on Inc",
       "reporting_owner": "Pagliari Aldo John",
       "reporting_owner_cik": "0001486096",
@@ -29,7 +113,31 @@
       "shares_after_transaction": "18122.057"
     },
     {
+      "id": 33998,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Chambers Timothy L",
+      "reporting_owner_cik": "0001768384",
+      "reporting_owner_position": "Sr VP & Pres - Tools",
+      "transaction_date": "2022-08-16",
+      "transaction_shares": "6500",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "18122.057"
+    },
+    {
       "id": 16082,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "PINCHUK NICHOLAS T",
+      "reporting_owner_cik": "0001246136",
+      "reporting_owner_position": "Chairman, President and CEO",
+      "transaction_date": "2022-08-11",
+      "transaction_shares": "50000",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "672124.1677"
+    },
+    {
+      "id": 33992,
       "issuer_name": "Snap-on Inc",
       "reporting_owner": "PINCHUK NICHOLAS T",
       "reporting_owner_cik": "0001246136",
@@ -53,7 +161,31 @@
       "shares_after_transaction": "3463.6271"
     },
     {
+      "id": 34002,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "Arregui Jesus",
+      "reporting_owner_cik": "0001775494",
+      "reporting_owner_position": "Sr VP & President - Commercial",
+      "transaction_date": "2022-08-05",
+      "transaction_shares": "1600",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "3463.6271"
+    },
+    {
       "id": 16083,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "HOLDEN JAMES P",
+      "reporting_owner_cik": "0001233398",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-29",
+      "transaction_shares": "55",
+      "transaction_price": "224.05",
+      "transaction_type": "A",
+      "shares_after_transaction": "5363.5381"
+    },
+    {
+      "id": 33995,
       "issuer_name": "Snap-on Inc",
       "reporting_owner": "HOLDEN JAMES P",
       "reporting_owner_cik": "0001233398",
@@ -89,6 +221,18 @@
       "shares_after_transaction": "641516.7501"
     },
     {
+      "id": 34001,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "PINCHUK NICHOLAS T",
+      "reporting_owner_cik": "0001246136",
+      "reporting_owner_position": "Chairman, President and CEO",
+      "transaction_date": "2022-06-01",
+      "transaction_shares": "30000",
+      "transaction_price": "79.04",
+      "transaction_type": "M",
+      "shares_after_transaction": "641516.7501"
+    },
+    {
       "id": 4661,
       "issuer_name": "Snap-on Inc",
       "reporting_owner": "HOLDEN JAMES P",
@@ -102,6 +246,18 @@
     },
     {
       "id": 16084,
+      "issuer_name": "Snap-on Inc",
+      "reporting_owner": "HOLDEN JAMES P",
+      "reporting_owner_cik": "0001233398",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-29",
+      "transaction_shares": "141",
+      "transaction_price": "212.49",
+      "transaction_type": "A",
+      "shares_after_transaction": "5286.1773"
+    },
+    {
+      "id": 33997,
       "issuer_name": "Snap-on Inc",
       "reporting_owner": "HOLDEN JAMES P",
       "reporting_owner_cik": "0001233398",

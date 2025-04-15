@@ -2,11 +2,23 @@
   "ticker": "KO",
   "year": 2022,
   "quarter": 3,
-  "last_updated": "2025-04-15T11:58:43.759656",
-  "count": 4,
+  "last_updated": "2025-04-15T12:45:33.214155",
+  "count": 8,
   "transactions": [
     {
       "id": 11870,
+      "issuer_name": "COCA COLA CO",
+      "reporting_owner": "Braun Henrique",
+      "reporting_owner_cik": "0001827313",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-08-25",
+      "transaction_shares": "11318",
+      "transaction_price": "64.346",
+      "transaction_type": "S",
+      "shares_after_transaction": "22828"
+    },
+    {
+      "id": 27626,
       "issuer_name": "COCA COLA CO",
       "reporting_owner": "Braun Henrique",
       "reporting_owner_cik": "0001827313",
@@ -30,6 +42,18 @@
       "shares_after_transaction": "1370"
     },
     {
+      "id": 27638,
+      "issuer_name": "COCA COLA CO",
+      "reporting_owner": "LOVELESS KATHY",
+      "reporting_owner_cik": "0001805253",
+      "reporting_owner_position": "Vice President & Controller",
+      "transaction_date": "2022-07-29",
+      "transaction_shares": "2512",
+      "transaction_price": "64.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "1370"
+    },
+    {
       "id": 11871,
       "issuer_name": "COCA COLA CO",
       "reporting_owner": "Quincey James",
@@ -42,7 +66,31 @@
       "shares_after_transaction": "351737"
     },
     {
+      "id": 27627,
+      "issuer_name": "COCA COLA CO",
+      "reporting_owner": "Quincey James",
+      "reporting_owner_cik": "0001561264",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2022-07-28",
+      "transaction_shares": "32000",
+      "transaction_price": "64.0941",
+      "transaction_type": "S",
+      "shares_after_transaction": "351737"
+    },
+    {
       "id": 11875,
+      "issuer_name": "COCA COLA CO",
+      "reporting_owner": "Everson Carolyn",
+      "reporting_owner_cik": "0001577369",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-27",
+      "transaction_shares": "983",
+      "transaction_price": "62.29",
+      "transaction_type": "P",
+      "shares_after_transaction": "1500"
+    },
+    {
+      "id": 27632,
       "issuer_name": "COCA COLA CO",
       "reporting_owner": "Everson Carolyn",
       "reporting_owner_cik": "0001577369",

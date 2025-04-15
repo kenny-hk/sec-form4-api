@@ -1,9 +1,33 @@
 {
   "ticker": "BXP",
-  "last_updated": "2025-04-15T11:58:43.759656",
+  "last_updated": "2025-04-15T12:45:33.214155",
   "retention_years": 3,
-  "count": 6,
+  "count": 12,
   "transactions": [
+    {
+      "id": 32438,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "LABELLE MICHAEL E",
+      "reporting_owner_cik": "0001419045",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2023-01-15",
+      "transaction_shares": "325",
+      "transaction_price": "71.20",
+      "transaction_type": "F",
+      "shares_after_transaction": "10682"
+    },
+    {
+      "id": 32443,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "Spann Hilary J.",
+      "reporting_owner_cik": "0001900835",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-01-15",
+      "transaction_shares": "549",
+      "transaction_price": "71.20",
+      "transaction_type": "F",
+      "shares_after_transaction": "17148"
+    },
     {
       "id": 15104,
       "issuer_name": "BOSTON PROPERTIES INC",
@@ -17,7 +41,31 @@
       "shares_after_transaction": "17697"
     },
     {
+      "id": 32431,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "Spann Hilary J.",
+      "reporting_owner_cik": "0001900835",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-09-07",
+      "transaction_shares": "4731",
+      "transaction_price": "82.87",
+      "transaction_type": "F",
+      "shares_after_transaction": "17697"
+    },
+    {
       "id": 15095,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "RITCHEY RAYMOND A",
+      "reporting_owner_cik": "0001219153",
+      "reporting_owner_position": "Senior EVP",
+      "transaction_date": "2022-08-12",
+      "transaction_shares": "22472",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "22472"
+    },
+    {
+      "id": 32420,
       "issuer_name": "BOSTON PROPERTIES INC",
       "reporting_owner": "RITCHEY RAYMOND A",
       "reporting_owner_cik": "0001219153",
@@ -66,6 +114,30 @@
     },
     {
       "id": 15105,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "Hoskins Diane J",
+      "reporting_owner_cik": "0001522588",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "1504",
+      "transaction_price": "0.01",
+      "transaction_type": "A",
+      "shares_after_transaction": "6938"
+    },
+    {
+      "id": 32422,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "TWARDOCK DAVID A",
+      "reporting_owner_cik": "0001229891",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "1504",
+      "transaction_price": "0.01",
+      "transaction_type": "A",
+      "shares_after_transaction": "10399"
+    },
+    {
+      "id": 32432,
       "issuer_name": "BOSTON PROPERTIES INC",
       "reporting_owner": "Hoskins Diane J",
       "reporting_owner_cik": "0001522588",
