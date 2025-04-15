@@ -167,7 +167,8 @@ class TestExportJson:
              patch('export_json.export_companies_index') as mock_companies, \
              patch('export_json.export_company_transactions') as mock_transactions, \
              patch('export_json.export_summary_data') as mock_summary, \
-             patch('os.path.exists', return_value=True):  # Simulate DB exists
+             patch('os.path.exists', return_value=True), \
+             patch('argparse.ArgumentParser.parse_args', return_value=MagicMock()):  # Avoid argparse error
             
             # Run the main function
             export_json.main()
@@ -184,7 +185,8 @@ class TestExportJson:
         with patch('export_json.DB_PATH', '/nonexistent/path.db'), \
              patch('os.path.exists', return_value=False), \
              patch('export_json.initialize_json_directory') as mock_init, \
-             patch('export_json.export_companies_index') as mock_companies:
+             patch('export_json.export_companies_index') as mock_companies, \
+             patch('argparse.ArgumentParser.parse_args', return_value=MagicMock()):  # Avoid argparse error
             
             # Run the main function
             export_json.main()

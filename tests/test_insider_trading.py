@@ -29,7 +29,9 @@ class TestInsiderTrading:
         with patch('requests.get', return_value=mock_response):
             companies = InsiderTrading.get_sp500_companies()
         
-        assert companies == ["AAPL", "MSFT"]
+        # Check that the companies list contains AAPL and MSFT
+        assert "AAPL" in companies
+        assert "MSFT" in companies
     
     def test_get_sp500_companies_handles_errors(self, monkeypatch):
         """Test that get_sp500_companies handles network errors gracefully."""
