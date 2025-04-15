@@ -113,14 +113,20 @@ def main():
         print(f"Using sec-edgar-downloader to fetch Form 4 filings from {start_date} to {end_date}...")
         
         # Initialize the downloader with company name and user email (required by SEC)
-        company_name = "Insider Trading API Project"
-        user_email = "insidertrading-api@example.com"  # Replace with your email when running locally
+        company_name = "S&P500 Insider Trading Research Project"
+        user_email = "kennylamitunes@yahoo.com"  # Using a real email for SEC requirements
         if debug:
             print(f"DEBUG: Using company name: {company_name}")
             print(f"DEBUG: Using email: {user_email}")
         
         try:
-            dl = Downloader(company_name, user_email, DATA_DIR)
+            # Create custom headers that SEC will accept
+            headers = {
+                "User-Agent": f"{company_name} {user_email}",
+                "Accept-Encoding": "gzip, deflate",
+                "Host": "www.sec.gov"
+            }
+            dl = Downloader(company_name, user_email, DATA_DIR, user_agent=headers["User-Agent"])
             if debug:
                 print("DEBUG: Downloader initialized successfully")
         except Exception as e:
