@@ -67,8 +67,8 @@ def main():
         print(f"Using sec-edgar-downloader to fetch Form 4 filings from {start_date} to {end_date}...")
         
         # Initialize the downloader with company name and user email (required by SEC)
-        company_name = "For Good Measure Limited"
-        user_email = "kennylamitunes@yahoo.com"
+        company_name = "Insider Trading API Project"
+        user_email = "insidertrading-api@example.com"  # Replace with your email when running locally
         dl = Downloader(company_name, user_email, DATA_DIR)
         
         # Get S&P 500 companies dynamically

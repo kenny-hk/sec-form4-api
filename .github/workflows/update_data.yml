@@ -25,6 +25,8 @@ jobs:
       
       - name: Collect insider trading data
         run: |
+          # Set up environment with GitHub-provided email
+          sed -i 's/insidertrading-api@example.com/github-actions@github.com/g' InsiderTrading.py
           python InsiderTrading.py  # Collect data for all S&P 500 companies
       
       - name: Export data to JSON for API
