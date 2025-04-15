@@ -1,11 +1,23 @@
 {
   "ticker": "STR",
-  "last_updated": "2025-04-15T12:45:33.214155",
+  "last_updated": "2025-04-15T14:01:53.509490",
   "retention_years": 3,
-  "count": 4,
+  "count": 6,
   "transactions": [
     {
       "id": 35735,
+      "issuer_name": "STR Sub Inc.",
+      "reporting_owner": "Blackstone EMA II L.L.C.",
+      "reporting_owner_cik": "0001700375",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-29",
+      "transaction_shares": "8637727",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 65087,
       "issuer_name": "STR Sub Inc.",
       "reporting_owner": "Blackstone EMA II L.L.C.",
       "reporting_owner_cik": "0001700375",
@@ -42,6 +54,18 @@
     },
     {
       "id": 35753,
+      "issuer_name": "Sitio Royalties Corp.",
+      "reporting_owner": "Blackstone Holdings III L.P.",
+      "reporting_owner_cik": "0001404073",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-07",
+      "transaction_shares": "12165172",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "12165172"
+    },
+    {
+      "id": 65112,
       "issuer_name": "Sitio Royalties Corp.",
       "reporting_owner": "Blackstone Holdings III L.P.",
       "reporting_owner_cik": "0001404073",

@@ -2,11 +2,23 @@
   "ticker": "TXN",
   "year": 2022,
   "quarter": 4,
-  "last_updated": "2025-04-15T12:45:33.214155",
-  "count": 2,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 5,
   "transactions": [
     {
       "id": 27459,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "CLARK JANET F",
+      "reporting_owner_cik": "0001216484",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-16",
+      "transaction_shares": "9990",
+      "transaction_price": "52.93",
+      "transaction_type": "M",
+      "shares_after_transaction": "18932"
+    },
+    {
+      "id": 51897,
       "issuer_name": "TEXAS INSTRUMENTS INC",
       "reporting_owner": "CLARK JANET F",
       "reporting_owner_cik": "0001216484",
@@ -28,6 +40,30 @@
       "transaction_price": "180.0136",
       "transaction_type": "S",
       "shares_after_transaction": "27306"
+    },
+    {
+      "id": 51898,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "BAHAI AHMAD",
+      "reporting_owner_cik": "0001498135",
+      "reporting_owner_position": "Sr. Vice President",
+      "transaction_date": "2022-11-11",
+      "transaction_shares": "1109",
+      "transaction_price": "180.0136",
+      "transaction_type": "S",
+      "shares_after_transaction": "27306"
+    },
+    {
+      "id": 51893,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "TEMPLETON RICHARD K",
+      "reporting_owner_cik": "0001193470",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2022-11-09",
+      "transaction_shares": "1110",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "397004"
     }
   ]
 }

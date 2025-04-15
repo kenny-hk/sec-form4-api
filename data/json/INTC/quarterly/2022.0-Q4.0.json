@@ -2,11 +2,23 @@
   "ticker": "INTC",
   "year": 2022,
   "quarter": 4,
-  "last_updated": "2025-04-15T12:45:33.214155",
-  "count": 13,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 27,
   "transactions": [
     {
       "id": 23446,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GELSINGER PATRICK P",
+      "reporting_owner_cik": "0001316331",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-12-22",
+      "transaction_shares": "13064",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "32259"
+    },
+    {
+      "id": 45276,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "GELSINGER PATRICK P",
       "reporting_owner_cik": "0001316331",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "202277"
     },
     {
+      "id": 45250,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Holthaus Michelle Johnston",
+      "reporting_owner_cik": "0001860540",
+      "reporting_owner_position": "EVP & GM, CCG",
+      "transaction_date": "2022-11-30",
+      "transaction_shares": "77154",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "202277"
+    },
+    {
       "id": 23448,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "TAN LIP BU",
+      "reporting_owner_cik": "0001008463",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-16",
+      "transaction_shares": "50000",
+      "transaction_price": "29.4873",
+      "transaction_type": "P",
+      "shares_after_transaction": "100000"
+    },
+    {
+      "id": 45280,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "TAN LIP BU",
       "reporting_owner_cik": "0001008463",
@@ -54,6 +90,18 @@
       "shares_after_transaction": "36615"
     },
     {
+      "id": 45253,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GELSINGER PATRICK P",
+      "reporting_owner_cik": "0001316331",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-11-15",
+      "transaction_shares": "35135",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "36615"
+    },
+    {
       "id": 23447,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "TAN LIP BU",
@@ -66,7 +114,43 @@
       "shares_after_transaction": "50500"
     },
     {
+      "id": 45255,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GAWEL SCOTT",
+      "reporting_owner_cik": "0001243821",
+      "reporting_owner_position": "CVP, Chief Accounting Officer",
+      "transaction_date": "2022-11-08",
+      "transaction_shares": "4689",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 45279,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "TAN LIP BU",
+      "reporting_owner_cik": "0001008463",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-08",
+      "transaction_shares": "48146",
+      "transaction_price": "27.9767",
+      "transaction_type": "P",
+      "shares_after_transaction": "50500"
+    },
+    {
       "id": 23436,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "TAN LIP BU",
+      "reporting_owner_cik": "0001008463",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-04",
+      "transaction_shares": "1854",
+      "transaction_price": "27.4946",
+      "transaction_type": "P",
+      "shares_after_transaction": "2354"
+    },
+    {
+      "id": 45263,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "TAN LIP BU",
       "reporting_owner_cik": "0001008463",
@@ -151,6 +235,90 @@
     },
     {
       "id": 23457,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GELSINGER PATRICK P",
+      "reporting_owner_cik": "0001316331",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "6779",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "90581"
+    },
+    {
+      "id": 45252,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Rivera Sandra L",
+      "reporting_owner_cik": "0001790475",
+      "reporting_owner_position": "EVP & GM, Datacenter and AI",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "1621",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "210461"
+    },
+    {
+      "id": 45272,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GAWEL SCOTT",
+      "reporting_owner_cik": "0001243821",
+      "reporting_owner_position": "CVP, Chief Accounting Officer",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "3268",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "3268"
+    },
+    {
+      "id": 45287,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Zinsner David",
+      "reporting_owner_cik": "0001330891",
+      "reporting_owner_position": "EVP, CFO",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "6503",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "18875"
+    },
+    {
+      "id": 45288,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Miller Boise April",
+      "reporting_owner_cik": "0001680881",
+      "reporting_owner_position": "EVP and Chief Legal Officer",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "2723",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "2723"
+    },
+    {
+      "id": 45291,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Schell Christoph",
+      "reporting_owner_cik": "0001793234",
+      "reporting_owner_position": "EVP; Chief Cml Ofcr; GM, SMG",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "8062",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "16192"
+    },
+    {
+      "id": 45296,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Holthaus Michelle Johnston",
+      "reporting_owner_cik": "0001860540",
+      "reporting_owner_position": "EVP & GM, CCG",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "1598",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "118310"
+    },
+    {
+      "id": 45297,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "GELSINGER PATRICK P",
       "reporting_owner_cik": "0001316331",

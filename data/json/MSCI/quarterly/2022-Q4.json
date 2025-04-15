@@ -2,11 +2,23 @@
   "ticker": "MSCI",
   "year": 2022,
   "quarter": 4,
-  "last_updated": "2025-04-15T12:45:33.214155",
-  "count": 8,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 16,
   "transactions": [
     {
       "id": 23578,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Gutowski Robert J.",
+      "reporting_owner_cik": "0001797266",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2022-12-01",
+      "transaction_shares": "1000",
+      "transaction_price": "511.71",
+      "transaction_type": "S",
+      "shares_after_transaction": "15343"
+    },
+    {
+      "id": 45478,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Gutowski Robert J.",
       "reporting_owner_cik": "0001797266",
@@ -54,7 +66,55 @@
       "shares_after_transaction": "1158"
     },
     {
+      "id": 45479,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-30",
+      "transaction_shares": "1",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "19326"
+    },
+    {
+      "id": 45503,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Kinney Catherine R",
+      "reporting_owner_cik": "0001205054",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-30",
+      "transaction_shares": "52",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "12668"
+    },
+    {
+      "id": 45515,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-30",
+      "transaction_shares": "2",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "1158"
+    },
+    {
       "id": 23582,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Kinney Catherine R",
+      "reporting_owner_cik": "0001205054",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-22",
+      "transaction_shares": "868",
+      "transaction_price": "503.54",
+      "transaction_type": "S",
+      "shares_after_transaction": "1144"
+    },
+    {
+      "id": 45489,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Kinney Catherine R",
       "reporting_owner_cik": "0001205054",
@@ -78,6 +138,18 @@
       "shares_after_transaction": "14676"
     },
     {
+      "id": 45498,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Kinney Catherine R",
+      "reporting_owner_cik": "0001205054",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-15",
+      "transaction_shares": "339",
+      "transaction_price": "506.92",
+      "transaction_type": "S",
+      "shares_after_transaction": "14676"
+    },
+    {
       "id": 23596,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Wiechmann Andrew C.",
@@ -90,7 +162,31 @@
       "shares_after_transaction": "15908"
     },
     {
+      "id": 45509,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Wiechmann Andrew C.",
+      "reporting_owner_cik": "0001769683",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2022-11-03",
+      "transaction_shares": "1100",
+      "transaction_price": "453.38",
+      "transaction_type": "S",
+      "shares_after_transaction": "15908"
+    },
+    {
       "id": 23580,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Crum Scott A",
+      "reporting_owner_cik": "0001204559",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2022-10-27",
+      "transaction_shares": "322",
+      "transaction_price": "453.13",
+      "transaction_type": "S",
+      "shares_after_transaction": "27086"
+    },
+    {
+      "id": 45483,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Crum Scott A",
       "reporting_owner_cik": "0001204559",

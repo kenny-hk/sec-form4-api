@@ -2,8 +2,8 @@
   "ticker": "AAPL",
   "year": 2022,
   "quarter": 2,
-  "last_updated": "2025-04-15T12:45:33.214155",
-  "count": 12,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 16,
   "transactions": [
     {
       "id": 6108,
@@ -42,6 +42,18 @@
       "shares_after_transaction": "34990"
     },
     {
+      "id": 68336,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "BELL JAMES A",
+      "reporting_owner_cik": "0001182047",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-06",
+      "transaction_shares": "1276",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "34990"
+    },
+    {
       "id": 6105,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Adams Katherine L.",
@@ -67,6 +79,18 @@
     },
     {
       "id": 37784,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Adams Katherine L.",
+      "reporting_owner_cik": "0001462356",
+      "reporting_owner_position": "SVP, GC and Secretary",
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "9136",
+      "transaction_price": "159.94",
+      "transaction_type": "S",
+      "shares_after_transaction": "468198"
+    },
+    {
+      "id": 68310,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Adams Katherine L.",
       "reporting_owner_cik": "0001462356",
@@ -139,6 +163,30 @@
     },
     {
       "id": 37794,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "KONDO CHRIS",
+      "reporting_owner_cik": "0001631982",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2022-04-15",
+      "transaction_shares": "13146",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "50458"
+    },
+    {
+      "id": 68320,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "O'BRIEN DEIRDRE",
+      "reporting_owner_cik": "0001767094",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2022-04-15",
+      "transaction_shares": "16612",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "152902"
+    },
+    {
+      "id": 68333,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "KONDO CHRIS",
       "reporting_owner_cik": "0001631982",

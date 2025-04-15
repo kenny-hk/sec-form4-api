@@ -1,9 +1,21 @@
 {
   "ticker": "ALIT",
-  "last_updated": "2025-04-15T12:45:33.214155",
+  "last_updated": "2025-04-15T14:01:53.509490",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
+    {
+      "id": 65065,
+      "issuer_name": "Alight, Inc. / Delaware",
+      "reporting_owner": "Blackstone Holdings I/II GP L.L.C.",
+      "reporting_owner_cik": "0001464695",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-03-06",
+      "transaction_shares": "13971851",
+      "transaction_price": "8.71",
+      "transaction_type": "S",
+      "shares_after_transaction": "31517912"
+    },
     {
       "id": 35768,
       "issuer_name": "Alight, Inc. / Delaware",
@@ -17,7 +29,31 @@
       "shares_after_transaction": "45489763"
     },
     {
+      "id": 65133,
+      "issuer_name": "Alight, Inc. / Delaware",
+      "reporting_owner": "Blackstone Holdings I/II GP L.L.C.",
+      "reporting_owner_cik": "0001464695",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-12-14",
+      "transaction_shares": "3169418",
+      "transaction_price": "8.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "45489763"
+    },
+    {
       "id": 35741,
+      "issuer_name": "Alight, Inc. / Delaware",
+      "reporting_owner": "Blackstone Holdings III L.P.",
+      "reporting_owner_cik": "0001404073",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-11-17",
+      "transaction_shares": "5371237",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "5459742"
+    },
+    {
+      "id": 65096,
       "issuer_name": "Alight, Inc. / Delaware",
       "reporting_owner": "Blackstone Holdings III L.P.",
       "reporting_owner_cik": "0001404073",

@@ -2,8 +2,8 @@
   "ticker": "EMR",
   "year": 2022,
   "quarter": 4,
-  "last_updated": "2025-04-15T12:45:33.214155",
-  "count": 21,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 41,
   "transactions": [
     {
       "id": 35991,
@@ -18,7 +18,31 @@
       "shares_after_transaction": "6236"
     },
     {
+      "id": 65535,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "DELLAQUILA FRANK J",
+      "reporting_owner_cik": "0001470848",
+      "reporting_owner_position": "Senior Exec. VP and CFO",
+      "transaction_date": "2022-12-13",
+      "transaction_shares": "2206",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "6236"
+    },
+    {
       "id": 35978,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Bulanda Mark J",
+      "reporting_owner_cik": "0001687308",
+      "reporting_owner_position": "Exec Pres Auto Sols",
+      "transaction_date": "2022-12-12",
+      "transaction_shares": "40000",
+      "transaction_price": "65.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "250493"
+    },
+    {
+      "id": 65512,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Bulanda Mark J",
       "reporting_owner_cik": "0001687308",
@@ -54,7 +78,43 @@
       "shares_after_transaction": "75000"
     },
     {
+      "id": 65515,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Froedge James",
+      "reporting_owner_cik": "0001823357",
+      "reporting_owner_position": "Exec. Pres Comm & Res Sols",
+      "transaction_date": "2022-12-01",
+      "transaction_shares": "105",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "74723"
+    },
+    {
+      "id": 65534,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Karsanbhai Surendralal Lanca",
+      "reporting_owner_cik": "0001754881",
+      "reporting_owner_position": "CEO and President",
+      "transaction_date": "2022-12-01",
+      "transaction_shares": "1475",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "75000"
+    },
+    {
       "id": 35992,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Krishnan Ram R.",
+      "reporting_owner_cik": "0001847946",
+      "reporting_owner_position": "Executive Vice Pres. & COO",
+      "transaction_date": "2022-11-18",
+      "transaction_shares": "12090",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "17000"
+    },
+    {
+      "id": 65536,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Krishnan Ram R.",
       "reporting_owner_cik": "0001847946",
@@ -78,7 +138,31 @@
       "shares_after_transaction": "104974"
     },
     {
+      "id": 65522,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Karsanbhai Surendralal Lanca",
+      "reporting_owner_cik": "0001754881",
+      "reporting_owner_position": "CEO and President",
+      "transaction_date": "2022-11-16",
+      "transaction_shares": "10000",
+      "transaction_price": "65.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "104974"
+    },
+    {
       "id": 35976,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Bosco Sara Yang",
+      "reporting_owner_cik": "0001673670",
+      "reporting_owner_position": "Sr. VP, Secy and Gen. Counsel",
+      "transaction_date": "2022-11-08",
+      "transaction_shares": "12000",
+      "transaction_price": "65.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "130205"
+    },
+    {
+      "id": 65510,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Bosco Sara Yang",
       "reporting_owner_cik": "0001673670",
@@ -115,6 +199,42 @@
     },
     {
       "id": 35986,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "DELLAQUILA FRANK J",
+      "reporting_owner_cik": "0001470848",
+      "reporting_owner_position": "Senior Exec. VP and CFO",
+      "transaction_date": "2022-11-07",
+      "transaction_shares": "100000",
+      "transaction_price": "65.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "371785"
+    },
+    {
+      "id": 65514,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Froedge James",
+      "reporting_owner_cik": "0001823357",
+      "reporting_owner_position": "Exec. Pres Comm & Res Sols",
+      "transaction_date": "2022-11-07",
+      "transaction_shares": "2238",
+      "transaction_price": "90.45",
+      "transaction_type": "F",
+      "shares_after_transaction": "74828"
+    },
+    {
+      "id": 65525,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Krishnan Ram R.",
+      "reporting_owner_cik": "0001847946",
+      "reporting_owner_position": "Executive Vice Pres. & COO",
+      "transaction_date": "2022-11-07",
+      "transaction_shares": "2238",
+      "transaction_price": "90.45",
+      "transaction_type": "F",
+      "shares_after_transaction": "29090"
+    },
+    {
+      "id": 65527,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "DELLAQUILA FRANK J",
       "reporting_owner_cik": "0001470848",
@@ -234,6 +354,114 @@
       "shares_after_transaction": "50001"
     },
     {
+      "id": 65507,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Froedge James",
+      "reporting_owner_cik": "0001823357",
+      "reporting_owner_position": "Exec. Pres Comm & Res Sols",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "6996",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "77066"
+    },
+    {
+      "id": 65511,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Flavin Lisa",
+      "reporting_owner_cik": "0001771826",
+      "reporting_owner_position": "Senior VP & CCO",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "8162",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "100466"
+    },
+    {
+      "id": 65517,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Train Michael H.",
+      "reporting_owner_cik": "0001686963",
+      "reporting_owner_position": "SVP & Chief Sustain. Officer",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "23969",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "229408"
+    },
+    {
+      "id": 65524,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Karsanbhai Surendralal Lanca",
+      "reporting_owner_cik": "0001754881",
+      "reporting_owner_position": "CEO and President",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "19974",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "94974"
+    },
+    {
+      "id": 65526,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "DELLAQUILA FRANK J",
+      "reporting_owner_cik": "0001470848",
+      "reporting_owner_position": "Senior Exec. VP and CFO",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "23969",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "271785"
+    },
+    {
+      "id": 65530,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Bulanda Mark J",
+      "reporting_owner_cik": "0001687308",
+      "reporting_owner_position": "Exec Pres Auto Sols",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "19974",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "210493"
+    },
+    {
+      "id": 65532,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Bosco Sara Yang",
+      "reporting_owner_cik": "0001673670",
+      "reporting_owner_position": "Sr. VP, Secy and Gen. Counsel",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "17577",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "118205"
+    },
+    {
+      "id": 65537,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Baughman Michael J",
+      "reporting_owner_cik": "0001363092",
+      "reporting_owner_position": "VP, Acct'g., Contr. & CAO",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "8788",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "57805"
+    },
+    {
+      "id": 65538,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Button Bell Katherine",
+      "reporting_owner_cik": "0001687262",
+      "reporting_owner_position": "Sr. VP & Chief Marketing Off.",
+      "transaction_date": "2022-10-31",
+      "transaction_shares": "11984",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "50001"
+    },
+    {
       "id": 17455,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Train Michael H.",
@@ -247,6 +475,18 @@
     },
     {
       "id": 35988,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Train Michael H.",
+      "reporting_owner_cik": "0001686963",
+      "reporting_owner_position": "SVP & Chief Sustain. Officer",
+      "transaction_date": "2022-10-03",
+      "transaction_shares": "2976",
+      "transaction_price": "75.075",
+      "transaction_type": "F",
+      "shares_after_transaction": "205439"
+    },
+    {
+      "id": 65531,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Train Michael H.",
       "reporting_owner_cik": "0001686963",

@@ -1,9 +1,21 @@
 {
   "ticker": "AMPS",
-  "last_updated": "2025-04-15T12:45:33.214155",
+  "last_updated": "2025-04-15T14:01:53.509490",
   "retention_years": 3,
-  "count": 6,
+  "count": 10,
   "transactions": [
+    {
+      "id": 56665,
+      "issuer_name": "Altus Power, Inc.",
+      "reporting_owner": "CBRE Acquisition Sponsor, LLC",
+      "reporting_owner_cik": "0001834151",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-03-31",
+      "transaction_shares": "1811",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "24556012"
+    },
     {
       "id": 17261,
       "issuer_name": "Altus Power, Inc.",
@@ -53,6 +65,30 @@
       "shares_after_transaction": "20775125"
     },
     {
+      "id": 65055,
+      "issuer_name": "Altus Power, Inc.",
+      "reporting_owner": "GSO Altus Holdings LP",
+      "reporting_owner_cik": "0001896588",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-03",
+      "transaction_shares": "7000000",
+      "transaction_price": "11.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "21825125"
+    },
+    {
+      "id": 65113,
+      "issuer_name": "Altus Power, Inc.",
+      "reporting_owner": "GSO Altus Holdings LP",
+      "reporting_owner_cik": "0001896588",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-10-03",
+      "transaction_shares": "1050000",
+      "transaction_price": "11.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "20775125"
+    },
+    {
       "id": 13755,
       "issuer_name": "Altus Power, Inc.",
       "reporting_owner": "CBRE Acquisition Sponsor, LLC",
@@ -66,6 +102,18 @@
     },
     {
       "id": 30371,
+      "issuer_name": "Altus Power, Inc.",
+      "reporting_owner": "CBRE Acquisition Sponsor, LLC",
+      "reporting_owner_cik": "0001834151",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-20",
+      "transaction_shares": "9237749",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "31239560"
+    },
+    {
+      "id": 56639,
       "issuer_name": "Altus Power, Inc.",
       "reporting_owner": "CBRE Acquisition Sponsor, LLC",
       "reporting_owner_cik": "0001834151",

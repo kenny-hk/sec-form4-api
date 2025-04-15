@@ -1,0 +1,33 @@
+{
+  "ticker": "TSLA",
+  "year": 2023,
+  "quarter": 2,
+  "last_updated": "2025-04-15T14:01:53.509490",
+  "count": 2,
+  "transactions": [
+    {
+      "id": 49620,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Kirkhorn Zachary",
+      "reporting_owner_cik": "0001771364",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2023-04-04",
+      "transaction_shares": "3750",
+      "transaction_price": "197.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "199323"
+    },
+    {
+      "id": 49600,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-03",
+      "transaction_shares": "100000",
+      "transaction_price": "24.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "1708720"
+    }
+  ]
+}
