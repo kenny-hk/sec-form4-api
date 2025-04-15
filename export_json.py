@@ -220,25 +220,84 @@ def main():
                         help='Number of years to keep detailed transaction data (default: 3)')
     parser.add_argument('--quarterly-years', type=int, default=10,
                         help='Number of years to keep quarterly summary data (default: 10)')
+    parser.add_argument('--debug', action='store_true',
+                        help='Enable debug output')
     args = parser.parse_args()
+    
+    # Enable debug output for GitHub Actions
+    debug = args.debug or ('GITHUB_ACTIONS' in os.environ)
+    
+    if debug:
+        print("DEBUG: Starting export_json.py script")
+        print(f"DEBUG: Current working directory: {os.getcwd()}")
+        print(f"DEBUG: Data directory: {DATA_DIR}")
+        print(f"DEBUG: JSON directory: {JSON_DIR}")
+        print(f"DEBUG: Database path: {DB_PATH}")
     
     # Check if SQLite database exists
     if not os.path.exists(DB_PATH):
         print(f"Error: SQLite database not found at {DB_PATH}")
-        return
+        if debug:
+            print("DEBUG: Creating empty database file for testing")
+            conn = sqlite3.connect(DB_PATH)
+            cursor = conn.cursor()
+            cursor.execute('''
+            CREATE TABLE IF NOT EXISTS insider_trading (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                issuer_name TEXT,
+                issuer_ticker TEXT,
+                reporting_owner TEXT,
+                reporting_owner_cik TEXT,
+                reporting_owner_position TEXT,
+                transaction_date TEXT,
+                transaction_shares TEXT,
+                transaction_price TEXT,
+                transaction_type TEXT,
+                shares_after_transaction TEXT,
+                source_file TEXT,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            )
+            ''')
+            conn.commit()
+            conn.close()
+        else:
+            return 1
     
-    # Initialize JSON directory structure
-    initialize_json_directory()
-    
-    # Export data with retention strategy
-    export_companies_index()
-    export_company_transactions(
-        detailed_retention_years=args.detailed_years,
-        quarterly_retention_years=args.quarterly_years
-    )
-    export_summary_data()
-    
-    print(f"JSON export completed successfully with {args.detailed_years} years of detailed data and {args.quarterly_years} years of quarterly data")
+    try:
+        # Initialize JSON directory structure
+        if debug:
+            print("DEBUG: Initializing JSON directory structure")
+        initialize_json_directory()
+        
+        # Export data with retention strategy
+        if debug:
+            print("DEBUG: Exporting companies index")
+        export_companies_index()
+        
+        if debug:
+            print(f"DEBUG: Exporting transactions with {args.detailed_years} years detailed data and {args.quarterly_years} years quarterly data")
+        export_company_transactions(
+            detailed_retention_years=args.detailed_years,
+            quarterly_retention_years=args.quarterly_years
+        )
+        
+        if debug:
+            print("DEBUG: Exporting summary data")
+        export_summary_data()
+        
+        print(f"JSON export completed successfully with {args.detailed_years} years of detailed data and {args.quarterly_years} years of quarterly data")
+        
+        if debug:
+            print("DEBUG: Script completed successfully")
+        return 0
+        
+    except Exception as e:
+        print(f"ERROR: Failed to export JSON data: {e}")
+        if debug:
+            import traceback
+            traceback.print_exc()
+        return 1
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())

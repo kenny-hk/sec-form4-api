@@ -51,13 +51,37 @@ def main():
                         help='Skip downloading new filings and only process existing files')
     parser.add_argument('--limit', type=int, default=0,
                         help='Limit the number of S&P 500 companies to download (0 = all)')
+    parser.add_argument('--debug', action='store_true',
+                        help='Enable debug output')
     args = parser.parse_args()
+    
+    # Enable debug output for GitHub Actions
+    debug = args.debug or ('GITHUB_ACTIONS' in os.environ)
+    
+    if debug:
+        print("DEBUG: Starting InsiderTrading.py script")
+        print(f"DEBUG: Current working directory: {os.getcwd()}")
+        print(f"DEBUG: Data directory: {DATA_DIR}")
+        print(f"DEBUG: Database path: {DB_PATH}")
+        print(f"DEBUG: No-download mode: {args.no_download}")
+        print(f"DEBUG: Company limit: {args.limit}")
     
     # Create data directory if it doesn't exist
     os.makedirs(DATA_DIR, exist_ok=True)
     
+    if debug:
+        print("DEBUG: Data directory created or verified")
+        print("DEBUG: Listing files in data directory:")
+        for root, dirs, files in os.walk(DATA_DIR):
+            print(f"DEBUG:   Dir: {root}")
+            for file in files:
+                print(f"DEBUG:     File: {file}")
+    
     # Initialize SQLite database
     initialize_database()
+    
+    if debug:
+        print("DEBUG: Database initialized")
     
     if not args.no_download:
         # Only run download code if --no-download is NOT specified
@@ -69,15 +93,40 @@ def main():
         # Initialize the downloader with company name and user email (required by SEC)
         company_name = "Insider Trading API Project"
         user_email = "insidertrading-api@example.com"  # Replace with your email when running locally
-        dl = Downloader(company_name, user_email, DATA_DIR)
+        if debug:
+            print(f"DEBUG: Using company name: {company_name}")
+            print(f"DEBUG: Using email: {user_email}")
+        
+        try:
+            dl = Downloader(company_name, user_email, DATA_DIR)
+            if debug:
+                print("DEBUG: Downloader initialized successfully")
+        except Exception as e:
+            print(f"ERROR: Failed to initialize downloader: {e}")
+            if debug:
+                import traceback
+                traceback.print_exc()
+            return 1
         
         # Get S&P 500 companies dynamically
-        companies = get_sp500_companies()
+        try:
+            companies = get_sp500_companies()
+            if debug:
+                print(f"DEBUG: Successfully fetched companies: {len(companies)}")
+                print(f"DEBUG: First 5 companies: {companies[:5]}")
+        except Exception as e:
+            print(f"ERROR: Failed to get S&P 500 companies: {e}")
+            if debug:
+                import traceback
+                traceback.print_exc()
+            return 1
         
         # Apply limit if specified
         if args.limit > 0 and args.limit < len(companies):
             print(f"Limiting to the first {args.limit} companies (out of {len(companies)} total S&P 500 companies)")
             companies = companies[:args.limit]
+            if debug:
+                print(f"DEBUG: Limited to companies: {companies}")
         else:
             print(f"Processing all {len(companies)} S&P 500 companies")
         
@@ -85,17 +134,46 @@ def main():
         for i, ticker in enumerate(companies):
             try:
                 print(f"[{i+1}/{len(companies)}] Downloading Form 4 filings for {ticker}...")
+                if debug:
+                    print(f"DEBUG: Starting download for {ticker}")
+                
                 # Download Form 4 filings within the specified date range
                 # Set download_details=True to get the XML files
                 dl.get("4", ticker, after=start_date, before=end_date, download_details=True)
                 print(f"Successfully downloaded Form 4 filings for {ticker}")
             except Exception as e:
                 print(f"Error downloading Form 4 filings for {ticker}: {e}")
+                if debug:
+                    import traceback
+                    traceback.print_exc()
     else:
         print("Skipping download, processing existing files only...")
+        if debug:
+            print("DEBUG: No-download mode, checking for existing files:")
+            # List files
+            for root, dirs, files in os.walk(os.path.join(DATA_DIR, "sec-edgar-filings")):
+                print(f"DEBUG:   Dir: {root}")
+                for file in files:
+                    print(f"DEBUG:     File: {file}")
     
     # Process the downloaded Form 4 filings
-    process_form4_filings()
+    try:
+        if debug:
+            print("DEBUG: Starting to process Form 4 filings")
+        process_form4_filings()
+        if debug:
+            print("DEBUG: Successfully processed Form 4 filings")
+    except Exception as e:
+        print(f"ERROR: Failed to process Form 4 filings: {e}")
+        if debug:
+            import traceback
+            traceback.print_exc()
+        return 1
+    
+    if debug:
+        print("DEBUG: Script completed successfully")
+    
+    return 0
 
 def initialize_database():
     """Initialize SQLite database with the required tables."""
@@ -338,4 +416,5 @@ def query_insider_trading(ticker=None, date_from=None, date_to=None, limit=10):
     return df
 
 if __name__ == "__main__":
-    main()
+    import sys
+    sys.exit(main())
