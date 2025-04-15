@@ -36,25 +36,36 @@ jobs:
           # Set up environment with a valid email (SEC requires a valid email)
           sed -i 's/insidertrading-api@example.com/action@github.com/g' InsiderTrading.py
           
-          # Create data directory structure with some sample files
+          # Create necessary directories
           mkdir -p data/sec-edgar-filings
           mkdir -p data/json
           
-          # Create sample file to avoid errors in no-download mode
-          mkdir -p data/sec-edgar-filings/AAPL/4/sample
-          echo '<ownershipDocument></ownershipDocument>' > data/sec-edgar-filings/AAPL/4/sample/primary-document.xml
-          
-          # Initialize the database and check if it works
-          echo "Running with --no-download flag to initialize database..."
-          python InsiderTrading.py --no-download || echo "No-download mode completed with status $?"
-          
-          # Ensure the export_json.py runs correctly even with minimal data
-          touch data/insider_trading.db
-          python export_json.py || echo "JSON export completed with status $?"
-          
-          # Try to fetch a very small amount of data (just 1 company)
-          echo "Attempting to download data for 1 company..."
-          python InsiderTrading.py --limit 1 || echo "Download completed with status $?"
+          # Check if database already exists - this indicates a previous run
+          if [ -f "data/insider_trading.db" ]; then
+            echo "Database exists, downloading only new filings..."
+            
+            # Calculate date range using Python for cross-platform compatibility
+            DATE_RANGE=$(python3 -c "from datetime import datetime, timedelta; today=datetime.now(); yesterday=today-timedelta(days=1); print(f'{yesterday.strftime(\"%Y-%m-%d\")}:{today.strftime(\"%Y-%m-%d\")}')")
+            
+            echo "Date range: $DATE_RANGE"
+            # Download new data for all S&P 500 companies, but only yesterday's data
+            python InsiderTrading.py --date-range $DATE_RANGE
+          else
+            echo "First run, creating database and initial data..."
+            # Initialize database with sample structure
+            mkdir -p data/sec-edgar-filings/AAPL/4/sample
+            echo '<ownershipDocument></ownershipDocument>' > data/sec-edgar-filings/AAPL/4/sample/primary-document.xml
+            
+            # Initialize the database structure
+            python InsiderTrading.py --no-download
+            
+            # Download historical data for all companies (past 7 days to start)
+            # A shorter timeframe for the initial dataset to avoid timeouts
+            DATE_RANGE=$(python3 -c "from datetime import datetime, timedelta; today=datetime.now(); week_ago=today-timedelta(days=7); print(f'{week_ago.strftime(\"%Y-%m-%d\")}:{today.strftime(\"%Y-%m-%d\")}')")
+            
+            echo "Initial data range: $DATE_RANGE"
+            python InsiderTrading.py --date-range $DATE_RANGE
+          fi
       
       - name: Export data to JSON for API
         run: |

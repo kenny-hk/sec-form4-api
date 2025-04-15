@@ -51,6 +51,8 @@ def main():
                         help='Skip downloading new filings and only process existing files')
     parser.add_argument('--limit', type=int, default=0,
                         help='Limit the number of S&P 500 companies to download (0 = all)')
+    parser.add_argument('--date-range', type=str, 
+                        help='Date range for downloading filings in format YYYY-MM-DD:YYYY-MM-DD')
     parser.add_argument('--debug', action='store_true',
                         help='Enable debug output')
     args = parser.parse_args()
@@ -86,8 +88,28 @@ def main():
     if not args.no_download:
         # Only run download code if --no-download is NOT specified
         # Define date range for Form 4 filings
-        end_date = datetime.now().strftime("%Y-%m-%d")  # Today
-        start_date = (datetime.now() - timedelta(days=180)).strftime("%Y-%m-%d")  # 6 months ago
+        if args.date_range:
+            # Parse the date range from the argument (format: YYYY-MM-DD:YYYY-MM-DD)
+            try:
+                start_date, end_date = args.date_range.split(':')
+                # Validate dates
+                datetime.strptime(start_date, "%Y-%m-%d")
+                datetime.strptime(end_date, "%Y-%m-%d")
+                if debug:
+                    print(f"DEBUG: Using custom date range: {start_date} to {end_date}")
+            except ValueError as e:
+                print(f"ERROR: Invalid date range format. Use YYYY-MM-DD:YYYY-MM-DD. Error: {e}")
+                if debug:
+                    import traceback
+                    traceback.print_exc()
+                return 1
+        else:
+            # Default to last 30 days if no date range specified
+            end_date = datetime.now().strftime("%Y-%m-%d")  # Today
+            start_date = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")  # 30 days ago
+            if debug:
+                print(f"DEBUG: Using default date range (last 30 days): {start_date} to {end_date}")
+                
         print(f"Using sec-edgar-downloader to fetch Form 4 filings from {start_date} to {end_date}...")
         
         # Initialize the downloader with company name and user email (required by SEC)
