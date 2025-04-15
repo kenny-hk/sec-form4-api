@@ -65,20 +65,56 @@
     </div>
 
     <div class="endpoint">
-        <h3>Get Latest Transactions for a Company</h3>
-        <code>GET /data/json/{ticker}/latest.json</code>
-        <p>Returns the 50 most recent insider trading transactions for the specified company.</p>
+        <h3>Get All Transactions for a Company</h3>
+        <code>GET /data/json/{ticker}/transactions.json</code>
+        <p>Returns comprehensive insider trading data for the specified company. This endpoint provides a complete dataset that can be filtered client-side.</p>
         <pre><code>{
   "ticker": "AAPL",
   "last_updated": "2024-04-15T10:30:45.123456",
-  "count": 50,
-  "trades": [
+  "count": 120,
+  "transactions": [
     {
       "id": 123,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Cook, Tim",
+      "reporting_owner_cik": "0001214156",
       "reporting_owner_position": "Chief Executive Officer",
       "transaction_date": "2025-04-10",
+      "transaction_shares": "10000",
+      "transaction_price": "180.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "845000"
+    },
+    ...
+  ]
+}</code></pre>
+        <h4>Client-Side Filtering</h4>
+        <p>You can implement filtering on your side using these parameters:</p>
+        <ul>
+            <li><strong>Date Range:</strong> Filter by transaction_date</li>
+            <li><strong>Transaction Type:</strong> Filter by transaction_type (A = Grant/Award, G = Gift, M = Exercise, S = Sale)</li>
+            <li><strong>Data Fields:</strong> Include/exclude shares or price information as needed</li>
+        </ul>
+    </div>
+
+    <div class="endpoint">
+        <h3>Get Quarterly Transactions for a Company</h3>
+        <code>GET /data/json/{ticker}/quarterly/{YYYY-Q#}.json</code>
+        <p>Returns insider trading transactions for a specific quarter. For example: AAPL/quarterly/2024-Q2.json</p>
+        <pre><code>{
+  "ticker": "AAPL",
+  "year": 2024,
+  "quarter": 2,
+  "last_updated": "2024-04-15T10:30:45.123456",
+  "count": 35,
+  "transactions": [
+    {
+      "id": 123,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Cook, Tim",
+      "reporting_owner_cik": "0001214156",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2024-06-15",
       "transaction_shares": "10000",
       "transaction_price": "180.25",
       "transaction_type": "S",
@@ -117,25 +153,63 @@
 
     <h2>Usage Examples</h2>
 
-    <h3>JavaScript Example</h3>
-    <pre><code>// Fetch all companies
-fetch('https://yourusername.github.io/insider-trading-detection/data/json/companies.json')
+    <h3>JavaScript Example with Client-Side Filtering</h3>
+    <pre><code>// Fetch transactions for Apple and apply filters
+fetch('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
   .then(response => response.json())
   .then(data => {
-    console.log(`Found ${data.count} companies`);
-    // Process the data
+    // Filter by date range (last year)
+    const oneYearAgo = new Date();
+    oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+    
+    // Filter by transaction type (sales only) and date
+    const salesOnly = data.transactions.filter(tx => {
+      const txDate = new Date(tx.transaction_date);
+      return tx.transaction_type === 'S' && txDate >= oneYearAgo;
+    });
+    
+    console.log(`Found ${salesOnly.length} sales transactions in the last year`);
+    
+    // Calculate total shares sold
+    const totalShares = salesOnly.reduce((sum, tx) => {
+      return sum + (parseFloat(tx.transaction_shares) || 0);
+    }, 0);
+    
+    console.log(`Total shares sold: ${totalShares.toLocaleString()}`);
   });</code></pre>
 
-    <h3>Python Example</h3>
+    <h3>Python Example with Client-Side Filtering</h3>
     <pre><code>import requests
+import pandas as pd
+from datetime import datetime, timedelta
 
-# Fetch latest transactions for Apple
-response = requests.get('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/latest.json')
+# Fetch all transactions for Apple
+response = requests.get('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
 data = response.json()
 
-print(f"Found {data['count']} transactions for {data['ticker']}")
-for trade in data['trades']:
-    print(f"{trade['transaction_date']}: {trade['reporting_owner']} {trade['transaction_type']} {trade['transaction_shares']} shares at ${trade['transaction_price']}")</code></pre>
+# Convert to DataFrame for easy filtering
+df = pd.DataFrame(data['transactions'])
+
+# Client-side filtering examples
+# 1. Filter by date range (last 6 months)
+six_months_ago = (datetime.now() - timedelta(days=180)).strftime('%Y-%m-%d')
+recent_df = df[df['transaction_date'] >= six_months_ago]
+
+# 2. Filter by transaction type (only sales and purchases)
+sales_purchases = df[df['transaction_type'].isin(['S', 'P'])]
+
+# 3. Filter by specific executive role
+ceo_transactions = df[df['reporting_owner_position'].str.contains('CEO', na=False)]
+
+# 4. Find largest transactions by value
+df['value'] = df['transaction_shares'].astype(float) * df['transaction_price'].astype(float)
+largest_transactions = df.sort_values('value', ascending=False).head(10)
+
+print(f"Found {len(df)} total transactions for {data['ticker']}")
+print(f"Transactions in last 6 months: {len(recent_df)}")
+print(f"Sales and purchases: {len(sales_purchases)}")
+print(f"CEO transactions: {len(ceo_transactions)}")
+print(f"Largest transaction value: ${largest_transactions.iloc[0]['value']:,.2f}")</code></pre>
 
     <h2>Data Update Schedule</h2>
     <p>

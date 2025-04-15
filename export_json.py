@@ -62,8 +62,8 @@ def export_companies_index():
     conn.close()
     print(f"Exported data for {len(companies)} companies to companies.json")
 
-def export_company_latest_trades(limit=50):
-    """Export latest trades for each company."""
+def export_company_transactions(limit=1000):
+    """Export comprehensive transaction data for each company."""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
@@ -72,12 +72,13 @@ def export_company_latest_trades(limit=50):
     tickers = [row[0] for row in cursor.fetchall()]
     
     for ticker in tickers:
-        # Get latest trades
+        # Get all trades with complete data
         trades = pd.read_sql_query(f"""
             SELECT 
                 id,
                 issuer_name,
                 reporting_owner,
+                reporting_owner_cik,
                 reporting_owner_position,
                 transaction_date,
                 transaction_shares,
@@ -96,17 +97,41 @@ def export_company_latest_trades(limit=50):
         # Convert to list of dictionaries for JSON
         trades_list = trades.to_dict(orient='records')
         
-        # Write to JSON file
-        with open(os.path.join(JSON_DIR, ticker, 'latest.json'), 'w') as f:
+        # Write to JSON file with complete data
+        with open(os.path.join(JSON_DIR, ticker, 'transactions.json'), 'w') as f:
             json.dump({
                 'ticker': ticker,
                 'last_updated': datetime.now().isoformat(),
                 'count': len(trades_list),
-                'trades': trades_list
+                'transactions': trades_list
             }, f, indent=2)
+            
+        # Also create quarterly files for this ticker if we have enough data
+        if len(trades) > 0:
+            # Add quarter information for grouping
+            trades['year'] = pd.to_datetime(trades['transaction_date']).dt.year
+            trades['quarter'] = pd.to_datetime(trades['transaction_date']).dt.quarter
+            
+            # Group by year and quarter
+            for (year, quarter), group in trades.groupby(['year', 'quarter']):
+                quarterly_dir = os.path.join(JSON_DIR, ticker, 'quarterly')
+                os.makedirs(quarterly_dir, exist_ok=True)
+                
+                quarter_file = f"{year}-Q{quarter}.json"
+                group_list = group.drop(['year', 'quarter'], axis=1).to_dict(orient='records')
+                
+                with open(os.path.join(quarterly_dir, quarter_file), 'w') as f:
+                    json.dump({
+                        'ticker': ticker,
+                        'year': int(year),
+                        'quarter': int(quarter),
+                        'last_updated': datetime.now().isoformat(),
+                        'count': len(group_list),
+                        'transactions': group_list
+                    }, f, indent=2)
     
     conn.close()
-    print(f"Exported latest trades for {len(tickers)} companies")
+    print(f"Exported comprehensive transaction data for {len(tickers)} companies")
 
 def export_summary_data():
     """Export summary with notable transactions across companies."""
@@ -180,7 +205,7 @@ def main():
     
     # Export data
     export_companies_index()
-    export_company_latest_trades()
+    export_company_transactions()
     export_summary_data()
     
     print("JSON export completed successfully")
