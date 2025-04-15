@@ -1,6 +1,9 @@
 # Data directories
 data/sec-edgar-filings/
 data/*.csv
+data/*.db
+# Keep JSON files for API
+!data/json/
 
 # Python
 __pycache__/
