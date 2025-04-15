@@ -25,7 +25,7 @@ jobs:
       
       - name: Collect insider trading data
         run: |
-          python InsiderTrading.py --limit 20  # Limit to 20 companies to stay within GitHub Actions limits
+          python InsiderTrading.py  # Collect data for all S&P 500 companies
       
       - name: Export data to JSON for API
         run: |

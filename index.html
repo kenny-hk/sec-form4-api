@@ -214,7 +214,17 @@ print(f"Largest transaction value: ${largest_transactions.iloc[0]['value']:,.2f}
     <h2>Data Update Schedule</h2>
     <p>
         The insider trading data is updated daily at 8:00 UTC through an automated GitHub Actions workflow. 
-        Each update fetches the latest Form 4 filings from the SEC EDGAR database for 20 S&P 500 companies.
+        Each update fetches the latest Form 4 filings from the SEC EDGAR database for all S&P 500 companies.
+    </p>
+    
+    <h2>Data Retention Policy</h2>
+    <p>
+        To optimize storage and performance, we implement the following data retention policy:
+        <ul>
+            <li><strong>Detailed Transaction Data:</strong> Full transaction details for the most recent 3 years</li>
+            <li><strong>Quarterly Summary Data:</strong> Quarterly transaction data for the past 10 years</li>
+            <li><strong>Data Freshness:</strong> All data is updated daily with the latest SEC filings</li>
+        </ul>
     </p>
 
     <h2>GitHub Repository</h2>

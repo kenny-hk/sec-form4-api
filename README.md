@@ -4,13 +4,21 @@ A free, public API for S&P 500 insider trading data from SEC Form 4 filings, hos
 
 ## Overview
 
-This project automatically collects Form 4 filings (insider trading reports) from the SEC EDGAR database for S&P 500 companies. It processes and provides this data through a simple, free API accessible to anyone. The data includes:
+This project automatically collects Form 4 filings (insider trading reports) from the SEC EDGAR database for all S&P 500 companies. It processes and provides this data through a simple, free API accessible to anyone. The data includes:
 
 - Issuer name and ticker
 - Reporting owner and position
 - Transaction date, shares, and price
 - Transaction type
 - Post-transaction holdings
+
+## Data Retention
+
+To optimize storage and performance while maintaining comprehensive historical data:
+
+- **Detailed Transactions:** Full transaction details for the most recent 3 years
+- **Quarterly Summaries:** Quarterly transaction data for the past 10 years
+- **Daily Updates:** All data refreshed daily with the latest SEC filings
 
 ## Features
 
