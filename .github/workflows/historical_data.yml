@@ -113,7 +113,8 @@ jobs:
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             
-            git add data/json/ data/insider_trading.db
+            # Only add JSON files, not the database
+            git add data/json/
             
             if ! git diff --quiet --staged; then
               git commit -m "Add historical data from $start_date to $end_date [skip ci]"
