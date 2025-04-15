@@ -2,11 +2,23 @@
   "ticker": "OTIS",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 5,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 9,
   "transactions": [
     {
       "id": 127266,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Luersman Abbe",
+      "reporting_owner_cik": "0001875003",
+      "reporting_owner_position": "EVP & CPO",
+      "transaction_date": "2023-08-02",
+      "transaction_shares": "1200",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "2829"
+    },
+    {
+      "id": 176455,
       "issuer_name": "Otis Worldwide Corp",
       "reporting_owner": "Luersman Abbe",
       "reporting_owner_cik": "0001875003",
@@ -42,6 +54,30 @@
       "shares_after_transaction": "34668"
     },
     {
+      "id": 176428,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Ryan Michael Patrick",
+      "reporting_owner_cik": "0001805849",
+      "reporting_owner_position": "VP, CAO & Controller",
+      "transaction_date": "2023-07-28",
+      "transaction_shares": "6372",
+      "transaction_price": "90.5015",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 176474,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Calleja Fernandez Bernardo",
+      "reporting_owner_cik": "0001831497",
+      "reporting_owner_position": "President, Otis EMEA",
+      "transaction_date": "2023-07-28",
+      "transaction_shares": "2213",
+      "transaction_price": "58.66",
+      "transaction_type": "M",
+      "shares_after_transaction": "34668"
+    },
+    {
       "id": 84212,
       "issuer_name": "Otis Worldwide Corp",
       "reporting_owner": "Calleja Fernandez Bernardo",
@@ -55,6 +91,18 @@
     },
     {
       "id": 127253,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Calleja Fernandez Bernardo",
+      "reporting_owner_cik": "0001831497",
+      "reporting_owner_position": "President, Otis EMEA",
+      "transaction_date": "2023-07-01",
+      "transaction_shares": "15385",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "37600"
+    },
+    {
+      "id": 176439,
       "issuer_name": "Otis Worldwide Corp",
       "reporting_owner": "Calleja Fernandez Bernardo",
       "reporting_owner_cik": "0001831497",

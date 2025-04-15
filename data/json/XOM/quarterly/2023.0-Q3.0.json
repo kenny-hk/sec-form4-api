@@ -2,11 +2,23 @@
   "ticker": "XOM",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 4,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 8,
   "transactions": [
     {
       "id": 159929,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Talley Darrin L",
+      "reporting_owner_cik": "0001918108",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2023-09-05",
+      "transaction_shares": "1500",
+      "transaction_price": "115.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "27772"
+    },
+    {
+      "id": 214053,
       "issuer_name": "EXXON MOBIL CORP",
       "reporting_owner": "Talley Darrin L",
       "reporting_owner_cik": "0001918108",
@@ -42,7 +54,43 @@
       "shares_after_transaction": "1702000"
     },
     {
+      "id": 214048,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Williams Jack P Jr",
+      "reporting_owner_cik": "0001495010",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2023-08-01",
+      "transaction_shares": "215",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "740153"
+    },
+    {
+      "id": 214065,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "UBBEN JEFFREY W",
+      "reporting_owner_cik": "0001159187",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-01",
+      "transaction_shares": "67000",
+      "transaction_price": "106.2631",
+      "transaction_type": "P",
+      "shares_after_transaction": "1702000"
+    },
+    {
       "id": 159951,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "UBBEN JEFFREY W",
+      "reporting_owner_cik": "0001159187",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-31",
+      "transaction_shares": "10000",
+      "transaction_price": "105.2026",
+      "transaction_type": "P",
+      "shares_after_transaction": "1187000"
+    },
+    {
+      "id": 214087,
       "issuer_name": "EXXON MOBIL CORP",
       "reporting_owner": "UBBEN JEFFREY W",
       "reporting_owner_cik": "0001159187",

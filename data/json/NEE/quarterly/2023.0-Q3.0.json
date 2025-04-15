@@ -2,11 +2,23 @@
   "ticker": "NEE",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 3,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 6,
   "transactions": [
     {
       "id": 131109,
+      "issuer_name": "NEXTERA ENERGY INC",
+      "reporting_owner": "HACHIGIAN KIRK S",
+      "reporting_owner_cik": "0001210484",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-17",
+      "transaction_shares": "5000",
+      "transaction_price": "67.96",
+      "transaction_type": "P",
+      "shares_after_transaction": "15000"
+    },
+    {
+      "id": 180881,
       "issuer_name": "NEXTERA ENERGY INC",
       "reporting_owner": "HACHIGIAN KIRK S",
       "reporting_owner_cik": "0001210484",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "6000"
     },
     {
+      "id": 180820,
+      "issuer_name": "NEXTERA ENERGY INC",
+      "reporting_owner": "CAMAREN JAMES LAWRENCE",
+      "reporting_owner_cik": "0001212969",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-15",
+      "transaction_shares": "2000",
+      "transaction_price": "68.15",
+      "transaction_type": "P",
+      "shares_after_transaction": "6000"
+    },
+    {
       "id": 131146,
+      "issuer_name": "NEXTERA ENERGY INC",
+      "reporting_owner": "Coffey Robert",
+      "reporting_owner_cik": "0001867736",
+      "reporting_owner_position": "EVP, Nuclear Div & CNO",
+      "transaction_date": "2023-07-22",
+      "transaction_shares": "165",
+      "transaction_price": "75.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "11127"
+    },
+    {
+      "id": 180923,
       "issuer_name": "NEXTERA ENERGY INC",
       "reporting_owner": "Coffey Robert",
       "reporting_owner_cik": "0001867736",

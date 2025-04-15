@@ -2,11 +2,23 @@
   "ticker": "GM",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 3,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 5,
   "transactions": [
     {
       "id": 152793,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Johnson Gerald",
+      "reporting_owner_cik": "0001772226",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-08-10",
+      "transaction_shares": "15891",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "85698"
+    },
+    {
+      "id": 205961,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Johnson Gerald",
       "reporting_owner_cik": "0001772226",
@@ -31,6 +43,18 @@
     },
     {
       "id": 152822,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Reuss Mark L",
+      "reporting_owner_cik": "0001492362",
+      "reporting_owner_position": "President",
+      "transaction_date": "2023-07-13",
+      "transaction_shares": "9300",
+      "transaction_price": "41",
+      "transaction_type": "S",
+      "shares_after_transaction": "282973"
+    },
+    {
+      "id": 206000,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Reuss Mark L",
       "reporting_owner_cik": "0001492362",

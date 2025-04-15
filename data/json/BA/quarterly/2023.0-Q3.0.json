@@ -2,11 +2,23 @@
   "ticker": "BA",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 5,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 9,
   "transactions": [
     {
       "id": 135597,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "COLBERT THEODORE III",
+      "reporting_owner_cik": "0001671300",
+      "reporting_owner_position": "EVP, Pres. & CEO, BDS",
+      "transaction_date": "2023-08-01",
+      "transaction_shares": "8500.0000",
+      "transaction_price": "238.3690",
+      "transaction_type": "S",
+      "shares_after_transaction": "59255.0420"
+    },
+    {
+      "id": 186047,
       "issuer_name": "BOEING CO",
       "reporting_owner": "COLBERT THEODORE III",
       "reporting_owner_cik": "0001671300",
@@ -42,6 +54,30 @@
       "shares_after_transaction": "22045.4760"
     },
     {
+      "id": 185965,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "MOLLENKOPF STEVEN M",
+      "reporting_owner_cik": "0001434806",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-07-31",
+      "transaction_shares": "850.0000",
+      "transaction_price": "237.0000",
+      "transaction_type": "P",
+      "shares_after_transaction": "3767.0000"
+    },
+    {
+      "id": 186061,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "Doniz Susan",
+      "reporting_owner_cik": "0001808920",
+      "reporting_owner_position": "CIO & SVP, IT & Data Analytics",
+      "transaction_date": "2023-07-31",
+      "transaction_shares": "1422.0000",
+      "transaction_price": "237.6400",
+      "transaction_type": "F",
+      "shares_after_transaction": "22045.4760"
+    },
+    {
       "id": 91634,
       "issuer_name": "BOEING CO",
       "reporting_owner": "D AMBROSE MICHAEL",
@@ -55,6 +91,18 @@
     },
     {
       "id": 135585,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "D AMBROSE MICHAEL",
+      "reporting_owner_cik": "0001140012",
+      "reporting_owner_position": "CHRO, EVP, Human Resources",
+      "transaction_date": "2023-07-06",
+      "transaction_shares": "4311.9830",
+      "transaction_price": "211.6000",
+      "transaction_type": "F",
+      "shares_after_transaction": "36387.1280"
+    },
+    {
+      "id": 186032,
       "issuer_name": "BOEING CO",
       "reporting_owner": "D AMBROSE MICHAEL",
       "reporting_owner_cik": "0001140012",

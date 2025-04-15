@@ -1,11 +1,23 @@
 {
   "ticker": "PHM",
-  "last_updated": "2025-04-15T15:30:14.989776",
+  "last_updated": "2025-04-15T16:12:15.965878",
   "retention_years": 3,
-  "count": 98,
+  "count": 131,
   "transactions": [
     {
       "id": 123900,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Snyder Lila",
+      "reporting_owner_cik": "0001660756",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-03",
+      "transaction_shares": "4000",
+      "transaction_price": "80.734",
+      "transaction_type": "S",
+      "shares_after_transaction": "5540"
+    },
+    {
+      "id": 172591,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Snyder Lila",
       "reporting_owner_cik": "0001660756",
@@ -41,6 +53,18 @@
       "shares_after_transaction": "4699"
     },
     {
+      "id": 172604,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "HENRY KEVIN A",
+      "reporting_owner_cik": "0001222739",
+      "reporting_owner_position": "EVP and Chief People Officer",
+      "transaction_date": "2023-06-20",
+      "transaction_shares": "4699",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "4699"
+    },
+    {
       "id": 81238,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Koart Matthew William",
@@ -54,6 +78,18 @@
     },
     {
       "id": 123899,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Koart Matthew William",
+      "reporting_owner_cik": "0001978932",
+      "reporting_owner_position": "Exec. VP & COO",
+      "transaction_date": "2023-05-18",
+      "transaction_shares": "14318",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "14318"
+    },
+    {
+      "id": 172590,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Koart Matthew William",
       "reporting_owner_cik": "0001978932",
@@ -257,6 +293,102 @@
       "shares_after_transaction": "26998"
     },
     {
+      "id": 172585,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Hawaux Andre J",
+      "reporting_owner_cik": "0001327043",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "70459"
+    },
+    {
+      "id": 172595,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "FOLLIARD THOMAS J",
+      "reporting_owner_cik": "0001223841",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "64230"
+    },
+    {
+      "id": 172597,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "GRISE CHERYL W",
+      "reporting_owner_cik": "0001192342",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "10903"
+    },
+    {
+      "id": 172598,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "ANDERSON BRIAN P",
+      "reporting_owner_cik": "0001124167",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "58589"
+    },
+    {
+      "id": 172601,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Snyder Lila",
+      "reporting_owner_cik": "0001660756",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "9540"
+    },
+    {
+      "id": 172602,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Holloman James Phillip",
+      "reporting_owner_cik": "0001424987",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "4380"
+    },
+    {
+      "id": 172603,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "BLAIR BRYCE",
+      "reporting_owner_cik": "0001219691",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "138634.648"
+    },
+    {
+      "id": 172610,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "POWERS SCOTT F",
+      "reporting_owner_cik": "0001286771",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-03",
+      "transaction_shares": "2703",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "26998"
+    },
+    {
       "id": 81231,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "OShaughnessy Robert",
@@ -305,6 +437,30 @@
       "shares_after_transaction": "55886"
     },
     {
+      "id": 172583,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "OShaughnessy Robert",
+      "reporting_owner_cik": "0001355763",
+      "reporting_owner_position": "Exec. VP & CFO",
+      "transaction_date": "2023-04-28",
+      "transaction_shares": "115102",
+      "transaction_price": "66.898",
+      "transaction_type": "S",
+      "shares_after_transaction": "177564"
+    },
+    {
+      "id": 172616,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "ANDERSON BRIAN P",
+      "reporting_owner_cik": "0001124167",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-28",
+      "transaction_shares": "15000",
+      "transaction_price": "66.949",
+      "transaction_type": "S",
+      "shares_after_transaction": "55886"
+    },
+    {
       "id": 81234,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "MARSHALL RYAN",
@@ -318,6 +474,18 @@
     },
     {
       "id": 123895,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "MARSHALL RYAN",
+      "reporting_owner_cik": "0001550667",
+      "reporting_owner_position": "Chief Exec Officer, President",
+      "transaction_date": "2023-04-27",
+      "transaction_shares": "98000",
+      "transaction_price": "65.274",
+      "transaction_type": "S",
+      "shares_after_transaction": "645574"
+    },
+    {
+      "id": 172586,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "MARSHALL RYAN",
       "reporting_owner_cik": "0001550667",
@@ -365,6 +533,18 @@
       "shares_after_transaction": "82339"
     },
     {
+      "id": 172605,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Sheldon Todd N",
+      "reporting_owner_cik": "0001573233",
+      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "transaction_date": "2023-03-02",
+      "transaction_shares": "15998",
+      "transaction_price": "53.832",
+      "transaction_type": "S",
+      "shares_after_transaction": "82339"
+    },
+    {
       "id": 46801,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Chadwick John J.",
@@ -390,6 +570,18 @@
     },
     {
       "id": 123896,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Chadwick John J.",
+      "reporting_owner_cik": "0001540688",
+      "reporting_owner_position": "Exec VP & Chief Operating Ofcr",
+      "transaction_date": "2023-02-14",
+      "transaction_shares": "29817",
+      "transaction_price": "56.626",
+      "transaction_type": "S",
+      "shares_after_transaction": "87428"
+    },
+    {
+      "id": 172587,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Chadwick John J.",
       "reporting_owner_cik": "0001540688",
@@ -617,6 +809,78 @@
       "shares_after_transaction": "292666"
     },
     {
+      "id": 172584,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "O'Meara Brien P.",
+      "reporting_owner_cik": "0001803124",
+      "reporting_owner_position": "Vice President & Controller",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "1225",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "16083"
+    },
+    {
+      "id": 172593,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Hairston Michelle H.",
+      "reporting_owner_cik": "0001735544",
+      "reporting_owner_position": "Senior Vice President - HR",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "1901",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "77316"
+    },
+    {
+      "id": 172594,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "MARSHALL RYAN",
+      "reporting_owner_cik": "0001550667",
+      "reporting_owner_position": "Chief Exec Officer, President",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "30402",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "743574"
+    },
+    {
+      "id": 172600,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Sheldon Todd N",
+      "reporting_owner_cik": "0001573233",
+      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "4054",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "98337"
+    },
+    {
+      "id": 172606,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Chadwick John J.",
+      "reporting_owner_cik": "0001540688",
+      "reporting_owner_position": "Exec VP & Chief Operating Ofcr",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "6630",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "117245"
+    },
+    {
+      "id": 172612,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "OShaughnessy Robert",
+      "reporting_owner_cik": "0001355763",
+      "reporting_owner_position": "Exec. VP & CFO",
+      "transaction_date": "2023-02-06",
+      "transaction_shares": "8886",
+      "transaction_price": "59.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "292666"
+    },
+    {
       "id": 46799,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Sheldon Todd N",
@@ -833,6 +1097,78 @@
       "shares_after_transaction": "275457"
     },
     {
+      "id": 172582,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Sheldon Todd N",
+      "reporting_owner_cik": "0001573233",
+      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "12590",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "90783"
+    },
+    {
+      "id": 172596,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "MARSHALL RYAN",
+      "reporting_owner_cik": "0001550667",
+      "reporting_owner_position": "Chief Exec Officer, President",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "94421",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "719189"
+    },
+    {
+      "id": 172599,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "O'Meara Brien P.",
+      "reporting_owner_cik": "0001803124",
+      "reporting_owner_position": "Vice President & Controller",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "3935",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18767"
+    },
+    {
+      "id": 172611,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Hairston Michelle H.",
+      "reporting_owner_cik": "0001735544",
+      "reporting_owner_position": "Senior Vice President - HR",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "5902",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "69396"
+    },
+    {
+      "id": 172615,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Chadwick John J.",
+      "reporting_owner_cik": "0001540688",
+      "reporting_owner_position": "Exec VP & Chief Operating Ofcr",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "22032",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "98380"
+    },
+    {
+      "id": 172617,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "OShaughnessy Robert",
+      "reporting_owner_cik": "0001355763",
+      "reporting_owner_position": "Exec. VP & CFO",
+      "transaction_date": "2023-02-01",
+      "transaction_shares": "29114",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "275457"
+    },
+    {
       "id": 9695,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Sheldon Todd N",
@@ -882,6 +1218,18 @@
     },
     {
       "id": 123918,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Sheldon Todd N",
+      "reporting_owner_cik": "0001573233",
+      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "transaction_date": "2022-08-18",
+      "transaction_shares": "2500",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "78193"
+    },
+    {
+      "id": 172609,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Sheldon Todd N",
       "reporting_owner_cik": "0001573233",
@@ -1170,6 +1518,54 @@
     },
     {
       "id": 123929,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Snyder Lila",
+      "reporting_owner_cik": "0001660756",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "3383",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "6837"
+    },
+    {
+      "id": 172588,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Hawaux Andre J",
+      "reporting_owner_cik": "0001327043",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "3383",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "67756"
+    },
+    {
+      "id": 172613,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "ANDERSON BRIAN P",
+      "reporting_owner_cik": "0001124167",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "3383",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "70886"
+    },
+    {
+      "id": 172614,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "BLAIR BRYCE",
+      "reporting_owner_cik": "0001219691",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "3383",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "135931.648"
+    },
+    {
+      "id": 172620,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Snyder Lila",
       "reporting_owner_cik": "0001660756",

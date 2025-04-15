@@ -2,11 +2,23 @@
   "ticker": "PNR",
   "year": 2023,
   "quarter": 3,
-  "last_updated": "2025-04-15T15:30:14.989776",
-  "count": 5,
+  "last_updated": "2025-04-15T16:12:15.965878",
+  "count": 10,
   "transactions": [
     {
       "id": 123299,
+      "issuer_name": "PENTAIR plc",
+      "reporting_owner": "Pilla Stephen J",
+      "reporting_owner_cik": "0001817754",
+      "reporting_owner_position": "EVP Ch Sup Chn Of Ch Trnfrm Of",
+      "transaction_date": "2023-09-30",
+      "transaction_shares": "4679",
+      "transaction_price": "63.56",
+      "transaction_type": "F",
+      "shares_after_transaction": "11894.078"
+    },
+    {
+      "id": 171878,
       "issuer_name": "PENTAIR plc",
       "reporting_owner": "Pilla Stephen J",
       "reporting_owner_cik": "0001817754",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "2135"
     },
     {
+      "id": 171846,
+      "issuer_name": "PENTAIR plc",
+      "reporting_owner": "Doi Tracey",
+      "reporting_owner_cik": "0001527766",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-31",
+      "transaction_shares": "2135",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2135"
+    },
+    {
       "id": 123285,
+      "issuer_name": "PENTAIR plc",
+      "reporting_owner": "Chiu Adrian C",
+      "reporting_owner_cik": "0001847585",
+      "reporting_owner_position": "EVP & Pres., Water Solutions",
+      "transaction_date": "2023-08-28",
+      "transaction_shares": "1179",
+      "transaction_price": "53.49",
+      "transaction_type": "M",
+      "shares_after_transaction": "7763.6786"
+    },
+    {
+      "id": 171858,
       "issuer_name": "PENTAIR plc",
       "reporting_owner": "Chiu Adrian C",
       "reporting_owner_cik": "0001847585",
@@ -54,7 +90,31 @@
       "shares_after_transaction": "169168.9031"
     },
     {
+      "id": 171886,
+      "issuer_name": "PENTAIR plc",
+      "reporting_owner": "Stauch John L",
+      "reporting_owner_cik": "0001390036",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2023-08-10",
+      "transaction_shares": "141883.3779",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "169168.9031"
+    },
+    {
       "id": 123305,
+      "issuer_name": "PENTAIR plc",
+      "reporting_owner": "Stauch John L",
+      "reporting_owner_cik": "0001390036",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2023-08-07",
+      "transaction_shares": "32596",
+      "transaction_price": "51.21",
+      "transaction_type": "M",
+      "shares_after_transaction": "40286.1901"
+    },
+    {
+      "id": 171890,
       "issuer_name": "PENTAIR plc",
       "reporting_owner": "Stauch John L",
       "reporting_owner_cik": "0001390036",
