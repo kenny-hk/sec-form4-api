@@ -2,8 +2,8 @@
   "ticker": "ORCL",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 28,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 52,
   "transactions": [
     {
       "id": 110987,
@@ -19,6 +19,30 @@
     },
     {
       "id": 111014,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "HENLEY JEFFREY",
+      "reporting_owner_cik": "0001206100",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2023-06-27",
+      "transaction_shares": "25000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1111474"
+    },
+    {
+      "id": 157707,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Smith Maria",
+      "reporting_owner_cik": "0001957369",
+      "reporting_owner_position": "EVP, Chief  Accounting Officer",
+      "transaction_date": "2023-06-27",
+      "transaction_shares": "2750",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "23030"
+    },
+    {
+      "id": 157741,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "HENLEY JEFFREY",
       "reporting_owner_cik": "0001206100",
@@ -54,7 +78,43 @@
       "shares_after_transaction": "1147482353"
     },
     {
+      "id": 157684,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "BOSKIN MICHAEL J",
+      "reporting_owner_cik": "0001120621",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-23",
+      "transaction_shares": "90000",
+      "transaction_price": "42.02",
+      "transaction_type": "M",
+      "shares_after_transaction": "177473"
+    },
+    {
+      "id": 157722,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "ELLISON LAWRENCE JOSEPH",
+      "reporting_owner_cik": "0000901999",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2023-06-23",
+      "transaction_shares": "1750000",
+      "transaction_price": "30.11",
+      "transaction_type": "M",
+      "shares_after_transaction": "1147482353"
+    },
+    {
       "id": 111021,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "SELIGMAN NAOMI O",
+      "reporting_owner_cik": "0001192761",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-22",
+      "transaction_shares": "6200",
+      "transaction_price": "43.49",
+      "transaction_type": "M",
+      "shares_after_transaction": "40971"
+    },
+    {
+      "id": 157749,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "SELIGMAN NAOMI O",
       "reporting_owner_cik": "0001192761",
@@ -78,6 +138,18 @@
       "shares_after_transaction": "1147482353"
     },
     {
+      "id": 157703,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "ELLISON LAWRENCE JOSEPH",
+      "reporting_owner_cik": "0000901999",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2023-06-20",
+      "transaction_shares": "1750000",
+      "transaction_price": "30.11",
+      "transaction_type": "M",
+      "shares_after_transaction": "1147482353"
+    },
+    {
       "id": 110988,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "Screven Edward",
@@ -90,7 +162,31 @@
       "shares_after_transaction": "2763773"
     },
     {
+      "id": 157709,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Screven Edward",
+      "reporting_owner_cik": "0001723056",
+      "reporting_owner_position": "Chief Corporate Architect",
+      "transaction_date": "2023-06-16",
+      "transaction_shares": "220740",
+      "transaction_price": "30.11",
+      "transaction_type": "M",
+      "shares_after_transaction": "2763773"
+    },
+    {
       "id": 110992,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "BERG JEFFREY",
+      "reporting_owner_cik": "0001206104",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-15",
+      "transaction_shares": "4866",
+      "transaction_price": "125.3084",
+      "transaction_type": "S",
+      "shares_after_transaction": "207409"
+    },
+    {
+      "id": 157713,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "BERG JEFFREY",
       "reporting_owner_cik": "0001206104",
@@ -246,6 +342,150 @@
       "shares_after_transaction": "70822"
     },
     {
+      "id": 157674,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "SELIGMAN NAOMI O",
+      "reporting_owner_cik": "0001192761",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "34771"
+    },
+    {
+      "id": 157678,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Fairhead Rona Alison",
+      "reporting_owner_cik": "0001390276",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "16063"
+    },
+    {
+      "id": 157687,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "BOSKIN MICHAEL J",
+      "reporting_owner_cik": "0001120621",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "87473"
+    },
+    {
+      "id": 157710,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Ablo Awo",
+      "reporting_owner_cik": "0001919691",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "5548"
+    },
+    {
+      "id": 157711,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Parrett William G",
+      "reporting_owner_cik": "0001418280",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "9311"
+    },
+    {
+      "id": 157712,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Sikka Vishal",
+      "reporting_owner_cik": "0001796443",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "18805"
+    },
+    {
+      "id": 157714,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "James Renee Jo",
+      "reporting_owner_cik": "0001412439",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "51197"
+    },
+    {
+      "id": 157720,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "MOORMAN CHARLES W",
+      "reporting_owner_cik": "0001186073",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "32286"
+    },
+    {
+      "id": 157726,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "CONRADES GEORGE H",
+      "reporting_owner_cik": "0001106231",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "22486"
+    },
+    {
+      "id": 157729,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "PANETTA LEON E",
+      "reporting_owner_cik": "0001210527",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "54787"
+    },
+    {
+      "id": 157742,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "BERG JEFFREY",
+      "reporting_owner_cik": "0001206104",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "212275"
+    },
+    {
+      "id": 157746,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "CHIZEN BRUCE R",
+      "reporting_owner_cik": "0001032834",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-31",
+      "transaction_shares": "4866",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "70822"
+    },
+    {
       "id": 70570,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "CATZ SAFRA",
@@ -270,6 +510,18 @@
       "shares_after_transaction": "3042650"
     },
     {
+      "id": 157739,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "CATZ SAFRA",
+      "reporting_owner_cik": "0001205005",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-04-12",
+      "transaction_shares": "1924058",
+      "transaction_price": "30.11",
+      "transaction_type": "M",
+      "shares_after_transaction": "3042650"
+    },
+    {
       "id": 70542,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "CATZ SAFRA",
@@ -283,6 +535,18 @@
     },
     {
       "id": 110967,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "CATZ SAFRA",
+      "reporting_owner_cik": "0001205005",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-04-10",
+      "transaction_shares": "1238841",
+      "transaction_price": "30.11",
+      "transaction_type": "M",
+      "shares_after_transaction": "2357433"
+    },
+    {
+      "id": 157683,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "CATZ SAFRA",
       "reporting_owner_cik": "0001205005",
@@ -331,6 +595,30 @@
     },
     {
       "id": 110994,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "BERG JEFFREY",
+      "reporting_owner_cik": "0001206104",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-03",
+      "transaction_shares": "45000",
+      "transaction_price": "33.78",
+      "transaction_type": "M",
+      "shares_after_transaction": "252409"
+    },
+    {
+      "id": 157694,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "SELIGMAN NAOMI O",
+      "reporting_owner_cik": "0001192761",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-03",
+      "transaction_shares": "14414",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "29905"
+    },
+    {
+      "id": 157716,
       "issuer_name": "ORACLE CORP",
       "reporting_owner": "BERG JEFFREY",
       "reporting_owner_cik": "0001206104",

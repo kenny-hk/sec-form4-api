@@ -2,11 +2,23 @@
   "ticker": "PSX",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 6,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 11,
   "transactions": [
     {
       "id": 104433,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "TILTON GLENN F",
+      "reporting_owner_cik": "0001194624",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-20",
+      "transaction_shares": "39.7557",
+      "transaction_price": "92.0157",
+      "transaction_type": "J",
+      "shares_after_transaction": "66209.7223"
+    },
+    {
+      "id": 150157,
       "issuer_name": "Phillips 66",
       "reporting_owner": "TILTON GLENN F",
       "reporting_owner_cik": "0001194624",
@@ -42,7 +54,43 @@
       "shares_after_transaction": "14841.6261"
     },
     {
+      "id": 150118,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "Harbison Richard G",
+      "reporting_owner_cik": "0001932551",
+      "reporting_owner_position": "EVP, Refining",
+      "transaction_date": "2023-06-01",
+      "transaction_shares": "2028",
+      "transaction_price": "93.495",
+      "transaction_type": "F",
+      "shares_after_transaction": "18852"
+    },
+    {
+      "id": 150161,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "HAYES GREGORY",
+      "reporting_owner_cik": "0001225946",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-01",
+      "transaction_shares": "121",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "14841.6261"
+    },
+    {
       "id": 104413,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "HAYES GREGORY",
+      "reporting_owner_cik": "0001225946",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-01",
+      "transaction_shares": "115",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "14670.9761"
+    },
+    {
+      "id": 150133,
       "issuer_name": "Phillips 66",
       "reporting_owner": "HAYES GREGORY",
       "reporting_owner_cik": "0001225946",
@@ -67,6 +115,18 @@
     },
     {
       "id": 104407,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "HAYES GREGORY",
+      "reporting_owner_cik": "0001225946",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-03",
+      "transaction_shares": "109",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "14555.9761"
+    },
+    {
+      "id": 150127,
       "issuer_name": "Phillips 66",
       "reporting_owner": "HAYES GREGORY",
       "reporting_owner_cik": "0001225946",

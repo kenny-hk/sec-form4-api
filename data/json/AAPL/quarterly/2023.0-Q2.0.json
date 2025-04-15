@@ -2,11 +2,23 @@
   "ticker": "AAPL",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 15,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 24,
   "transactions": [
     {
       "id": 108162,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "JUNG ANDREA",
+      "reporting_owner_cik": "0001051401",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-16",
+      "transaction_shares": "68642",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 154529,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "JUNG ANDREA",
       "reporting_owner_cik": "0001051401",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "422313"
     },
     {
+      "id": 154557,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Adams Katherine L.",
+      "reporting_owner_cik": "0001462356",
+      "reporting_owner_position": "SVP, GC and Secretary",
+      "transaction_date": "2023-05-10",
+      "transaction_shares": "2900",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "422313"
+    },
+    {
       "id": 108182,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "KONDO CHRIS",
+      "reporting_owner_cik": "0001631982",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2023-05-08",
+      "transaction_shares": "4092",
+      "transaction_price": "173.26",
+      "transaction_type": "S",
+      "shares_after_transaction": "33946"
+    },
+    {
+      "id": 154552,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "KONDO CHRIS",
       "reporting_owner_cik": "0001631982",
@@ -66,6 +102,18 @@
       "shares_after_transaction": "42422"
     },
     {
+      "id": 154537,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "KONDO CHRIS",
+      "reporting_owner_cik": "0001631982",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2023-04-15",
+      "transaction_shares": "10792",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "42422"
+    },
+    {
       "id": 68305,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Maestri Luca",
@@ -90,6 +138,18 @@
       "shares_after_transaction": "107661"
     },
     {
+      "id": 154513,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Maestri Luca",
+      "reporting_owner_cik": "0001513362",
+      "reporting_owner_position": "Senior Vice President, CFO",
+      "transaction_date": "2023-04-13",
+      "transaction_shares": "69996",
+      "transaction_price": "165.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "107661"
+    },
+    {
       "id": 68309,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Maestri Luca",
@@ -103,6 +163,18 @@
     },
     {
       "id": 108153,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Maestri Luca",
+      "reporting_owner_cik": "0001513362",
+      "reporting_owner_position": "Senior Vice President, CFO",
+      "transaction_date": "2023-04-06",
+      "transaction_shares": "200",
+      "transaction_price": "164.92",
+      "transaction_type": "S",
+      "shares_after_transaction": "177657"
+    },
+    {
+      "id": 154518,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Maestri Luca",
       "reporting_owner_cik": "0001513362",
@@ -175,6 +247,42 @@
     },
     {
       "id": 108192,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "COOK TIMOTHY D",
+      "reporting_owner_cik": "0001214156",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "111329",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "3391381"
+    },
+    {
+      "id": 154521,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "O'BRIEN DEIRDRE",
+      "reporting_owner_cik": "0001767094",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "90620",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "227064"
+    },
+    {
+      "id": 154523,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "WILLIAMS JEFFREY E",
+      "reporting_owner_cik": "0001496686",
+      "reporting_owner_position": "COO",
+      "transaction_date": "2023-04-01",
+      "transaction_shares": "149684",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "639500"
+    },
+    {
+      "id": 154564,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "COOK TIMOTHY D",
       "reporting_owner_cik": "0001214156",

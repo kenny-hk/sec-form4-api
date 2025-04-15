@@ -2,11 +2,23 @@
   "ticker": "FICO",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 3,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 6,
   "transactions": [
     {
       "id": 78866,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Rey David A",
+      "reporting_owner_cik": "0001532167",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-02",
+      "transaction_shares": "1000",
+      "transaction_price": "791.0538",
+      "transaction_type": "S",
+      "shares_after_transaction": "1303"
+    },
+    {
+      "id": 121233,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "Rey David A",
       "reporting_owner_cik": "0001532167",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "1566"
     },
     {
+      "id": 121225,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "MCMORRIS MARC F",
+      "reporting_owner_cik": "0001274127",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-24",
+      "transaction_shares": "1324",
+      "transaction_price": "169.94",
+      "transaction_type": "M",
+      "shares_after_transaction": "1566"
+    },
+    {
       "id": 78849,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Covert Stephanie",
+      "reporting_owner_cik": "0001825657",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2023-05-02",
+      "transaction_shares": "1335",
+      "transaction_price": "740.3437",
+      "transaction_type": "S",
+      "shares_after_transaction": "8067"
+    },
+    {
+      "id": 121215,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "Covert Stephanie",
       "reporting_owner_cik": "0001825657",

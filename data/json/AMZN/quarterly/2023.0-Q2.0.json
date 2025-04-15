@@ -2,11 +2,23 @@
   "ticker": "AMZN",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 21,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 40,
   "transactions": [
     {
       "id": 106433,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-06-21",
+      "transaction_shares": "363",
+      "transaction_price": "124.764",
+      "transaction_type": "S",
+      "shares_after_transaction": "151917"
+    },
+    {
+      "id": 152494,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Selipsky Adam",
       "reporting_owner_cik": "0001684974",
@@ -30,6 +42,18 @@
       "shares_after_transaction": "153103"
     },
     {
+      "id": 152524,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-06-06",
+      "transaction_shares": "177",
+      "transaction_price": "125.7769",
+      "transaction_type": "S",
+      "shares_after_transaction": "153103"
+    },
+    {
       "id": 106459,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
@@ -42,7 +66,31 @@
       "shares_after_transaction": "568301"
     },
     {
+      "id": 152526,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2023-06-01",
+      "transaction_shares": "4000",
+      "transaction_price": "120.61",
+      "transaction_type": "S",
+      "shares_after_transaction": "568301"
+    },
+    {
       "id": 106463,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2023-05-25",
+      "transaction_shares": "1",
+      "transaction_price": "114.77",
+      "transaction_type": "P",
+      "shares_after_transaction": "990545661"
+    },
+    {
+      "id": 152531,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "BEZOS JEFFREY P",
       "reporting_owner_cik": "0001043298",
@@ -126,7 +174,91 @@
       "shares_after_transaction": "59600"
     },
     {
+      "id": 152463,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "11280",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "569373"
+    },
+    {
+      "id": 152469,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "7780",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "157400"
+    },
+    {
+      "id": 152485,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Jassy Andrew R",
+      "reporting_owner_cik": "0001374545",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "25000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1989506"
+    },
+    {
+      "id": 152508,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Zapolsky David",
+      "reporting_owner_cik": "0001557979",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "10600",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "97636"
+    },
+    {
+      "id": 152521,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Reynolds Shelley",
+      "reporting_owner_cik": "0001397333",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "1760",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "121540"
+    },
+    {
+      "id": 152549,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Olsavsky Brian T",
+      "reporting_owner_cik": "0001639902",
+      "reporting_owner_position": "Senior Vice President and CFO",
+      "transaction_date": "2023-05-21",
+      "transaction_shares": "10600",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "59600"
+    },
+    {
       "id": 106460,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2023-05-16",
+      "transaction_shares": "861715",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "991067286"
+    },
+    {
+      "id": 152527,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "BEZOS JEFFREY P",
       "reporting_owner_cik": "0001043298",
@@ -174,7 +306,55 @@
       "shares_after_transaction": "160880"
     },
     {
+      "id": 152453,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "NOOYI INDRA K",
+      "reporting_owner_cik": "0001183818",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-05-15",
+      "transaction_shares": "2120",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "26100"
+    },
+    {
+      "id": 152484,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2023-05-15",
+      "transaction_shares": "9659",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "561957"
+    },
+    {
+      "id": 152514,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-05-15",
+      "transaction_shares": "25620",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "160880"
+    },
+    {
       "id": 106398,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-05-04",
+      "transaction_shares": "329",
+      "transaction_price": "104.1055",
+      "transaction_type": "S",
+      "shares_after_transaction": "135951"
+    },
+    {
+      "id": 152448,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Selipsky Adam",
       "reporting_owner_cik": "0001684974",
@@ -198,7 +378,31 @@
       "shares_after_transaction": "552298"
     },
     {
+      "id": 152548,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2023-05-01",
+      "transaction_shares": "4000",
+      "transaction_price": "105.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "552298"
+    },
+    {
       "id": 106438,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-04-19",
+      "transaction_shares": "32",
+      "transaction_price": "102.2384",
+      "transaction_type": "S",
+      "shares_after_transaction": "137268"
+    },
+    {
+      "id": 152500,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Selipsky Adam",
       "reporting_owner_cik": "0001684974",
@@ -234,6 +438,18 @@
       "shares_after_transaction": "137929"
     },
     {
+      "id": 152479,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Selipsky Adam",
+      "reporting_owner_cik": "0001684974",
+      "reporting_owner_position": "CEO Amazon Web Services",
+      "transaction_date": "2023-04-04",
+      "transaction_shares": "391",
+      "transaction_price": "102.8895",
+      "transaction_type": "S",
+      "shares_after_transaction": "137929"
+    },
+    {
       "id": 66924,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
@@ -247,6 +463,18 @@
     },
     {
       "id": 106421,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2023-04-03",
+      "transaction_shares": "4000",
+      "transaction_price": "102.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "556298"
+    },
+    {
+      "id": 152476,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
       "reporting_owner_cik": "0001936006",

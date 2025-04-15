@@ -2,8 +2,8 @@
   "ticker": "HCA",
   "year": 2023,
   "quarter": 2,
-  "last_updated": "2025-04-15T14:53:27.739286",
-  "count": 22,
+  "last_updated": "2025-04-15T15:30:14.989776",
+  "count": 41,
   "transactions": [
     {
       "id": 78758,
@@ -18,7 +18,31 @@
       "shares_after_transaction": "13762"
     },
     {
+      "id": 121113,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Hammett Richard A",
+      "reporting_owner_cik": "0001957822",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2023-05-12",
+      "transaction_shares": "1100",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "13762"
+    },
+    {
       "id": 78768,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "HAZEN SAMUEL N",
+      "reporting_owner_cik": "0001216838",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2023-05-04",
+      "transaction_shares": "7864",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "155923"
+    },
+    {
+      "id": 121123,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "HAZEN SAMUEL N",
       "reporting_owner_cik": "0001216838",
@@ -55,6 +79,42 @@
     },
     {
       "id": 78813,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Akdamar Erol R",
+      "reporting_owner_cik": "0001957739",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2023-04-28",
+      "transaction_shares": "3500",
+      "transaction_price": "285.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "42484"
+    },
+    {
+      "id": 121133,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Cuffe Michael S.",
+      "reporting_owner_cik": "0001632835",
+      "reporting_owner_position": "EVP and Chief Clinical Officer",
+      "transaction_date": "2023-04-28",
+      "transaction_shares": "12556",
+      "transaction_price": "284.4374",
+      "transaction_type": "S",
+      "shares_after_transaction": "28783.3569"
+    },
+    {
+      "id": 121137,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Torres Kathryn A.",
+      "reporting_owner_cik": "0001680636",
+      "reporting_owner_position": "SVP-Payer Contracting & Align.",
+      "transaction_date": "2023-04-28",
+      "transaction_shares": "5335",
+      "transaction_price": "139.06",
+      "transaction_type": "M",
+      "shares_after_transaction": "27578"
+    },
+    {
+      "id": 121171,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Akdamar Erol R",
       "reporting_owner_cik": "0001957739",
@@ -198,6 +258,138 @@
       "shares_after_transaction": "2030"
     },
     {
+      "id": 121088,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "CROFTON MEG",
+      "reporting_owner_cik": "0001665104",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "663",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "5721"
+    },
+    {
+      "id": 121090,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "MICHELSON MICHAEL W",
+      "reporting_owner_cik": "0001182415",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "1187",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "9387"
+    },
+    {
+      "id": 121115,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Smith Andrea B",
+      "reporting_owner_cik": "0001649634",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "663",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "2902"
+    },
+    {
+      "id": 121116,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "FRIST THOMAS F III",
+      "reporting_owner_cik": "0001223892",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "1396",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "12213"
+    },
+    {
+      "id": 121127,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Riley Wayne Joseph",
+      "reporting_owner_cik": "0001432895",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "663",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "13265"
+    },
+    {
+      "id": 121144,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Frist William R",
+      "reporting_owner_cik": "0001433377",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "1047",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "10942"
+    },
+    {
+      "id": 121146,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Torres Kathryn A.",
+      "reporting_owner_cik": "0001680636",
+      "reporting_owner_position": "SVP-Payer Contracting & Align.",
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "4473",
+      "transaction_price": "288.3776",
+      "transaction_type": "S",
+      "shares_after_transaction": "22243"
+    },
+    {
+      "id": 121149,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "DEPARLE NANCY ANN",
+      "reporting_owner_cik": "0001144511",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "663",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "20146"
+    },
+    {
+      "id": 121155,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Dennis Robert J",
+      "reporting_owner_cik": "0001295441",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "1047",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "24612"
+    },
+    {
+      "id": 121157,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Cuffe Michael S.",
+      "reporting_owner_cik": "0001632835",
+      "reporting_owner_position": "EVP and Chief Clinical Officer",
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "32020",
+      "transaction_price": "101.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "60803.3569"
+    },
+    {
+      "id": 121159,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Johnston Hugh F",
+      "reporting_owner_cik": "0001377489",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-04-24",
+      "transaction_shares": "663",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "2030"
+    },
+    {
       "id": 44849,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Paslick P. Martin",
@@ -211,6 +403,18 @@
     },
     {
       "id": 78810,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Paslick P. Martin",
+      "reporting_owner_cik": "0001551011",
+      "reporting_owner_position": "SVP and CIO",
+      "transaction_date": "2023-04-12",
+      "transaction_shares": "6340",
+      "transaction_price": "81.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "30983"
+    },
+    {
+      "id": 121167,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Paslick P. Martin",
       "reporting_owner_cik": "0001551011",
@@ -246,6 +450,18 @@
       "shares_after_transaction": "24643"
     },
     {
+      "id": 121170,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Paslick P. Martin",
+      "reporting_owner_cik": "0001551011",
+      "reporting_owner_position": "SVP and CIO",
+      "transaction_date": "2023-04-10",
+      "transaction_shares": "2539",
+      "transaction_price": "270.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "24643"
+    },
+    {
       "id": 44793,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Paslick P. Martin",
@@ -259,6 +475,18 @@
     },
     {
       "id": 78741,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Paslick P. Martin",
+      "reporting_owner_cik": "0001551011",
+      "reporting_owner_position": "SVP and CIO",
+      "transaction_date": "2023-04-04",
+      "transaction_shares": "3034",
+      "transaction_price": "265.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "24643"
+    },
+    {
+      "id": 121093,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Paslick P. Martin",
       "reporting_owner_cik": "0001551011",
