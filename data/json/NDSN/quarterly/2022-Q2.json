@@ -2,8 +2,8 @@
   "ticker": "NDSN",
   "year": 2022,
   "quarter": 2,
-  "last_updated": "2025-04-15T11:21:41.933799",
-  "count": 2,
+  "last_updated": "2025-04-15T11:58:43.759656",
+  "count": 4,
   "transactions": [
     {
       "id": 351,
@@ -18,7 +18,31 @@
       "shares_after_transaction": "10435"
     },
     {
+      "id": 8875,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "George Arthur L Jr",
+      "reporting_owner_cik": "0001360852",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-27",
+      "transaction_shares": "258",
+      "transaction_price": "219.83",
+      "transaction_type": "J",
+      "shares_after_transaction": "10435"
+    },
+    {
       "id": 350,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "DeFord John A",
+      "reporting_owner_cik": "0001403373",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-29",
+      "transaction_shares": "104",
+      "transaction_price": "215.69",
+      "transaction_type": "A",
+      "shares_after_transaction": "1790"
+    },
+    {
+      "id": 8874,
       "issuer_name": "NORDSON CORP",
       "reporting_owner": "DeFord John A",
       "reporting_owner_cik": "0001403373",

@@ -1,11 +1,83 @@
 {
   "ticker": "SBUX",
-  "last_updated": "2025-04-15T11:21:41.933799",
+  "last_updated": "2025-04-15T11:58:43.759656",
   "retention_years": 3,
-  "count": 5,
+  "count": 15,
   "transactions": [
     {
+      "id": 21099,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Narasimhan Laxman",
+      "reporting_owner_cik": "0001620455",
+      "reporting_owner_position": "ceo-elect",
+      "transaction_date": "2022-10-01",
+      "transaction_shares": "43912",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "43912"
+    },
+    {
+      "id": 21100,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "ALLISON RICHARD E JR",
+      "reporting_owner_cik": "0001622500",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-15",
+      "transaction_shares": "10000",
+      "transaction_price": "92.532",
+      "transaction_type": "P",
+      "shares_after_transaction": "23658.415"
+    },
+    {
+      "id": 21102,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "HOBSON MELLODY L",
+      "reporting_owner_cik": "0001169896",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-09-15",
+      "transaction_shares": "54750",
+      "transaction_price": "92.576",
+      "transaction_type": "P",
+      "shares_after_transaction": "433254.026"
+    },
+    {
+      "id": 21108,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Jenkins Zabrina",
+      "reporting_owner_cik": "0001901315",
+      "reporting_owner_position": "acting evp, general counsel",
+      "transaction_date": "2022-09-15",
+      "transaction_shares": "4020",
+      "transaction_price": "24.87",
+      "transaction_type": "M",
+      "shares_after_transaction": "40357.213"
+    },
+    {
+      "id": 21106,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Jenkins Zabrina",
+      "reporting_owner_cik": "0001901315",
+      "reporting_owner_position": "acting evp, general counsel",
+      "transaction_date": "2022-08-15",
+      "transaction_shares": "303",
+      "transaction_price": "89.16",
+      "transaction_type": "F",
+      "shares_after_transaction": "36219.928"
+    },
+    {
       "id": 7677,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Ruggeri Rachel",
+      "reporting_owner_cik": "0001842880",
+      "reporting_owner_position": "evp, cfo",
+      "transaction_date": "2022-06-15",
+      "transaction_shares": "1068",
+      "transaction_price": "74.19",
+      "transaction_type": "F",
+      "shares_after_transaction": "40324"
+    },
+    {
+      "id": 21103,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "Ruggeri Rachel",
       "reporting_owner_cik": "0001842880",
@@ -29,7 +101,31 @@
       "shares_after_transaction": "19606960"
     },
     {
+      "id": 21105,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "SCHULTZ HOWARD D",
+      "reporting_owner_cik": "0000901737",
+      "reporting_owner_position": "interim ceo",
+      "transaction_date": "2022-05-12",
+      "transaction_shares": "72500",
+      "transaction_price": "68.8509",
+      "transaction_type": "P",
+      "shares_after_transaction": "19606960"
+    },
+    {
       "id": 7680,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "SCHULTZ HOWARD D",
+      "reporting_owner_cik": "0000901737",
+      "reporting_owner_position": "interim ceo",
+      "transaction_date": "2022-05-10",
+      "transaction_shares": "120600",
+      "transaction_price": "72.6064",
+      "transaction_type": "P",
+      "shares_after_transaction": "19517560"
+    },
+    {
+      "id": 21107,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "SCHULTZ HOWARD D",
       "reporting_owner_cik": "0000901737",
@@ -54,6 +150,30 @@
     },
     {
       "id": 7678,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Jenkins Zabrina",
+      "reporting_owner_cik": "0001901315",
+      "reporting_owner_position": "interim evp, general counsel",
+      "transaction_date": "2022-04-18",
+      "transaction_shares": "12563",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "36522.018"
+    },
+    {
+      "id": 21101,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Jenkins Zabrina",
+      "reporting_owner_cik": "0001901315",
+      "reporting_owner_position": "interim evp, general counsel",
+      "transaction_date": "2022-04-18",
+      "transaction_shares": "217",
+      "transaction_price": "79.60",
+      "transaction_type": "F",
+      "shares_after_transaction": "36305.018"
+    },
+    {
+      "id": 21104,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "Jenkins Zabrina",
       "reporting_owner_cik": "0001901315",

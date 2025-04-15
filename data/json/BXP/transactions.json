@@ -1,9 +1,33 @@
 {
   "ticker": "BXP",
-  "last_updated": "2025-04-15T11:21:41.933799",
+  "last_updated": "2025-04-15T11:58:43.759656",
   "retention_years": 3,
-  "count": 2,
+  "count": 6,
   "transactions": [
+    {
+      "id": 15104,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "Spann Hilary J.",
+      "reporting_owner_cik": "0001900835",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2022-09-07",
+      "transaction_shares": "4731",
+      "transaction_price": "82.87",
+      "transaction_type": "F",
+      "shares_after_transaction": "17697"
+    },
+    {
+      "id": 15095,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "RITCHEY RAYMOND A",
+      "reporting_owner_cik": "0001219153",
+      "reporting_owner_position": "Senior EVP",
+      "transaction_date": "2022-08-12",
+      "transaction_shares": "22472",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "22472"
+    },
     {
       "id": 4089,
       "issuer_name": "BOSTON PROPERTIES INC",
@@ -18,6 +42,30 @@
     },
     {
       "id": 4094,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "Hoskins Diane J",
+      "reporting_owner_cik": "0001522588",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "1504",
+      "transaction_price": "0.01",
+      "transaction_type": "A",
+      "shares_after_transaction": "6938"
+    },
+    {
+      "id": 15097,
+      "issuer_name": "BOSTON PROPERTIES INC",
+      "reporting_owner": "TWARDOCK DAVID A",
+      "reporting_owner_cik": "0001229891",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "1504",
+      "transaction_price": "0.01",
+      "transaction_type": "A",
+      "shares_after_transaction": "10399"
+    },
+    {
+      "id": 15105,
       "issuer_name": "BOSTON PROPERTIES INC",
       "reporting_owner": "Hoskins Diane J",
       "reporting_owner_cik": "0001522588",

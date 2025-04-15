@@ -1,11 +1,23 @@
 {
   "ticker": "EIX",
-  "last_updated": "2025-04-15T11:21:41.933799",
+  "last_updated": "2025-04-15T11:58:43.759656",
   "retention_years": 3,
-  "count": 3,
+  "count": 6,
   "transactions": [
     {
       "id": 4816,
+      "issuer_name": "EDISON INTERNATIONAL",
+      "reporting_owner": "Taylor Peter J.",
+      "reporting_owner_cik": "0001536528",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-07-01",
+      "transaction_shares": "2672.9475",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "25032.9475"
+    },
+    {
+      "id": 16315,
       "issuer_name": "EDISON INTERNATIONAL",
       "reporting_owner": "Taylor Peter J.",
       "reporting_owner_cik": "0001536528",
@@ -30,6 +42,30 @@
     },
     {
       "id": 4818,
+      "issuer_name": "EDISON INTERNATIONAL",
+      "reporting_owner": "Trent Keith",
+      "reporting_owner_cik": "0001319653",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-28",
+      "transaction_shares": "2225",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "10407.01"
+    },
+    {
+      "id": 16309,
+      "issuer_name": "EDISON INTERNATIONAL",
+      "reporting_owner": "Taylor Peter J.",
+      "reporting_owner_cik": "0001536528",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-28",
+      "transaction_shares": "3284",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "22360"
+    },
+    {
+      "id": 16317,
       "issuer_name": "EDISON INTERNATIONAL",
       "reporting_owner": "Trent Keith",
       "reporting_owner_cik": "0001319653",

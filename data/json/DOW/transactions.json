@@ -1,11 +1,35 @@
 {
   "ticker": "DOW",
-  "last_updated": "2025-04-15T11:21:41.933799",
+  "last_updated": "2025-04-15T11:58:43.759656",
   "retention_years": 3,
-  "count": 5,
+  "count": 11,
   "transactions": [
     {
+      "id": 8607,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Dial Debra L.",
+      "reporting_owner_cik": "0001734513",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-08-01",
+      "transaction_shares": "400",
+      "transaction_price": "52.405",
+      "transaction_type": "P",
+      "shares_after_transaction": "1175"
+    },
+    {
       "id": 186,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Donoso Diego",
+      "reporting_owner_cik": "0001809708",
+      "reporting_owner_position": "President, Pkg & Spec Plastics",
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "16700",
+      "transaction_price": "50.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "40973"
+    },
+    {
+      "id": 8601,
       "issuer_name": "DOW INC.",
       "reporting_owner": "Donoso Diego",
       "reporting_owner_cik": "0001809708",
@@ -29,7 +53,31 @@
       "shares_after_transaction": "218307"
     },
     {
+      "id": 8608,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Ungerleider Howard I",
+      "reporting_owner_cik": "0001514396",
+      "reporting_owner_position": "President and CFO",
+      "transaction_date": "2022-05-04",
+      "transaction_shares": "104101",
+      "transaction_price": "32.57",
+      "transaction_type": "M",
+      "shares_after_transaction": "218307"
+    },
+    {
       "id": 191,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "SAMPSON JOHN MAURICE",
+      "reporting_owner_cik": "0001655048",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2022-05-03",
+      "transaction_shares": "4500",
+      "transaction_price": "50.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "23392"
+    },
+    {
+      "id": 8606,
       "issuer_name": "DOW INC.",
       "reporting_owner": "SAMPSON JOHN MAURICE",
       "reporting_owner_cik": "0001655048",
@@ -54,6 +102,30 @@
     },
     {
       "id": 197,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Sreeram Attiganal N",
+      "reporting_owner_cik": "0001588278",
+      "reporting_owner_position": "Senior Vice President / CTO",
+      "transaction_date": "2022-04-26",
+      "transaction_shares": "53333",
+      "transaction_price": "61.97",
+      "transaction_type": "M",
+      "shares_after_transaction": "150393"
+    },
+    {
+      "id": 8610,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Dial Debra L.",
+      "reporting_owner_cik": "0001734513",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-04-26",
+      "transaction_shares": "400",
+      "transaction_price": "67.6885",
+      "transaction_type": "P",
+      "shares_after_transaction": "775"
+    },
+    {
+      "id": 8613,
       "issuer_name": "DOW INC.",
       "reporting_owner": "Sreeram Attiganal N",
       "reporting_owner_cik": "0001588278",

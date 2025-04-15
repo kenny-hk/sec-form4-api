@@ -2,11 +2,23 @@
   "ticker": "FISV",
   "year": 2022,
   "quarter": 2,
-  "last_updated": "2025-04-15T11:21:41.933799",
-  "count": 16,
+  "last_updated": "2025-04-15T11:58:43.759656",
+  "count": 32,
   "transactions": [
     {
       "id": 1358,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Kereere Suzan",
+      "reporting_owner_cik": "0001896086",
+      "reporting_owner_position": "EVP, Head of GBS",
+      "transaction_date": "2022-06-28",
+      "transaction_shares": "3179",
+      "transaction_price": "90.62",
+      "transaction_type": "F",
+      "shares_after_transaction": "32057"
+    },
+    {
+      "id": 10587,
       "issuer_name": "FISERV INC",
       "reporting_owner": "Kereere Suzan",
       "reporting_owner_cik": "0001896086",
@@ -30,6 +42,18 @@
       "shares_after_transaction": "14147776"
     },
     {
+      "id": 10581,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "ValueAct Holdings, L.P.",
+      "reporting_owner_cik": "0001418814",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-06-10",
+      "transaction_shares": "500000",
+      "transaction_price": "94.18",
+      "transaction_type": "P",
+      "shares_after_transaction": "14147776"
+    },
+    {
       "id": 1369,
       "issuer_name": "FISERV INC",
       "reporting_owner": "Chiarello Guy",
@@ -42,7 +66,31 @@
       "shares_after_transaction": "226864"
     },
     {
+      "id": 10605,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Chiarello Guy",
+      "reporting_owner_cik": "0001654667",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2022-05-27",
+      "transaction_shares": "10000",
+      "transaction_price": "36.54",
+      "transaction_type": "M",
+      "shares_after_transaction": "226864"
+    },
+    {
       "id": 1368,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Foskett Christopher M",
+      "reporting_owner_cik": "0001473587",
+      "reporting_owner_position": "Chief Revenue Officer",
+      "transaction_date": "2022-05-26",
+      "transaction_shares": "8170",
+      "transaction_price": "99.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "90194"
+    },
+    {
+      "id": 10602,
       "issuer_name": "FISERV INC",
       "reporting_owner": "Foskett Christopher M",
       "reporting_owner_cik": "0001473587",
@@ -150,7 +198,115 @@
       "shares_after_transaction": "12586"
     },
     {
+      "id": 10582,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "MILLER HEIDI",
+      "reporting_owner_cik": "0001199930",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "26089"
+    },
+    {
+      "id": 10583,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "DAVIS ALISON",
+      "reporting_owner_cik": "0001203539",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "9984"
+    },
+    {
+      "id": 10589,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Simons Doyle",
+      "reporting_owner_cik": "0001185922",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "3028",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "94670"
+    },
+    {
+      "id": 10594,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "WARREN KEVIN M",
+      "reporting_owner_cik": "0001495787",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "5032"
+    },
+    {
+      "id": 10599,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "DiSimone Harry",
+      "reporting_owner_cik": "0001732108",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "12947"
+    },
+    {
+      "id": 10612,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Mamilli Wafaa",
+      "reporting_owner_cik": "0001800960",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "3854"
+    },
+    {
+      "id": 10617,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Haggart Dylan G.",
+      "reporting_owner_cik": "0001684185",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2708"
+    },
+    {
+      "id": 10618,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "DE CASTRO HENRIQUE",
+      "reporting_owner_cik": "0001562331",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-18",
+      "transaction_shares": "2231",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "12586"
+    },
+    {
       "id": 1361,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "ValueAct Holdings, L.P.",
+      "reporting_owner_cik": "0001418814",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-06",
+      "transaction_shares": "67050",
+      "transaction_price": "94.96",
+      "transaction_type": "P",
+      "shares_after_transaction": "13214826"
+    },
+    {
+      "id": 10591,
       "issuer_name": "FISERV INC",
       "reporting_owner": "ValueAct Holdings, L.P.",
       "reporting_owner_cik": "0001418814",
@@ -186,7 +342,43 @@
       "shares_after_transaction": "13147776"
     },
     {
+      "id": 10601,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Simons Doyle",
+      "reporting_owner_cik": "0001185922",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-02",
+      "transaction_shares": "10904",
+      "transaction_price": "16.68",
+      "transaction_type": "M",
+      "shares_after_transaction": "91642"
+    },
+    {
+      "id": 10608,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "ValueAct Holdings, L.P.",
+      "reporting_owner_cik": "0001418814",
+      "reporting_owner_position": null,
+      "transaction_date": "2022-05-02",
+      "transaction_shares": "112575",
+      "transaction_price": "94.9",
+      "transaction_type": "P",
+      "shares_after_transaction": "13147776"
+    },
+    {
       "id": 1364,
+      "issuer_name": "FISERV INC",
+      "reporting_owner": "Chiarello Guy",
+      "reporting_owner_cik": "0001654667",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2022-04-28",
+      "transaction_shares": "43000",
+      "transaction_price": "36.54",
+      "transaction_type": "M",
+      "shares_after_transaction": "259864"
+    },
+    {
+      "id": 10598,
       "issuer_name": "FISERV INC",
       "reporting_owner": "Chiarello Guy",
       "reporting_owner_cik": "0001654667",
