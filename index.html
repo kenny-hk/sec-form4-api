@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>S&P 500 Insider Trading API</title>
+    <title>SEC Form4 API</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -32,14 +32,46 @@
             border-left: 4px solid #3498db;
             background-color: #ecf0f1;
         }
+        .transaction-type {
+            margin-bottom: 30px;
+        }
+        .transaction-type h3 {
+            margin-bottom: 5px;
+        }
+        .transaction-type p {
+            margin-top: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
     </style>
 </head>
 <body>
-    <h1>S&P 500 Insider Trading API</h1>
+    <h1>SEC Form4 API</h1>
     
     <p>
-        This API provides access to insider trading data from SEC Form 4 filings for S&P 500 companies.
+        This API provides access to SEC Form 4 filings (insider transactions) for all S&P 500 companies.
         All data is updated daily through automated GitHub Actions workflows.
+    </p>
+
+    <h2>What is Form 4?</h2>
+    <p>
+        Form 4 is an SEC filing that reports transactions by insiders (officers, directors, and significant shareholders) 
+        in their company's stock. These are legal transactions that must be reported to the SEC and made public, 
+        typically within two business days of the transaction.
     </p>
 
     <h2>API Endpoints</h2>
@@ -49,7 +81,7 @@
         <code>GET /data/json/companies.json</code>
         <p>Returns a list of all companies with metadata including the number of transactions and date ranges.</p>
         <pre><code>{
-  "last_updated": "2024-04-15T10:30:45.123456",
+  "last_updated": "2025-04-15T10:30:45.123456",
   "count": 20,
   "companies": [
     {
@@ -67,10 +99,10 @@
     <div class="endpoint">
         <h3>Get All Transactions for a Company</h3>
         <code>GET /data/json/{ticker}/transactions.json</code>
-        <p>Returns comprehensive insider trading data for the specified company. This endpoint provides a complete dataset that can be filtered client-side.</p>
+        <p>Returns comprehensive Form 4 filing data for the specified company. This endpoint provides a complete dataset that can be filtered client-side.</p>
         <pre><code>{
   "ticker": "AAPL",
-  "last_updated": "2024-04-15T10:30:45.123456",
+  "last_updated": "2025-04-15T10:30:45.123456",
   "count": 120,
   "transactions": [
     {
@@ -92,7 +124,7 @@
         <p>You can implement filtering on your side using these parameters:</p>
         <ul>
             <li><strong>Date Range:</strong> Filter by transaction_date</li>
-            <li><strong>Transaction Type:</strong> Filter by transaction_type (A = Grant/Award, G = Gift, M = Exercise, S = Sale)</li>
+            <li><strong>Transaction Type:</strong> Filter by transaction_type (see Transaction Types section below)</li>
             <li><strong>Data Fields:</strong> Include/exclude shares or price information as needed</li>
         </ul>
     </div>
@@ -100,12 +132,12 @@
     <div class="endpoint">
         <h3>Get Quarterly Transactions for a Company</h3>
         <code>GET /data/json/{ticker}/quarterly/{YYYY-Q#}.json</code>
-        <p>Returns insider trading transactions for a specific quarter. For example: AAPL/quarterly/2024-Q2.json</p>
+        <p>Returns Form 4 filings for a specific quarter. For example: AAPL/quarterly/2024-Q2.json</p>
         <pre><code>{
   "ticker": "AAPL",
   "year": 2024,
   "quarter": 2,
-  "last_updated": "2024-04-15T10:30:45.123456",
+  "last_updated": "2025-04-15T10:30:45.123456",
   "count": 35,
   "transactions": [
     {
@@ -130,7 +162,7 @@
         <code>GET /data/json/summary.json</code>
         <p>Returns summary data including the largest transactions by value and the most recent transactions across all companies.</p>
         <pre><code>{
-  "last_updated": "2024-04-15T10:30:45.123456",
+  "last_updated": "2025-04-15T10:30:45.123456",
   "large_transactions": [
     {
       "ticker": "MSFT",
@@ -151,11 +183,62 @@
 }</code></pre>
     </div>
 
+    <h2>Transaction Types</h2>
+    <p>The SEC Form 4 uses specific codes to indicate the type of transaction being reported:</p>
+    
+    <table>
+        <tr>
+            <th>Code</th>
+            <th>Description</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>P</td>
+            <td>Open market or private purchase</td>
+            <td>The insider bought shares on the open market</td>
+        </tr>
+        <tr>
+            <td>S</td>
+            <td>Open market or private sale</td>
+            <td>The insider sold shares on the open market</td>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>Grant or award</td>
+            <td>The insider received shares from the company, often as compensation</td>
+        </tr>
+        <tr>
+            <td>M</td>
+            <td>Exercise of options/conversion of derivative</td>
+            <td>The insider exercised options to acquire shares</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>Gift</td>
+            <td>The insider gave or received shares as a gift</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>Disposition to the issuer</td>
+            <td>The insider sold or returned shares to the company</td>
+        </tr>
+        <tr>
+            <td>F</td>
+            <td>Payment of exercise price or tax liability</td>
+            <td>Shares surrendered to pay for options or taxes</td>
+        </tr>
+        <tr>
+            <td>J</td>
+            <td>Other acquisition or disposition</td>
+            <td>Transactions not covered by other codes</td>
+        </tr>
+    </table>
+
     <h2>Usage Examples</h2>
 
     <h3>JavaScript Example with Client-Side Filtering</h3>
     <pre><code>// Fetch transactions for Apple and apply filters
-fetch('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
+fetch('https://kenny-hk.github.io/sec-form4-api/data/json/AAPL/transactions.json')
   .then(response => response.json())
   .then(data => {
     // Filter by date range (last year)
@@ -184,7 +267,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Fetch all transactions for Apple
-response = requests.get('https://yourusername.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
+response = requests.get('https://kenny-hk.github.io/sec-form4-api/data/json/AAPL/transactions.json')
 data = response.json()
 
 # Convert to DataFrame for easy filtering
@@ -213,7 +296,7 @@ print(f"Largest transaction value: ${largest_transactions.iloc[0]['value']:,.2f}
 
     <h2>Data Update Schedule</h2>
     <p>
-        The insider trading data is updated daily at 8:00 UTC through an automated GitHub Actions workflow. 
+        The Form 4 data is updated daily at 8:00 UTC through an automated GitHub Actions workflow. 
         Each update fetches the latest Form 4 filings from the SEC EDGAR database for all S&P 500 companies.
     </p>
     
@@ -230,11 +313,11 @@ print(f"Largest transaction value: ${largest_transactions.iloc[0]['value']:,.2f}
     <h2>GitHub Repository</h2>
     <p>
         This API is built and maintained as an open-source project. The source code is available on GitHub:
-        <a href="https://github.com/kenny-hk/insider-trading-detection">https://github.com/kenny-hk/insider-trading-detection</a>
+        <a href="https://github.com/kenny-hk/sec-form4-api">https://github.com/kenny-hk/sec-form4-api</a>
     </p>
 
     <footer>
-        <p><small>Data sourced from SEC EDGAR database. This is not financial advice.</small></p>
+        <p><small>Data sourced from SEC EDGAR database. This is not financial advice. All Form 4 data is publicly available through the SEC's EDGAR system.</small></p>
     </footer>
 </body>
 </html>

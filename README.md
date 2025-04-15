@@ -1,32 +1,17 @@
-# S&P 500 Insider Trading API
+# SEC Form4 API
 
-A free, public API for S&P 500 insider trading data from SEC Form 4 filings, hosted on GitHub Pages.
+A free, public API providing access to SEC Form 4 filings (insider transactions) for all S&P 500 companies, hosted on GitHub Pages.
 
 ## Overview
 
-This project automatically collects Form 4 filings (insider trading reports) from the SEC EDGAR database for all S&P 500 companies. It processes and provides this data through a simple, free API accessible to anyone. The data includes:
+This project automatically collects Form 4 filings from the SEC EDGAR database for all S&P 500 companies. These filings report transactions by company insiders (officers, directors, and significant shareholders) as required by law. The data is processed and provided through a simple, free API accessible to anyone.
 
-- Issuer name and ticker
-- Reporting owner and position
-- Transaction date, shares, and price
-- Transaction type
-- Post-transaction holdings
+## Data Coverage
 
-## Data Retention
-
-To optimize storage and performance while maintaining comprehensive historical data:
-
-- **Detailed Transactions:** Full transaction details for the most recent 3 years
-- **Quarterly Summaries:** Quarterly transaction data for the past 10 years
-- **Daily Updates:** All data refreshed daily with the latest SEC filings
-
-## Features
-
-- **Daily Updates**: New Form 4 filings are downloaded and processed daily
-- **JSON API**: Clean, structured data in JSON format
-- **Free & Public**: No authentication or API keys required
-- **Multiple Endpoints**: Access data by company, recent transactions, or largest trades
-- **GitHub Pages Hosting**: Fast, reliable static file hosting
+- **All S&P 500 Companies**: Complete coverage of all companies in the S&P 500 index
+- **Detailed Transactions**: Full transaction details for the most recent 3 years
+- **Quarterly Summaries**: Quarterly transaction data for the past 10 years
+- **Daily Updates**: All data refreshed daily with the latest SEC filings
 
 ## API Endpoints
 
@@ -35,21 +20,21 @@ To optimize storage and performance while maintaining comprehensive historical d
 - **Quarterly Data**: `/data/json/{ticker}/quarterly/{YYYY-Q#}.json`
 - **Summary Data**: `/data/json/summary.json`
 
-See the [API Documentation](https://kenny-hk.github.io/insider-trading-detection/) for complete details and examples.
+See the [API Documentation](https://kenny-hk.github.io/sec-form4-api/) for complete details and examples.
 
 ## Usage Examples
 
 ### JavaScript
 ```javascript
 // Fetch all companies
-fetch('https://kenny-hk.github.io/insider-trading-detection/data/json/companies.json')
+fetch('https://kenny-hk.github.io/sec-form4-api/data/json/companies.json')
   .then(response => response.json())
   .then(data => {
-    console.log(`Found ${data.count} companies with insider trading data`);
+    console.log(`Found ${data.count} companies with Form 4 filing data`);
   });
 
 // Get Apple transactions and filter for sales
-fetch('https://kenny-hk.github.io/insider-trading-detection/data/json/AAPL/transactions.json')
+fetch('https://kenny-hk.github.io/sec-form4-api/data/json/AAPL/transactions.json')
   .then(response => response.json())
   .then(data => {
     const sales = data.transactions.filter(tx => tx.transaction_type === 'S');
@@ -63,13 +48,32 @@ import requests
 import pandas as pd
 
 # Get all large transactions from summary
-response = requests.get('https://kenny-hk.github.io/insider-trading-detection/data/json/summary.json')
+response = requests.get('https://kenny-hk.github.io/sec-form4-api/data/json/summary.json')
 data = response.json()
 
 # Convert to DataFrame for easy analysis
 large_txs = pd.DataFrame(data['large_transactions'])
 print(f"Largest transaction: {large_txs.iloc[0]['ticker']} ${large_txs.iloc[0]['value']:,.2f}")
 ```
+
+## Data Fields
+
+Each transaction includes:
+- **Issuer**: Company name and ticker symbol
+- **Reporting Owner**: Name, CIK, and title/position
+- **Transaction**: Date, number of shares, price per share, type code
+- **Holdings**: Shares owned following transaction
+- **Metadata**: Filing details and source information
+
+## Transaction Types
+
+Common transaction type codes include:
+- **P**: Purchase of securities on the open market
+- **S**: Sale of securities on the open market
+- **A**: Grant/award of securities from the company
+- **M**: Exercise of options/conversion of derivative securities
+- **G**: Gift of securities
+- **D**: Disposition of securities to the issuer
 
 ## How It Works
 
@@ -91,8 +95,8 @@ print(f"Largest transaction: {large_txs.iloc[0]['ticker']} ${large_txs.iloc[0]['
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/insider-trading-detection.git
-cd insider-trading-detection
+git clone https://github.com/kenny-hk/sec-form4-api.git
+cd sec-form4-api
 ```
 
 2. Install the required packages:
@@ -116,42 +120,15 @@ python export_json.py
 
 ## Testing
 
-This project uses pytest for testing. The test suite includes:
-
-- Unit tests for data collection functionality
-- Unit tests for JSON export functionality
-- Structure tests for GitHub Actions workflows
-
-To run the tests:
+This project uses pytest for testing. To run the tests:
 
 ```bash
-# Install test dependencies
-pip install -r requirements.txt
-
 # Run all tests
 pytest
 
 # Run tests with coverage report
 pytest --cov=.
-
-# Run specific test file
-pytest tests/test_export_json.py
 ```
-
-The test suite ensures:
-- Proper handling of different transaction types
-- Correct formatting of JSON data
-- Error resilience with bad or missing data
-- Validation of workflow configurations
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-Before submitting a pull request, please:
-1. Add tests for any new features or bug fixes
-2. Run the existing test suite to ensure everything passes
-3. Ensure your code follows the project's coding style
 
 ## License
 
@@ -159,4 +136,4 @@ Before submitting a pull request, please:
 
 ## Disclaimer
 
-This data is sourced directly from SEC EDGAR filings and is provided for informational purposes only. It is not financial advice.
+This data is sourced directly from SEC EDGAR filings and is provided for informational purposes only. It is not financial advice. All Form 4 data is publicly available through the SEC's EDGAR system.
