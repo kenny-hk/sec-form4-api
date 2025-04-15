@@ -5,9 +5,17 @@ on:
     - cron: '0 8 * * *'  # Run daily at 8:00 UTC
   workflow_dispatch:  # Allow manual triggering
 
+# Add global permissions for the workflow
+permissions:
+  contents: write  # This is important for pushing changes
+  pages: write
+
 jobs:
   update_data:
     runs-on: ubuntu-latest
+    # Add job-specific permissions
+    permissions:
+      contents: write  # Required for git push
     
     steps:
       - name: Checkout repository
@@ -59,8 +67,17 @@ jobs:
       
       - name: Commit and push JSON files
         run: |
+          echo "Staging JSON files..."
           git add data/json/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update insider trading JSON data [skip ci]"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Check if there are changes to commit
+          if git diff --quiet --staged; then
+            echo "No changes to commit, skipping push"
+          else
+            echo "Changes detected, committing..."
+            git commit -m "Update insider trading JSON data [skip ci]"
+            
+            # Push using the token for authentication
+            echo "Pushing changes to the repository..."
+            git push "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:main
+          fi
