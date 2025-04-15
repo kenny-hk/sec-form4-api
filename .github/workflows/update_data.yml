@@ -11,7 +11,7 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,7 +27,10 @@ jobs:
         run: |
           # Set up environment with GitHub-provided email
           sed -i 's/insidertrading-api@example.com/github-actions@github.com/g' InsiderTrading.py
-          python InsiderTrading.py  # Collect data for all S&P 500 companies
+          # First run with no-download to test
+          python InsiderTrading.py --no-download
+          # Then gradually fetch data with increasing limits (to avoid timeouts)
+          python InsiderTrading.py --limit 10
       
       - name: Export data to JSON for API
         run: |
@@ -43,3 +46,5 @@ jobs:
           git add data/json/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update insider trading JSON data [skip ci]"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
