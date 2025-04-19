@@ -1,9 +1,33 @@
 {
   "ticker": "XOM",
-  "last_updated": "2025-04-19T07:36:40.944791",
+  "last_updated": "2025-04-19T07:50:06.454979",
   "retention_years": 3,
-  "count": 8,
+  "count": 15,
   "transactions": [
+    {
+      "id": 64198,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Dreyfus Maria S.",
+      "reporting_owner_cik": "0001751484",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-06-17",
+      "transaction_shares": "18310",
+      "transaction_price": "109.251",
+      "transaction_type": "P",
+      "shares_after_transaction": "35756.9444"
+    },
+    {
+      "id": 64202,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Chapman Neil A",
+      "reporting_owner_cik": "0001628306",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2024-05-24",
+      "transaction_shares": "889",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "830821"
+    },
     {
       "id": 44493,
       "issuer_name": "EXXON MOBIL CORP",
@@ -17,7 +41,31 @@
       "shares_after_transaction": "17446.9444"
     },
     {
+      "id": 64200,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Dreyfus Maria S.",
+      "reporting_owner_cik": "0001751484",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-03",
+      "transaction_shares": "8000",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "17446.9444"
+    },
+    {
       "id": 44494,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Talley Darrin L",
+      "reporting_owner_cik": "0001918108",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2024-04-29",
+      "transaction_shares": "2426",
+      "transaction_price": "119.0147",
+      "transaction_type": "S",
+      "shares_after_transaction": "25363"
+    },
+    {
+      "id": 64201,
       "issuer_name": "EXXON MOBIL CORP",
       "reporting_owner": "Talley Darrin L",
       "reporting_owner_cik": "0001918108",
@@ -65,6 +113,18 @@
       "shares_after_transaction": "27789"
     },
     {
+      "id": 64203,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Talley Darrin L",
+      "reporting_owner_cik": "0001918108",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2024-03-19",
+      "transaction_shares": "2400",
+      "transaction_price": "113.325",
+      "transaction_type": "S",
+      "shares_after_transaction": "27789"
+    },
+    {
       "id": 14616,
       "issuer_name": "EXXON MOBIL CORP",
       "reporting_owner": "Talley Darrin L",
@@ -99,6 +159,30 @@
       "transaction_price": "105.00",
       "transaction_type": "S",
       "shares_after_transaction": "30189"
+    },
+    {
+      "id": 64199,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Talley Darrin L",
+      "reporting_owner_cik": "0001918108",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2024-02-22",
+      "transaction_shares": "2400",
+      "transaction_price": "105.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "30189"
+    },
+    {
+      "id": 64197,
+      "issuer_name": "EXXON MOBIL CORP",
+      "reporting_owner": "Goff Gregory James",
+      "reporting_owner_cik": "0001490987",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-11-02",
+      "transaction_shares": "5",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "25546.21"
     }
   ]
 }
