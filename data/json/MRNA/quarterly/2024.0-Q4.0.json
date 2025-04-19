@@ -2,11 +2,35 @@
   "ticker": "MRNA",
   "year": 2024,
   "quarter": 4,
-  "last_updated": "2025-04-19T08:33:46.038115",
-  "count": 1,
+  "last_updated": "2025-04-19T08:46:13.654982",
+  "count": 3,
   "transactions": [
     {
+      "id": 186709,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Hoge Stephen",
+      "reporting_owner_cik": "0001760669",
+      "reporting_owner_position": "President",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "523",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "1443525"
+    },
+    {
       "id": 156900,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-10-04",
+      "transaction_shares": "1453",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "10220"
+    },
+    {
+      "id": 186742,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
