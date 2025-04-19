@@ -1,8 +1,8 @@
 {
   "ticker": "MSCI",
-  "last_updated": "2025-04-19T08:23:07.202923",
+  "last_updated": "2025-04-19T08:33:46.038115",
   "retention_years": 3,
-  "count": 213,
+  "count": 251,
   "transactions": [
     {
       "id": 115654,
@@ -41,7 +41,55 @@
       "shares_after_transaction": "20178"
     },
     {
+      "id": 142153,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-30",
+      "transaction_shares": "6",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2421"
+    },
+    {
+      "id": 142170,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-30",
+      "transaction_shares": "3",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1229"
+    },
+    {
+      "id": 142173,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-30",
+      "transaction_shares": "4",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20178"
+    },
+    {
       "id": 115655,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Gutowski Robert J.",
+      "reporting_owner_cik": "0001797266",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2024-08-28",
+      "transaction_shares": "1816",
+      "transaction_price": "575",
+      "transaction_type": "S",
+      "shares_after_transaction": "15101"
+    },
+    {
+      "id": 142154,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Gutowski Robert J.",
       "reporting_owner_cik": "0001797266",
@@ -66,6 +114,18 @@
     },
     {
       "id": 115663,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Seitz Michelle",
+      "reporting_owner_cik": "0001836301",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-05",
+      "transaction_shares": "286",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "286"
+    },
+    {
+      "id": 142162,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Seitz Michelle",
       "reporting_owner_cik": "0001836301",
@@ -210,6 +270,42 @@
     },
     {
       "id": 115666,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-31",
+      "transaction_shares": "7",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2415"
+    },
+    {
+      "id": 142150,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-31",
+      "transaction_shares": "3",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1226"
+    },
+    {
+      "id": 142159,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-31",
+      "transaction_shares": "4",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20174"
+    },
+    {
+      "id": 142165,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Taneja Rajat",
       "reporting_owner_cik": "0001532601",
@@ -821,6 +917,126 @@
       "shares_after_transaction": "1045"
     },
     {
+      "id": 142151,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20170"
+    },
+    {
+      "id": 142152,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Perold Jacques P",
+      "reporting_owner_cik": "0001648837",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "5499"
+    },
+    {
+      "id": 142157,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2194"
+    },
+    {
+      "id": 142158,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Desai Chirantan Jitendra",
+      "reporting_owner_cik": "0001661430",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "496"
+    },
+    {
+      "id": 142163,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Volent Paula",
+      "reporting_owner_cik": "0001801717",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "3035"
+    },
+    {
+      "id": 142171,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Edmunds Wayne",
+      "reporting_owner_cik": "0001634739",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "9706"
+    },
+    {
+      "id": 142172,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Rattray Sandy C.",
+      "reporting_owner_cik": "0001801716",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "35",
+      "transaction_price": "470.03",
+      "transaction_type": "F",
+      "shares_after_transaction": "1655"
+    },
+    {
+      "id": 142174,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1223"
+    },
+    {
+      "id": 142178,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Smith Marcus L.",
+      "reporting_owner_cik": "0001718950",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "450",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "4478"
+    },
+    {
+      "id": 142179,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Ashe Robert G.",
+      "reporting_owner_cik": "0001414310",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "558",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1045"
+    },
+    {
       "id": 30786,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Crum Scott A",
@@ -870,6 +1086,18 @@
     },
     {
       "id": 115667,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Crum Scott A",
+      "reporting_owner_cik": "0001204559",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2024-04-30",
+      "transaction_shares": "1259",
+      "transaction_price": "469.53",
+      "transaction_type": "S",
+      "shares_after_transaction": "20572"
+    },
+    {
+      "id": 142166,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Crum Scott A",
       "reporting_owner_cik": "0001204559",
@@ -1001,6 +1229,30 @@
       "shares_after_transaction": "291038"
     },
     {
+      "id": 142167,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Fernandez Henry A",
+      "reporting_owner_cik": "0001416750",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2024-04-25",
+      "transaction_shares": "500",
+      "transaction_price": "459.48",
+      "transaction_type": "P",
+      "shares_after_transaction": "314979"
+    },
+    {
+      "id": 142176,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Pettit CD Baer",
+      "reporting_owner_cik": "0001416752",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2024-04-25",
+      "transaction_shares": "7500",
+      "transaction_price": "459.41",
+      "transaction_type": "P",
+      "shares_after_transaction": "291038"
+    },
+    {
       "id": 6295,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Desai Chirantan Jitendra",
@@ -1085,6 +1337,18 @@
       "shares_after_transaction": "46"
     },
     {
+      "id": 142164,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Desai Chirantan Jitendra",
+      "reporting_owner_cik": "0001661430",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-11",
+      "transaction_shares": "46",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "46"
+    },
+    {
       "id": 6293,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Ashe Robert G.",
@@ -1158,6 +1422,18 @@
     },
     {
       "id": 115661,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Ashe Robert G.",
+      "reporting_owner_cik": "0001414310",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-04",
+      "transaction_shares": "90",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "16449"
+    },
+    {
+      "id": 142160,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Ashe Robert G.",
       "reporting_owner_cik": "0001414310",
@@ -1494,6 +1770,54 @@
     },
     {
       "id": 115681,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-29",
+      "transaction_shares": "3",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19720"
+    },
+    {
+      "id": 142149,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-29",
+      "transaction_shares": "4",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1744"
+    },
+    {
+      "id": 142155,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Kinney Catherine R",
+      "reporting_owner_cik": "0001205054",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-29",
+      "transaction_shares": "58",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19314"
+    },
+    {
+      "id": 142168,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-29",
+      "transaction_shares": "2",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "773"
+    },
+    {
+      "id": 142180,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "RIEFLER LINDA H",
       "reporting_owner_cik": "0001366334",
@@ -1985,6 +2309,66 @@
       "shares_after_transaction": "1559427"
     },
     {
+      "id": 142145,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Crum Scott A",
+      "reporting_owner_cik": "0001204559",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2024-02-05",
+      "transaction_shares": "5686",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "24670"
+    },
+    {
+      "id": 142146,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Gutowski Robert J.",
+      "reporting_owner_cik": "0001797266",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2024-02-05",
+      "transaction_shares": "1356",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "17184"
+    },
+    {
+      "id": 142148,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Pettit CD Baer",
+      "reporting_owner_cik": "0001416752",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2024-02-05",
+      "transaction_shares": "23266",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "292412"
+    },
+    {
+      "id": 142169,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Wiechmann Andrew C.",
+      "reporting_owner_cik": "0001769683",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-02-05",
+      "transaction_shares": "1356",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20259"
+    },
+    {
+      "id": 142181,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Fernandez Henry A",
+      "reporting_owner_cik": "0001416750",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2024-02-05",
+      "transaction_shares": "84022",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1559427"
+    },
+    {
       "id": 506,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Gutowski Robert J.",
@@ -2273,6 +2657,42 @@
       "shares_after_transaction": "18903"
     },
     {
+      "id": 142144,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Gutowski Robert J.",
+      "reporting_owner_cik": "0001797266",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2024-02-04",
+      "transaction_shares": "78",
+      "transaction_price": "593.06",
+      "transaction_type": "F",
+      "shares_after_transaction": "15828"
+    },
+    {
+      "id": 142147,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Crum Scott A",
+      "reporting_owner_cik": "0001204559",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2024-02-04",
+      "transaction_shares": "293",
+      "transaction_price": "593.06",
+      "transaction_type": "F",
+      "shares_after_transaction": "18984"
+    },
+    {
+      "id": 142156,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Wiechmann Andrew C.",
+      "reporting_owner_cik": "0001769683",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-02-04",
+      "transaction_shares": "87",
+      "transaction_price": "593.06",
+      "transaction_type": "F",
+      "shares_after_transaction": "18903"
+    },
+    {
       "id": 512,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Crum Scott A",
@@ -2550,6 +2970,42 @@
     },
     {
       "id": 115678,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Wiechmann Andrew C.",
+      "reporting_owner_cik": "0001769683",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "1329",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18990"
+    },
+    {
+      "id": 142161,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Crum Scott A",
+      "reporting_owner_cik": "0001204559",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "1003",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19277"
+    },
+    {
+      "id": 142175,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Gutowski Robert J.",
+      "reporting_owner_cik": "0001797266",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "727",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "15906"
+    },
+    {
+      "id": 142177,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Wiechmann Andrew C.",
       "reporting_owner_cik": "0001769683",
