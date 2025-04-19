@@ -2,8 +2,8 @@
   "ticker": "FDX",
   "year": 2025,
   "quarter": 1,
-  "last_updated": "2025-04-19T09:10:58.394959",
-  "count": 4,
+  "last_updated": "2025-04-19T09:36:19.551340",
+  "count": 8,
   "transactions": [
     {
       "id": 260171,
@@ -18,7 +18,31 @@
       "shares_after_transaction": "12884"
     },
     {
+      "id": 300855,
+      "issuer_name": "FEDEX CORP",
+      "reporting_owner": "SCHWAB SUSAN C",
+      "reporting_owner_cik": "0001202958",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-01-14",
+      "transaction_shares": "3980",
+      "transaction_price": "174.635",
+      "transaction_type": "M",
+      "shares_after_transaction": "12884"
+    },
+    {
       "id": 260138,
+      "issuer_name": "FEDEX CORP",
+      "reporting_owner": "DIETRICH JOHN W",
+      "reporting_owner_cik": "0001226022",
+      "reporting_owner_position": "EVP CHIEF FINANCIAL OFF",
+      "transaction_date": "2025-01-07",
+      "transaction_shares": "1000",
+      "transaction_price": "273.98",
+      "transaction_type": "P",
+      "shares_after_transaction": "9067"
+    },
+    {
+      "id": 300822,
       "issuer_name": "FEDEX CORP",
       "reporting_owner": "DIETRICH JOHN W",
       "reporting_owner_cik": "0001226022",
@@ -43,6 +67,30 @@
     },
     {
       "id": 260165,
+      "issuer_name": "FEDEX CORP",
+      "reporting_owner": "Smith Richard W",
+      "reporting_owner_cik": "0001944623",
+      "reporting_owner_position": "COO INTL - CEO Airline FEC",
+      "transaction_date": "2025-01-02",
+      "transaction_shares": "23516",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "111242"
+    },
+    {
+      "id": 300841,
+      "issuer_name": "FEDEX CORP",
+      "reporting_owner": "SMITH FREDERICK W",
+      "reporting_owner_cik": "0001197611",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-01-02",
+      "transaction_shares": "225000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "14280844"
+    },
+    {
+      "id": 300849,
       "issuer_name": "FEDEX CORP",
       "reporting_owner": "Smith Richard W",
       "reporting_owner_cik": "0001944623",
