@@ -1,8 +1,8 @@
 {
   "ticker": "EFR",
-  "last_updated": "2025-04-19T08:46:13.654982",
+  "last_updated": "2025-04-19T08:57:46.400210",
   "retention_years": 3,
-  "count": 4,
+  "count": 6,
   "transactions": [
     {
       "id": 102081,
@@ -51,6 +51,30 @@
       "transaction_price": "12.364",
       "transaction_type": "P",
       "shares_after_transaction": "116"
+    },
+    {
+      "id": 216915,
+      "issuer_name": "EATON VANCE SENIOR FLOATING RATE TRUST",
+      "reporting_owner": "BANK OF AMERICA CORP /DE/",
+      "reporting_owner_cik": "0000070858",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-05",
+      "transaction_shares": "116",
+      "transaction_price": "12.364",
+      "transaction_type": "P",
+      "shares_after_transaction": "116"
+    },
+    {
+      "id": 217020,
+      "issuer_name": "Eaton Vance Senior Floating-Rate Trust",
+      "reporting_owner": "BANK OF AMERICA CORP /DE/",
+      "reporting_owner_cik": "0000070858",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "39",
+      "transaction_price": "13.1211",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
     }
   ]
 }
