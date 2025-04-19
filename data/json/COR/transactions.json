@@ -1,11 +1,23 @@
 {
   "ticker": "COR",
-  "last_updated": "2025-04-19T09:55:23.615356",
+  "last_updated": "2025-04-19T10:04:54.704574",
   "retention_years": 3,
-  "count": 657,
+  "count": 751,
   "transactions": [
     {
       "id": 333779,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-03-25",
+      "transaction_shares": "12578",
+      "transaction_price": "86.09",
+      "transaction_type": "M",
+      "shares_after_transaction": "332490.665"
+    },
+    {
+      "id": 380873,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -29,6 +41,18 @@
       "shares_after_transaction": "16664.53"
     },
     {
+      "id": 380831,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-03-24",
+      "transaction_shares": "2127",
+      "transaction_price": "268.28",
+      "transaction_type": "S",
+      "shares_after_transaction": "16664.53"
+    },
+    {
       "id": 333786,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Mauch Robert P.",
@@ -41,7 +65,31 @@
       "shares_after_transaction": "54296"
     },
     {
+      "id": 380880,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2025-03-18",
+      "transaction_shares": "3226",
+      "transaction_price": "86.09",
+      "transaction_type": "M",
+      "shares_after_transaction": "54296"
+    },
+    {
       "id": 333766,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2025-03-10",
+      "transaction_shares": "2000",
+      "transaction_price": "260.06",
+      "transaction_type": "S",
+      "shares_after_transaction": "20154"
+    },
+    {
+      "id": 380860,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Krikorian Lazarus",
       "reporting_owner_cik": "0001627534",
@@ -149,7 +197,115 @@
       "shares_after_transaction": "3194"
     },
     {
+      "id": 380807,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Clyburn Frank",
+      "reporting_owner_cik": "0001763963",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "1157"
+    },
+    {
+      "id": 380830,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Kim Lorence H.",
+      "reporting_owner_cik": "0001643746",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "3524"
+    },
+    {
+      "id": 380833,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "2771"
+    },
+    {
+      "id": 380843,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "DURCAN DERMOT MARK",
+      "reporting_owner_cik": "0001202358",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "986",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "22862"
+    },
+    {
+      "id": 380850,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "GREENBERG LON R",
+      "reporting_owner_cik": "0001234234",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "20851"
+    },
+    {
+      "id": 380856,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "2771"
+    },
+    {
+      "id": 380871,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "13130"
+    },
+    {
+      "id": 380887,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Miller Redonda",
+      "reporting_owner_cik": "0001891346",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-06",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "3194"
+    },
+    {
       "id": 333773,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2025-03-03",
+      "transaction_shares": "1744",
+      "transaction_price": "255",
+      "transaction_type": "S",
+      "shares_after_transaction": "51070"
+    },
+    {
+      "id": 380867,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Mauch Robert P.",
       "reporting_owner_cik": "0001633897",
@@ -185,6 +341,18 @@
       "shares_after_transaction": "319912.665"
     },
     {
+      "id": 380812,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-02-27",
+      "transaction_shares": "2000",
+      "transaction_price": "251.08",
+      "transaction_type": "S",
+      "shares_after_transaction": "319912.665"
+    },
+    {
       "id": 289608,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
@@ -198,6 +366,18 @@
     },
     {
       "id": 333707,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-02-21",
+      "transaction_shares": "5000",
+      "transaction_price": "242.24",
+      "transaction_type": "S",
+      "shares_after_transaction": "15373.889"
+    },
+    {
+      "id": 380801,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
       "reporting_owner_cik": "0001774724",
@@ -246,6 +426,30 @@
     },
     {
       "id": 352219,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-02-06",
+      "transaction_shares": "1081885",
+      "transaction_price": "244.51",
+      "transaction_type": "S",
+      "shares_after_transaction": "18898115"
+    },
+    {
+      "id": 380876,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-02-06",
+      "transaction_shares": "1081885",
+      "transaction_price": "244.51",
+      "transaction_type": "S",
+      "shares_after_transaction": "18898115"
+    },
+    {
+      "id": 399953,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Walgreens Boots Alliance, Inc.",
       "reporting_owner_cik": "0001618921",
@@ -329,6 +533,42 @@
       "shares_after_transaction": "12341"
     },
     {
+      "id": 380799,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-01-31",
+      "transaction_shares": "99",
+      "transaction_price": "254.21",
+      "transaction_type": "A",
+      "shares_after_transaction": "1982"
+    },
+    {
+      "id": 380808,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-01-31",
+      "transaction_shares": "99",
+      "transaction_price": "254.21",
+      "transaction_type": "A",
+      "shares_after_transaction": "1982"
+    },
+    {
+      "id": 380818,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-01-31",
+      "transaction_shares": "123",
+      "transaction_price": "254.21",
+      "transaction_type": "A",
+      "shares_after_transaction": "12341"
+    },
+    {
       "id": 250533,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Krikorian Lazarus",
@@ -354,6 +594,18 @@
     },
     {
       "id": 333770,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2025-01-03",
+      "transaction_shares": "252",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "22240"
+    },
+    {
+      "id": 380864,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Krikorian Lazarus",
       "reporting_owner_cik": "0001627534",
@@ -437,6 +689,30 @@
       "shares_after_transaction": "20373.889"
     },
     {
+      "id": 380834,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-12-31",
+      "transaction_shares": "53.208",
+      "transaction_price": "190.978",
+      "transaction_type": "A",
+      "shares_after_transaction": "18791.53"
+    },
+    {
+      "id": 380859,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-12-31",
+      "transaction_shares": "44.809",
+      "transaction_price": "190.978",
+      "transaction_type": "A",
+      "shares_after_transaction": "20373.889"
+    },
+    {
       "id": 215957,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
@@ -474,6 +750,18 @@
     },
     {
       "id": 333769,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-12-20",
+      "transaction_shares": "1678",
+      "transaction_price": "228.72",
+      "transaction_type": "S",
+      "shares_after_transaction": "20329.08"
+    },
+    {
+      "id": 380863,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
       "reporting_owner_cik": "0001774724",
@@ -677,6 +965,54 @@
       "shares_after_transaction": "322307.665"
     },
     {
+      "id": 380802,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2024-12-18",
+      "transaction_shares": "789",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "53603"
+    },
+    {
+      "id": 380877,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Cleary James F",
+      "reporting_owner_cik": "0001333281",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-12-18",
+      "transaction_shares": "207",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "149500.3479"
+    },
+    {
+      "id": 380881,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2024-12-18",
+      "transaction_shares": "108",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "22096"
+    },
+    {
+      "id": 380886,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-12-18",
+      "transaction_shares": "395",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "322307.665"
+    },
+    {
       "id": 215912,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Krikorian Lazarus",
@@ -725,6 +1061,18 @@
       "shares_after_transaction": "21988"
     },
     {
+      "id": 380805,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2024-12-03",
+      "transaction_shares": "1816",
+      "transaction_price": "250.415",
+      "transaction_type": "S",
+      "shares_after_transaction": "21988"
+    },
+    {
       "id": 215933,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Cleary James F",
@@ -762,6 +1110,18 @@
     },
     {
       "id": 333738,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Cleary James F",
+      "reporting_owner_cik": "0001333281",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-11-27",
+      "transaction_shares": "33877",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "171508.3479"
+    },
+    {
+      "id": 380832,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Cleary James F",
       "reporting_owner_cik": "0001333281",
@@ -822,6 +1182,18 @@
     },
     {
       "id": 333720,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-11-25",
+      "transaction_shares": "50000",
+      "transaction_price": "243.975",
+      "transaction_type": "S",
+      "shares_after_transaction": "326556.665"
+    },
+    {
+      "id": 380814,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -1193,6 +1565,78 @@
       "shares_after_transaction": "430279.665"
     },
     {
+      "id": 380820,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Cleary James F",
+      "reporting_owner_cik": "0001333281",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "35137",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "153879.3479"
+    },
+    {
+      "id": 380821,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "13177",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "24832.322"
+    },
+    {
+      "id": 380825,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "1831",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "24596"
+    },
+    {
+      "id": 380826,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "14276",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "28225.08"
+    },
+    {
+      "id": 380866,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "38433",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "69529"
+    },
+    {
+      "id": 380875,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-11-21",
+      "transaction_shares": "123528",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "430279.665"
+    },
+    {
       "id": 183859,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -1242,6 +1686,18 @@
     },
     {
       "id": 333746,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-11-19",
+      "transaction_shares": "21509",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "328260.665"
+    },
+    {
+      "id": 380840,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -1613,6 +2069,78 @@
       "shares_after_transaction": "28126"
     },
     {
+      "id": 380797,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "1061",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "21103"
+    },
+    {
+      "id": 380838,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "11936",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "297024"
+    },
+    {
+      "id": 380847,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Cleary James F",
+      "reporting_owner_cik": "0001333281",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "3395",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "117461.3479"
+    },
+    {
+      "id": 380858,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "1274",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "9578.322"
+    },
+    {
+      "id": 380868,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "2971",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "13919.08"
+    },
+    {
+      "id": 380874,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "3714",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "28126"
+    },
+    {
       "id": 183833,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "NALLY DENNIS M",
@@ -1853,6 +2381,54 @@
       "shares_after_transaction": "1883"
     },
     {
+      "id": 380804,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "134",
+      "transaction_price": "234.27",
+      "transaction_type": "A",
+      "shares_after_transaction": "12218"
+    },
+    {
+      "id": 380839,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Clyburn Frank",
+      "reporting_owner_cik": "0001763963",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "368",
+      "transaction_price": "234.27",
+      "transaction_type": "A",
+      "shares_after_transaction": "368"
+    },
+    {
+      "id": 380845,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "107",
+      "transaction_price": "234.27",
+      "transaction_type": "A",
+      "shares_after_transaction": "1883"
+    },
+    {
+      "id": 380879,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "107",
+      "transaction_price": "234.27",
+      "transaction_type": "A",
+      "shares_after_transaction": "1883"
+    },
+    {
       "id": 154295,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -1914,6 +2490,18 @@
     },
     {
       "id": 333791,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2024-10-22",
+      "transaction_shares": "21509",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "306597"
+    },
+    {
+      "id": 380885,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -1998,6 +2586,18 @@
     },
     {
       "id": 333775,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-09-17",
+      "transaction_shares": "21509",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "306597"
+    },
+    {
+      "id": 380869,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -2105,6 +2705,18 @@
       "shares_after_transaction": "295842"
     },
     {
+      "id": 380823,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-08-20",
+      "transaction_shares": "10754",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295842"
+    },
+    {
       "id": 101461,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
@@ -2201,6 +2813,18 @@
       "shares_after_transaction": "10948.08"
     },
     {
+      "id": 380846,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-08-06",
+      "transaction_shares": "1473",
+      "transaction_price": "242.69",
+      "transaction_type": "S",
+      "shares_after_transaction": "10948.08"
+    },
+    {
       "id": 101468,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "GREENBERG LON R",
@@ -2286,6 +2910,18 @@
     },
     {
       "id": 333761,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "GREENBERG LON R",
+      "reporting_owner_cik": "0001234234",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-05",
+      "transaction_shares": "5000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "20062"
+    },
+    {
+      "id": 380855,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "GREENBERG LON R",
       "reporting_owner_cik": "0001234234",
@@ -2777,6 +3413,66 @@
       "shares_after_transaction": "19980000"
     },
     {
+      "id": 380824,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "4438171",
+      "transaction_price": "240.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "19980000"
+    },
+    {
+      "id": 380836,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "103",
+      "transaction_price": "244.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "1776"
+    },
+    {
+      "id": 380848,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "103",
+      "transaction_price": "244.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "1776"
+    },
+    {
+      "id": 380882,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "128",
+      "transaction_price": "244.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "12084"
+    },
+    {
+      "id": 399918,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-08-01",
+      "transaction_shares": "4438171",
+      "transaction_price": "240.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "19980000"
+    },
+    {
       "id": 78155,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -2885,6 +3581,18 @@
       "shares_after_transaction": "295843"
     },
     {
+      "id": 380865,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-07-16",
+      "transaction_shares": "10755",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295843"
+    },
+    {
       "id": 78149,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Donato Leslie E",
@@ -2982,6 +3690,18 @@
     },
     {
       "id": 333758,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Donato Leslie E",
+      "reporting_owner_cik": "0001784795",
+      "reporting_owner_position": "EVP & Chief Strategy Officer",
+      "transaction_date": "2024-07-01",
+      "transaction_shares": "1432",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "9990.849"
+    },
+    {
+      "id": 380852,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Donato Leslie E",
       "reporting_owner_cik": "0001784795",
@@ -3317,6 +4037,42 @@
       "shares_after_transaction": "12421.08"
     },
     {
+      "id": 380828,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Donato Leslie E",
+      "reporting_owner_cik": "0001784795",
+      "reporting_owner_position": "EVP & Chief Strategy Officer",
+      "transaction_date": "2024-06-28",
+      "transaction_shares": "66.879",
+      "transaction_price": "191.505",
+      "transaction_type": "A",
+      "shares_after_transaction": "9524.728"
+    },
+    {
+      "id": 380861,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-06-28",
+      "transaction_shares": "57.902",
+      "transaction_price": "191.505",
+      "transaction_type": "A",
+      "shares_after_transaction": "8304.322"
+    },
+    {
+      "id": 380878,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-06-28",
+      "transaction_shares": "66.277",
+      "transaction_price": "191.505",
+      "transaction_type": "A",
+      "shares_after_transaction": "12421.08"
+    },
+    {
       "id": 56994,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -3426,6 +4182,18 @@
     },
     {
       "id": 333743,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-06-18",
+      "transaction_shares": "10754",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295842"
+    },
+    {
+      "id": 380837,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -3557,6 +4325,18 @@
       "shares_after_transaction": "13284"
     },
     {
+      "id": 380884,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Clark Gina",
+      "reporting_owner_cik": "0001625811",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-05-31",
+      "transaction_shares": "1874",
+      "transaction_price": "223.856",
+      "transaction_type": "S",
+      "shares_after_transaction": "13284"
+    },
+    {
       "id": 56983,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "DURCAN DERMOT MARK",
@@ -3666,6 +4446,18 @@
     },
     {
       "id": 333716,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "DURCAN DERMOT MARK",
+      "reporting_owner_cik": "0001202358",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-24",
+      "transaction_shares": "500",
+      "transaction_price": "218.58",
+      "transaction_type": "P",
+      "shares_after_transaction": "21876"
+    },
+    {
+      "id": 380810,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "DURCAN DERMOT MARK",
       "reporting_owner_cik": "0001202358",
@@ -3941,6 +4733,30 @@
       "shares_after_transaction": "24418171"
     },
     {
+      "id": 380842,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-22",
+      "transaction_shares": "1859390",
+      "transaction_price": "215.1244",
+      "transaction_type": "S",
+      "shares_after_transaction": "24418171"
+    },
+    {
+      "id": 399931,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-22",
+      "transaction_shares": "1859390",
+      "transaction_price": "215.1244",
+      "transaction_type": "S",
+      "shares_after_transaction": "24418171"
+    },
+    {
       "id": 38235,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -4062,6 +4878,18 @@
     },
     {
       "id": 333760,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-05-21",
+      "transaction_shares": "10755",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295843"
+    },
+    {
+      "id": 380854,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -4469,6 +5297,42 @@
       "shares_after_transaction": "11956"
     },
     {
+      "id": 380817,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "110",
+      "transaction_price": "229.20",
+      "transaction_type": "A",
+      "shares_after_transaction": "1673"
+    },
+    {
+      "id": 380822,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "110",
+      "transaction_price": "229.20",
+      "transaction_type": "A",
+      "shares_after_transaction": "1673"
+    },
+    {
+      "id": 380827,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-01",
+      "transaction_shares": "137",
+      "transaction_price": "229.20",
+      "transaction_type": "A",
+      "shares_after_transaction": "11956"
+    },
+    {
       "id": 22840,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
@@ -4613,6 +5477,18 @@
       "shares_after_transaction": "295842"
     },
     {
+      "id": 380819,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-04-16",
+      "transaction_shares": "10754",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295842"
+    },
+    {
       "id": 22842,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Mauch Robert P.",
@@ -4746,6 +5622,18 @@
     },
     {
       "id": 333741,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Mauch Robert P.",
+      "reporting_owner_cik": "0001633897",
+      "reporting_owner_position": "Executive Vice President & COO",
+      "transaction_date": "2024-04-15",
+      "transaction_shares": "33877",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "81976"
+    },
+    {
+      "id": 380835,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Mauch Robert P.",
       "reporting_owner_cik": "0001633897",
@@ -4902,6 +5790,18 @@
     },
     {
       "id": 333763,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "COLLIS STEVEN H",
+      "reporting_owner_cik": "0001191508",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2024-03-19",
+      "transaction_shares": "10755",
+      "transaction_price": "89.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "295843"
+    },
+    {
+      "id": 380857,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "COLLIS STEVEN H",
       "reporting_owner_cik": "0001191508",
@@ -5178,6 +6078,30 @@
     },
     {
       "id": 333776,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-03-18",
+      "transaction_shares": "6977",
+      "transaction_price": "238.12",
+      "transaction_type": "S",
+      "shares_after_transaction": "8246.42"
+    },
+    {
+      "id": 380816,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Clark Gina",
+      "reporting_owner_cik": "0001625811",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-03-18",
+      "transaction_shares": "9644",
+      "transaction_price": "238.12",
+      "transaction_type": "S",
+      "shares_after_transaction": "15158"
+    },
+    {
+      "id": 380870,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Campbell Elizabeth S",
       "reporting_owner_cik": "0001882641",
@@ -5969,6 +6893,66 @@
       "shares_after_transaction": "1563"
     },
     {
+      "id": 380800,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Miller Redonda",
+      "reporting_owner_cik": "0001891346",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "843",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "2405"
+    },
+    {
+      "id": 380806,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "843",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "1563"
+    },
+    {
+      "id": 380829,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "GREENBERG LON R",
+      "reporting_owner_cik": "0001234234",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "843",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "27062"
+    },
+    {
+      "id": 380872,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Kim Lorence H.",
+      "reporting_owner_cik": "0001643746",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "843",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "2735"
+    },
+    {
+      "id": 380888,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "843",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "1563"
+    },
+    {
       "id": 10800,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "GOCHNAUER RICHARD W",
@@ -6593,6 +7577,54 @@
       "shares_after_transaction": "23563"
     },
     {
+      "id": 380809,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "GOCHNAUER RICHARD W",
+      "reporting_owner_cik": "0001214315",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-11",
+      "transaction_shares": "1593",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "27919"
+    },
+    {
+      "id": 380849,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-11",
+      "transaction_shares": "1593",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "10976"
+    },
+    {
+      "id": 380851,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "DURCAN DERMOT MARK",
+      "reporting_owner_cik": "0001202358",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-11",
+      "transaction_shares": "1593",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "20323"
+    },
+    {
+      "id": 380889,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "HYLE KATHLEEN W",
+      "reporting_owner_cik": "0001117310",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-11",
+      "transaction_shares": "1593",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "23563"
+    },
+    {
       "id": 10802,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
@@ -6738,6 +7770,18 @@
     },
     {
       "id": 333719,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-03-08",
+      "transaction_shares": "1211",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "12891.803"
+    },
+    {
+      "id": 380813,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Battaglia Silvana",
       "reporting_owner_cik": "0001774724",
@@ -6906,6 +7950,18 @@
     },
     {
       "id": 333768,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Clark Gina",
+      "reporting_owner_cik": "0001625811",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-02-13",
+      "transaction_shares": "1100",
+      "transaction_price": "230.48",
+      "transaction_type": "S",
+      "shares_after_transaction": "24802"
+    },
+    {
+      "id": 380862,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Clark Gina",
       "reporting_owner_cik": "0001625811",
@@ -7242,6 +8298,30 @@
     },
     {
       "id": 352225,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-07",
+      "transaction_shares": "4212395",
+      "transaction_price": "235.41",
+      "transaction_type": "S",
+      "shares_after_transaction": "26277561"
+    },
+    {
+      "id": 380883,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner_cik": "0001618921",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-07",
+      "transaction_shares": "4212395",
+      "transaction_price": "235.41",
+      "transaction_type": "S",
+      "shares_after_transaction": "26277561"
+    },
+    {
+      "id": 399960,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "Walgreens Boots Alliance, Inc.",
       "reporting_owner_cik": "0001618921",
@@ -7757,6 +8837,42 @@
       "shares_after_transaction": "9383"
     },
     {
+      "id": 380798,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "106",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "720"
+    },
+    {
+      "id": 380803,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "106",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "720"
+    },
+    {
+      "id": 380811,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-01",
+      "transaction_shares": "132",
+      "transaction_price": "236.92",
+      "transaction_type": "A",
+      "shares_after_transaction": "9383"
+    },
+    {
       "id": 38222,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "GREENBERG LON R",
@@ -7878,6 +8994,18 @@
     },
     {
       "id": 333721,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "GREENBERG LON R",
+      "reporting_owner_cik": "0001234234",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-10-20",
+      "transaction_shares": "2000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "25062"
+    },
+    {
+      "id": 380815,
       "issuer_name": "Cencora, Inc.",
       "reporting_owner": "GREENBERG LON R",
       "reporting_owner_cik": "0001234234",
