@@ -1,11 +1,71 @@
 {
   "ticker": "TSLA",
-  "last_updated": "2025-04-19T09:36:19.551340",
+  "last_updated": "2025-04-19T09:55:23.615356",
   "retention_years": 3,
-  "count": 168,
+  "count": 201,
   "transactions": [
     {
+      "id": 319441,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "MURDOCH JAMES R",
+      "reporting_owner_cik": "0001420590",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-10",
+      "transaction_shares": "180000",
+      "transaction_price": "23.85",
+      "transaction_type": "M",
+      "shares_after_transaction": "180000"
+    },
+    {
+      "id": 319433,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-03-05",
+      "transaction_shares": "6538",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "29621.75"
+    },
+    {
+      "id": 319412,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-03-03",
+      "transaction_shares": "6000.00",
+      "transaction_price": "18.220",
+      "transaction_type": "M",
+      "shares_after_transaction": "29083.75"
+    },
+    {
+      "id": 319417,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-03",
+      "transaction_shares": "112390",
+      "transaction_price": "24.730",
+      "transaction_type": "M",
+      "shares_after_transaction": "197390"
+    },
+    {
       "id": 276640,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-02-06",
+      "transaction_shares": "74077",
+      "transaction_price": "367.868",
+      "transaction_type": "S",
+      "shares_after_transaction": "1464143"
+    },
+    {
+      "id": 319415,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Kimbal",
       "reporting_owner_cik": "0001494731",
@@ -30,6 +90,30 @@
     },
     {
       "id": 276662,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-02-03",
+      "transaction_shares": "7000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "115964.75"
+    },
+    {
+      "id": 319429,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-02-03",
+      "transaction_shares": "112390",
+      "transaction_price": "24.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "197390"
+    },
+    {
+      "id": 319439,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
       "reporting_owner_cik": "0001771340",
@@ -89,6 +173,30 @@
       "shares_after_transaction": "115964.75"
     },
     {
+      "id": 319418,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Wilson-Thompson Kathleen",
+      "reporting_owner_cik": "0001331680",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-01-06",
+      "transaction_shares": "100000",
+      "transaction_price": "14.99",
+      "transaction_type": "M",
+      "shares_after_transaction": "105400"
+    },
+    {
+      "id": 319428,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-01-06",
+      "transaction_shares": "7000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "115964.75"
+    },
+    {
       "id": 239453,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Elon",
@@ -102,6 +210,18 @@
     },
     {
       "id": 276643,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2024-12-30",
+      "transaction_shares": "268000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "410794076"
+    },
+    {
+      "id": 319419,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Elon",
       "reporting_owner_cik": "0001494730",
@@ -149,6 +269,18 @@
       "shares_after_transaction": "1538220"
     },
     {
+      "id": 319427,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-12-11",
+      "transaction_shares": "25000",
+      "transaction_price": "0.0",
+      "transaction_type": "G",
+      "shares_after_transaction": "1538220"
+    },
+    {
       "id": 205709,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
@@ -185,6 +317,18 @@
       "shares_after_transaction": "111570.25"
     },
     {
+      "id": 319440,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-12-05",
+      "transaction_shares": "6538",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "111570.25"
+    },
+    {
       "id": 205692,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Wilson-Thompson Kathleen",
@@ -210,6 +354,18 @@
     },
     {
       "id": 276641,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Wilson-Thompson Kathleen",
+      "reporting_owner_cik": "0001331680",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-12-04",
+      "transaction_shares": "100000",
+      "transaction_price": "14.99",
+      "transaction_type": "M",
+      "shares_after_transaction": "105400"
+    },
+    {
+      "id": 319416,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Wilson-Thompson Kathleen",
       "reporting_owner_cik": "0001331680",
@@ -293,6 +449,30 @@
       "shares_after_transaction": "112032.25"
     },
     {
+      "id": 319420,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-12-02",
+      "transaction_shares": "112390",
+      "transaction_price": "24.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "197390"
+    },
+    {
+      "id": 319422,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-12-02",
+      "transaction_shares": "7000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "112032.25"
+    },
+    {
       "id": 174391,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
@@ -330,6 +510,18 @@
     },
     {
       "id": 276660,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-15",
+      "transaction_shares": "112390",
+      "transaction_price": "24.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "197390"
+    },
+    {
+      "id": 319437,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
       "reporting_owner_cik": "0001242782",
@@ -389,6 +581,18 @@
       "shares_after_transaction": "100297"
     },
     {
+      "id": 319411,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Wilson-Thompson Kathleen",
+      "reporting_owner_cik": "0001331680",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-11",
+      "transaction_shares": "94897",
+      "transaction_price": "14.99",
+      "transaction_type": "M",
+      "shares_after_transaction": "100297"
+    },
+    {
       "id": 174386,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
@@ -426,6 +630,18 @@
     },
     {
       "id": 276655,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-11-08",
+      "transaction_shares": "8000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "113032.25"
+    },
+    {
+      "id": 319431,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
       "reporting_owner_cik": "0001771340",
@@ -533,6 +749,30 @@
       "shares_after_transaction": "1623720"
     },
     {
+      "id": 319423,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "4000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "109032.25"
+    },
+    {
+      "id": 319434,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-11-01",
+      "transaction_shares": "15000",
+      "transaction_price": "24.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "1623720"
+    },
+    {
       "id": 145553,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
@@ -582,6 +822,18 @@
     },
     {
       "id": 276654,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-10-24",
+      "transaction_shares": "4000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "109032.25"
+    },
+    {
+      "id": 319430,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
       "reporting_owner_cik": "0001771340",
@@ -665,6 +917,18 @@
       "shares_after_transaction": "113032.25"
     },
     {
+      "id": 319438,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Taneja Vaibhav",
+      "reporting_owner_cik": "0001771340",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2024-09-23",
+      "transaction_shares": "8000",
+      "transaction_price": "18.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "113032.25"
+    },
+    {
       "id": 118818,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
@@ -726,6 +990,18 @@
     },
     {
       "id": 276648,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Zhu Xiaotong",
+      "reporting_owner_cik": "0001972928",
+      "reporting_owner_position": "SVP, Automotive",
+      "transaction_date": "2024-09-05",
+      "transaction_shares": "2633",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "67787.75"
+    },
+    {
+      "id": 319424,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
       "reporting_owner_cik": "0001972928",
@@ -810,6 +1086,18 @@
     },
     {
       "id": 276658,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-07-25",
+      "transaction_shares": "44096.00",
+      "transaction_price": "23.170",
+      "transaction_type": "M",
+      "shares_after_transaction": "59096.00"
+    },
+    {
+      "id": 319435,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
       "reporting_owner_cik": "0001242782",
@@ -929,6 +1217,18 @@
       "shares_after_transaction": "65804.25"
     },
     {
+      "id": 319436,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Zhu Xiaotong",
+      "reporting_owner_cik": "0001972928",
+      "reporting_owner_position": "SVP, Automotive",
+      "transaction_date": "2024-06-05",
+      "transaction_shares": "2633",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "65804.25"
+    },
+    {
       "id": 50817,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "MURDOCH JAMES R",
@@ -1026,6 +1326,18 @@
     },
     {
       "id": 276656,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "MURDOCH JAMES R",
+      "reporting_owner_cik": "0001420590",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-06-03",
+      "transaction_shares": "250020",
+      "transaction_price": "21.31",
+      "transaction_type": "M",
+      "shares_after_transaction": "250020"
+    },
+    {
+      "id": 319432,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "MURDOCH JAMES R",
       "reporting_owner_cik": "0001420590",
@@ -1146,6 +1458,18 @@
     },
     {
       "id": 276650,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-06",
+      "transaction_shares": "24698",
+      "transaction_price": "23.170",
+      "transaction_type": "M",
+      "shares_after_transaction": "39698"
+    },
+    {
+      "id": 319426,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
       "reporting_owner_cik": "0001242782",
@@ -1278,6 +1602,18 @@
     },
     {
       "id": 276665,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2024-04-01",
+      "transaction_shares": "10500",
+      "transaction_price": "17.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "41730"
+    },
+    {
+      "id": 319443,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Baglino Andrew D",
       "reporting_owner_cik": "0001790565",
@@ -1433,6 +1769,18 @@
       "shares_after_transaction": "42499"
     },
     {
+      "id": 319442,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-12",
+      "transaction_shares": "27499",
+      "transaction_price": "23.17",
+      "transaction_type": "M",
+      "shares_after_transaction": "42499"
+    },
+    {
       "id": 7574,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
@@ -1566,6 +1914,18 @@
     },
     {
       "id": 276639,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Zhu Xiaotong",
+      "reporting_owner_cik": "0001972928",
+      "reporting_owner_position": "SVP, Automotive",
+      "transaction_date": "2024-03-05",
+      "transaction_shares": "2633",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "63858.5"
+    },
+    {
+      "id": 319414,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
       "reporting_owner_cik": "0001972928",
@@ -1721,6 +2081,18 @@
       "shares_after_transaction": "41730"
     },
     {
+      "id": 319421,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2024-02-29",
+      "transaction_shares": "10500",
+      "transaction_price": "17.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "41730"
+    },
+    {
       "id": 7573,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
@@ -1854,6 +2226,18 @@
     },
     {
       "id": 276638,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "DENHOLM ROBYN M",
+      "reporting_owner_cik": "0001242782",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-21",
+      "transaction_shares": "93706",
+      "transaction_price": "23.17",
+      "transaction_type": "M",
+      "shares_after_transaction": "108706"
+    },
+    {
+      "id": 319413,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "DENHOLM ROBYN M",
       "reporting_owner_cik": "0001242782",
@@ -2010,6 +2394,18 @@
     },
     {
       "id": 276649,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Baglino Andrew D",
+      "reporting_owner_cik": "0001790565",
+      "reporting_owner_position": "SVP Powertrain and Energy Eng.",
+      "transaction_date": "2024-01-31",
+      "transaction_shares": "38160",
+      "transaction_price": "0.0",
+      "transaction_type": "G",
+      "shares_after_transaction": "31230"
+    },
+    {
+      "id": 319425,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Baglino Andrew D",
       "reporting_owner_cik": "0001790565",
