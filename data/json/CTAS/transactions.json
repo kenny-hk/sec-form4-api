@@ -1,20 +1,44 @@
 {
   "ticker": "CTAS",
-  "last_updated": "2025-04-18T08:29:34.948005",
+  "last_updated": "2025-04-19T06:40:54.085766",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 19,
+      "id": 415,
       "issuer_name": "CINTAS CORP",
-      "reporting_owner": "TYSOE RONALD W",
-      "reporting_owner_cik": "0001184472",
+      "reporting_owner": "SCAMINACE JOSEPH",
+      "reporting_owner_cik": "0001203526",
       "reporting_owner_position": null,
-      "transaction_date": "2025-04-14",
-      "transaction_shares": "9560",
-      "transaction_price": "22.67",
-      "transaction_type": "M",
-      "shares_after_transaction": "36589"
+      "transaction_date": "2024-02-08",
+      "transaction_shares": "200",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "10671"
+    },
+    {
+      "id": 416,
+      "issuer_name": "CINTAS CORP",
+      "reporting_owner": "Coletti Robert E.",
+      "reporting_owner_cik": "0001681153",
+      "reporting_owner_position": "Assistant Secretary",
+      "transaction_date": "2024-01-31",
+      "transaction_shares": "1647",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "46434"
+    },
+    {
+      "id": 414,
+      "issuer_name": "CINTAS CORP",
+      "reporting_owner": "Carmichael Beverly K",
+      "reporting_owner_cik": "0001595833",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-01-25",
+      "transaction_shares": "107",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "107"
     }
   ]
 }

@@ -2,20 +2,32 @@
   "ticker": "VLTO",
   "year": 2024,
   "quarter": 1,
-  "last_updated": "2025-04-15T16:12:15.965878",
-  "count": 1,
+  "last_updated": "2025-04-19T06:40:54.085766",
+  "count": 2,
   "transactions": [
     {
-      "id": 177046,
+      "id": 1202,
       "issuer_name": "Veralto Corp",
-      "reporting_owner": "FILLER LINDA",
-      "reporting_owner_cik": "0001292810",
+      "reporting_owner": "Bystrom Mattias",
+      "reporting_owner_cik": "0001991684",
+      "reporting_owner_position": "Group Executive, Product ID",
+      "transaction_date": "2024-02-16",
+      "transaction_shares": "500",
+      "transaction_price": "86.10",
+      "transaction_type": "S",
+      "shares_after_transaction": "30310"
+    },
+    {
+      "id": 1203,
+      "issuer_name": "Veralto Corp",
+      "reporting_owner": "MITTS HEATH A",
+      "reporting_owner_cik": "0001339142",
       "reporting_owner_position": null,
-      "transaction_date": "2024-01-12",
-      "transaction_shares": "634",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "8541"
+      "transaction_date": "2024-02-02",
+      "transaction_shares": "9",
+      "transaction_price": "76.46",
+      "transaction_type": "P",
+      "shares_after_transaction": "831"
     }
   ]
 }
