@@ -1,7 +1,32 @@
 {
   "ticker": "FOX",
-  "last_updated": "2025-04-19T07:17:27.853786",
+  "last_updated": "2025-04-19T07:36:40.944791",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 29477,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MURDOCH  KEITH  RUPERT",
+      "reporting_owner_cik": "0001024835",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-15",
+      "transaction_shares": "13176",
+      "transaction_price": "30.89",
+      "transaction_type": "S",
+      "shares_after_transaction": "1408862"
+    },
+    {
+      "id": 36852,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MURDOCH  KEITH  RUPERT",
+      "reporting_owner_cik": "0001024835",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-05-15",
+      "transaction_shares": "13176",
+      "transaction_price": "30.89",
+      "transaction_type": "S",
+      "shares_after_transaction": "1408862"
+    }
+  ]
 }

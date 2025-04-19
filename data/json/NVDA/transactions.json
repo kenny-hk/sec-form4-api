@@ -1,11 +1,23 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2025-04-19T07:17:27.853786",
+  "last_updated": "2025-04-19T07:36:40.944791",
   "retention_years": 3,
-  "count": 52,
+  "count": 81,
   "transactions": [
     {
       "id": 25737,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Robertson Donald F Jr",
+      "reporting_owner_cik": "0001526111",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2024-04-08",
+      "transaction_shares": "330",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "50145"
+    },
+    {
+      "id": 42077,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Robertson Donald F Jr",
       "reporting_owner_cik": "0001526111",
@@ -29,7 +41,31 @@
       "shares_after_transaction": "1069333"
     },
     {
+      "id": 42059,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-05",
+      "transaction_shares": "5500",
+      "transaction_price": "877",
+      "transaction_type": "S",
+      "shares_after_transaction": "1069333"
+    },
+    {
       "id": 25721,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "PERRY MARK L",
+      "reporting_owner_cik": "0001190270",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-02",
+      "transaction_shares": "7000",
+      "transaction_price": "887.8942",
+      "transaction_type": "S",
+      "shares_after_transaction": "116000"
+    },
+    {
+      "id": 42061,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "PERRY MARK L",
       "reporting_owner_cik": "0001190270",
@@ -53,6 +89,18 @@
       "shares_after_transaction": "1074833"
     },
     {
+      "id": 42070,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-28",
+      "transaction_shares": "11000",
+      "transaction_price": "905.65",
+      "transaction_type": "S",
+      "shares_after_transaction": "1074833"
+    },
+    {
       "id": 25725,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Dabiri John",
@@ -65,7 +113,31 @@
       "shares_after_transaction": "2055"
     },
     {
+      "id": 42065,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Dabiri John",
+      "reporting_owner_cik": "0001818224",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-25",
+      "transaction_shares": "128",
+      "transaction_price": "940",
+      "transaction_type": "S",
+      "shares_after_transaction": "2055"
+    },
+    {
       "id": 25718,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Robertson Donald F Jr",
+      "reporting_owner_cik": "0001526111",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2024-03-22",
+      "transaction_shares": "450",
+      "transaction_price": "911.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "49815"
+    },
+    {
+      "id": 42058,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Robertson Donald F Jr",
       "reporting_owner_cik": "0001526111",
@@ -197,6 +269,66 @@
       "shares_after_transaction": "104595"
     },
     {
+      "id": 42068,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Kress Colette",
+      "reporting_owner_cik": "0001588670",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2024-03-20",
+      "transaction_shares": "20265",
+      "transaction_price": "903.72",
+      "transaction_type": "F",
+      "shares_after_transaction": "545315"
+    },
+    {
+      "id": 42074,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Robertson Donald F Jr",
+      "reporting_owner_cik": "0001526111",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2024-03-20",
+      "transaction_shares": "875",
+      "transaction_price": "903.72",
+      "transaction_type": "F",
+      "shares_after_transaction": "50265"
+    },
+    {
+      "id": 42076,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Puri Ajay K",
+      "reporting_owner_cik": "0001347842",
+      "reporting_owner_position": "EVP, Worldwide Field Ops",
+      "transaction_date": "2024-03-20",
+      "transaction_shares": "19346",
+      "transaction_price": "903.72",
+      "transaction_type": "F",
+      "shares_after_transaction": "150271"
+    },
+    {
+      "id": 42078,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Teter Timothy S.",
+      "reporting_owner_cik": "0001696841",
+      "reporting_owner_position": "EVP, General Counsel and Sec",
+      "transaction_date": "2024-03-20",
+      "transaction_shares": "16572",
+      "transaction_price": "903.72",
+      "transaction_type": "F",
+      "shares_after_transaction": "102886"
+    },
+    {
+      "id": 42085,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Shoquist Debora",
+      "reporting_owner_cik": "0001283854",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2024-03-20",
+      "transaction_shares": "17767",
+      "transaction_price": "903.72",
+      "transaction_type": "F",
+      "shares_after_transaction": "104595"
+    },
+    {
       "id": 13148,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
@@ -210,6 +342,18 @@
     },
     {
       "id": 25731,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2024-03-19",
+      "transaction_shares": "1200",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "2968428"
+    },
+    {
+      "id": 42071,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -317,6 +461,54 @@
       "shares_after_transaction": "169617"
     },
     {
+      "id": 42057,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Kress Colette",
+      "reporting_owner_cik": "0001588670",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2024-03-08",
+      "transaction_shares": "9579",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "565580"
+    },
+    {
+      "id": 42063,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Shoquist Debora",
+      "reporting_owner_cik": "0001283854",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2024-03-08",
+      "transaction_shares": "8608",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "122362"
+    },
+    {
+      "id": 42066,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Teter Timothy S.",
+      "reporting_owner_cik": "0001696841",
+      "reporting_owner_position": "EVP, General Counsel and Sec",
+      "transaction_date": "2024-03-08",
+      "transaction_shares": "8608",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "119458"
+    },
+    {
+      "id": 42075,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Puri Ajay K",
+      "reporting_owner_cik": "0001347842",
+      "reporting_owner_position": "EVP, Worldwide Field Ops",
+      "transaction_date": "2024-03-08",
+      "transaction_shares": "9302",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "169617"
+    },
+    {
       "id": 13160,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
@@ -330,6 +522,18 @@
     },
     {
       "id": 25744,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-07",
+      "transaction_shares": "21600",
+      "transaction_price": "919.2979",
+      "transaction_type": "S",
+      "shares_after_transaction": "1085983"
+    },
+    {
+      "id": 42084,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -437,6 +641,54 @@
       "shares_after_transaction": "154325"
     },
     {
+      "id": 42064,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Kress Colette",
+      "reporting_owner_cik": "0001588670",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2024-03-06",
+      "transaction_shares": "68162",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "549794"
+    },
+    {
+      "id": 42073,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2024-03-06",
+      "transaction_shares": "100982",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "8117692"
+    },
+    {
+      "id": 42081,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Teter Timothy S.",
+      "reporting_owner_cik": "0001696841",
+      "reporting_owner_position": "EVP, General Counsel and Sec",
+      "transaction_date": "2024-03-06",
+      "transaction_shares": "56170",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "105908"
+    },
+    {
+      "id": 42082,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Puri Ajay K",
+      "reporting_owner_cik": "0001347842",
+      "reporting_owner_position": "EVP, Worldwide Field Ops",
+      "transaction_date": "2024-03-06",
+      "transaction_shares": "65637",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "154325"
+    },
+    {
       "id": 13149,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "COXE TENCH",
@@ -485,6 +737,30 @@
       "shares_after_transaction": "2106"
     },
     {
+      "id": 42072,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "COXE TENCH",
+      "reporting_owner_cik": "0001197647",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-05",
+      "transaction_shares": "1000.0000",
+      "transaction_price": "852.5009",
+      "transaction_type": "S",
+      "shares_after_transaction": "3296136.0000"
+    },
+    {
+      "id": 42080,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Drell Persis",
+      "reporting_owner_cik": "0001636665",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-05",
+      "transaction_shares": "5000",
+      "transaction_price": "845.128",
+      "transaction_type": "S",
+      "shares_after_transaction": "2106"
+    },
+    {
       "id": 13155,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
@@ -498,6 +774,18 @@
     },
     {
       "id": 25739,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-04",
+      "transaction_shares": "6000",
+      "transaction_price": "852.0608",
+      "transaction_type": "S",
+      "shares_after_transaction": "1113583"
+    },
+    {
+      "id": 42079,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -557,6 +845,30 @@
       "shares_after_transaction": "123000"
     },
     {
+      "id": 42062,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-23",
+      "transaction_shares": "5000",
+      "transaction_price": "795.14",
+      "transaction_type": "S",
+      "shares_after_transaction": "1129583"
+    },
+    {
+      "id": 42069,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "PERRY MARK L",
+      "reporting_owner_cik": "0001190270",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-23",
+      "transaction_shares": "15000",
+      "transaction_price": "796.4461",
+      "transaction_type": "S",
+      "shares_after_transaction": "123000"
+    },
+    {
       "id": 13145,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Shoquist Debora",
@@ -570,6 +882,18 @@
     },
     {
       "id": 25727,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Shoquist Debora",
+      "reporting_owner_cik": "0001283854",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2024-01-09",
+      "transaction_shares": "636",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "189009"
+    },
+    {
+      "id": 42067,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Shoquist Debora",
       "reporting_owner_cik": "0001283854",
@@ -605,6 +929,18 @@
       "shares_after_transaction": "0"
     },
     {
+      "id": 42060,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "MCCAFFERY MICHAEL G",
+      "reporting_owner_cik": "0001256735",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-08-28",
+      "transaction_shares": "10132",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "0"
+    },
+    {
       "id": 13159,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "JONES HARVEY C",
@@ -618,6 +954,18 @@
     },
     {
       "id": 25743,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "JONES HARVEY C",
+      "reporting_owner_cik": "0001197650",
+      "reporting_owner_position": null,
+      "transaction_date": "2023-06-29",
+      "transaction_shares": "119724",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "18860"
+    },
+    {
+      "id": 42083,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "JONES HARVEY C",
       "reporting_owner_cik": "0001197650",
