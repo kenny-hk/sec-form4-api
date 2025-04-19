@@ -1,20 +1,44 @@
 {
   "ticker": "RBT",
-  "last_updated": "2025-04-15T16:12:15.965878",
+  "last_updated": "2025-04-19T07:17:27.853786",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 196855,
+      "id": 23292,
       "issuer_name": "Rubicon Technologies, Inc.",
       "reporting_owner": "Palantir Technologies Inc.",
       "reporting_owner_cik": "0001321655",
       "reporting_owner_position": null,
-      "transaction_date": "2024-01-03",
-      "transaction_shares": "15901",
-      "transaction_price": "1.6506",
+      "transaction_date": "2024-04-22",
+      "transaction_shares": "3200",
+      "transaction_price": "0.3403",
       "transaction_type": "S",
-      "shares_after_transaction": "5493337"
+      "shares_after_transaction": "5270717"
+    },
+    {
+      "id": 23314,
+      "issuer_name": "Rubicon Technologies, Inc.",
+      "reporting_owner": "Palantir Technologies Inc.",
+      "reporting_owner_cik": "0001321655",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-17",
+      "transaction_shares": "11690",
+      "transaction_price": "0.3226",
+      "transaction_type": "S",
+      "shares_after_transaction": "5302143"
+    },
+    {
+      "id": 23310,
+      "issuer_name": "Rubicon Technologies, Inc.",
+      "reporting_owner": "Palantir Technologies Inc.",
+      "reporting_owner_cik": "0001321655",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-12",
+      "transaction_shares": "18740",
+      "transaction_price": "0.3462",
+      "transaction_type": "S",
+      "shares_after_transaction": "5347054"
     }
   ]
 }

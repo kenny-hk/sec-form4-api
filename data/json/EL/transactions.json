@@ -1,9 +1,21 @@
 {
   "ticker": "EL",
-  "last_updated": "2025-04-19T07:04:25.897197",
+  "last_updated": "2025-04-19T07:17:27.853786",
   "retention_years": 3,
-  "count": 4,
+  "count": 7,
   "transactions": [
+    {
+      "id": 22561,
+      "issuer_name": "ESTEE LAUDER COMPANIES INC",
+      "reporting_owner": "Canevari Roberto",
+      "reporting_owner_cik": "0001849900",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-04-19",
+      "transaction_shares": "1996",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "5697"
+    },
     {
       "id": 2620,
       "issuer_name": "ESTEE LAUDER COMPANIES INC",
@@ -42,6 +54,30 @@
     },
     {
       "id": 10599,
+      "issuer_name": "ESTEE LAUDER COMPANIES INC",
+      "reporting_owner": "Stanley Deirdre",
+      "reporting_owner_cik": "0001722817",
+      "reporting_owner_position": "EVP & General Counsel",
+      "transaction_date": "2024-02-07",
+      "transaction_shares": "4343",
+      "transaction_price": "147",
+      "transaction_type": "S",
+      "shares_after_transaction": "13025"
+    },
+    {
+      "id": 22551,
+      "issuer_name": "ESTEE LAUDER COMPANIES INC",
+      "reporting_owner": "Hyman Jennifer",
+      "reporting_owner_cik": "0001737388",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-02-07",
+      "transaction_shares": "1350",
+      "transaction_price": "146.70",
+      "transaction_type": "P",
+      "shares_after_transaction": "2350"
+    },
+    {
+      "id": 22565,
       "issuer_name": "ESTEE LAUDER COMPANIES INC",
       "reporting_owner": "Stanley Deirdre",
       "reporting_owner_cik": "0001722817",

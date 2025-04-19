@@ -1,9 +1,57 @@
 {
   "ticker": "TKO",
-  "last_updated": "2025-04-19T07:04:25.897197",
+  "last_updated": "2025-04-19T07:17:27.853786",
   "retention_years": 3,
-  "count": 1,
+  "count": 7,
   "transactions": [
+    {
+      "id": 25495,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Whitesell Patrick",
+      "reporting_owner_cik": "0001531362",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-09",
+      "transaction_shares": "1642970",
+      "transaction_price": "89.01",
+      "transaction_type": "P",
+      "shares_after_transaction": "1642970"
+    },
+    {
+      "id": 25496,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "MCMAHON VINCENT K",
+      "reporting_owner_cik": "0001233831",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-09",
+      "transaction_shares": "1642970",
+      "transaction_price": "89.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "9875129"
+    },
+    {
+      "id": 25497,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Emanuel Ariel",
+      "reporting_owner_cik": "0001320234",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2024-04-09",
+      "transaction_shares": "1642970",
+      "transaction_price": "89.01",
+      "transaction_type": "P",
+      "shares_after_transaction": "1642970"
+    },
+    {
+      "id": 25505,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Johnson Dwayne D.",
+      "reporting_owner_cik": "0002004737",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-04-07",
+      "transaction_shares": "96558",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "193116"
+    },
     {
       "id": 12962,
       "issuer_name": "TKO Group Holdings, Inc.",
@@ -15,6 +63,30 @@
       "transaction_price": "77.00",
       "transaction_type": "S",
       "shares_after_transaction": "15002105"
+    },
+    {
+      "id": 25503,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "MCMAHON VINCENT K",
+      "reporting_owner_cik": "0001233831",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-07",
+      "transaction_shares": "5350000",
+      "transaction_price": "77.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "15002105"
+    },
+    {
+      "id": 25498,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "MCMAHON VINCENT K",
+      "reporting_owner_cik": "0001233831",
+      "reporting_owner_position": null,
+      "transaction_date": "2024-03-05",
+      "transaction_shares": "3484006",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "11518099"
     }
   ]
 }
