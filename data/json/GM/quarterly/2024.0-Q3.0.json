@@ -2,11 +2,23 @@
   "ticker": "GM",
   "year": 2024,
   "quarter": 3,
-  "last_updated": "2025-04-19T08:13:02.121868",
-  "count": 3,
+  "last_updated": "2025-04-19T08:23:07.202923",
+  "count": 6,
   "transactions": [
     {
       "id": 106560,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Harvey Rory",
+      "reporting_owner_cik": "0001976795",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-08-23",
+      "transaction_shares": "2302",
+      "transaction_price": "47.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "10356"
+    },
+    {
+      "id": 132454,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Harvey Rory",
       "reporting_owner_cik": "0001976795",
@@ -30,7 +42,31 @@
       "shares_after_transaction": "63477"
     },
     {
+      "id": 132453,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Johnson Gerald",
+      "reporting_owner_cik": "0001772226",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2024-08-16",
+      "transaction_shares": "8029",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "63477"
+    },
+    {
       "id": 106561,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Jacobson Paul A",
+      "reporting_owner_cik": "0001543655",
+      "reporting_owner_position": "Executive Vice President & CFO",
+      "transaction_date": "2024-07-26",
+      "transaction_shares": "25000",
+      "transaction_price": "44.11",
+      "transaction_type": "P",
+      "shares_after_transaction": "261872"
+    },
+    {
+      "id": 132455,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Jacobson Paul A",
       "reporting_owner_cik": "0001543655",
