@@ -1,11 +1,35 @@
 {
   "ticker": "KR",
-  "last_updated": "2025-04-24T08:31:46.746745",
+  "last_updated": "2025-04-25T08:31:46.573421",
   "retention_years": 3,
-  "count": 5,
+  "count": 6,
   "transactions": [
     {
-      "id": 276,
+      "id": 239,
+      "issuer_name": "KROGER CO",
+      "reporting_owner": "Wheatley Christine S",
+      "reporting_owner_cik": "0001604588",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-04-23",
+      "transaction_shares": "30000",
+      "transaction_price": "72.0686",
+      "transaction_type": "S",
+      "shares_after_transaction": "97737"
+    },
+    {
+      "id": 241,
+      "issuer_name": "KROGER CO",
+      "reporting_owner": "COSSET YAEL",
+      "reporting_owner_cik": "0001694418",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-04-22",
+      "transaction_shares": "16584",
+      "transaction_price": "24.75",
+      "transaction_type": "M",
+      "shares_after_transaction": "155708"
+    },
+    {
+      "id": 243,
       "issuer_name": "KROGER CO",
       "reporting_owner": "Massa Timothy A",
       "reporting_owner_cik": "0001608128",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "149741"
     },
     {
-      "id": 274,
+      "id": 240,
       "issuer_name": "KROGER CO",
       "reporting_owner": "Arreaga Gabriel",
       "reporting_owner_cik": "0001831556",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "75218"
     },
     {
-      "id": 275,
+      "id": 242,
       "issuer_name": "KROGER CO",
       "reporting_owner": "Nichols Brian W",
       "reporting_owner_cik": "0002014240",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "10473"
     },
     {
-      "id": 277,
+      "id": 244,
       "issuer_name": "KROGER CO",
       "reporting_owner": "Foley Todd A",
       "reporting_owner_cik": "0001577890",
@@ -51,18 +75,6 @@
       "transaction_price": "34.94",
       "transaction_type": "M",
       "shares_after_transaction": "58829"
-    },
-    {
-      "id": 278,
-      "issuer_name": "KROGER CO",
-      "reporting_owner": "Jabbar Valerie L.",
-      "reporting_owner_cik": "0001877295",
-      "reporting_owner_position": "Senior Vice President",
-      "transaction_date": "2025-04-16",
-      "transaction_shares": "5531",
-      "transaction_price": "24.75",
-      "transaction_type": "M",
-      "shares_after_transaction": "88215"
     }
   ]
 }
