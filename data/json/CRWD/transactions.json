@@ -1,11 +1,23 @@
 {
   "ticker": "CRWD",
-  "last_updated": "2025-04-25T08:31:46.573421",
+  "last_updated": "2025-04-26T08:27:56.501051",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 125,
+      "id": 112,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Kurtz George",
+      "reporting_owner_cik": "0001778564",
+      "reporting_owner_position": "PRESIDENT AND CEO",
+      "transaction_date": "2025-04-23",
+      "transaction_shares": "69714",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2248166"
+    },
+    {
+      "id": 113,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Flower Johanna",
       "reporting_owner_cik": "0001872303",
@@ -15,42 +27,6 @@
       "transaction_price": "356.51",
       "transaction_type": "S",
       "shares_after_transaction": "85652"
-    },
-    {
-      "id": 123,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Sentonas Michael",
-      "reporting_owner_cik": "0001968270",
-      "reporting_owner_position": "PRESIDENT",
-      "transaction_date": "2025-04-16",
-      "transaction_shares": "41828",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "447136"
-    },
-    {
-      "id": 124,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Podbere Burt W.",
-      "reporting_owner_cik": "0001778610",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-04-16",
-      "transaction_shares": "20914",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "265653"
-    },
-    {
-      "id": 126,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Saha Anurag",
-      "reporting_owner_cik": "0001921602",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2025-04-16",
-      "transaction_shares": "11154",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "45178"
     }
   ]
 }
