@@ -1,20 +1,32 @@
 {
   "ticker": "FAST",
-  "last_updated": "2025-04-22T08:32:01.179218",
+  "last_updated": "2025-04-29T08:33:57.195791",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 126,
+      "id": 86,
       "issuer_name": "FASTENAL CO",
-      "reporting_owner": "Drazkowski William Joseph",
-      "reporting_owner_cik": "0001691831",
-      "reporting_owner_position": "EVP-Sales",
-      "transaction_date": "2025-04-14",
-      "transaction_shares": "15000",
-      "transaction_price": "38",
+      "reporting_owner": "Broersma Anthony Paul",
+      "reporting_owner_cik": "0001997967",
+      "reporting_owner_position": "EVP-Operations",
+      "transaction_date": "2025-04-25",
+      "transaction_shares": "796",
+      "transaction_price": "23.50",
       "transaction_type": "M",
-      "shares_after_transaction": "20997"
+      "shares_after_transaction": "796"
+    },
+    {
+      "id": 85,
+      "issuer_name": "FASTENAL CO",
+      "reporting_owner": "FLORNESS DANIEL L",
+      "reporting_owner_cik": "0001017427",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2025-04-24",
+      "transaction_shares": "50000",
+      "transaction_price": "27.50",
+      "transaction_type": "M",
+      "shares_after_transaction": "332518"
     }
   ]
 }
