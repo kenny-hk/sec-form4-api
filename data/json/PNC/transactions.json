@@ -1,11 +1,23 @@
 {
   "ticker": "PNC",
-  "last_updated": "2025-04-29T08:33:57.195791",
+  "last_updated": "2025-04-30T08:33:03.654814",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 272,
+      "id": 290,
+      "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "reporting_owner": "DEMCHAK WILLIAM S",
+      "reporting_owner_cik": "0001198053",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2025-04-28",
+      "transaction_shares": "601",
+      "transaction_price": "160",
+      "transaction_type": "S",
+      "shares_after_transaction": "559847"
+    },
+    {
+      "id": 293,
       "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
       "reporting_owner": "DEMCHAK WILLIAM S",
       "reporting_owner_cik": "0001198053",
@@ -17,7 +29,19 @@
       "shares_after_transaction": "560448"
     },
     {
-      "id": 275,
+      "id": 296,
+      "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "reporting_owner": "Pfinsgraff Martin",
+      "reporting_owner_cik": "0001727903",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-25",
+      "transaction_shares": "1000",
+      "transaction_price": "158.22",
+      "transaction_type": "P",
+      "shares_after_transaction": "2009"
+    },
+    {
+      "id": 297,
       "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
       "reporting_owner": "DEMCHAK WILLIAM S",
       "reporting_owner_cik": "0001198053",
@@ -27,30 +51,6 @@
       "transaction_price": "160",
       "transaction_type": "S",
       "shares_after_transaction": "561089"
-    },
-    {
-      "id": 271,
-      "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
-      "reporting_owner": "DEMCHAK WILLIAM S",
-      "reporting_owner_cik": "0001198053",
-      "reporting_owner_position": "CEO",
-      "transaction_date": "2025-04-21",
-      "transaction_shares": "641",
-      "transaction_price": "150.50",
-      "transaction_type": "S",
-      "shares_after_transaction": "562291"
-    },
-    {
-      "id": 265,
-      "issuer_name": "PNC FINANCIAL SERVICES GROUP, INC.",
-      "reporting_owner": "Overstrom Alexander E. C.",
-      "reporting_owner_cik": "0001937206",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-04-18",
-      "transaction_shares": "495",
-      "transaction_price": "152.33",
-      "transaction_type": "F",
-      "shares_after_transaction": "17635"
     }
   ]
 }

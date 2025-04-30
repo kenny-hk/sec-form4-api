@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2025-04-29T08:33:57.195791",
+  "last_updated": "2025-04-30T08:33:03.654814",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 17,
+      "id": 23,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "STAHL MURRAY",
+      "reporting_owner_cik": "0001207097",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-28",
+      "transaction_shares": "2",
+      "transaction_price": "1344.34",
+      "transaction_type": "P",
+      "shares_after_transaction": "325735"
+    },
+    {
+      "id": 25,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "325733"
     },
     {
-      "id": 15,
+      "id": 24,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "325731"
     },
     {
-      "id": 18,
+      "id": 26,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "325729"
     },
     {
-      "id": 19,
+      "id": 27,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -51,18 +63,6 @@
       "transaction_price": "1276.52",
       "transaction_type": "P",
       "shares_after_transaction": "325727"
-    },
-    {
-      "id": 16,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "STAHL MURRAY",
-      "reporting_owner_cik": "0001207097",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-04-21",
-      "transaction_shares": "2",
-      "transaction_price": "1283.57",
-      "transaction_type": "P",
-      "shares_after_transaction": "325725"
     }
   ]
 }
