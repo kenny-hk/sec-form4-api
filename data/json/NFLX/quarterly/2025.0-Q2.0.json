@@ -2,11 +2,35 @@
   "ticker": "NFLX",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-01T08:32:15.914835",
-  "count": 2,
+  "last_updated": "2025-05-02T08:32:16.177923",
+  "count": 3,
   "transactions": [
     {
-      "id": 400,
+      "id": 455,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Hoag Jay C",
+      "reporting_owner_cik": "0001082906",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-29",
+      "transaction_shares": "1726",
+      "transaction_price": "1106.442",
+      "transaction_type": "S",
+      "shares_after_transaction": "259081"
+    },
+    {
+      "id": 456,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Hoag Jay C",
+      "reporting_owner_cik": "0001082906",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-29",
+      "transaction_shares": "2142",
+      "transaction_price": "1121.828",
+      "transaction_type": "S",
+      "shares_after_transaction": "281844"
+    },
+    {
+      "id": 457,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Karbowski Jeffrey William",
       "reporting_owner_cik": "0001819156",
@@ -16,18 +40,6 @@
       "transaction_price": "403.13",
       "transaction_type": "M",
       "shares_after_transaction": "456"
-    },
-    {
-      "id": 398,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "KILGORE LESLIE J",
-      "reporting_owner_cik": "0001218352",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-04-23",
-      "transaction_shares": "277",
-      "transaction_price": "226.21",
-      "transaction_type": "M",
-      "shares_after_transaction": "35673"
     }
   ]
 }
