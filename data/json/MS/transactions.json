@@ -1,11 +1,35 @@
 {
   "ticker": "MS",
-  "last_updated": "2025-05-02T08:32:16.177923",
+  "last_updated": "2025-05-03T08:28:37.763767",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 402,
+      "id": 495,
+      "issuer_name": "MORGAN STANLEY",
+      "reporting_owner": "SAPERSTEIN ANDREW M",
+      "reporting_owner_cik": "0001362383",
+      "reporting_owner_position": "Co-President",
+      "transaction_date": "2025-05-02",
+      "transaction_shares": "40000",
+      "transaction_price": "119.9953",
+      "transaction_type": "S",
+      "shares_after_transaction": "335765.219"
+    },
+    {
+      "id": 496,
+      "issuer_name": "MORGAN STANLEY",
+      "reporting_owner": "Herz Robert H",
+      "reporting_owner_cik": "0001523753",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-02",
+      "transaction_shares": "800",
+      "transaction_price": "119.3242",
+      "transaction_type": "S",
+      "shares_after_transaction": "96760.35"
+    },
+    {
+      "id": 494,
       "issuer_name": "MORGAN STANLEY",
       "reporting_owner": "GROSSMAN ERIC F",
       "reporting_owner_cik": "0001539492",
