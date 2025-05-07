@@ -1,7 +1,32 @@
 {
   "ticker": "ORCL",
-  "last_updated": "2025-05-02T08:32:16.177923",
+  "last_updated": "2025-05-07T08:35:44.935991",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 238,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "SELIGMAN NAOMI O",
+      "reporting_owner_cik": "0001192761",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "2866",
+      "transaction_price": "149.533",
+      "transaction_type": "S",
+      "shares_after_transaction": "31764"
+    },
+    {
+      "id": 237,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "PANETTA LEON E",
+      "reporting_owner_cik": "0001210527",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-02",
+      "transaction_shares": "17500",
+      "transaction_price": "43.49",
+      "transaction_type": "M",
+      "shares_after_transaction": "75590"
+    }
+  ]
 }

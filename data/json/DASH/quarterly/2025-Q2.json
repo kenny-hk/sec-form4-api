@@ -2,11 +2,23 @@
   "ticker": "DASH",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-06T08:34:17.943391",
+  "last_updated": "2025-05-07T08:35:44.935991",
   "count": 2,
   "transactions": [
     {
-      "id": 519,
+      "id": 564,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Still Ashley",
+      "reporting_owner_cik": "0001985469",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-02",
+      "transaction_shares": "62",
+      "transaction_price": "200",
+      "transaction_type": "S",
+      "shares_after_transaction": "7972"
+    },
+    {
+      "id": 565,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Tang Stanley",
       "reporting_owner_cik": "0001832614",
@@ -16,18 +28,6 @@
       "transaction_price": "0",
       "transaction_type": "J",
       "shares_after_transaction": "32354"
-    },
-    {
-      "id": 518,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-04-25",
-      "transaction_shares": "800",
-      "transaction_price": "7.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "338855"
     }
   ]
 }
