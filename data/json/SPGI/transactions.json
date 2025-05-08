@@ -1,11 +1,35 @@
 {
   "ticker": "SPGI",
-  "last_updated": "2025-05-07T08:35:44.935991",
+  "last_updated": "2025-05-08T08:34:19.158477",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 588,
+      "id": 131,
+      "issuer_name": "S&P Global Inc.",
+      "reporting_owner": "Kemps Steven J",
+      "reporting_owner_cik": "0001438987",
+      "reporting_owner_position": "EVP, Chief Legal Officer",
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "2000",
+      "transaction_price": "508.82",
+      "transaction_type": "S",
+      "shares_after_transaction": "7249"
+    },
+    {
+      "id": 133,
+      "issuer_name": "S&P Global Inc.",
+      "reporting_owner": "Moore Sally",
+      "reporting_owner_cik": "0001914721",
+      "reporting_owner_position": "EVP, Chief Client Officer",
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "499.868",
+      "transaction_price": "510.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "5130.828"
+    },
+    {
+      "id": 132,
       "issuer_name": "S&P Global Inc.",
       "reporting_owner": "Peterson Douglas L.",
       "reporting_owner_cik": "0001581262",

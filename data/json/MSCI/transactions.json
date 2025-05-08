@@ -1,47 +1,23 @@
 {
   "ticker": "MSCI",
-  "last_updated": "2025-05-07T08:35:44.935991",
+  "last_updated": "2025-05-08T08:34:19.158477",
   "retention_years": 3,
-  "count": 10,
+  "count": 11,
   "transactions": [
     {
-      "id": 387,
+      "id": 512,
       "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Smith Marcus L.",
-      "reporting_owner_cik": "0001718950",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "385",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "5056"
+      "reporting_owner": "Pettit CD Baer",
+      "reporting_owner_cik": "0001416752",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "734",
+      "transaction_price": "551.11",
+      "transaction_type": "S",
+      "shares_after_transaction": "294053"
     },
     {
-      "id": 388,
-      "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Seitz Michelle",
-      "reporting_owner_cik": "0001836301",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "385",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "671"
-    },
-    {
-      "id": 389,
-      "issuer_name": "MSCI Inc.",
-      "reporting_owner": "RIEFLER LINDA H",
-      "reporting_owner_cik": "0001366334",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "385",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "20571"
-    },
-    {
-      "id": 390,
+      "id": 508,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Volent Paula",
       "reporting_owner_cik": "0001801717",
@@ -53,43 +29,7 @@
       "shares_after_transaction": "3656"
     },
     {
-      "id": 391,
-      "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Taneja Rajat",
-      "reporting_owner_cik": "0001532601",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "385",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "2819"
-    },
-    {
-      "id": 392,
-      "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Rattray Sandy C.",
-      "reporting_owner_cik": "0001801716",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "41",
-      "transaction_price": "546.07",
-      "transaction_type": "F",
-      "shares_after_transaction": "2064"
-    },
-    {
-      "id": 393,
-      "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Yang June",
-      "reporting_owner_cik": "0002008967",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-01",
-      "transaction_shares": "385",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "510"
-    },
-    {
-      "id": 394,
+      "id": 509,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Ashe Robert G.",
       "reporting_owner_cik": "0001414310",
@@ -101,7 +41,79 @@
       "shares_after_transaction": "1034"
     },
     {
-      "id": 395,
+      "id": 510,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Perold Jacques P",
+      "reporting_owner_cik": "0001648837",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "385",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "5884"
+    },
+    {
+      "id": 511,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "385",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2819"
+    },
+    {
+      "id": 513,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Yang June",
+      "reporting_owner_cik": "0002008967",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "385",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "510"
+    },
+    {
+      "id": 514,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Seitz Michelle",
+      "reporting_owner_cik": "0001836301",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "385",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "671"
+    },
+    {
+      "id": 515,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "385",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20571"
+    },
+    {
+      "id": 516,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Rattray Sandy C.",
+      "reporting_owner_cik": "0001801716",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-01",
+      "transaction_shares": "41",
+      "transaction_price": "546.07",
+      "transaction_type": "F",
+      "shares_after_transaction": "2064"
+    },
+    {
+      "id": 517,
       "issuer_name": "MSCI Inc.",
       "reporting_owner": "Matlock Robin",
       "reporting_owner_cik": "0001781215",
@@ -113,16 +125,16 @@
       "shares_after_transaction": "1620"
     },
     {
-      "id": 396,
+      "id": 518,
       "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Perold Jacques P",
-      "reporting_owner_cik": "0001648837",
+      "reporting_owner": "Smith Marcus L.",
+      "reporting_owner_cik": "0001718950",
       "reporting_owner_position": null,
       "transaction_date": "2025-05-01",
       "transaction_shares": "385",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "5884"
+      "shares_after_transaction": "5056"
     }
   ]
 }
