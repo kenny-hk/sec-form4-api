@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2025-05-12T08:40:09.147354",
+  "last_updated": "2025-05-13T08:35:10.223812",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 242,
+      "id": 234,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "STAHL MURRAY",
+      "reporting_owner_cik": "0001207097",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2",
+      "transaction_price": "1298.44",
+      "transaction_type": "P",
+      "shares_after_transaction": "325753"
+    },
+    {
+      "id": 230,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "325751"
     },
     {
-      "id": 244,
+      "id": 232,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "325749"
     },
     {
-      "id": 245,
+      "id": 233,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "325747"
     },
     {
-      "id": 243,
+      "id": 231,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -51,18 +63,6 @@
       "transaction_price": "1318.34",
       "transaction_type": "P",
       "shares_after_transaction": "325745"
-    },
-    {
-      "id": 246,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "STAHL MURRAY",
-      "reporting_owner_cik": "0001207097",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-02",
-      "transaction_shares": "2",
-      "transaction_price": "1329.20",
-      "transaction_type": "P",
-      "shares_after_transaction": "325743"
     }
   ]
 }

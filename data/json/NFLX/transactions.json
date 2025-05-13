@@ -1,11 +1,23 @@
 {
   "ticker": "NFLX",
-  "last_updated": "2025-05-12T08:40:09.147354",
+  "last_updated": "2025-05-13T08:35:10.223812",
   "retention_years": 3,
   "count": 6,
   "transactions": [
     {
-      "id": 658,
+      "id": 604,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "MATHER ANN",
+      "reporting_owner_cik": "0001244892",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "311",
+      "transaction_price": "201.07",
+      "transaction_type": "M",
+      "shares_after_transaction": "311"
+    },
+    {
+      "id": 605,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Peters Gregory K",
       "reporting_owner_cik": "0001583109",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "15374"
     },
     {
-      "id": 659,
+      "id": 606,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HYMAN DAVID A",
       "reporting_owner_cik": "0001507747",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "32154"
     },
     {
-      "id": 660,
+      "id": 607,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Neumann Spencer Adam",
       "reporting_owner_cik": "0001543133",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "4570"
     },
     {
-      "id": 662,
+      "id": 608,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "SARANDOS THEODORE A",
       "reporting_owner_cik": "0001393838",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "17761"
     },
     {
-      "id": 663,
+      "id": 609,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Willems Cletus R",
       "reporting_owner_cik": "0002065325",
@@ -63,18 +75,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "315"
-    },
-    {
-      "id": 661,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "KILGORE LESLIE J",
-      "reporting_owner_cik": "0001218352",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-02",
-      "transaction_shares": "236",
-      "transaction_price": "265.07",
-      "transaction_type": "M",
-      "shares_after_transaction": "35632"
     }
   ]
 }

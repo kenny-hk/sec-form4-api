@@ -1,20 +1,32 @@
 {
   "ticker": "NTRS",
-  "last_updated": "2025-05-08T08:34:19.158477",
+  "last_updated": "2025-05-13T08:35:10.223812",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 470,
+      "id": 427,
       "issuer_name": "NORTHERN TRUST CORP",
-      "reporting_owner": "SMITH DAVID BYRON JR",
-      "reporting_owner_cik": "0001478669",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "2160",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "63064"
+      "reporting_owner": "Parker Teresa",
+      "reporting_owner_cik": "0001705976",
+      "reporting_owner_position": "President/Asset Servicing",
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "6467",
+      "transaction_price": "100.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "79391"
+    },
+    {
+      "id": 428,
+      "issuer_name": "NORTHERN TRUST CORP",
+      "reporting_owner": "Bellows Clive",
+      "reporting_owner_cik": "0002027224",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-05-08",
+      "transaction_shares": "3300",
+      "transaction_price": "99.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "28736"
     }
   ]
 }
