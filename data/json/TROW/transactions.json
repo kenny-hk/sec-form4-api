@@ -1,11 +1,23 @@
 {
   "ticker": "TROW",
-  "last_updated": "2025-05-13T08:35:10.223812",
+  "last_updated": "2025-05-14T08:33:44.360499",
   "retention_years": 3,
-  "count": 9,
+  "count": 10,
   "transactions": [
     {
-      "id": 505,
+      "id": 768,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "Hiebler Jessica M",
+      "reporting_owner_cik": "0001486569",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2025-05-12",
+      "transaction_shares": "138.8737",
+      "transaction_price": "92.7161",
+      "transaction_type": "A",
+      "shares_after_transaction": "14579.3962"
+    },
+    {
+      "id": 764,
       "issuer_name": "PRICE T ROWE GROUP INC",
       "reporting_owner": "STEVENS ROBERT J",
       "reporting_owner_cik": "0001184258",
@@ -17,79 +29,19 @@
       "shares_after_transaction": "20211.883"
     },
     {
-      "id": 506,
+      "id": 765,
       "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "Rominger Eileen P",
-      "reporting_owner_cik": "0001893277",
+      "reporting_owner": "DONNELLY WILLIAM P",
+      "reporting_owner_cik": "0001207928",
       "reporting_owner_position": null,
       "transaction_date": "2025-05-09",
       "transaction_shares": "2157.00",
       "transaction_price": "0.00",
       "transaction_type": "A",
-      "shares_after_transaction": "8968.00"
+      "shares_after_transaction": "8772.2306"
     },
     {
-      "id": 507,
-      "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "MacLellan Robert F.",
-      "reporting_owner_cik": "0001498935",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "2157.00",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "45135.7296"
-    },
-    {
-      "id": 508,
-      "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "WILSON ALAN D",
-      "reporting_owner_cik": "0001216704",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "2157.00",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "35259.3024"
-    },
-    {
-      "id": 509,
-      "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "WIJNBERG SANDRA S",
-      "reporting_owner_cik": "0001194455",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "2157.00",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "28129.6142"
-    },
-    {
-      "id": 510,
-      "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "Smith Cynthia F",
-      "reporting_owner_cik": "0001988737",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "2157.00",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "6514.1686"
-    },
-    {
-      "id": 511,
-      "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "DUBLON DINA",
-      "reporting_owner_cik": "0001160193",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "2157.00",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "13040.3232"
-    },
-    {
-      "id": 512,
+      "id": 766,
       "issuer_name": "PRICE T ROWE GROUP INC",
       "reporting_owner": "BARTLETT MARK S.",
       "reporting_owner_cik": "0001551523",
@@ -101,16 +53,76 @@
       "shares_after_transaction": "33364.00"
     },
     {
-      "id": 513,
+      "id": 767,
       "issuer_name": "PRICE T ROWE GROUP INC",
-      "reporting_owner": "DONNELLY WILLIAM P",
-      "reporting_owner_cik": "0001207928",
+      "reporting_owner": "WILSON ALAN D",
+      "reporting_owner_cik": "0001216704",
       "reporting_owner_position": null,
       "transaction_date": "2025-05-09",
       "transaction_shares": "2157.00",
       "transaction_price": "0.00",
       "transaction_type": "A",
-      "shares_after_transaction": "8772.2306"
+      "shares_after_transaction": "35259.3024"
+    },
+    {
+      "id": 769,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "MacLellan Robert F.",
+      "reporting_owner_cik": "0001498935",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2157.00",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "45135.7296"
+    },
+    {
+      "id": 770,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "WIJNBERG SANDRA S",
+      "reporting_owner_cik": "0001194455",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2157.00",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "28129.6142"
+    },
+    {
+      "id": 771,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "Rominger Eileen P",
+      "reporting_owner_cik": "0001893277",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2157.00",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "8968.00"
+    },
+    {
+      "id": 772,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "Smith Cynthia F",
+      "reporting_owner_cik": "0001988737",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2157.00",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "6514.1686"
+    },
+    {
+      "id": 773,
+      "issuer_name": "PRICE T ROWE GROUP INC",
+      "reporting_owner": "DUBLON DINA",
+      "reporting_owner_cik": "0001160193",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2157.00",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "13040.3232"
     }
   ]
 }

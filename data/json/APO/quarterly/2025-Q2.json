@@ -2,11 +2,35 @@
   "ticker": "APO",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-13T08:35:10.223812",
-  "count": 4,
+  "last_updated": "2025-05-14T08:33:44.360499",
+  "count": 6,
   "transactions": [
     {
-      "id": 342,
+      "id": 640,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "RICHARDS PAULINE",
+      "reporting_owner_cik": "0001223012",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-12",
+      "transaction_shares": "550",
+      "transaction_price": "141.9474",
+      "transaction_type": "P",
+      "shares_after_transaction": "86404"
+    },
+    {
+      "id": 641,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "Zelter James C",
+      "reporting_owner_cik": "0001382483",
+      "reporting_owner_position": "President",
+      "transaction_date": "2025-05-09",
+      "transaction_shares": "2902",
+      "transaction_price": "133.98",
+      "transaction_type": "F",
+      "shares_after_transaction": "5051943"
+    },
+    {
+      "id": 642,
       "issuer_name": "Apollo Global Management, Inc.",
       "reporting_owner": "Kelly Martin",
       "reporting_owner_cik": "0001557288",
@@ -18,7 +42,19 @@
       "shares_after_transaction": "373164"
     },
     {
-      "id": 341,
+      "id": 643,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "BIBLIOWICZ JESSICA M",
+      "reporting_owner_cik": "0001246102",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "1520",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "13026"
+    },
+    {
+      "id": 644,
       "issuer_name": "Apollo Global Management, Inc.",
       "reporting_owner": "O'Neill Mitra",
       "reporting_owner_cik": "0001761271",
@@ -30,7 +66,7 @@
       "shares_after_transaction": "28898"
     },
     {
-      "id": 343,
+      "id": 645,
       "issuer_name": "Apollo Global Management, Inc.",
       "reporting_owner": "Krongard A B",
       "reporting_owner_cik": "0001312913",
@@ -40,18 +76,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "80669"
-    },
-    {
-      "id": 344,
-      "issuer_name": "Apollo Global Management, Inc.",
-      "reporting_owner": "BIBLIOWICZ JESSICA M",
-      "reporting_owner_cik": "0001246102",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "1520",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "13026"
     }
   ]
 }

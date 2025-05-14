@@ -2,11 +2,35 @@
   "ticker": "JPM",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-13T08:35:10.223812",
-  "count": 4,
+  "last_updated": "2025-05-14T08:33:44.360499",
+  "count": 3,
   "transactions": [
     {
-      "id": 217,
+      "id": 42,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "Erdoes Mary E.",
+      "reporting_owner_cik": "0001473446",
+      "reporting_owner_position": "CEO Asset & Wealth Management",
+      "transaction_date": "2025-05-13",
+      "transaction_shares": "14055.0000",
+      "transaction_price": "262.5358",
+      "transaction_type": "S",
+      "shares_after_transaction": "608410.0000"
+    },
+    {
+      "id": 44,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "BACON ASHLEY",
+      "reporting_owner_cik": "0001580075",
+      "reporting_owner_position": "Chief Risk Officer",
+      "transaction_date": "2025-05-13",
+      "transaction_shares": "5202.0000",
+      "transaction_price": "262.5252",
+      "transaction_type": "S",
+      "shares_after_transaction": "234992.0000"
+    },
+    {
+      "id": 43,
       "issuer_name": "JPMORGAN CHASE & CO",
       "reporting_owner": "Rohrbaugh Troy L",
       "reporting_owner_cik": "0002010711",
@@ -16,42 +40,6 @@
       "transaction_price": "263.0755",
       "transaction_type": "S",
       "shares_after_transaction": "151126.0000"
-    },
-    {
-      "id": 215,
-      "issuer_name": "JPMORGAN CHASE & CO",
-      "reporting_owner": "Barnum Jeremy",
-      "reporting_owner_cik": "0001863986",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-05-06",
-      "transaction_shares": "40014.0000",
-      "transaction_price": "250.7731",
-      "transaction_type": "S",
-      "shares_after_transaction": "18017.0000"
-    },
-    {
-      "id": 216,
-      "issuer_name": "JPMORGAN CHASE & CO",
-      "reporting_owner": "Piepszak Jennifer",
-      "reporting_owner_cik": "0001775584",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-05-06",
-      "transaction_shares": "6129.0000",
-      "transaction_price": "250.7637",
-      "transaction_type": "S",
-      "shares_after_transaction": "68583.0000"
-    },
-    {
-      "id": 218,
-      "issuer_name": "JPMORGAN CHASE & CO",
-      "reporting_owner": "BAMMANN LINDA",
-      "reporting_owner_cik": "0001195342",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "500.0000",
-      "transaction_price": "0.0000",
-      "transaction_type": "G",
-      "shares_after_transaction": "101039.1838"
     }
   ]
 }

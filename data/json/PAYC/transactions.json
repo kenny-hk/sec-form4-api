@@ -1,11 +1,35 @@
 {
   "ticker": "PAYC",
-  "last_updated": "2025-05-13T08:35:10.223812",
+  "last_updated": "2025-05-14T08:33:44.360499",
   "retention_years": 3,
-  "count": 9,
+  "count": 11,
   "transactions": [
     {
-      "id": 239,
+      "id": 280,
+      "issuer_name": "Paycom Software, Inc.",
+      "reporting_owner": "Peck Randall",
+      "reporting_owner_cik": "0002025321",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2025-05-10",
+      "transaction_shares": "338",
+      "transaction_price": "258.38",
+      "transaction_type": "F",
+      "shares_after_transaction": "50327"
+    },
+    {
+      "id": 286,
+      "issuer_name": "Paycom Software, Inc.",
+      "reporting_owner": "Vickroy Amy",
+      "reporting_owner_cik": "0002018276",
+      "reporting_owner_position": "Chief Sales Officer",
+      "transaction_date": "2025-05-10",
+      "transaction_shares": "342",
+      "transaction_price": "258.38",
+      "transaction_type": "F",
+      "shares_after_transaction": "31913"
+    },
+    {
+      "id": 283,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "Richison Chad R.",
       "reporting_owner_cik": "0001594487",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "3303675"
     },
     {
-      "id": 240,
+      "id": 279,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "Richison Chad R.",
       "reporting_owner_cik": "0001594487",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "3422857"
     },
     {
-      "id": 235,
+      "id": 281,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "Vemulapalli Archana",
       "reporting_owner_cik": "0002030451",
@@ -41,31 +65,7 @@
       "shares_after_transaction": "1809"
     },
     {
-      "id": 236,
-      "issuer_name": "Paycom Software, Inc.",
-      "reporting_owner": "Williams Felicia",
-      "reporting_owner_cik": "0001675737",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "1099",
-      "transaction_price": "0.00",
-      "transaction_type": "A",
-      "shares_after_transaction": "3706"
-    },
-    {
-      "id": 237,
-      "issuer_name": "Paycom Software, Inc.",
-      "reporting_owner": "PETERS FREDERICK C II",
-      "reporting_owner_cik": "0001227984",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "1099",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "15882"
-    },
-    {
-      "id": 238,
+      "id": 282,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "DUQUES HENRY C",
       "reporting_owner_cik": "0001185120",
@@ -77,19 +77,31 @@
       "shares_after_transaction": "4084"
     },
     {
-      "id": 241,
+      "id": 284,
       "issuer_name": "Paycom Software, Inc.",
-      "reporting_owner": "BINZ JOSEPH LEO",
-      "reporting_owner_cik": "0001946413",
+      "reporting_owner": "Williams Felicia",
+      "reporting_owner_cik": "0001675737",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "1099",
+      "transaction_price": "0.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "3706"
+    },
+    {
+      "id": 285,
+      "issuer_name": "Paycom Software, Inc.",
+      "reporting_owner": "PETERS FREDERICK C II",
+      "reporting_owner_cik": "0001227984",
       "reporting_owner_position": null,
       "transaction_date": "2025-05-05",
       "transaction_shares": "1099",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "5946"
+      "shares_after_transaction": "15882"
     },
     {
-      "id": 242,
+      "id": 287,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "TURNEY SHAREN J",
       "reporting_owner_cik": "0001363500",
@@ -101,7 +113,19 @@
       "shares_after_transaction": "4102"
     },
     {
-      "id": 243,
+      "id": 288,
+      "issuer_name": "Paycom Software, Inc.",
+      "reporting_owner": "BINZ JOSEPH LEO",
+      "reporting_owner_cik": "0001946413",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-05",
+      "transaction_shares": "1099",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "5946"
+    },
+    {
+      "id": 289,
       "issuer_name": "Paycom Software, Inc.",
       "reporting_owner": "WATTS J C JR",
       "reporting_owner_cik": "0001213577",
