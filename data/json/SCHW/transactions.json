@@ -1,9 +1,21 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-05-14T08:33:44.360499",
+  "last_updated": "2025-05-15T08:34:41.512751",
   "retention_years": 3,
-  "count": 7,
+  "count": 6,
   "transactions": [
+    {
+      "id": 24,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab Charles R.",
+      "reporting_owner_cik": "0000923738",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2025-05-12",
+      "transaction_shares": "120000",
+      "transaction_price": "85.3937",
+      "transaction_type": "S",
+      "shares_after_transaction": "59002353"
+    },
     {
       "id": 27,
       "issuer_name": "SCHWAB CHARLES CORP",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "83993.0841"
     },
     {
-      "id": 30,
+      "id": 29,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Beatty Jonathan S",
       "reporting_owner_cik": "0002028977",
@@ -63,30 +75,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "59128353"
-    },
-    {
-      "id": 29,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Murtagh Nigel J",
-      "reporting_owner_cik": "0001649599",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2025-05-06",
-      "transaction_shares": "121",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "58993.0841"
-    },
-    {
-      "id": 24,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Wurster Richard A",
-      "reporting_owner_cik": "0001889263",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "2877",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "193034"
     }
   ]
 }
