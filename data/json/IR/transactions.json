@@ -1,7 +1,32 @@
 {
   "ticker": "IR",
-  "last_updated": "2025-05-13T08:35:10.223812",
+  "last_updated": "2025-05-16T08:34:37.980488",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 592,
+      "issuer_name": "Ingersoll Rand Inc.",
+      "reporting_owner": "Hepding Elizabeth Meloy",
+      "reporting_owner_cik": "0001682777",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-05-14",
+      "transaction_shares": "3500",
+      "transaction_price": "83.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "10986"
+    },
+    {
+      "id": 593,
+      "issuer_name": "Ingersoll Rand Inc.",
+      "reporting_owner": "Schiesl Andrew R",
+      "reporting_owner_cik": "0001495366",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-05-13",
+      "transaction_shares": "11500",
+      "transaction_price": "84.897",
+      "transaction_type": "S",
+      "shares_after_transaction": "21964"
+    }
+  ]
 }

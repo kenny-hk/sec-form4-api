@@ -1,11 +1,23 @@
 {
   "ticker": "ETN",
-  "last_updated": "2025-05-15T08:34:41.512751",
+  "last_updated": "2025-05-16T08:34:37.980488",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 580,
+      "id": 583,
+      "issuer_name": "Eaton Corp plc",
+      "reporting_owner": "Monesmith Heath B.",
+      "reporting_owner_cik": "0001510022",
+      "reporting_owner_position": "See Remarks below.",
+      "transaction_date": "2025-05-14",
+      "transaction_shares": "9103",
+      "transaction_price": "330.894",
+      "transaction_type": "S",
+      "shares_after_transaction": "60675"
+    },
+    {
+      "id": 582,
       "issuer_name": "Eaton Corp plc",
       "reporting_owner": "ARNOLD CRAIG",
       "reporting_owner_cik": "0001188578",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "490208"
     },
     {
-      "id": 579,
+      "id": 581,
       "issuer_name": "Eaton Corp plc",
       "reporting_owner": "ARNOLD CRAIG",
       "reporting_owner_cik": "0001188578",
@@ -27,18 +39,6 @@
       "transaction_price": "305.2902",
       "transaction_type": "S",
       "shares_after_transaction": "499178"
-    },
-    {
-      "id": 581,
-      "issuer_name": "Eaton Corp plc",
-      "reporting_owner": "MARSHALL ERNEST W JR",
-      "reporting_owner_cik": "0001768444",
-      "reporting_owner_position": "See Remarks below.",
-      "transaction_date": "2025-05-07",
-      "transaction_shares": "1018",
-      "transaction_price": "98.21",
-      "transaction_type": "M",
-      "shares_after_transaction": "37039"
     }
   ]
 }

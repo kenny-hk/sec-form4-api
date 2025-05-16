@@ -1,11 +1,35 @@
 {
   "ticker": "JPM",
-  "last_updated": "2025-05-15T08:34:41.512751",
+  "last_updated": "2025-05-16T08:34:37.980488",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 41,
+      "id": 40,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "Petno Douglas B",
+      "reporting_owner_cik": "0001539649",
+      "reporting_owner_position": "Co-CEO CIB",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "10141.0000",
+      "transaction_price": "266.8930",
+      "transaction_type": "S",
+      "shares_after_transaction": "353655.0000"
+    },
+    {
+      "id": 38,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "DIMON JAMES",
+      "reporting_owner_cik": "0001195345",
+      "reporting_owner_position": "Chairman & CEO",
+      "transaction_date": "2025-05-14",
+      "transaction_shares": "37812.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "G",
+      "shares_after_transaction": "0.0000"
+    },
+    {
+      "id": 36,
       "issuer_name": "JPMORGAN CHASE & CO",
       "reporting_owner": "Erdoes Mary E.",
       "reporting_owner_cik": "0001473446",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "608410.0000"
     },
     {
-      "id": 43,
+      "id": 39,
       "issuer_name": "JPMORGAN CHASE & CO",
       "reporting_owner": "BACON ASHLEY",
       "reporting_owner_cik": "0001580075",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "234992.0000"
     },
     {
-      "id": 42,
+      "id": 37,
       "issuer_name": "JPMORGAN CHASE & CO",
       "reporting_owner": "Rohrbaugh Troy L",
       "reporting_owner_cik": "0002010711",
