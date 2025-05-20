@@ -2,20 +2,32 @@
   "ticker": "CME",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-07T08:35:44.935991",
-  "count": 1,
+  "last_updated": "2025-05-20T08:35:57.169490",
+  "count": 2,
   "transactions": [
     {
-      "id": 94,
+      "id": 525,
       "issuer_name": "CME GROUP INC.",
-      "reporting_owner": "Suskind Dennis",
-      "reporting_owner_cik": "0001361519",
+      "reporting_owner": "GEPSMAN MARTIN J",
+      "reporting_owner_cik": "0001212813",
       "reporting_owner_position": null,
-      "transaction_date": "2025-04-29",
-      "transaction_shares": "1000",
-      "transaction_price": "271.28",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "300",
+      "transaction_price": "273.17",
       "transaction_type": "S",
-      "shares_after_transaction": "2915"
+      "shares_after_transaction": "24767"
+    },
+    {
+      "id": 526,
+      "issuer_name": "CME GROUP INC.",
+      "reporting_owner": "Carey Charles P",
+      "reporting_owner_cik": "0001341358",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "3000",
+      "transaction_price": "272.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "5400"
     }
   ]
 }

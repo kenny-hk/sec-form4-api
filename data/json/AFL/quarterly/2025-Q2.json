@@ -2,11 +2,23 @@
   "ticker": "AFL",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-19T08:36:17.241758",
+  "last_updated": "2025-05-20T08:35:57.169490",
   "count": 2,
   "transactions": [
     {
-      "id": 264,
+      "id": 276,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Collins Arthur Reginald",
+      "reporting_owner_cik": "0001690867",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "2750",
+      "transaction_price": "105.705",
+      "transaction_type": "S",
+      "shares_after_transaction": "6728"
+    },
+    {
+      "id": 275,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "KENNY THOMAS J",
       "reporting_owner_cik": "0001066022",
@@ -16,18 +28,6 @@
       "transaction_price": "106.339",
       "transaction_type": "S",
       "shares_after_transaction": "12954"
-    },
-    {
-      "id": 265,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "MOSKOWITZ JOSEPH L",
-      "reporting_owner_cik": "0001639880",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-08",
-      "transaction_shares": "1000",
-      "transaction_price": "106.79",
-      "transaction_type": "S",
-      "shares_after_transaction": "26096"
     }
   ]
 }

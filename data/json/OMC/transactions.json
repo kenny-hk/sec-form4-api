@@ -1,7 +1,56 @@
 {
   "ticker": "OMC",
-  "last_updated": "2025-05-19T08:36:17.241758",
+  "last_updated": "2025-05-20T08:35:57.169490",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 499,
+      "issuer_name": "OMNICOM GROUP INC.",
+      "reporting_owner": "WREN JOHN",
+      "reporting_owner_cik": "0001247069",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "3792",
+      "transaction_price": "76.29",
+      "transaction_type": "F",
+      "shares_after_transaction": "220227"
+    },
+    {
+      "id": 500,
+      "issuer_name": "OMNICOM GROUP INC.",
+      "reporting_owner": "Januzzi Louis F",
+      "reporting_owner_cik": "0001963837",
+      "reporting_owner_position": "Senior VP, Gen. Counsel & Sec.",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "1400",
+      "transaction_price": "76.29",
+      "transaction_type": "F",
+      "shares_after_transaction": "28958.453"
+    },
+    {
+      "id": 501,
+      "issuer_name": "OMNICOM GROUP INC.",
+      "reporting_owner": "Simm Daryl",
+      "reporting_owner_cik": "0001303840",
+      "reporting_owner_position": "President and COO",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "1602",
+      "transaction_price": "76.29",
+      "transaction_type": "F",
+      "shares_after_transaction": "175101"
+    },
+    {
+      "id": 503,
+      "issuer_name": "OMNICOM GROUP INC.",
+      "reporting_owner": "ANGELASTRO PHILIP J",
+      "reporting_owner_cik": "0001253401",
+      "reporting_owner_position": "Executive Vice President & CFO",
+      "transaction_date": "2025-05-15",
+      "transaction_shares": "1935",
+      "transaction_price": "76.29",
+      "transaction_type": "F",
+      "shares_after_transaction": "470166"
+    }
+  ]
 }

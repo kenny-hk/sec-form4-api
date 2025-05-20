@@ -1,11 +1,23 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-05-19T08:36:17.241758",
+  "last_updated": "2025-05-20T08:35:57.169490",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 64,
+      "id": 72,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab-Pomerantz Carolyn",
+      "reporting_owner_cik": "0001950787",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-16",
+      "transaction_shares": "10795",
+      "transaction_price": "88.7425",
+      "transaction_type": "S",
+      "shares_after_transaction": "1520398.6599"
+    },
+    {
+      "id": 71,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -15,18 +27,6 @@
       "transaction_price": "85.3937",
       "transaction_type": "S",
       "shares_after_transaction": "59002353"
-    },
-    {
-      "id": 65,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Wurster Richard A",
-      "reporting_owner_cik": "0001889263",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2025-05-09",
-      "transaction_shares": "15345",
-      "transaction_price": "84.0787",
-      "transaction_type": "S",
-      "shares_after_transaction": "177689"
     }
   ]
 }
