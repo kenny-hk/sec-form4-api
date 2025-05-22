@@ -1,11 +1,23 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-05-21T08:35:05.762860",
+  "last_updated": "2025-05-22T08:34:23.669562",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 246,
+      "id": 234,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "McLay Kathryn J.",
+      "reporting_owner_cik": "0001794573",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-05-19",
+      "transaction_shares": "4000",
+      "transaction_price": "96.75",
+      "transaction_type": "S",
+      "shares_after_transaction": "1092455.036"
+    },
+    {
+      "id": 233,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "578896805"
     },
     {
-      "id": 247,
+      "id": 235,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Bartlett Daniel J",
       "reporting_owner_cik": "0001579299",
