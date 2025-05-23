@@ -1,11 +1,23 @@
 {
   "ticker": "AXON",
-  "last_updated": "2025-05-22T08:34:23.669562",
+  "last_updated": "2025-05-23T08:34:31.035764",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 926,
+      "id": 908,
+      "issuer_name": "AXON ENTERPRISE, INC.",
+      "reporting_owner": "Isner Joshua",
+      "reporting_owner_cik": "0001648518",
+      "reporting_owner_position": "PRESIDENT",
+      "transaction_date": "2025-05-21",
+      "transaction_shares": "100",
+      "transaction_price": "731.422",
+      "transaction_type": "S",
+      "shares_after_transaction": "308614"
+    },
+    {
+      "id": 907,
       "issuer_name": "AXON ENTERPRISE, INC.",
       "reporting_owner": "Kalinowski Caitlin Elizabeth",
       "reporting_owner_cik": "0001786512",
@@ -15,18 +27,6 @@
       "transaction_price": "738.8358",
       "transaction_type": "S",
       "shares_after_transaction": "4829"
-    },
-    {
-      "id": 925,
-      "issuer_name": "AXON ENTERPRISE, INC.",
-      "reporting_owner": "Brooks Cameron",
-      "reporting_owner_cik": "0002017144",
-      "reporting_owner_position": "CHIEF REVENUE OFFICER",
-      "transaction_date": "2025-05-13",
-      "transaction_shares": "3444",
-      "transaction_price": "724.77",
-      "transaction_type": "F",
-      "shares_after_transaction": "20271"
     }
   ]
 }

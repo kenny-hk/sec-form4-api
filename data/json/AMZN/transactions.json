@@ -1,11 +1,23 @@
 {
   "ticker": "AMZN",
-  "last_updated": "2025-05-22T08:34:23.669562",
+  "last_updated": "2025-05-23T08:34:31.035764",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 190,
+      "id": 194,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2025-05-20",
+      "transaction_shares": "4864",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "509286"
+    },
+    {
+      "id": 195,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "NOOYI INDRA K",
       "reporting_owner_cik": "0001183818",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "30340"
     },
     {
-      "id": 191,
+      "id": 196,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
       "reporting_owner_cik": "0001936006",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "518934"
     },
     {
-      "id": 193,
+      "id": 197,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Ng Andrew Y.",
       "reporting_owner_cik": "0001851101",
@@ -39,18 +51,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "1984"
-    },
-    {
-      "id": 192,
-      "issuer_name": "AMAZON COM INC",
-      "reporting_owner": "BEZOS JEFFREY P",
-      "reporting_owner_cik": "0001043298",
-      "reporting_owner_position": "Executive Chair",
-      "transaction_date": "2025-05-13",
-      "transaction_shares": "134545",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "909279168"
     }
   ]
 }

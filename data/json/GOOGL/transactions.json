@@ -1,11 +1,11 @@
 {
   "ticker": "GOOGL",
-  "last_updated": "2025-05-22T08:34:23.669562",
+  "last_updated": "2025-05-23T08:34:31.035764",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 151,
+      "id": 146,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "Sergey Brin",
       "reporting_owner_cik": "0001295032",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "2048000"
     },
     {
-      "id": 334,
+      "id": 337,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "Sergey Brin",
       "reporting_owner_cik": "0001295032",
@@ -27,30 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "2048000"
-    },
-    {
-      "id": 149,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Hennessy John L.",
-      "reporting_owner_cik": "0001198046",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-13",
-      "transaction_shares": "10",
-      "transaction_price": "158.635",
-      "transaction_type": "S",
-      "shares_after_transaction": "7603"
-    },
-    {
-      "id": 332,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Hennessy John L.",
-      "reporting_owner_cik": "0001198046",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-13",
-      "transaction_shares": "10",
-      "transaction_price": "158.635",
-      "transaction_type": "S",
-      "shares_after_transaction": "7603"
     }
   ]
 }

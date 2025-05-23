@@ -1,11 +1,35 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-05-22T08:34:23.669562",
+  "last_updated": "2025-05-23T08:34:31.035764",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
+      "id": 68,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Ruffel Charles A.",
+      "reporting_owner_cik": "0001739929",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-21",
+      "transaction_shares": "5556",
+      "transaction_price": "87.6505",
+      "transaction_type": "S",
+      "shares_after_transaction": "16593.8422"
+    },
+    {
       "id": 69,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Craig Jonathan M.",
+      "reporting_owner_cik": "0001733065",
+      "reporting_owner_position": "MD, Head of Investor Services",
+      "transaction_date": "2025-05-21",
+      "transaction_shares": "47500",
+      "transaction_price": "41.98",
+      "transaction_type": "M",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 66,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Bettinger Walter W",
       "reporting_owner_cik": "0001296479",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "764610.022"
     },
     {
-      "id": 70,
+      "id": 67,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab-Pomerantz Carolyn",
       "reporting_owner_cik": "0001950787",
