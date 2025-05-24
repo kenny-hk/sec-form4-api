@@ -1,11 +1,23 @@
 {
   "ticker": "KEYS",
-  "last_updated": "2025-05-23T08:34:31.035764",
+  "last_updated": "2025-05-24T08:28:57.985720",
   "retention_years": 3,
-  "count": 6,
+  "count": 2,
   "transactions": [
     {
-      "id": 281,
+      "id": 199,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "HAMADA RICHARD P",
+      "reporting_owner_cik": "0001220015",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-22",
+      "transaction_shares": "1589",
+      "transaction_price": "162",
+      "transaction_type": "S",
+      "shares_after_transaction": "42160.266"
+    },
+    {
+      "id": 200,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "Dhanasekaran Satish",
       "reporting_owner_cik": "0001712648",
@@ -15,66 +27,6 @@
       "transaction_price": "165.40",
       "transaction_type": "F",
       "shares_after_transaction": "116234.255"
-    },
-    {
-      "id": 277,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "PAGE JOHN",
-      "reporting_owner_cik": "0001657513",
-      "reporting_owner_position": "SVP",
-      "transaction_date": "2025-05-14",
-      "transaction_shares": "12822",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "49807.6"
-    },
-    {
-      "id": 278,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "Dougherty Neil",
-      "reporting_owner_cik": "0001621383",
-      "reporting_owner_position": "EVP and CFO",
-      "transaction_date": "2025-05-14",
-      "transaction_shares": "22438",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "137666.206"
-    },
-    {
-      "id": 279,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "Gooi Soon Chai",
-      "reporting_owner_cik": "0001418914",
-      "reporting_owner_position": "SVP",
-      "transaction_date": "2025-05-14",
-      "transaction_shares": "12822",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "241985.855"
-    },
-    {
-      "id": 280,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "WALLACE Mark ADAM",
-      "reporting_owner_cik": "0001688014",
-      "reporting_owner_position": "SVP",
-      "transaction_date": "2025-05-14",
-      "transaction_shares": "12822",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "100781.704"
-    },
-    {
-      "id": 282,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "Estrada Ingrid A",
-      "reporting_owner_cik": "0001621346",
-      "reporting_owner_position": "SVP",
-      "transaction_date": "2025-05-14",
-      "transaction_shares": "12822",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "124948.19"
     }
   ]
 }
