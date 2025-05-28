@@ -2,11 +2,23 @@
   "ticker": "KEYS",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-27T08:56:09.438656",
+  "last_updated": "2025-05-28T08:32:46.237081",
   "count": 2,
   "transactions": [
     {
-      "id": 123,
+      "id": 146,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "JUSKIE JO ANN",
+      "reporting_owner_cik": "0002069480",
+      "reporting_owner_position": "SVP",
+      "transaction_date": "2025-05-26",
+      "transaction_shares": "1175",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "6444.501"
+    },
+    {
+      "id": 145,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "HAMADA RICHARD P",
       "reporting_owner_cik": "0001220015",
@@ -16,18 +28,6 @@
       "transaction_price": "162",
       "transaction_type": "S",
       "shares_after_transaction": "42160.266"
-    },
-    {
-      "id": 124,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "Dhanasekaran Satish",
-      "reporting_owner_cik": "0001712648",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-05-16",
-      "transaction_shares": "348",
-      "transaction_price": "165.40",
-      "transaction_type": "F",
-      "shares_after_transaction": "116234.255"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "ticker": "SCHW",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-27T08:56:09.438656",
+  "last_updated": "2025-05-28T08:32:46.237081",
   "count": 4,
   "transactions": [
     {
-      "id": 15,
+      "id": 13,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Morgan Peter J. III",
       "reporting_owner_cik": "0001792910",
@@ -20,6 +20,18 @@
     {
       "id": 16,
       "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab Charles R.",
+      "reporting_owner_cik": "0000923738",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2025-05-22",
+      "transaction_shares": "34585",
+      "transaction_price": "87.5045",
+      "transaction_type": "S",
+      "shares_after_transaction": "57569203"
+    },
+    {
+      "id": 14,
+      "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Ruffel Charles A.",
       "reporting_owner_cik": "0001739929",
       "reporting_owner_position": null,
@@ -30,7 +42,7 @@
       "shares_after_transaction": "16593.8422"
     },
     {
-      "id": 17,
+      "id": 15,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Craig Jonathan M.",
       "reporting_owner_cik": "0001733065",
@@ -40,18 +52,6 @@
       "transaction_price": "41.98",
       "transaction_type": "M",
       "shares_after_transaction": "0"
-    },
-    {
-      "id": 14,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Bettinger Walter W",
-      "reporting_owner_cik": "0001296479",
-      "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2025-05-19",
-      "transaction_shares": "191523",
-      "transaction_price": "88.9994",
-      "transaction_type": "S",
-      "shares_after_transaction": "764610.022"
     }
   ]
 }
