@@ -1,11 +1,11 @@
 {
   "ticker": "COIN",
-  "last_updated": "2025-05-28T08:32:46.237081",
+  "last_updated": "2025-05-29T08:32:43.147375",
   "retention_years": 3,
   "count": 9,
   "transactions": [
     {
-      "id": 435,
+      "id": 320,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Ehrsam Frederick Ernest III",
       "reporting_owner_cik": "0001851442",
@@ -17,19 +17,7 @@
       "shares_after_transaction": "8367"
     },
     {
-      "id": 438,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Brock Lawrence J",
-      "reporting_owner_cik": "0001963975",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2025-05-22",
-      "transaction_shares": "700",
-      "transaction_price": "264.7071",
-      "transaction_type": "S",
-      "shares_after_transaction": "5680"
-    },
-    {
-      "id": 441,
+      "id": 321,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Jones Jennifer N.",
       "reporting_owner_cik": "0001851432",
@@ -41,7 +29,19 @@
       "shares_after_transaction": "1415"
     },
     {
-      "id": 437,
+      "id": 322,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Brock Lawrence J",
+      "reporting_owner_cik": "0001963975",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2025-05-22",
+      "transaction_shares": "700",
+      "transaction_price": "264.7071",
+      "transaction_type": "S",
+      "shares_after_transaction": "5680"
+    },
+    {
+      "id": 319,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Ehrsam Frederick Ernest III",
       "reporting_owner_cik": "0001851442",
@@ -53,43 +53,19 @@
       "shares_after_transaction": "4723"
     },
     {
-      "id": 433,
+      "id": 315,
       "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Brock Lawrence J",
-      "reporting_owner_cik": "0001963975",
-      "reporting_owner_position": "Chief People Officer",
+      "reporting_owner": "Jones Jennifer N.",
+      "reporting_owner_cik": "0001851432",
+      "reporting_owner_position": "Chief Accounting Officer",
       "transaction_date": "2025-05-20",
-      "transaction_shares": "3349",
+      "transaction_shares": "628",
       "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "3827"
+      "shares_after_transaction": "628"
     },
     {
-      "id": 434,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Grewal Paul",
-      "reporting_owner_cik": "0001851414",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-05-20",
-      "transaction_shares": "3349",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "85122"
-    },
-    {
-      "id": 436,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Choi Emilie",
-      "reporting_owner_cik": "0001851658",
-      "reporting_owner_position": "President & COO",
-      "transaction_date": "2025-05-20",
-      "transaction_shares": "11166",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "169748"
-    },
-    {
-      "id": 439,
+      "id": 316,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "HAAS ALESIA J",
       "reporting_owner_cik": "0001668711",
@@ -101,16 +77,40 @@
       "shares_after_transaction": "107289"
     },
     {
-      "id": 440,
+      "id": 317,
       "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Jones Jennifer N.",
-      "reporting_owner_cik": "0001851432",
-      "reporting_owner_position": "Chief Accounting Officer",
+      "reporting_owner": "Grewal Paul",
+      "reporting_owner_cik": "0001851414",
+      "reporting_owner_position": "Chief Legal Officer",
       "transaction_date": "2025-05-20",
-      "transaction_shares": "628",
+      "transaction_shares": "3349",
       "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "628"
+      "shares_after_transaction": "85122"
+    },
+    {
+      "id": 318,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Brock Lawrence J",
+      "reporting_owner_cik": "0001963975",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2025-05-20",
+      "transaction_shares": "3349",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "3827"
+    },
+    {
+      "id": 323,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Choi Emilie",
+      "reporting_owner_cik": "0001851658",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2025-05-20",
+      "transaction_shares": "11166",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "169748"
     }
   ]
 }
