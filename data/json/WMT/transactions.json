@@ -1,11 +1,35 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-05-29T08:32:43.147375",
+  "last_updated": "2025-05-30T08:33:24.280711",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 300,
+      "id": 274,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Steuart L",
+      "reporting_owner_cik": "0001675503",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-28",
+      "transaction_shares": "45000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "75911.273"
+    },
+    {
+      "id": 278,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-27",
+      "transaction_shares": "2238020",
+      "transaction_price": "97.5004",
+      "transaction_type": "S",
+      "shares_after_transaction": "569501458"
+    },
+    {
+      "id": 275,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Steuart L",
       "reporting_owner_cik": "0001675503",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "120911.273"
     },
     {
-      "id": 302,
+      "id": 277,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McMillon C Douglas",
       "reporting_owner_cik": "0001335782",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "4451199.18"
     },
     {
-      "id": 301,
+      "id": 276,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",

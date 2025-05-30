@@ -2,20 +2,32 @@
   "ticker": "TSLA",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-27T08:56:09.438656",
-  "count": 1,
+  "last_updated": "2025-05-30T08:33:24.280711",
+  "count": 2,
   "transactions": [
     {
-      "id": 30,
+      "id": 253,
       "issuer_name": "Tesla, Inc.",
-      "reporting_owner": "Taneja Vaibhav",
-      "reporting_owner_cik": "0001771340",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-05-16",
-      "transaction_shares": "3000",
-      "transaction_price": "18.22",
+      "reporting_owner": "Ehrenpreis Ira Matthew",
+      "reporting_owner_cik": "0001412598",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-27",
+      "transaction_shares": "360000",
+      "transaction_price": "22.860",
       "transaction_type": "M",
-      "shares_after_transaction": "29949.5"
+      "shares_after_transaction": "931005"
+    },
+    {
+      "id": 254,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Kimbal",
+      "reporting_owner_cik": "0001494731",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-27",
+      "transaction_shares": "91588",
+      "transaction_price": "24.730",
+      "transaction_type": "M",
+      "shares_after_transaction": "1554808"
     }
   ]
 }

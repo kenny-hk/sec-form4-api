@@ -1,20 +1,44 @@
 {
   "ticker": "GLW",
-  "last_updated": "2025-05-20T08:35:57.169490",
+  "last_updated": "2025-05-30T08:33:24.280711",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 723,
+      "id": 474,
+      "issuer_name": "CORNING INC /NY",
+      "reporting_owner": "Becker Stefan",
+      "reporting_owner_cik": "0001825967",
+      "reporting_owner_position": "SVP, Finance & Corp Controller",
+      "transaction_date": "2025-05-29",
+      "transaction_shares": "17106",
+      "transaction_price": "49.6807",
+      "transaction_type": "S",
+      "shares_after_transaction": "16117"
+    },
+    {
+      "id": 472,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Zhang John Z",
       "reporting_owner_cik": "0001825618",
       "reporting_owner_position": "Exec. Vice President & CCDO",
-      "transaction_date": "2025-05-12",
-      "transaction_shares": "8000",
-      "transaction_price": "46.9117",
+      "transaction_date": "2025-05-28",
+      "transaction_shares": "9610",
+      "transaction_price": "49.2902",
       "transaction_type": "S",
-      "shares_after_transaction": "9610"
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 473,
+      "issuer_name": "CORNING INC /NY",
+      "reporting_owner": "Seetharam Soumya",
+      "reporting_owner_cik": "0001955767",
+      "reporting_owner_position": "Senior Vice President & CDIO",
+      "transaction_date": "2025-05-28",
+      "transaction_shares": "14313",
+      "transaction_price": "50.0103",
+      "transaction_type": "S",
+      "shares_after_transaction": "31505"
     }
   ]
 }
