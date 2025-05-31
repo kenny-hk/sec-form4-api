@@ -1,11 +1,23 @@
 {
   "ticker": "STX",
-  "last_updated": "2025-05-30T08:33:24.280711",
+  "last_updated": "2025-05-31T08:29:34.210028",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 539,
+      "id": 472,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Romano Gianluca",
+      "reporting_owner_cik": "0001764650",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2025-05-29",
+      "transaction_shares": "15918",
+      "transaction_price": "117.1687",
+      "transaction_type": "S",
+      "shares_after_transaction": "47182"
+    },
+    {
+      "id": 471,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Teh Ban Seng",
       "reporting_owner_cik": "0001801425",
@@ -15,42 +27,6 @@
       "transaction_price": "115",
       "transaction_type": "S",
       "shares_after_transaction": "22999"
-    },
-    {
-      "id": 538,
-      "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "BRUNER JUDY",
-      "reporting_owner_cik": "0001112668",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-22",
-      "transaction_shares": "10446",
-      "transaction_price": "108.7075",
-      "transaction_type": "S",
-      "shares_after_transaction": "12268"
-    },
-    {
-      "id": 540,
-      "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Chong Kian Fatt",
-      "reporting_owner_cik": "0001987421",
-      "reporting_owner_position": "SVP, Global Operations",
-      "transaction_date": "2025-05-22",
-      "transaction_shares": "6410",
-      "transaction_price": "111.2556",
-      "transaction_type": "S",
-      "shares_after_transaction": "0"
-    },
-    {
-      "id": 541,
-      "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "MOSLEY WILLIAM D",
-      "reporting_owner_cik": "0001388390",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-05-22",
-      "transaction_shares": "1800",
-      "transaction_price": "105.9964",
-      "transaction_type": "S",
-      "shares_after_transaction": "553877"
     }
   ]
 }

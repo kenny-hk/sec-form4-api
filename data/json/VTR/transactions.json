@@ -1,11 +1,23 @@
 {
   "ticker": "VTR",
-  "last_updated": "2025-05-30T08:33:24.280711",
+  "last_updated": "2025-05-31T08:29:34.210028",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 209,
+      "id": 192,
+      "issuer_name": "Ventas, Inc.",
+      "reporting_owner": "Roberts Carey S.",
+      "reporting_owner_cik": "0001720831",
+      "reporting_owner_position": "EVP and GC",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "23500",
+      "transaction_price": "64.2318",
+      "transaction_type": "S",
+      "shares_after_transaction": "116650"
+    },
+    {
+      "id": 191,
       "issuer_name": "Ventas, Inc.",
       "reporting_owner": "Probst Robert F",
       "reporting_owner_cik": "0001531510",
@@ -15,18 +27,6 @@
       "transaction_price": "62.22",
       "transaction_type": "M",
       "shares_after_transaction": "185738"
-    },
-    {
-      "id": 210,
-      "issuer_name": "Ventas, Inc.",
-      "reporting_owner": "Probst Robert F",
-      "reporting_owner_cik": "0001531510",
-      "reporting_owner_position": "EVP and CFO",
-      "transaction_date": "2025-05-21",
-      "transaction_shares": "36000",
-      "transaction_price": "64.6164",
-      "transaction_type": "S",
-      "shares_after_transaction": "168364"
     }
   ]
 }
