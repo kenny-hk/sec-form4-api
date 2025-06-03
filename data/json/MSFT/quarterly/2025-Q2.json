@@ -2,20 +2,44 @@
   "ticker": "MSFT",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-05-29T08:32:43.147375",
-  "count": 1,
+  "last_updated": "2025-06-03T08:34:48.494984",
+  "count": 3,
   "transactions": [
     {
-      "id": 133,
+      "id": 148,
       "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "Hogan Kathleen T",
-      "reporting_owner_cik": "0001626431",
-      "reporting_owner_position": "EVP, Strategy",
-      "transaction_date": "2025-05-21",
-      "transaction_shares": "21500",
-      "transaction_price": "453.7745",
+      "reporting_owner": "Jolla Alice L.",
+      "reporting_owner_cik": "0001819285",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-06-02",
+      "transaction_shares": "431.209",
+      "transaction_price": "460.36",
+      "transaction_type": "F",
+      "shares_after_transaction": "69717.7436"
+    },
+    {
+      "id": 150,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Coleman Amy",
+      "reporting_owner_cik": "0002062356",
+      "reporting_owner_position": "EVP, Chief Human Resources Off",
+      "transaction_date": "2025-06-02",
+      "transaction_shares": "453.934",
+      "transaction_price": "460.36",
+      "transaction_type": "F",
+      "shares_after_transaction": "42646.4506"
+    },
+    {
+      "id": 149,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Numoto Takeshi",
+      "reporting_owner_cik": "0001899931",
+      "reporting_owner_position": "EVP, Chief Marketing Officer",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "1000",
+      "transaction_price": "460.008",
       "transaction_type": "S",
-      "shares_after_transaction": "134887.8550"
+      "shares_after_transaction": "47057.6765"
     }
   ]
 }
