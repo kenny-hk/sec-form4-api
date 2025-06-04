@@ -1,20 +1,32 @@
 {
   "ticker": "MKTX",
-  "last_updated": "2025-05-27T08:56:09.438656",
+  "last_updated": "2025-06-04T08:34:27.920984",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 433,
+      "id": 226,
       "issuer_name": "MARKETAXESS HOLDINGS INC",
-      "reporting_owner": "McPherson Kevin M",
-      "reporting_owner_cik": "0001704380",
-      "reporting_owner_position": "Chief Revenue Officer",
-      "transaction_date": "2025-05-15",
-      "transaction_shares": "250",
+      "reporting_owner": "Fiszel Bieler Ilene",
+      "reporting_owner_cik": "0002021091",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "242",
+      "transaction_price": "219.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "4422"
+    },
+    {
+      "id": 227,
+      "issuer_name": "MARKETAXESS HOLDINGS INC",
+      "reporting_owner": "Cianciulli Michael R.",
+      "reporting_owner_cik": "0002007722",
+      "reporting_owner_position": "Head of Ext Rep & Comp Accting",
+      "transaction_date": "2025-04-01",
+      "transaction_shares": "232",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "71175"
+      "transaction_type": "A",
+      "shares_after_transaction": "1155"
     }
   ]
 }

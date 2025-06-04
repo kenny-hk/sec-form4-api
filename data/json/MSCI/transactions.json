@@ -1,20 +1,56 @@
 {
   "ticker": "MSCI",
-  "last_updated": "2025-05-14T08:33:44.360499",
+  "last_updated": "2025-06-04T08:34:27.920984",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 890,
+      "id": 190,
       "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Pettit CD Baer",
-      "reporting_owner_cik": "0001416752",
-      "reporting_owner_position": "President & COO",
-      "transaction_date": "2025-05-05",
-      "transaction_shares": "734",
-      "transaction_price": "551.11",
-      "transaction_type": "S",
-      "shares_after_transaction": "294053"
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "9",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "3011"
+    },
+    {
+      "id": 191,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "6",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20577"
+    },
+    {
+      "id": 192,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Yang June",
+      "reporting_owner_cik": "0002008967",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "1",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "511"
+    },
+    {
+      "id": 193,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "4",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1624"
     }
   ]
 }

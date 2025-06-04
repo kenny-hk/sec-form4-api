@@ -2,11 +2,35 @@
   "ticker": "KEYS",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-03T08:34:48.494984",
-  "count": 2,
+  "last_updated": "2025-06-04T08:34:27.920984",
+  "count": 3,
   "transactions": [
     {
-      "id": 301,
+      "id": 429,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "PAGE JOHN",
+      "reporting_owner_cik": "0001657513",
+      "reporting_owner_position": "SVP",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "7368",
+      "transaction_price": "157.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "36985.6"
+    },
+    {
+      "id": 430,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "Dhanasekaran Satish",
+      "reporting_owner_cik": "0001712648",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "658",
+      "transaction_price": "157.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "115576.255"
+    },
+    {
+      "id": 431,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "Stephens Kevin A",
       "reporting_owner_cik": "0001834017",
@@ -16,18 +40,6 @@
       "transaction_price": "159",
       "transaction_type": "P",
       "shares_after_transaction": "9550"
-    },
-    {
-      "id": 300,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "JUSKIE JO ANN",
-      "reporting_owner_cik": "0002069480",
-      "reporting_owner_position": "SVP",
-      "transaction_date": "2025-05-26",
-      "transaction_shares": "1175",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "6444.501"
     }
   ]
 }

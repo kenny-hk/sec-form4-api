@@ -1,20 +1,44 @@
 {
   "ticker": "MLM",
-  "last_updated": "2025-05-25T08:31:00.483548",
+  "last_updated": "2025-06-04T08:34:27.920984",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 352,
+      "id": 175,
       "issuer_name": "MARTIN MARIETTA MATERIALS INC",
-      "reporting_owner": "Cardin Robert J",
-      "reporting_owner_cik": "0001592427",
-      "reporting_owner_position": "SVP, Interim CFO, Ctrl & CAO",
-      "transaction_date": "2025-05-15",
-      "transaction_shares": "2869",
-      "transaction_price": "0",
+      "reporting_owner": "KORALESKI JOHN J",
+      "reporting_owner_cik": "0001200010",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "85",
+      "transaction_price": "547.55",
       "transaction_type": "A",
-      "shares_after_transaction": "11098"
+      "shares_after_transaction": "8602"
+    },
+    {
+      "id": 176,
+      "issuer_name": "MARTIN MARIETTA MATERIALS INC",
+      "reporting_owner": "Pike Thomas",
+      "reporting_owner_cik": "0001471570",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "58",
+      "transaction_price": "547.55",
+      "transaction_type": "A",
+      "shares_after_transaction": "4442"
+    },
+    {
+      "id": 177,
+      "issuer_name": "MARTIN MARIETTA MATERIALS INC",
+      "reporting_owner": "WAJSGRAS DAVID C",
+      "reporting_owner_cik": "0001193800",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "69",
+      "transaction_price": "547.55",
+      "transaction_type": "A",
+      "shares_after_transaction": "4468"
     }
   ]
 }

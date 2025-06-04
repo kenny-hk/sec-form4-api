@@ -1,7 +1,44 @@
 {
   "ticker": "IT",
-  "last_updated": "2025-06-03T08:34:48.494984",
+  "last_updated": "2025-06-04T08:34:27.920984",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 729,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "Safian Craig",
+      "reporting_owner_cik": "0001610073",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "8",
+      "transaction_price": "414.60",
+      "transaction_type": "J",
+      "shares_after_transaction": "77898"
+    },
+    {
+      "id": 734,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "HALL EUGENE A",
+      "reporting_owner_cik": "0001198849",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "14",
+      "transaction_price": "414.60",
+      "transaction_type": "J",
+      "shares_after_transaction": "1170257"
+    },
+    {
+      "id": 736,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "Kranich Robin B",
+      "reporting_owner_cik": "0001308381",
+      "reporting_owner_position": "EVP & CHRO",
+      "transaction_date": "2025-05-30",
+      "transaction_shares": "14",
+      "transaction_price": "414.60",
+      "transaction_type": "J",
+      "shares_after_transaction": "20478"
+    }
+  ]
 }
