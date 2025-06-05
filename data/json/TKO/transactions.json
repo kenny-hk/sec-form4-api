@@ -1,11 +1,35 @@
 {
   "ticker": "TKO",
-  "last_updated": "2025-06-04T08:34:27.920984",
+  "last_updated": "2025-06-05T08:34:28.500929",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 189,
+      "id": 184,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Endeavor Group Holdings, Inc.",
+      "reporting_owner_cik": "0001766363",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "1579080",
+      "transaction_price": "158.32",
+      "transaction_type": "P",
+      "shares_after_transaction": "4158517"
+    },
+    {
+      "id": 185,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Silver Lake West VoteCo, L.L.C.",
+      "reporting_owner_cik": "0001868089",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "1579080",
+      "transaction_price": "158.32",
+      "transaction_type": "P",
+      "shares_after_transaction": "4158517"
+    },
+    {
+      "id": 183,
       "issuer_name": "TKO Group Holdings, Inc.",
       "reporting_owner": "Johnson Dwayne D.",
       "reporting_owner_cik": "0002004737",
@@ -15,6 +39,18 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "329906"
+    },
+    {
+      "id": 182,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Khan Nick",
+      "reporting_owner_cik": "0001821220",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-03-31",
+      "transaction_shares": "257.214",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "220486.042"
     }
   ]
 }

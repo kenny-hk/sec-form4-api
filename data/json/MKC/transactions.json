@@ -1,7 +1,44 @@
 {
   "ticker": "MKC",
-  "last_updated": "2025-05-29T08:32:43.147375",
+  "last_updated": "2025-06-05T08:34:28.500929",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 171,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Tapiero Jacques",
+      "reporting_owner_cik": "0001479078",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "171.455",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "30617.754"
+    },
+    {
+      "id": 172,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foley Brendan M",
+      "reporting_owner_cik": "0001644562",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2025-04-21",
+      "transaction_shares": ".003",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "1145.454"
+    },
+    {
+      "id": 173,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Piper Sarah",
+      "reporting_owner_cik": "0001956835",
+      "reporting_owner_position": "Chief Human Relations Officer",
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "13.012",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "3272.992"
+    }
+  ]
 }
