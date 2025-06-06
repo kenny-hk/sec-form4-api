@@ -1,11 +1,35 @@
 {
   "ticker": "DELL",
-  "last_updated": "2025-06-05T08:34:28.500929",
+  "last_updated": "2025-06-06T08:35:23.806445",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 41,
+      "id": 42,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Tunnell Jane",
+      "reporting_owner_cik": "0002016161",
+      "reporting_owner_position": "Chief Marketing Officer",
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "28877",
+      "transaction_price": "111.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "78373"
+    },
+    {
+      "id": 43,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Rothberg Richard J",
+      "reporting_owner_cik": "0001680902",
+      "reporting_owner_position": "General Counsel & Secretary",
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "70165",
+      "transaction_price": "108.82",
+      "transaction_type": "S",
+      "shares_after_transaction": "79928"
+    },
+    {
+      "id": 44,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Rios Brunilda",
       "reporting_owner_cik": "0001803866",

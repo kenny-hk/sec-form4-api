@@ -2,11 +2,23 @@
   "ticker": "DASH",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-05T08:34:28.500929",
-  "count": 4,
+  "last_updated": "2025-06-06T08:35:23.806445",
+  "count": 3,
   "transactions": [
     {
       "id": 900,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Still Ashley",
+      "reporting_owner_cik": "0001985469",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "63",
+      "transaction_price": "213.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "7909"
+    },
+    {
+      "id": 899,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Lee Gordon S",
       "reporting_owner_cik": "0001635648",
@@ -28,30 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "J",
       "shares_after_transaction": "26249"
-    },
-    {
-      "id": 898,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-05-27",
-      "transaction_shares": "800",
-      "transaction_price": "7.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "394333"
-    },
-    {
-      "id": 899,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Lee Gordon S",
-      "reporting_owner_cik": "0001635648",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2025-05-27",
-      "transaction_shares": "1915",
-      "transaction_price": "205.44",
-      "transaction_type": "S",
-      "shares_after_transaction": "95655"
     }
   ]
 }

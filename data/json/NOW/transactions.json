@@ -1,11 +1,23 @@
 {
   "ticker": "NOW",
-  "last_updated": "2025-06-05T08:34:28.500929",
+  "last_updated": "2025-06-06T08:35:23.806445",
   "retention_years": 3,
-  "count": 6,
+  "count": 5,
   "transactions": [
     {
-      "id": 832,
+      "id": 819,
+      "issuer_name": "ServiceNow, Inc.",
+      "reporting_owner": "McBride Kevin Thomas",
+      "reporting_owner_cik": "0001723374",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2025-06-03",
+      "transaction_shares": "280",
+      "transaction_price": "1011.82",
+      "transaction_type": "S",
+      "shares_after_transaction": "4484"
+    },
+    {
+      "id": 818,
       "issuer_name": "ServiceNow, Inc.",
       "reporting_owner": "Sands Anita M",
       "reporting_owner_cik": "0001589849",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "10643"
     },
     {
-      "id": 828,
+      "id": 815,
       "issuer_name": "ServiceNow, Inc.",
       "reporting_owner": "McDermott William R",
       "reporting_owner_cik": "0001334944",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "8624"
     },
     {
-      "id": 829,
+      "id": 816,
       "issuer_name": "ServiceNow, Inc.",
       "reporting_owner": "Tzitzon Nicholas",
       "reporting_owner_cik": "0001891538",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "3000"
     },
     {
-      "id": 830,
+      "id": 817,
       "issuer_name": "ServiceNow, Inc.",
       "reporting_owner": "Canney Jacqueline P",
       "reporting_owner_cik": "0001649609",
@@ -51,30 +63,6 @@
       "transaction_price": "1020",
       "transaction_type": "S",
       "shares_after_transaction": "3027"
-    },
-    {
-      "id": 831,
-      "issuer_name": "ServiceNow, Inc.",
-      "reporting_owner": "Sands Anita M",
-      "reporting_owner_cik": "0001589849",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-27",
-      "transaction_shares": "428",
-      "transaction_price": "1013.61",
-      "transaction_type": "S",
-      "shares_after_transaction": "10891"
-    },
-    {
-      "id": 833,
-      "issuer_name": "ServiceNow, Inc.",
-      "reporting_owner": "Briggs Teresa",
-      "reporting_owner_cik": "0001767659",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-27",
-      "transaction_shares": "214",
-      "transaction_price": "1013.61",
-      "transaction_type": "S",
-      "shares_after_transaction": "1869"
     }
   ]
 }
