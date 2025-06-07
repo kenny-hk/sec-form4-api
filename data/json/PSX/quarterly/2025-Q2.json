@@ -2,11 +2,11 @@
   "ticker": "PSX",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-06T08:35:23.806445",
-  "count": 1,
+  "last_updated": "2025-06-07T08:30:43.805152",
+  "count": 2,
   "transactions": [
     {
-      "id": 628,
+      "id": 659,
       "issuer_name": "Phillips 66",
       "reporting_owner": "HAYES GREGORY",
       "reporting_owner_cik": "0001225946",
@@ -16,6 +16,18 @@
       "transaction_price": "113.265",
       "transaction_type": "A",
       "shares_after_transaction": "20860.1347"
+    },
+    {
+      "id": 660,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "Lashier Mark E",
+      "reporting_owner_cik": "0001853212",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-05-16",
+      "transaction_shares": "15628",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "110107"
     }
   ]
 }

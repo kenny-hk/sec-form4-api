@@ -2,11 +2,23 @@
   "ticker": "SCHW",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-06T08:35:23.806445",
+  "last_updated": "2025-06-07T08:30:43.805152",
   "count": 4,
   "transactions": [
     {
-      "id": 128,
+      "id": 105,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab-Pomerantz Carolyn",
+      "reporting_owner_cik": "0001950787",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-05",
+      "transaction_shares": "14400",
+      "transaction_price": "87.2475",
+      "transaction_type": "S",
+      "shares_after_transaction": "1505998.6599"
+    },
+    {
+      "id": 107,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Verdeschi Michael D",
       "reporting_owner_cik": "0002034140",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "53961"
     },
     {
-      "id": 127,
+      "id": 106,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Woolway Paul V",
       "reporting_owner_cik": "0002031313",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "39154.1078"
     },
     {
-      "id": 126,
+      "id": 104,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Beatty Jonathan S",
       "reporting_owner_cik": "0002028977",
@@ -40,18 +52,6 @@
       "transaction_price": "87.5692",
       "transaction_type": "S",
       "shares_after_transaction": "15219"
-    },
-    {
-      "id": 129,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Murtagh Nigel J",
-      "reporting_owner_cik": "0001649599",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2025-05-28",
-      "transaction_shares": "25000",
-      "transaction_price": "41.98",
-      "transaction_type": "M",
-      "shares_after_transaction": "83999.2306"
     }
   ]
 }

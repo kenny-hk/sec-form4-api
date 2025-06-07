@@ -2,11 +2,23 @@
   "ticker": "ABNB",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-06T08:35:23.806445",
+  "last_updated": "2025-06-07T08:30:43.805152",
   "count": 4,
   "transactions": [
     {
-      "id": 38,
+      "id": 26,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Mertz Elinor",
+      "reporting_owner_cik": "0001938411",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-06-04",
+      "transaction_shares": "6250",
+      "transaction_price": "132.28",
+      "transaction_type": "S",
+      "shares_after_transaction": "467611.295"
+    },
+    {
+      "id": 27,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "473861.295"
     },
     {
-      "id": 39,
+      "id": 28,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "BALOGH ARISTOTLE N",
       "reporting_owner_cik": "0001216924",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "214577.141"
     },
     {
-      "id": 40,
+      "id": 29,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Chesky Brian",
       "reporting_owner_cik": "0001834152",
@@ -40,18 +52,6 @@
       "transaction_price": "127.8429",
       "transaction_type": "S",
       "shares_after_transaction": "47353"
-    },
-    {
-      "id": 41,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Gebbia Joseph",
-      "reporting_owner_cik": "0001834171",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-28",
-      "transaction_shares": "250",
-      "transaction_price": "127.8704",
-      "transaction_type": "S",
-      "shares_after_transaction": "5119"
     }
   ]
 }
