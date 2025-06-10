@@ -2,11 +2,11 @@
   "ticker": "NFLX",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-09T08:36:06.373645",
-  "count": 7,
+  "last_updated": "2025-06-10T08:35:39.521536",
+  "count": 6,
   "transactions": [
     {
-      "id": 351,
+      "id": 301,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "MATHER ANN",
       "reporting_owner_cik": "0001244892",
@@ -18,7 +18,7 @@
       "shares_after_transaction": "157"
     },
     {
-      "id": 356,
+      "id": 306,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "KILGORE LESLIE J",
       "reporting_owner_cik": "0001218352",
@@ -30,7 +30,19 @@
       "shares_after_transaction": "35614"
     },
     {
-      "id": 358,
+      "id": 316,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Hoag Jay C",
+      "reporting_owner_cik": "0001082906",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-05",
+      "transaction_shares": "2648",
+      "transaction_price": "1255.583",
+      "transaction_type": "S",
+      "shares_after_transaction": "210088"
+    },
+    {
+      "id": 308,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "KILGORE LESLIE J",
       "reporting_owner_cik": "0001218352",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "35619"
     },
     {
-      "id": 354,
+      "id": 304,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HASTINGS REED",
       "reporting_owner_cik": "0001033331",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "27327"
     },
     {
-      "id": 362,
+      "id": 312,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Neumann Spencer Adam",
       "reporting_owner_cik": "0001543133",
@@ -64,30 +76,6 @@
       "transaction_price": "319.50",
       "transaction_type": "M",
       "shares_after_transaction": "4836"
-    },
-    {
-      "id": 350,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "Hoag Jay C",
-      "reporting_owner_cik": "0001082906",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-29",
-      "transaction_shares": "247",
-      "transaction_price": "1205.159",
-      "transaction_type": "S",
-      "shares_after_transaction": "236239"
-    },
-    {
-      "id": 366,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "Hoag Jay C",
-      "reporting_owner_cik": "0001082906",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-29",
-      "transaction_shares": "247",
-      "transaction_price": "1205.159",
-      "transaction_type": "S",
-      "shares_after_transaction": "236239"
     }
   ]
 }
