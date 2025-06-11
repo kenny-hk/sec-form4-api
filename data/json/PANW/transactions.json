@@ -1,11 +1,23 @@
 {
   "ticker": "PANW",
-  "last_updated": "2025-06-10T08:35:39.521536",
+  "last_updated": "2025-06-11T08:33:15.545521",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 624,
+      "id": 428,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Arora Nikesh",
+      "reporting_owner_cik": "0001468233",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-06-07",
+      "transaction_shares": "42558",
+      "transaction_price": "0",
+      "transaction_type": "D",
+      "shares_after_transaction": "275013"
+    },
+    {
+      "id": 427,
       "issuer_name": "Palo Alto Networks Inc",
       "reporting_owner": "Klarich Lee",
       "reporting_owner_cik": "0001682260",
@@ -15,18 +27,6 @@
       "transaction_price": "32.25",
       "transaction_type": "M",
       "shares_after_transaction": "385020"
-    },
-    {
-      "id": 626,
-      "issuer_name": "Palo Alto Networks Inc",
-      "reporting_owner": "ZUK NIR",
-      "reporting_owner_cik": "0001250333",
-      "reporting_owner_position": "EVP, Chief Technology Officer",
-      "transaction_date": "2025-06-02",
-      "transaction_shares": "36977",
-      "transaction_price": "192.625",
-      "transaction_type": "S",
-      "shares_after_transaction": "3406539"
     }
   ]
 }

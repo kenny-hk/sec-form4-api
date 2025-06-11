@@ -1,11 +1,35 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2025-06-10T08:35:39.521536",
+  "last_updated": "2025-06-11T08:33:15.545521",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 243,
+      "id": 161,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "COXE TENCH",
+      "reporting_owner_cik": "0001197647",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "1000000.0000",
+      "transaction_price": "142.8046",
+      "transaction_type": "S",
+      "shares_after_transaction": "26671360.0000"
+    },
+    {
+      "id": 162,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-06",
+      "transaction_shares": "168849",
+      "transaction_price": "141.8553",
+      "transaction_type": "S",
+      "shares_after_transaction": "9045848"
+    },
+    {
+      "id": 160,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "582503470"
     },
     {
-      "id": 244,
+      "id": 163,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -27,30 +51,6 @@
       "transaction_price": "137.7879",
       "transaction_type": "S",
       "shares_after_transaction": "10149697"
-    },
-    {
-      "id": 245,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "Dabiri John",
-      "reporting_owner_cik": "0001818224",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-30",
-      "transaction_shares": "660",
-      "transaction_price": "138.80",
-      "transaction_type": "S",
-      "shares_after_transaction": "16619"
-    },
-    {
-      "id": 246,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "BURGESS ROBERT K",
-      "reporting_owner_cik": "0001198782",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-30",
-      "transaction_shares": "50000",
-      "transaction_price": "134.8164",
-      "transaction_type": "S",
-      "shares_after_transaction": "201044"
     }
   ]
 }

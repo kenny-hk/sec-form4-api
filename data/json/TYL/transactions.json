@@ -1,11 +1,23 @@
 {
   "ticker": "TYL",
-  "last_updated": "2025-06-10T08:35:39.521536",
+  "last_updated": "2025-06-11T08:33:15.545521",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 224,
+      "id": 156,
+      "issuer_name": "TYLER TECHNOLOGIES INC",
+      "reporting_owner": "MILLER BRIAN K",
+      "reporting_owner_cik": "0001086072",
+      "reporting_owner_position": "Executive VP and CFO",
+      "transaction_date": "2025-06-06",
+      "transaction_shares": "1200",
+      "transaction_price": "577.656",
+      "transaction_type": "S",
+      "shares_after_transaction": "17475.2913"
+    },
+    {
+      "id": 155,
       "issuer_name": "TYLER TECHNOLOGIES INC",
       "reporting_owner": "Diaz-Pedrosa Abigail Marshall",
       "reporting_owner_cik": "0002069267",
@@ -15,18 +27,6 @@
       "transaction_price": "573.6",
       "transaction_type": "S",
       "shares_after_transaction": "247"
-    },
-    {
-      "id": 225,
-      "issuer_name": "TYLER TECHNOLOGIES INC",
-      "reporting_owner": "MARR JOHN S JR",
-      "reporting_owner_cik": "0001085536",
-      "reporting_owner_position": "Executive Chair of the Board",
-      "transaction_date": "2025-05-30",
-      "transaction_shares": "2875",
-      "transaction_price": "213.35",
-      "transaction_type": "M",
-      "shares_after_transaction": "9858"
     }
   ]
 }
