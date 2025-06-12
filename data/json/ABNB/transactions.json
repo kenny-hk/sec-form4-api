@@ -1,11 +1,23 @@
 {
   "ticker": "ABNB",
-  "last_updated": "2025-06-11T08:33:15.545521",
+  "last_updated": "2025-06-12T08:33:44.062300",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 8,
+      "id": 3,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "25226",
+      "transaction_price": "138.7822",
+      "transaction_type": "S",
+      "shares_after_transaction": "1390789"
+    },
+    {
+      "id": 4,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Chesky Brian",
       "reporting_owner_cik": "0001834152",
@@ -17,19 +29,7 @@
       "shares_after_transaction": "109870"
     },
     {
-      "id": 9,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Bernstein David C",
-      "reporting_owner_cik": "0001288881",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-06-05",
-      "transaction_shares": "1000",
-      "transaction_price": "135",
-      "transaction_type": "S",
-      "shares_after_transaction": "47618.604"
-    },
-    {
-      "id": 12,
+      "id": 2,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "BALOGH ARISTOTLE N",
       "reporting_owner_cik": "0001216924",
@@ -41,7 +41,19 @@
       "shares_after_transaction": "213977.141"
     },
     {
-      "id": 10,
+      "id": 6,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Bernstein David C",
+      "reporting_owner_cik": "0001288881",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-06-05",
+      "transaction_shares": "1000",
+      "transaction_price": "135",
+      "transaction_type": "S",
+      "shares_after_transaction": "47618.604"
+    },
+    {
+      "id": 5,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -51,18 +63,6 @@
       "transaction_price": "132.28",
       "transaction_type": "S",
       "shares_after_transaction": "467611.295"
-    },
-    {
-      "id": 11,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Mertz Elinor",
-      "reporting_owner_cik": "0001938411",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-06-02",
-      "transaction_shares": "4809",
-      "transaction_price": "128.85",
-      "transaction_type": "S",
-      "shares_after_transaction": "473861.295"
     }
   ]
 }

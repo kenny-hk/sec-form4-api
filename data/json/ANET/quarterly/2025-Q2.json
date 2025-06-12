@@ -2,20 +2,32 @@
   "ticker": "ANET",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-11T08:33:15.545521",
-  "count": 1,
+  "last_updated": "2025-06-12T08:33:44.062300",
+  "count": 2,
   "transactions": [
+    {
+      "id": 201,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "Duda Kenneth",
+      "reporting_owner_cik": "0001605808",
+      "reporting_owner_position": "CTO and SVP Software Eng.",
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "150000",
+      "transaction_price": "0.0",
+      "transaction_type": "J",
+      "shares_after_transaction": "750000"
+    },
     {
       "id": 202,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "Giancarlo Charles H",
       "reporting_owner_cik": "0001299634",
       "reporting_owner_position": null,
-      "transaction_date": "2025-06-02",
-      "transaction_shares": "1300",
-      "transaction_price": "86.9208",
-      "transaction_type": "S",
-      "shares_after_transaction": "130484"
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "50000",
+      "transaction_price": "0.0",
+      "transaction_type": "G",
+      "shares_after_transaction": "50000"
     }
   ]
 }

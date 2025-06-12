@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2025-06-11T08:33:15.545521",
+  "last_updated": "2025-06-12T08:33:44.062300",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 494,
+      "id": 199,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Hague William Jefferson",
+      "reporting_owner_cik": "0001652762",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "476",
+      "transaction_price": "177.8",
+      "transaction_type": "S",
+      "shares_after_transaction": "20122"
+    },
+    {
+      "id": 198,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Surdykowski Andrew J",
       "reporting_owner_cik": "0001755922",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "52328"
     },
     {
-      "id": 495,
+      "id": 200,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Sprecher Jeffrey C",
       "reporting_owner_cik": "0001343882",

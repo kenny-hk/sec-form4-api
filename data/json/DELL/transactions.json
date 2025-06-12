@@ -1,11 +1,83 @@
 {
   "ticker": "DELL",
-  "last_updated": "2025-06-11T08:33:15.545521",
+  "last_updated": "2025-06-12T08:33:44.062300",
   "retention_years": 3,
-  "count": 3,
+  "count": 8,
   "transactions": [
     {
+      "id": 12,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA V (GP), L.L.C.",
+      "reporting_owner_cik": "0001737652",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-11",
+      "transaction_shares": "4528",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "123478"
+    },
+    {
+      "id": 15,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA IV (GP), L.L.C.",
+      "reporting_owner_cik": "0001672568",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-11",
+      "transaction_shares": "4528",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "123478"
+    },
+    {
+      "id": 9,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA V (GP), L.L.C.",
+      "reporting_owner_cik": "0001737652",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "231279",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "231279"
+    },
+    {
+      "id": 10,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA IV (GP), L.L.C.",
+      "reporting_owner_cik": "0001672568",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "231279",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "231279"
+    },
+    {
+      "id": 8,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA V (GP), L.L.C.",
+      "reporting_owner_cik": "0001737652",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "165014",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "165014"
+    },
+    {
       "id": 13,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA IV (GP), L.L.C.",
+      "reporting_owner_cik": "0001672568",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-09",
+      "transaction_shares": "165014",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "165014"
+    },
+    {
+      "id": 11,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Tunnell Jane",
       "reporting_owner_cik": "0002016161",
@@ -27,18 +99,6 @@
       "transaction_price": "108.82",
       "transaction_type": "S",
       "shares_after_transaction": "79928"
-    },
-    {
-      "id": 15,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Rios Brunilda",
-      "reporting_owner_cik": "0001803866",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-06-02",
-      "transaction_shares": "10818",
-      "transaction_price": "107.56",
-      "transaction_type": "S",
-      "shares_after_transaction": "27130"
     }
   ]
 }
