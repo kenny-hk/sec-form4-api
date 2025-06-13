@@ -1,11 +1,23 @@
 {
   "ticker": "FICO",
-  "last_updated": "2025-06-12T08:33:44.062300",
+  "last_updated": "2025-06-13T08:33:13.962337",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 224,
+      "id": 199,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "LANSING WILLIAM J",
+      "reporting_owner_cik": "0001074500",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "6010",
+      "transaction_price": "185.05",
+      "transaction_type": "M",
+      "shares_after_transaction": "48148"
+    },
+    {
+      "id": 197,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "Weber Steven P.",
       "reporting_owner_cik": "0001961736",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "1861.9613"
     },
     {
-      "id": 225,
+      "id": 198,
       "issuer_name": "FAIR ISAAC CORP",
       "reporting_owner": "Weber Steven P.",
       "reporting_owner_cik": "0001961736",

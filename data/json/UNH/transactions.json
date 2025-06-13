@@ -1,11 +1,23 @@
 {
   "ticker": "UNH",
-  "last_updated": "2025-06-12T08:33:44.062300",
+  "last_updated": "2025-06-13T08:33:13.962337",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 237,
+      "id": 219,
+      "issuer_name": "UNITEDHEALTH GROUP INC",
+      "reporting_owner": "Conway Patrick Hugh",
+      "reporting_owner_cik": "0002067754",
+      "reporting_owner_position": "Chief Executive Officer, Optum",
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "589",
+      "transaction_price": "305",
+      "transaction_type": "S",
+      "shares_after_transaction": "10398.453"
+    },
+    {
+      "id": 218,
       "issuer_name": "UNITEDHEALTH GROUP INC",
       "reporting_owner": "McSweeney Erin",
       "reporting_owner_cik": "0001645325",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "11075.628"
     },
     {
-      "id": 235,
+      "id": 217,
       "issuer_name": "UNITEDHEALTH GROUP INC",
       "reporting_owner": "Conway Patrick Hugh",
       "reporting_owner_cik": "0002067754",
@@ -27,30 +39,6 @@
       "transaction_price": "295.84",
       "transaction_type": "F",
       "shares_after_transaction": "11147.712"
-    },
-    {
-      "id": 236,
-      "issuer_name": "UNITEDHEALTH GROUP INC",
-      "reporting_owner": "Zaetta Christopher R",
-      "reporting_owner_cik": "0002025275",
-      "reporting_owner_position": "EVP & Chief Legal Officer",
-      "transaction_date": "2025-06-03",
-      "transaction_shares": "115.129",
-      "transaction_price": "301.22",
-      "transaction_type": "F",
-      "shares_after_transaction": "10192.708"
-    },
-    {
-      "id": 238,
-      "issuer_name": "UNITEDHEALTH GROUP INC",
-      "reporting_owner": "REX JOHN F",
-      "reporting_owner_cik": "0001676672",
-      "reporting_owner_position": "President & CFO",
-      "transaction_date": "2025-06-03",
-      "transaction_shares": "29.502",
-      "transaction_price": "301.22",
-      "transaction_type": "F",
-      "shares_after_transaction": "203766.536"
     }
   ]
 }

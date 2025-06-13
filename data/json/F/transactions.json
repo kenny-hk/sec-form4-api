@@ -1,20 +1,32 @@
 {
   "ticker": "F",
-  "last_updated": "2025-06-11T08:33:15.545521",
+  "last_updated": "2025-06-13T08:33:13.962337",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 442,
+      "id": 140,
       "issuer_name": "FORD MOTOR CO",
-      "reporting_owner": "House Sherry Ann",
-      "reporting_owner_cik": "0001872887",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-06-03",
-      "transaction_shares": "132436",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "235313"
+      "reporting_owner": "FORD WILLIAM CLAY JR",
+      "reporting_owner_cik": "0001230846",
+      "reporting_owner_position": "Executive Chair and Chair",
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "923531",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "412882"
+    },
+    {
+      "id": 141,
+      "issuer_name": "FORD MOTOR CO",
+      "reporting_owner": "English Alexandra Ford",
+      "reporting_owner_cik": "0001863399",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-10",
+      "transaction_shares": "8078",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "78031"
     }
   ]
 }
