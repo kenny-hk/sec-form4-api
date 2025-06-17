@@ -1,11 +1,23 @@
 {
   "ticker": "ABNB",
-  "last_updated": "2025-06-16T08:34:44.102721",
+  "last_updated": "2025-06-17T08:35:14.733275",
   "retention_years": 3,
-  "count": 5,
+  "count": 4,
   "transactions": [
     {
-      "id": 2,
+      "id": 5,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "BALOGH ARISTOTLE N",
+      "reporting_owner_cik": "0001216924",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2025-06-12",
+      "transaction_shares": "600",
+      "transaction_price": "137.13",
+      "transaction_type": "S",
+      "shares_after_transaction": "213377.141"
+    },
+    {
+      "id": 3,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Bernstein David C",
       "reporting_owner_cik": "0001288881",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "1390789"
     },
     {
-      "id": 5,
+      "id": 6,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Chesky Brian",
       "reporting_owner_cik": "0001834152",
@@ -39,30 +51,6 @@
       "transaction_price": "140.4473",
       "transaction_type": "S",
       "shares_after_transaction": "109870"
-    },
-    {
-      "id": 3,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "BALOGH ARISTOTLE N",
-      "reporting_owner_cik": "0001216924",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-06-05",
-      "transaction_shares": "600",
-      "transaction_price": "133.5",
-      "transaction_type": "S",
-      "shares_after_transaction": "213977.141"
-    },
-    {
-      "id": 6,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Bernstein David C",
-      "reporting_owner_cik": "0001288881",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-06-05",
-      "transaction_shares": "1000",
-      "transaction_price": "135",
-      "transaction_type": "S",
-      "shares_after_transaction": "47618.604"
     }
   ]
 }

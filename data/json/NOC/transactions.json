@@ -1,11 +1,35 @@
 {
   "ticker": "NOC",
-  "last_updated": "2025-06-16T08:34:44.102721",
+  "last_updated": "2025-06-17T08:35:14.733275",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 15,
+      "id": 21,
+      "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
+      "reporting_owner": "Jones Thomas H",
+      "reporting_owner_cik": "0001834674",
+      "reporting_owner_position": "CVP & Pres Aeronautics Systems",
+      "transaction_date": "2025-06-13",
+      "transaction_shares": "729",
+      "transaction_price": "505.77",
+      "transaction_type": "S",
+      "shares_after_transaction": "7551.595"
+    },
+    {
+      "id": 22,
+      "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
+      "reporting_owner": "Fleming Robert J.",
+      "reporting_owner_cik": "0001995165",
+      "reporting_owner_position": "CVP and Pres. Space Systems",
+      "transaction_date": "2025-06-13",
+      "transaction_shares": "3500",
+      "transaction_price": "505.77",
+      "transaction_type": "S",
+      "shares_after_transaction": "1826.87"
+    },
+    {
+      "id": 20,
       "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
       "reporting_owner": "Warden Kathy J",
       "reporting_owner_cik": "0001559112",
@@ -15,18 +39,6 @@
       "transaction_price": "495",
       "transaction_type": "S",
       "shares_after_transaction": "209102.4"
-    },
-    {
-      "id": 16,
-      "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
-      "reporting_owner": "WELSH MARK A III",
-      "reporting_owner_cik": "0001692554",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-05",
-      "transaction_shares": "1",
-      "transaction_price": "485.67",
-      "transaction_type": "S",
-      "shares_after_transaction": "4408"
     }
   ]
 }
