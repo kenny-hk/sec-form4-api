@@ -1,7 +1,14 @@
 {
-  "last_updated": "2025-06-17T08:35:14.731979",
-  "count": 157,
+  "last_updated": "2025-06-18T08:32:57.298434",
+  "count": 165,
   "companies": [
+    {
+      "ticker": "PPG",
+      "name": "PPG INDUSTRIES INC",
+      "transaction_count": 25,
+      "latest_transaction": null,
+      "earliest_transaction": null
+    },
     {
       "ticker": "HII",
       "name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
@@ -24,15 +31,22 @@
       "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "PPG",
-      "name": "PPG INDUSTRIES INC",
-      "transaction_count": 17,
+      "ticker": "ADM",
+      "name": "Archer-Daniels-Midland Co",
+      "transaction_count": 11,
       "latest_transaction": null,
       "earliest_transaction": null
     },
     {
-      "ticker": "ADM",
-      "name": "Archer-Daniels-Midland Co",
+      "ticker": "BBY",
+      "name": "BEST BUY CO INC",
+      "transaction_count": 11,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-09"
+    },
+    {
+      "ticker": "EL",
+      "name": "ESTEE LAUDER COMPANIES INC",
       "transaction_count": 11,
       "latest_transaction": null,
       "earliest_transaction": null
@@ -59,20 +73,6 @@
       "earliest_transaction": "2025-06-11"
     },
     {
-      "ticker": "STX",
-      "name": "Seagate Technology Holdings plc",
-      "transaction_count": 10,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-09"
-    },
-    {
-      "ticker": "TT",
-      "name": "Trane Technologies plc",
-      "transaction_count": 10,
-      "latest_transaction": "2025-06-07",
-      "earliest_transaction": "2025-06-07"
-    },
-    {
       "ticker": "WRB",
       "name": "BERKLEY W R CORP",
       "transaction_count": 10,
@@ -80,11 +80,18 @@
       "earliest_transaction": "2025-06-11"
     },
     {
-      "ticker": "DLR",
-      "name": "DIGITAL REALTY TRUST, INC.",
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
       "transaction_count": 9,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-05"
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-09"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "EBAY INC",
+      "transaction_count": 9,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-09"
     },
     {
       "ticker": "MET",
@@ -99,13 +106,6 @@
       "transaction_count": 9,
       "latest_transaction": null,
       "earliest_transaction": null
-    },
-    {
-      "ticker": "TMUS",
-      "name": "T-Mobile US, Inc.",
-      "transaction_count": 9,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-06"
     },
     {
       "ticker": "ULTA",
@@ -129,11 +129,11 @@
       "earliest_transaction": "2025-06-11"
     },
     {
-      "ticker": "DELL",
-      "name": "Dell Technologies Inc.",
+      "ticker": "CTSH",
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
       "transaction_count": 8,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-15"
     },
     {
       "ticker": "FIS",
@@ -199,18 +199,18 @@
       "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "IT",
-      "name": "GARTNER INC",
+      "ticker": "GILD",
+      "name": "GILEAD SCIENCES, INC.",
       "transaction_count": 7,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-06"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "ROK",
-      "name": "ROCKWELL AUTOMATION, INC",
+      "ticker": "OKE",
+      "name": "ONEOK INC /NEW/",
       "transaction_count": 7,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-06"
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "TKO",
@@ -220,18 +220,39 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "ALLE",
-      "name": "Allegion plc",
-      "transaction_count": 6,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
+      "ticker": "VMC",
+      "name": "Vulcan Materials CO",
+      "transaction_count": 7,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
     },
     {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies Inc.",
+      "ticker": "COIN",
+      "name": "Coinbase Global, Inc.",
       "transaction_count": 6,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-06"
+      "latest_transaction": "2025-06-14",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "EA",
+      "name": "ELECTRONIC ARTS INC.",
+      "transaction_count": 6,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
+    },
+    {
+      "ticker": "SJM",
+      "name": "J M SMUCKER Co",
+      "transaction_count": 6,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-12"
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology Holdings plc",
+      "transaction_count": 6,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-11"
     },
     {
       "ticker": "UNP",
@@ -241,6 +262,13 @@
       "earliest_transaction": "2025-06-10"
     },
     {
+      "ticker": "BALL",
+      "name": "BALL Corp",
+      "transaction_count": 5,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
       "ticker": "BR",
       "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
       "transaction_count": 5,
@@ -248,18 +276,25 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CHD",
+      "name": "CHURCH & DWIGHT CO INC /DE/",
       "transaction_count": 5,
-      "latest_transaction": "2025-06-12",
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
+    },
+    {
+      "ticker": "HSY",
+      "name": "HERSHEY CO",
+      "transaction_count": 5,
+      "latest_transaction": "2025-06-16",
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "GILD",
-      "name": "GILEAD SCIENCES, INC.",
+      "ticker": "LLY",
+      "name": "ELI LILLY & Co",
       "transaction_count": 5,
-      "latest_transaction": "2025-06-10",
-      "earliest_transaction": "2025-06-10"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
       "ticker": "META",
@@ -272,36 +307,15 @@
       "ticker": "TPL",
       "name": "Texas Pacific Land Corp",
       "transaction_count": 5,
-      "latest_transaction": "2025-06-13",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-10"
     },
     {
       "ticker": "TYL",
       "name": "TYLER TECHNOLOGIES INC",
       "transaction_count": 5,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "WELL",
-      "name": "WELLTOWER INC.",
-      "transaction_count": 5,
-      "latest_transaction": null,
-      "earliest_transaction": null
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb, Inc.",
-      "transaction_count": 4,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "CHD",
-      "name": "CHURCH & DWIGHT CO INC /DE/",
-      "transaction_count": 4,
-      "latest_transaction": null,
-      "earliest_transaction": null
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-09"
     },
     {
       "ticker": "CSCO",
@@ -311,25 +325,11 @@
       "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "DASH",
-      "name": "DoorDash, Inc.",
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
       "transaction_count": 4,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-05"
-    },
-    {
-      "ticker": "ERIE",
-      "name": "ERIE INDEMNITY CO",
-      "transaction_count": 4,
-      "latest_transaction": null,
-      "earliest_transaction": null
-    },
-    {
-      "ticker": "HRL",
-      "name": "HORMEL FOODS CORP /DE/",
-      "transaction_count": 4,
-      "latest_transaction": "2025-06-10",
-      "earliest_transaction": "2025-06-07"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "TDG",
@@ -337,6 +337,13 @@
       "transaction_count": 4,
       "latest_transaction": "2025-06-13",
       "earliest_transaction": "2025-06-10"
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-12",
+      "earliest_transaction": "2025-06-09"
     },
     {
       "ticker": "ADBE",
@@ -353,11 +360,32 @@
       "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "CHTR",
-      "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "CADENCE DESIGN SYSTEMS INC",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-10"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
       "transaction_count": 3,
       "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-12"
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "DASH",
+      "name": "DoorDash, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-05"
     },
     {
       "ticker": "FICO",
@@ -367,11 +395,32 @@
       "earliest_transaction": "2025-06-09"
     },
     {
+      "ticker": "HRL",
+      "name": "HORMEL FOODS CORP /DE/",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-10",
+      "earliest_transaction": "2025-06-10"
+    },
+    {
       "ticker": "HSIC",
       "name": "HENRY SCHEIN INC",
       "transaction_count": 3,
       "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-13",
       "earliest_transaction": "2025-06-09"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc",
+      "transaction_count": 3,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-12"
     },
     {
       "ticker": "NOC",
@@ -381,18 +430,18 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "PODD",
-      "name": "INSULET CORP",
+      "ticker": "TER",
+      "name": "TERADYNE, INC",
       "transaction_count": 3,
       "latest_transaction": "2025-06-13",
-      "earliest_transaction": "2025-06-09"
+      "earliest_transaction": "2025-06-13"
     },
     {
-      "ticker": "PSX",
-      "name": "Phillips 66",
+      "ticker": "TMUS",
+      "name": "T-Mobile US, Inc.",
       "transaction_count": 3,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-12"
     },
     {
       "ticker": "AJG",
@@ -416,18 +465,18 @@
       "earliest_transaction": "2025-06-09"
     },
     {
+      "ticker": "AVB",
+      "name": "AVALONBAY COMMUNITIES INC",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "transaction_count": 2,
       "latest_transaction": "2025-06-12",
       "earliest_transaction": "2025-06-11"
-    },
-    {
-      "ticker": "AXON",
-      "name": "AXON ENTERPRISE, INC.",
-      "transaction_count": 2,
-      "latest_transaction": "2025-06-13",
-      "earliest_transaction": "2025-06-02"
     },
     {
       "ticker": "AZO",
@@ -437,6 +486,13 @@
       "earliest_transaction": "2025-06-10"
     },
     {
+      "ticker": "BAC",
+      "name": "BANK OF AMERICA CORP /DE/",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
       "ticker": "BKR",
       "name": "Baker Hughes Co",
       "transaction_count": 2,
@@ -444,18 +500,39 @@
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "CDNS",
-      "name": "CADENCE DESIGN SYSTEMS INC",
+      "ticker": "BLDR",
+      "name": "Builders FirstSource, Inc.",
       "transaction_count": 2,
-      "latest_transaction": "2025-06-12",
+      "latest_transaction": "2025-06-13",
       "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "EBAY",
-      "name": "EBAY INC",
+      "ticker": "CF",
+      "name": "CF Industries Holdings, Inc.",
       "transaction_count": 2,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-06"
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
+      "ticker": "CSGP",
+      "name": "COSTAR GROUP, INC.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "DAY",
+      "name": "Dayforce, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-09"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Co",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-15"
     },
     {
       "ticker": "F",
@@ -472,6 +549,13 @@
       "earliest_transaction": "2025-06-11"
     },
     {
+      "ticker": "GD",
+      "name": "GENERAL DYNAMICS CORP",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
       "ticker": "GDDY",
       "name": "GoDaddy Inc.",
       "transaction_count": 2,
@@ -479,25 +563,11 @@
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "GLW",
-      "name": "CORNING INC /NY",
+      "ticker": "GRMN",
+      "name": "GARMIN LTD",
       "transaction_count": 2,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "HSY",
-      "name": "HERSHEY CO",
-      "transaction_count": 2,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
-    },
-    {
-      "ticker": "ICE",
-      "name": "Intercontinental Exchange, Inc.",
-      "transaction_count": 2,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "JNJ",
@@ -507,32 +577,39 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "MA",
-      "name": "Mastercard Inc",
+      "ticker": "LOW",
+      "name": "LOWES COMPANIES INC",
       "transaction_count": 2,
-      "latest_transaction": "2025-06-13",
-      "earliest_transaction": "2025-06-12"
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-10"
     },
     {
-      "ticker": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "transaction_count": 2,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA CORP",
-      "transaction_count": 2,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "PFG",
-      "name": "PRINCIPAL FINANCIAL GROUP INC",
+      "ticker": "MKC",
+      "name": "MCCORMICK & CO INC",
       "transaction_count": 2,
       "latest_transaction": null,
       "earliest_transaction": null
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-12",
+      "earliest_transaction": "2025-06-10"
+    },
+    {
+      "ticker": "PODD",
+      "name": "INSULET CORP",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-15"
     },
     {
       "ticker": "TEL",
@@ -552,8 +629,15 @@
       "ticker": "WAB",
       "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
       "transaction_count": 2,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "ZBH",
+      "name": "ZIMMER BIOMET HOLDINGS, INC.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-11"
     },
     {
       "ticker": "ADI",
@@ -570,46 +654,25 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "ALL",
-      "name": "ALLSTATE CORP",
+      "ticker": "ADSK",
+      "name": "Autodesk, Inc.",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-05",
-      "earliest_transaction": "2025-06-05"
+      "latest_transaction": "2025-06-17",
+      "earliest_transaction": "2025-06-17"
     },
     {
-      "ticker": "AMD",
-      "name": "ADVANCED MICRO DEVICES INC",
+      "ticker": "AIG",
+      "name": "AMERICAN INTERNATIONAL GROUP, INC.",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-11"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
-      "ticker": "AWK",
-      "name": "American Water Works Company, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
-    },
-    {
-      "ticker": "BAC",
-      "name": "BANK OF AMERICA CORP /DE/",
+      "ticker": "AXON",
+      "name": "AXON ENTERPRISE, INC.",
       "transaction_count": 1,
       "latest_transaction": "2025-06-13",
       "earliest_transaction": "2025-06-13"
-    },
-    {
-      "ticker": "BALL",
-      "name": "BALL Corp",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-11"
-    },
-    {
-      "ticker": "BBY",
-      "name": "BEST BUY CO INC",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
     },
     {
       "ticker": "BEN",
@@ -619,11 +682,11 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "BLDR",
-      "name": "Builders FirstSource, Inc.",
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc.",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-10",
-      "earliest_transaction": "2025-06-10"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
       "ticker": "BMY",
@@ -640,32 +703,18 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "BV",
-      "name": "BrightView Holdings, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "CAG",
-      "name": "CONAGRA BRANDS INC.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "CB",
-      "name": "Chubb Ltd",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
       "ticker": "CBOE",
       "name": "Cboe Global Markets, Inc.",
       "transaction_count": 1,
       "latest_transaction": "2025-06-09",
       "earliest_transaction": "2025-06-09"
+    },
+    {
+      "ticker": "CHTR",
+      "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-12",
+      "earliest_transaction": "2025-06-12"
     },
     {
       "ticker": "CME",
@@ -682,39 +731,18 @@
       "earliest_transaction": "2025-06-15"
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase Global, Inc.",
+      "ticker": "COP",
+      "name": "CONOCOPHILLIPS",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-11"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
-      "ticker": "COST",
-      "name": "COSTCO WHOLESALE CORP /NEW",
+      "ticker": "CSX",
+      "name": "CSX CORP",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
-    },
-    {
-      "ticker": "CSGP",
-      "name": "COSTAR GROUP, INC.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-11"
-    },
-    {
-      "ticker": "CTSH",
-      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "DAY",
-      "name": "Dayforce, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "DG",
@@ -722,6 +750,20 @@
       "transaction_count": 1,
       "latest_transaction": "2025-06-12",
       "earliest_transaction": "2025-06-12"
+    },
+    {
+      "ticker": "DLR",
+      "name": "DIGITAL REALTY TRUST, INC.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-05",
+      "earliest_transaction": "2025-06-05"
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DEXCOM INC",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "ECL",
@@ -766,11 +808,11 @@
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "GRMN",
-      "name": "GARMIN LTD",
+      "ticker": "GLW",
+      "name": "CORNING INC /NY",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-13",
-      "earliest_transaction": "2025-06-13"
+      "latest_transaction": "2025-06-11",
+      "earliest_transaction": "2025-06-11"
     },
     {
       "ticker": "HBAN",
@@ -780,13 +822,6 @@
       "earliest_transaction": "2025-06-13"
     },
     {
-      "ticker": "INTU",
-      "name": "INTUIT INC.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
-    },
-    {
       "ticker": "INVH",
       "name": "Invitation Homes Inc.",
       "transaction_count": 1,
@@ -794,11 +829,11 @@
       "earliest_transaction": "2025-06-13"
     },
     {
-      "ticker": "ISRG",
-      "name": "INTUITIVE SURGICAL INC",
+      "ticker": "IT",
+      "name": "GARTNER INC",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-10",
-      "earliest_transaction": "2025-06-10"
+      "latest_transaction": "2025-06-12",
+      "earliest_transaction": "2025-06-12"
     },
     {
       "ticker": "JPM",
@@ -843,13 +878,6 @@
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "LOW",
-      "name": "LOWES COMPANIES INC",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-10",
-      "earliest_transaction": "2025-06-10"
-    },
-    {
       "ticker": "LYB",
       "name": "LyondellBasell Industries N.V.",
       "transaction_count": 1,
@@ -862,6 +890,13 @@
       "transaction_count": 1,
       "latest_transaction": "2025-06-10",
       "earliest_transaction": "2025-06-10"
+    },
+    {
+      "ticker": "MCO",
+      "name": "MOODYS CORP /DE/",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
       "ticker": "MGM",
@@ -885,18 +920,18 @@
       "earliest_transaction": "2025-06-11"
     },
     {
-      "ticker": "MSI",
-      "name": "Motorola Solutions, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
       "ticker": "MTB",
       "name": "M&T BANK CORP",
       "transaction_count": 1,
       "latest_transaction": "2025-06-12",
       "earliest_transaction": "2025-06-12"
+    },
+    {
+      "ticker": "NDSN",
+      "name": "NORDSON CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
     },
     {
       "ticker": "NTAP",
@@ -920,13 +955,6 @@
       "earliest_transaction": "2025-06-12"
     },
     {
-      "ticker": "PANW",
-      "name": "Palo Alto Networks Inc",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-07",
-      "earliest_transaction": "2025-06-07"
-    },
-    {
       "ticker": "PAYC",
       "name": "Paycom Software, Inc.",
       "transaction_count": 1,
@@ -939,6 +967,13 @@
       "transaction_count": 1,
       "latest_transaction": "2025-06-11",
       "earliest_transaction": "2025-06-11"
+    },
+    {
+      "ticker": "PFE",
+      "name": "PFIZER INC",
+      "transaction_count": 1,
+      "latest_transaction": null,
+      "earliest_transaction": null
     },
     {
       "ticker": "PMF",
@@ -962,6 +997,13 @@
       "earliest_transaction": "2025-06-13"
     },
     {
+      "ticker": "POOL",
+      "name": "POOL CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
+    },
+    {
       "ticker": "RL",
       "name": "RALPH LAUREN CORP",
       "transaction_count": 1,
@@ -969,11 +1011,11 @@
       "earliest_transaction": "2025-06-09"
     },
     {
-      "ticker": "RMD",
-      "name": "RESMED INC",
+      "ticker": "ROK",
+      "name": "ROCKWELL AUTOMATION, INC",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
+      "latest_transaction": "2025-06-11",
+      "earliest_transaction": "2025-06-11"
     },
     {
       "ticker": "ROL",
@@ -983,18 +1025,11 @@
       "earliest_transaction": "2025-06-11"
     },
     {
-      "ticker": "SHW",
-      "name": "SHERWIN WILLIAMS CO",
+      "ticker": "RVTY",
+      "name": "REVVITY, INC.",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
-      "ticker": "SJM",
-      "name": "J M SMUCKER Co",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-12",
-      "earliest_transaction": "2025-06-12"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     },
     {
       "ticker": "SNPS",
@@ -1006,6 +1041,13 @@
     {
       "ticker": "SPG",
       "name": "SIMON PROPERTY GROUP INC /DE/",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-13",
+      "earliest_transaction": "2025-06-13"
+    },
+    {
+      "ticker": "STE",
+      "name": "STERIS plc",
       "transaction_count": 1,
       "latest_transaction": "2025-06-13",
       "earliest_transaction": "2025-06-13"
@@ -1046,18 +1088,18 @@
       "earliest_transaction": "2025-06-12"
     },
     {
+      "ticker": "TTWO",
+      "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
+    },
+    {
       "ticker": "UNH",
       "name": "UNITEDHEALTH GROUP INC",
       "transaction_count": 1,
       "latest_transaction": "2025-06-10",
       "earliest_transaction": "2025-06-10"
-    },
-    {
-      "ticker": "USB",
-      "name": "US BANCORP \\DE\\",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-09",
-      "earliest_transaction": "2025-06-09"
     },
     {
       "ticker": "V",
@@ -1074,13 +1116,6 @@
       "earliest_transaction": "2025-06-13"
     },
     {
-      "ticker": "VST",
-      "name": "Vistra Corp.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-06-06",
-      "earliest_transaction": "2025-06-06"
-    },
-    {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery, Inc.",
       "transaction_count": 1,
@@ -1088,18 +1123,39 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "YUM",
-      "name": "YUM BRANDS INC",
+      "ticker": "WDC",
+      "name": "WESTERN DIGITAL CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-14",
+      "earliest_transaction": "2025-06-14"
+    },
+    {
+      "ticker": "WELL",
+      "name": "WELLTOWER INC.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-05-30",
+      "earliest_transaction": "2025-05-30"
+    },
+    {
+      "ticker": "WFC",
+      "name": "WELLS FARGO & COMPANY/MN",
+      "transaction_count": 1,
+      "latest_transaction": "2025-06-15",
+      "earliest_transaction": "2025-06-15"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
       "transaction_count": 1,
       "latest_transaction": "2025-06-16",
       "earliest_transaction": "2025-06-16"
     },
     {
-      "ticker": "ZBH",
-      "name": "ZIMMER BIOMET HOLDINGS, INC.",
+      "ticker": "YUM",
+      "name": "YUM BRANDS INC",
       "transaction_count": 1,
-      "latest_transaction": "2025-06-11",
-      "earliest_transaction": "2025-06-11"
+      "latest_transaction": "2025-06-16",
+      "earliest_transaction": "2025-06-16"
     }
   ]
 }

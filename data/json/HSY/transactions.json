@@ -1,11 +1,47 @@
 {
   "ticker": "HSY",
-  "last_updated": "2025-06-17T08:35:14.733275",
+  "last_updated": "2025-06-18T08:32:57.299817",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 219,
+      "id": 228,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Nalebuff Barry James",
+      "reporting_owner_cik": "0002068557",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-16",
+      "transaction_shares": "95",
+      "transaction_price": "170.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "95"
+    },
+    {
+      "id": 230,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Curoe Timothy William",
+      "reporting_owner_cik": "0002068682",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-16",
+      "transaction_shares": "95",
+      "transaction_price": "170.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "95"
+    },
+    {
+      "id": 232,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Perez Juan R.",
+      "reporting_owner_cik": "0001665986",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-16",
+      "transaction_shares": "36.676",
+      "transaction_price": "170.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "6407.039"
+    },
+    {
+      "id": 229,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Grover Rohit",
       "reporting_owner_cik": "0001964803",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "40735"
     },
     {
-      "id": 220,
+      "id": 231,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Turoff James",
       "reporting_owner_cik": "0001863661",

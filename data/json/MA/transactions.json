@@ -1,11 +1,23 @@
 {
   "ticker": "MA",
-  "last_updated": "2025-06-17T08:35:14.733275",
+  "last_updated": "2025-06-18T08:32:57.299817",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 190,
+      "id": 186,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Seshadri Raj",
+      "reporting_owner_cik": "0001772738",
+      "reporting_owner_position": "Chief Commercial Pmts Officer",
+      "transaction_date": "2025-06-13",
+      "transaction_shares": "200",
+      "transaction_price": "555.73",
+      "transaction_type": "S",
+      "shares_after_transaction": "17902.33"
+    },
+    {
+      "id": 188,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Kirkpatrick Linda Pistecchia",
       "reporting_owner_cik": "0001838202",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "25540.052"
     },
     {
-      "id": 189,
+      "id": 187,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Vosburg Craig",
       "reporting_owner_cik": "0001663082",
