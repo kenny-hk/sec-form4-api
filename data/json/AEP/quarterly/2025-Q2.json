@@ -2,11 +2,23 @@
   "ticker": "AEP",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-18T08:32:57.299817",
+  "last_updated": "2025-06-19T08:33:00.546893",
   "count": 3,
   "transactions": [
     {
-      "id": 36,
+      "id": 32,
+      "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
+      "reporting_owner": "Feinberg David Matthew",
+      "reporting_owner_cik": "0001377787",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-06-17",
+      "transaction_shares": "8058",
+      "transaction_price": "101.74",
+      "transaction_type": "S",
+      "shares_after_transaction": "10274"
+    },
+    {
+      "id": 31,
       "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
       "reporting_owner": "MIHALIK TREVOR I",
       "reporting_owner_cik": "0001554221",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "73648"
     },
     {
-      "id": 35,
+      "id": 30,
       "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
       "reporting_owner": "Cannon Douglas A",
       "reporting_owner_cik": "0002073344",
@@ -28,18 +40,6 @@
       "transaction_price": "101.93",
       "transaction_type": "A",
       "shares_after_transaction": "4772"
-    },
-    {
-      "id": 37,
-      "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
-      "reporting_owner": "Feinberg David Matthew",
-      "reporting_owner_cik": "0001377787",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-06-10",
-      "transaction_shares": "8058",
-      "transaction_price": "101.49",
-      "transaction_type": "S",
-      "shares_after_transaction": "18332"
     }
   ]
 }
