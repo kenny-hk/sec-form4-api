@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2025-06-20T08:32:27.938470",
+  "last_updated": "2025-06-21T08:29:14.848928",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 208,
+      "id": 207,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "STAHL MURRAY",
+      "reporting_owner_cik": "0001207097",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-18",
+      "transaction_shares": "2",
+      "transaction_price": "1080.51",
+      "transaction_type": "P",
+      "shares_after_transaction": "325807"
+    },
+    {
+      "id": 206,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "325805"
     },
     {
-      "id": 206,
+      "id": 205,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "325803"
     },
     {
-      "id": 205,
+      "id": 204,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -39,18 +51,6 @@
       "transaction_price": "1117.50",
       "transaction_type": "P",
       "shares_after_transaction": "325801"
-    },
-    {
-      "id": 207,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "STAHL MURRAY",
-      "reporting_owner_cik": "0001207097",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-12",
-      "transaction_shares": "2",
-      "transaction_price": "1091.73",
-      "transaction_type": "P",
-      "shares_after_transaction": "325799"
     }
   ]
 }
