@@ -1,11 +1,47 @@
 {
   "ticker": "MA",
-  "last_updated": "2025-06-23T08:33:58.987811",
+  "last_updated": "2025-06-24T08:35:19.466258",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 139,
+      "id": 149,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Matsumoto Oki",
+      "reporting_owner_cik": "0001522658",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-22",
+      "transaction_shares": "86",
+      "transaction_price": "532.835",
+      "transaction_type": "F",
+      "shares_after_transaction": "7725"
+    },
+    {
+      "id": 150,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Seshadri Raj",
+      "reporting_owner_cik": "0001772738",
+      "reporting_owner_position": "Chief Commercial Pmts Officer",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "949",
+      "transaction_price": "535.80",
+      "transaction_type": "S",
+      "shares_after_transaction": "14021.33"
+    },
+    {
+      "id": 152,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Vosburg Craig",
+      "reporting_owner_cik": "0001663082",
+      "reporting_owner_position": "Chief Services Officer",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "9428",
+      "transaction_price": "227.25",
+      "transaction_type": "M",
+      "shares_after_transaction": "67878.824"
+    },
+    {
+      "id": 151,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Seshadri Raj",
       "reporting_owner_cik": "0001772738",
@@ -15,18 +51,6 @@
       "transaction_price": "555.73",
       "transaction_type": "S",
       "shares_after_transaction": "17902.33"
-    },
-    {
-      "id": 140,
-      "issuer_name": "Mastercard Inc",
-      "reporting_owner": "Kirkpatrick Linda Pistecchia",
-      "reporting_owner_cik": "0001838202",
-      "reporting_owner_position": "President, Americas",
-      "transaction_date": "2025-06-13",
-      "transaction_shares": "959",
-      "transaction_price": "572.86",
-      "transaction_type": "S",
-      "shares_after_transaction": "25540.052"
     }
   ]
 }

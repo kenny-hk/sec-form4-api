@@ -1,20 +1,44 @@
 {
   "ticker": "PGR",
-  "last_updated": "2025-06-05T08:34:28.500929",
+  "last_updated": "2025-06-24T08:35:19.466258",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 553,
+      "id": 119,
       "issuer_name": "PROGRESSIVE CORP/OH/",
-      "reporting_owner": "Sauerland John P",
-      "reporting_owner_cik": "0001366336",
-      "reporting_owner_position": "VP and Chief Financial Officer",
-      "transaction_date": "2025-05-28",
-      "transaction_shares": "10000",
-      "transaction_price": "275.37",
+      "reporting_owner": "Murphy John Jo",
+      "reporting_owner_cik": "0001642477",
+      "reporting_owner_position": "Claims President",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "4000",
+      "transaction_price": "260.38",
       "transaction_type": "S",
-      "shares_after_transaction": "238024.069"
+      "shares_after_transaction": "41289.348"
+    },
+    {
+      "id": 120,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Broz Steven",
+      "reporting_owner_cik": "0001665574",
+      "reporting_owner_position": "Chief Information Officer",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "1267",
+      "transaction_price": "260.38",
+      "transaction_type": "S",
+      "shares_after_transaction": "27620.695"
+    },
+    {
+      "id": 121,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Burgdoerfer Stuart B",
+      "reporting_owner_cik": "0001396061",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "3681",
+      "transaction_price": "260.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "12217"
     }
   ]
 }
