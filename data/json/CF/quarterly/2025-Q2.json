@@ -2,11 +2,23 @@
   "ticker": "CF",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-24T08:35:19.466258",
-  "count": 3,
+  "last_updated": "2025-06-25T08:34:58.031868",
+  "count": 2,
   "transactions": [
     {
-      "id": 281,
+      "id": 211,
+      "issuer_name": "CF Industries Holdings, Inc.",
+      "reporting_owner": "Menzel Susan L",
+      "reporting_owner_cik": "0001293861",
+      "reporting_owner_position": "EVP and Chief Admin. Officer",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "10000",
+      "transaction_price": "100.23",
+      "transaction_type": "S",
+      "shares_after_transaction": "87923"
+    },
+    {
+      "id": 212,
       "issuer_name": "CF Industries Holdings, Inc.",
       "reporting_owner": "Cameron Gregory D",
       "reporting_owner_cik": "0001809103",
@@ -16,30 +28,6 @@
       "transaction_price": "102.48",
       "transaction_type": "F",
       "shares_after_transaction": "32568"
-    },
-    {
-      "id": 282,
-      "issuer_name": "CF Industries Holdings, Inc.",
-      "reporting_owner": "Malik Ashraf K",
-      "reporting_owner_cik": "0001786749",
-      "reporting_owner_position": "Sr. VP, Manufacturing & D'istn",
-      "transaction_date": "2025-06-13",
-      "transaction_shares": "5498",
-      "transaction_price": "99.9518",
-      "transaction_type": "S",
-      "shares_after_transaction": "14565"
-    },
-    {
-      "id": 283,
-      "issuer_name": "CF Industries Holdings, Inc.",
-      "reporting_owner": "Frost Bert A",
-      "reporting_owner_cik": "0001453096",
-      "reporting_owner_position": "EVP,Sales,MktDev&Supply Chain",
-      "transaction_date": "2025-06-13",
-      "transaction_shares": "13250",
-      "transaction_price": "97.3176",
-      "transaction_type": "S",
-      "shares_after_transaction": "102929"
     }
   ]
 }
