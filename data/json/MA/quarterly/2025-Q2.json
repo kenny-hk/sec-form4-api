@@ -2,11 +2,11 @@
   "ticker": "MA",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-25T08:34:58.031868",
+  "last_updated": "2025-06-26T08:33:17.189861",
   "count": 3,
   "transactions": [
     {
-      "id": 309,
+      "id": 111,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Matsumoto Oki",
       "reporting_owner_cik": "0001522658",
@@ -18,19 +18,7 @@
       "shares_after_transaction": "7725"
     },
     {
-      "id": 307,
-      "issuer_name": "Mastercard Inc",
-      "reporting_owner": "Vosburg Craig",
-      "reporting_owner_cik": "0001663082",
-      "reporting_owner_position": "Chief Services Officer",
-      "transaction_date": "2025-06-20",
-      "transaction_shares": "9428",
-      "transaction_price": "227.25",
-      "transaction_type": "M",
-      "shares_after_transaction": "67878.824"
-    },
-    {
-      "id": 308,
+      "id": 112,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Seshadri Raj",
       "reporting_owner_cik": "0001772738",
@@ -40,6 +28,18 @@
       "transaction_price": "535.80",
       "transaction_type": "S",
       "shares_after_transaction": "14021.33"
+    },
+    {
+      "id": 113,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Vosburg Craig",
+      "reporting_owner_cik": "0001663082",
+      "reporting_owner_position": "Chief Services Officer",
+      "transaction_date": "2025-06-20",
+      "transaction_shares": "9428",
+      "transaction_price": "227.25",
+      "transaction_type": "M",
+      "shares_after_transaction": "67878.824"
     }
   ]
 }
