@@ -1,11 +1,35 @@
 {
   "ticker": "DELL",
-  "last_updated": "2025-06-26T08:33:17.189861",
+  "last_updated": "2025-06-27T08:32:42.999959",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 12,
+      "id": 13,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Silver Lake Group, L.L.C.",
+      "reporting_owner_cik": "0001418226",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-24",
+      "transaction_shares": "4781",
+      "transaction_price": "120.2205",
+      "transaction_type": "S",
+      "shares_after_transaction": "1022"
+    },
+    {
+      "id": 14,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Vojvodich Radakovich Lynn",
+      "reporting_owner_cik": "0001662205",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-24",
+      "transaction_shares": "2900",
+      "transaction_price": "31.14",
+      "transaction_type": "M",
+      "shares_after_transaction": "26580"
+    },
+    {
+      "id": 15,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Scannell William F",
       "reporting_owner_cik": "0001554376",

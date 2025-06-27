@@ -2,20 +2,44 @@
   "ticker": "DRI",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-04T08:34:27.920984",
-  "count": 1,
+  "last_updated": "2025-06-27T08:32:42.999959",
+  "count": 3,
   "transactions": [
     {
-      "id": 400,
+      "id": 221,
       "issuer_name": "DARDEN RESTAURANTS INC",
-      "reporting_owner": "Kenningham Daryl",
-      "reporting_owner_cik": "0001528681",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-05-25",
-      "transaction_shares": "159.0000",
-      "transaction_price": "0",
+      "reporting_owner": "Vennam Rajesh",
+      "reporting_owner_cik": "0001837973",
+      "reporting_owner_position": "SVP, CFO",
+      "transaction_date": "2025-06-24",
+      "transaction_shares": "5780.0000",
+      "transaction_price": "222.2150",
+      "transaction_type": "S",
+      "shares_after_transaction": "4555.1580"
+    },
+    {
+      "id": 222,
+      "issuer_name": "DARDEN RESTAURANTS INC",
+      "reporting_owner": "Connelly Susan M.",
+      "reporting_owner_cik": "0001782245",
+      "reporting_owner_position": "SVP, Chief Comm & PA Officer",
+      "transaction_date": "2025-06-24",
+      "transaction_shares": "4735.0000",
+      "transaction_price": "107.0500",
       "transaction_type": "M",
-      "shares_after_transaction": "302.0000"
+      "shares_after_transaction": "9336.9980"
+    },
+    {
+      "id": 224,
+      "issuer_name": "DARDEN RESTAURANTS INC",
+      "reporting_owner": "Milanes Douglas J.",
+      "reporting_owner_cik": "0001718083",
+      "reporting_owner_position": "SVP, Chief Supply Chain Ofcr",
+      "transaction_date": "2025-06-24",
+      "transaction_shares": "8142.0000",
+      "transaction_price": "78.8400",
+      "transaction_type": "M",
+      "shares_after_transaction": "12094.6960"
     }
   ]
 }
