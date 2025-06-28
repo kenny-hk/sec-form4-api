@@ -2,11 +2,23 @@
   "ticker": "DELL",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-06-27T08:32:42.999959",
+  "last_updated": "2025-06-28T08:29:06.617579",
   "count": 3,
   "transactions": [
     {
-      "id": 13,
+      "id": 8,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "DELL MICHAEL S",
+      "reporting_owner_cik": "0000908724",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-06-26",
+      "transaction_shares": "10000000",
+      "transaction_price": "122.27",
+      "transaction_type": "S",
+      "shares_after_transaction": "25912241"
+    },
+    {
+      "id": 6,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Silver Lake Group, L.L.C.",
       "reporting_owner_cik": "0001418226",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1022"
     },
     {
-      "id": 14,
+      "id": 7,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Vojvodich Radakovich Lynn",
       "reporting_owner_cik": "0001662205",
@@ -28,18 +40,6 @@
       "transaction_price": "31.14",
       "transaction_type": "M",
       "shares_after_transaction": "26580"
-    },
-    {
-      "id": 15,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Scannell William F",
-      "reporting_owner_cik": "0001554376",
-      "reporting_owner_position": "Pres., Glob. Sales & Cust. Ops",
-      "transaction_date": "2025-06-18",
-      "transaction_shares": "91230",
-      "transaction_price": "118.42",
-      "transaction_type": "S",
-      "shares_after_transaction": "56429"
     }
   ]
 }
