@@ -1,11 +1,35 @@
 {
   "ticker": "MA",
-  "last_updated": "2025-06-30T08:33:04.291365",
+  "last_updated": "2025-07-01T08:33:38.666514",
   "retention_years": 3,
-  "count": 15,
+  "count": 14,
   "transactions": [
     {
-      "id": 108,
+      "id": 90,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Kirkpatrick Linda Pistecchia",
+      "reporting_owner_cik": "0001838202",
+      "reporting_owner_position": "President, Americas",
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "958",
+      "transaction_price": "560",
+      "transaction_type": "S",
+      "shares_after_transaction": "23624.052"
+    },
+    {
+      "id": 81,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Seshadri Raj",
+      "reporting_owner_cik": "0001772738",
+      "reporting_owner_position": "Chief Commercial Pmts Officer",
+      "transaction_date": "2025-06-27",
+      "transaction_shares": "1100",
+      "transaction_price": "546.77",
+      "transaction_type": "S",
+      "shares_after_transaction": "12921.33"
+    },
+    {
+      "id": 77,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Bracher Candido",
       "reporting_owner_cik": "0001875000",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "2958.766"
     },
     {
-      "id": 111,
+      "id": 78,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "DAVIS RICHARD K",
       "reporting_owner_cik": "0001185480",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "10746"
     },
     {
-      "id": 112,
+      "id": 79,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "GENACHOWSKI JULIUS",
       "reporting_owner_cik": "0001184231",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "8323"
     },
     {
-      "id": 113,
+      "id": 80,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Janow Merit E",
       "reporting_owner_cik": "0001328694",
@@ -53,7 +77,7 @@
       "shares_after_transaction": "13921"
     },
     {
-      "id": 114,
+      "id": 82,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Goh Choon Phong",
       "reporting_owner_cik": "0001736436",
@@ -65,7 +89,7 @@
       "shares_after_transaction": "5801"
     },
     {
-      "id": 115,
+      "id": 83,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Uggla Lance Darrell Gordon",
       "reporting_owner_cik": "0001678996",
@@ -77,7 +101,7 @@
       "shares_after_transaction": "9332"
     },
     {
-      "id": 116,
+      "id": 84,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Matsumoto Oki",
       "reporting_owner_cik": "0001522658",
@@ -89,7 +113,7 @@
       "shares_after_transaction": "8183"
     },
     {
-      "id": 117,
+      "id": 85,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Talwar Harit",
       "reporting_owner_cik": "0001401336",
@@ -101,7 +125,7 @@
       "shares_after_transaction": "2666"
     },
     {
-      "id": 118,
+      "id": 86,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Kirkpatrick Linda Pistecchia",
       "reporting_owner_cik": "0001838202",
@@ -113,7 +137,7 @@
       "shares_after_transaction": "24582.052"
     },
     {
-      "id": 120,
+      "id": 87,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Moon Youngme E",
       "reporting_owner_cik": "0001331412",
@@ -125,7 +149,7 @@
       "shares_after_transaction": "4543"
     },
     {
-      "id": 121,
+      "id": 88,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Sulzberger Gabrielle",
       "reporting_owner_cik": "0001262388",
@@ -137,7 +161,7 @@
       "shares_after_transaction": "5336"
     },
     {
-      "id": 122,
+      "id": 89,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Qureshi Rima",
       "reporting_owner_cik": "0001519341",
@@ -147,42 +171,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "21272"
-    },
-    {
-      "id": 109,
-      "issuer_name": "Mastercard Inc",
-      "reporting_owner": "Matsumoto Oki",
-      "reporting_owner_cik": "0001522658",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-22",
-      "transaction_shares": "86",
-      "transaction_price": "532.835",
-      "transaction_type": "F",
-      "shares_after_transaction": "7725"
-    },
-    {
-      "id": 110,
-      "issuer_name": "Mastercard Inc",
-      "reporting_owner": "Seshadri Raj",
-      "reporting_owner_cik": "0001772738",
-      "reporting_owner_position": "Chief Commercial Pmts Officer",
-      "transaction_date": "2025-06-20",
-      "transaction_shares": "949",
-      "transaction_price": "535.80",
-      "transaction_type": "S",
-      "shares_after_transaction": "14021.33"
-    },
-    {
-      "id": 119,
-      "issuer_name": "Mastercard Inc",
-      "reporting_owner": "Vosburg Craig",
-      "reporting_owner_cik": "0001663082",
-      "reporting_owner_position": "Chief Services Officer",
-      "transaction_date": "2025-06-20",
-      "transaction_shares": "9428",
-      "transaction_price": "227.25",
-      "transaction_type": "M",
-      "shares_after_transaction": "67878.824"
     }
   ]
 }
