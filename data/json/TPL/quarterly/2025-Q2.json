@@ -2,11 +2,23 @@
   "ticker": "TPL",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-07-01T08:33:38.666514",
+  "last_updated": "2025-07-02T08:34:05.368357",
   "count": 5,
   "transactions": [
     {
-      "id": 133,
+      "id": 203,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "1",
+      "transaction_price": "1053.06",
+      "transaction_type": "P",
+      "shares_after_transaction": "1166253"
+    },
+    {
+      "id": 200,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1166252"
     },
     {
-      "id": 132,
+      "id": 199,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "325817"
     },
     {
-      "id": 135,
+      "id": 202,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "325815"
     },
     {
-      "id": 134,
+      "id": 201,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "STAHL MURRAY",
       "reporting_owner_cik": "0001207097",
@@ -52,18 +64,6 @@
       "transaction_price": "1039.48",
       "transaction_type": "P",
       "shares_after_transaction": "325813"
-    },
-    {
-      "id": 136,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "STAHL MURRAY",
-      "reporting_owner_cik": "0001207097",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "2",
-      "transaction_price": "1098.70",
-      "transaction_type": "P",
-      "shares_after_transaction": "325811"
     }
   ]
 }
