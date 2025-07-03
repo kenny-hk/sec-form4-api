@@ -1,20 +1,44 @@
 {
   "ticker": "ARE",
-  "last_updated": "2025-06-10T08:35:39.521536",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 348,
+      "id": 336,
+      "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reporting_owner": "Hash Steve",
+      "reporting_owner_cik": "0001594073",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "379",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "25079"
+    },
+    {
+      "id": 337,
       "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
       "reporting_owner": "Moglia Peter M",
       "reporting_owner_cik": "0001545076",
       "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-05-30",
+      "transaction_date": "2025-06-30",
       "transaction_shares": "743",
-      "transaction_price": "70.19",
+      "transaction_price": "72.63",
       "transaction_type": "F",
-      "shares_after_transaction": "284482"
+      "shares_after_transaction": "283739"
+    },
+    {
+      "id": 338,
+      "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reporting_owner": "Woronoff Michael A",
+      "reporting_owner_cik": "0001711289",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "585",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20107"
     }
   ]
 }

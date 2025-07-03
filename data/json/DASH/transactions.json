@@ -1,11 +1,23 @@
 {
   "ticker": "DASH",
-  "last_updated": "2025-07-02T08:34:05.368357",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 10,
+  "count": 5,
   "transactions": [
     {
-      "id": 458,
+      "id": 931,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Inukonda Ravi",
+      "reporting_owner_cik": "0001849709",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "20000",
+      "transaction_price": "247",
+      "transaction_type": "S",
+      "shares_after_transaction": "245530"
+    },
+    {
+      "id": 929,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Brown Shona L",
       "reporting_owner_cik": "0001295031",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "45552"
     },
     {
-      "id": 461,
+      "id": 930,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Adarkar Prabir",
       "reporting_owner_cik": "0001832612",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "972554"
     },
     {
-      "id": 455,
+      "id": 927,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Inukonda Ravi",
       "reporting_owner_cik": "0001849709",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "266955"
     },
     {
-      "id": 456,
+      "id": 928,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "DOERR L JOHN",
       "reporting_owner_cik": "0001032455",
@@ -51,78 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "7083"
-    },
-    {
-      "id": 457,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "PIACENTINI DIEGO",
-      "reporting_owner_cik": "0001184755",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "1164",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "11364"
-    },
-    {
-      "id": 459,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Lin Alfred",
-      "reporting_owner_cik": "0001790330",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "1164",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "7083"
-    },
-    {
-      "id": 462,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Blackburn Jeffrey M",
-      "reporting_owner_cik": "0001374831",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "1164",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "6116"
-    },
-    {
-      "id": 464,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Mertz Elinor",
-      "reporting_owner_cik": "0001938411",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "1164",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "13823"
-    },
-    {
-      "id": 460,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Still Ashley",
-      "reporting_owner_cik": "0001985469",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "2495",
-      "transaction_price": "225",
-      "transaction_type": "S",
-      "shares_after_transaction": "1565"
-    },
-    {
-      "id": 463,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Brown Shona L",
-      "reporting_owner_cik": "0001295031",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "825",
-      "transaction_price": "230",
-      "transaction_type": "S",
-      "shares_after_transaction": "46461"
     }
   ]
 }

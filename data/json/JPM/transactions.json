@@ -1,20 +1,56 @@
 {
   "ticker": "JPM",
-  "last_updated": "2025-06-19T08:33:00.546893",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 7,
+      "id": 15,
       "issuer_name": "JPMORGAN CHASE & CO",
-      "reporting_owner": "BACON ASHLEY",
-      "reporting_owner_cik": "0001580075",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2025-06-12",
-      "transaction_shares": "5201.0000",
-      "transaction_price": "267.4431",
-      "transaction_type": "S",
-      "shares_after_transaction": "229791.0000"
+      "reporting_owner": "NOVAKOVIC PHEBE N",
+      "reporting_owner_cik": "0001222195",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "129.3505",
+      "transaction_price": "289.9100",
+      "transaction_type": "A",
+      "shares_after_transaction": "11946.7428"
+    },
+    {
+      "id": 17,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "Rometty Virginia M",
+      "reporting_owner_cik": "0001333712",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "120.7271",
+      "transaction_price": "289.9100",
+      "transaction_type": "A",
+      "shares_after_transaction": "13376.4111"
+    },
+    {
+      "id": 18,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "BURKE STEPHEN B",
+      "reporting_owner_cik": "0001203694",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "194.0257",
+      "transaction_price": "289.9100",
+      "transaction_type": "A",
+      "shares_after_transaction": "183985.0899"
+    },
+    {
+      "id": 19,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "HOBSON MELLODY L",
+      "reporting_owner_cik": "0001169896",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "155.2206",
+      "transaction_price": "289.9100",
+      "transaction_type": "A",
+      "shares_after_transaction": "28042.5293"
     }
   ]
 }

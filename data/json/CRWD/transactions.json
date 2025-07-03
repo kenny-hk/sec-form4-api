@@ -1,11 +1,23 @@
 {
   "ticker": "CRWD",
-  "last_updated": "2025-07-02T08:34:05.368357",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 7,
+  "count": 4,
   "transactions": [
     {
-      "id": 466,
+      "id": 933,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "AUSTIN ROXANNE S",
+      "reporting_owner_cik": "0001061632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "553",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "19411"
+    },
+    {
+      "id": 934,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Podbere Burt W.",
       "reporting_owner_cik": "0001778610",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "20502"
     },
     {
-      "id": 470,
+      "id": 935,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "SULLIVAN GODFREY",
       "reporting_owner_cik": "0001233412",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "26185"
     },
     {
-      "id": 472,
+      "id": 936,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "AUSTIN ROXANNE S",
       "reporting_owner_cik": "0001061632",
@@ -39,54 +51,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "33858"
-    },
-    {
-      "id": 467,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "100",
-      "transaction_price": "462.50",
-      "transaction_type": "S",
-      "shares_after_transaction": "2192579"
-    },
-    {
-      "id": 468,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Podbere Burt W.",
-      "reporting_owner_cik": "0001778610",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "290",
-      "transaction_price": "461.77",
-      "transaction_type": "S",
-      "shares_after_transaction": "249432"
-    },
-    {
-      "id": 469,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Saha Anurag",
-      "reporting_owner_cik": "0001921602",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "3",
-      "transaction_price": "464.92",
-      "transaction_type": "S",
-      "shares_after_transaction": "45243"
-    },
-    {
-      "id": 471,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Sentonas Michael",
-      "reporting_owner_cik": "0001968270",
-      "reporting_owner_position": "PRESIDENT",
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "14",
-      "transaction_price": "465.41",
-      "transaction_type": "S",
-      "shares_after_transaction": "422190"
     }
   ]
 }

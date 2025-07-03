@@ -1,7 +1,32 @@
 {
   "ticker": "PGR",
-  "last_updated": "2025-07-02T08:34:05.368357",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 243,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Snyder Barbara R",
+      "reporting_owner_cik": "0001496583",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "774.1134",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "10752.5924"
+    },
+    {
+      "id": 244,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Sauerland John P",
+      "reporting_owner_cik": "0001366336",
+      "reporting_owner_position": "VP and Chief Financial Officer",
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "10000",
+      "transaction_price": "263.79",
+      "transaction_type": "S",
+      "shares_after_transaction": "228024.069"
+    }
+  ]
 }

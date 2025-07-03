@@ -2,11 +2,35 @@
   "ticker": "META",
   "year": 2025,
   "quarter": 2,
-  "last_updated": "2025-07-02T08:34:05.368357",
-  "count": 6,
+  "last_updated": "2025-07-03T08:34:54.000376",
+  "count": 5,
   "transactions": [
     {
-      "id": 375,
+      "id": 773,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Zuckerberg Mark",
+      "reporting_owner_cik": "0001548760",
+      "reporting_owner_position": "COB and CEO",
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "779",
+      "transaction_price": "735.3577",
+      "transaction_type": "S",
+      "shares_after_transaction": "29168"
+    },
+    {
+      "id": 775,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Olivan Javier",
+      "reporting_owner_cik": "0001564475",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "13",
+      "transaction_price": "738.2642",
+      "transaction_type": "S",
+      "shares_after_transaction": "8357"
+    },
+    {
+      "id": 778,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Zuckerberg Mark",
       "reporting_owner_cik": "0001548760",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "43454"
     },
     {
-      "id": 370,
+      "id": 774,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Zuckerberg Mark",
       "reporting_owner_cik": "0001548760",
@@ -30,19 +54,7 @@
       "shares_after_transaction": "56525"
     },
     {
-      "id": 371,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Zuckerberg Mark",
-      "reporting_owner_cik": "0001548760",
-      "reporting_owner_position": "COB and CEO",
-      "transaction_date": "2025-06-25",
-      "transaction_shares": "884",
-      "transaction_price": "706.0915",
-      "transaction_type": "S",
-      "shares_after_transaction": "70442"
-    },
-    {
-      "id": 372,
+      "id": 776,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Newstead Jennifer",
       "reporting_owner_cik": "0001780525",
@@ -52,30 +64,6 @@
       "transaction_price": "704.89",
       "transaction_type": "S",
       "shares_after_transaction": "28145"
-    },
-    {
-      "id": 374,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Zuckerberg Mark",
-      "reporting_owner_cik": "0001548760",
-      "reporting_owner_position": "COB and CEO",
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "1290",
-      "transaction_price": "704.0167",
-      "transaction_type": "S",
-      "shares_after_transaction": "83829"
-    },
-    {
-      "id": 373,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Olivan Javier",
-      "reporting_owner_cik": "0001564475",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-06-23",
-      "transaction_shares": "517",
-      "transaction_price": "683.47",
-      "transaction_type": "S",
-      "shares_after_transaction": "8370"
     }
   ]
 }

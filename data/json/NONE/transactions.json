@@ -1,20 +1,44 @@
 {
   "ticker": "NONE",
-  "last_updated": "2025-06-25T08:34:58.031868",
+  "last_updated": "2025-07-03T08:34:54.000376",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 3,
-      "issuer_name": "PGIM Private Real Estate Fund, Inc.",
-      "reporting_owner": "PRUDENTIAL INSURANCE CO OF AMERICA",
-      "reporting_owner_cik": "0000729057",
+      "id": 195,
+      "issuer_name": "Invesco Real Estate Income Trust Inc.",
+      "reporting_owner": "Invesco Realty, Inc.",
+      "reporting_owner_cik": "0001992686",
       "reporting_owner_position": null,
-      "transaction_date": "2025-06-16",
-      "transaction_shares": "1675977.654",
-      "transaction_price": "28.64",
-      "transaction_type": "P",
-      "shares_after_transaction": "3168461.122"
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "351765.527",
+      "transaction_price": "26.1518",
+      "transaction_type": "D",
+      "shares_after_transaction": "90.692"
+    },
+    {
+      "id": 196,
+      "issuer_name": "Invesco Real Estate Income Trust Inc.",
+      "reporting_owner": "Invesco Advisers, Inc.",
+      "reporting_owner_cik": "0000020430",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "4617",
+      "transaction_price": "27.9939",
+      "transaction_type": "D",
+      "shares_after_transaction": "99053"
+    },
+    {
+      "id": 300,
+      "issuer_name": "KKR Real Estate Select Trust Inc.",
+      "reporting_owner": "KKR Alternative Assets LLC",
+      "reporting_owner_cik": "0001820655",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "121083.291",
+      "transaction_price": "23.96",
+      "transaction_type": "J",
+      "shares_after_transaction": "10657608.224"
     }
   ]
 }
