@@ -1,11 +1,11 @@
 {
   "ticker": "IRM",
-  "last_updated": "2025-07-03T08:34:54.000376",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 291,
+      "id": 390,
       "issuer_name": "IRON MOUNTAIN INC",
       "reporting_owner": "Meaney William L",
       "reporting_owner_cik": "0001566391",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "69125"
     },
     {
-      "id": 292,
+      "id": 391,
       "issuer_name": "IRON MOUNTAIN INC",
       "reporting_owner": "McIntosh Greg W",
       "reporting_owner_cik": "0001769841",
@@ -29,7 +29,7 @@
       "shares_after_transaction": "35446"
     },
     {
-      "id": 293,
+      "id": 392,
       "issuer_name": "IRON MOUNTAIN INC",
       "reporting_owner": "Kidd Mark",
       "reporting_owner_cik": "0001732058",
@@ -39,6 +39,18 @@
       "transaction_price": "102.02",
       "transaction_type": "S",
       "shares_after_transaction": "91081"
+    },
+    {
+      "id": 393,
+      "issuer_name": "IRON MOUNTAIN INC",
+      "reporting_owner": "BAILEY CLARK H",
+      "reporting_owner_cik": "0001183331",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "90860.989",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "242454.989"
     }
   ]
 }

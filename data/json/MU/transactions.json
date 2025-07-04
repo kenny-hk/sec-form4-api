@@ -1,11 +1,23 @@
 {
   "ticker": "MU",
-  "last_updated": "2025-07-03T08:34:54.000376",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 5,
+  "count": 4,
   "transactions": [
     {
-      "id": 285,
+      "id": 385,
+      "issuer_name": "MICRON TECHNOLOGY INC",
+      "reporting_owner": "McCarthy Mary Pat",
+      "reporting_owner_cik": "0001565570",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "700.00",
+      "transaction_price": "120.38",
+      "transaction_type": "S",
+      "shares_after_transaction": "24254.00"
+    },
+    {
+      "id": 384,
       "issuer_name": "MICRON TECHNOLOGY INC",
       "reporting_owner": "BHATIA MANISH H",
       "reporting_owner_cik": "0001689498",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "275067.00"
     },
     {
-      "id": 287,
+      "id": 386,
       "issuer_name": "MICRON TECHNOLOGY INC",
       "reporting_owner": "Sadana Sumit",
       "reporting_owner_cik": "0001311079",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "201326.00"
     },
     {
-      "id": 288,
+      "id": 387,
       "issuer_name": "MICRON TECHNOLOGY INC",
       "reporting_owner": "GOMO STEVEN J",
       "reporting_owner_cik": "0001224095",
@@ -39,30 +51,6 @@
       "transaction_price": "125.15",
       "transaction_type": "S",
       "shares_after_transaction": "22762.00"
-    },
-    {
-      "id": 284,
-      "issuer_name": "MICRON TECHNOLOGY INC",
-      "reporting_owner": "Deboer Scott J",
-      "reporting_owner_cik": "0001568238",
-      "reporting_owner_position": "EVP, CTO and Products Officer",
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "20000.00",
-      "transaction_price": "125.11",
-      "transaction_type": "S",
-      "shares_after_transaction": "166353.00"
-    },
-    {
-      "id": 286,
-      "issuer_name": "MICRON TECHNOLOGY INC",
-      "reporting_owner": "ARNZEN APRIL S",
-      "reporting_owner_cik": "0001632063",
-      "reporting_owner_position": "EVP and Chief People Officer",
-      "transaction_date": "2025-06-24",
-      "transaction_shares": "15000.00",
-      "transaction_price": "125.12",
-      "transaction_type": "S",
-      "shares_after_transaction": "148167.00"
     }
   ]
 }

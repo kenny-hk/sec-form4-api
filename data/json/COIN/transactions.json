@@ -1,11 +1,35 @@
 {
   "ticker": "COIN",
-  "last_updated": "2025-07-03T08:34:54.000376",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 829,
+      "id": 968,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Grewal Paul",
+      "reporting_owner_cik": "0001851414",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-07-02",
+      "transaction_shares": "10000",
+      "transaction_price": "26.26",
+      "transaction_type": "M",
+      "shares_after_transaction": "92328"
+    },
+    {
+      "id": 967,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Armstrong Brian",
+      "reporting_owner_cik": "0001851492",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "25000",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "25526"
+    },
+    {
+      "id": 966,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "HAAS ALESIA J",
       "reporting_owner_cik": "0001668711",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "97366"
     },
     {
-      "id": 830,
+      "id": 969,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Armstrong Brian",
       "reporting_owner_cik": "0001851492",

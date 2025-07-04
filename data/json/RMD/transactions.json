@@ -1,11 +1,23 @@
 {
   "ticker": "RMD",
-  "last_updated": "2025-07-03T08:34:54.000376",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 864,
+      "id": 1004,
+      "issuer_name": "RESMED INC",
+      "reporting_owner": "FARRELL PETER C",
+      "reporting_owner_cik": "0001186102",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-02",
+      "transaction_shares": "945",
+      "transaction_price": "255.49",
+      "transaction_type": "S",
+      "shares_after_transaction": "68273"
+    },
+    {
+      "id": 1005,
       "issuer_name": "RESMED INC",
       "reporting_owner": "Sandercock Brett",
       "reporting_owner_cik": "0001346064",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "87249"
     },
     {
-      "id": 865,
+      "id": 1006,
       "issuer_name": "RESMED INC",
       "reporting_owner": "Rider Michael J",
       "reporting_owner_cik": "0001982205",

@@ -1,20 +1,44 @@
 {
   "ticker": "PLTR",
-  "last_updated": "2025-07-01T08:33:38.666514",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 13,
+      "id": 44,
       "issuer_name": "Palantir Technologies Inc.",
-      "reporting_owner": "Buckley Jeffrey",
-      "reporting_owner_cik": "0001705189",
+      "reporting_owner": "Woersching Eric H.",
+      "reporting_owner_cik": "0001930526",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "1315",
+      "transaction_price": "129.3151",
+      "transaction_type": "S",
+      "shares_after_transaction": "11247"
+    },
+    {
+      "id": 45,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Taylor Ryan D.",
+      "reporting_owner_cik": "0001823923",
       "reporting_owner_position": "See Remarks",
-      "transaction_date": "2025-06-20",
-      "transaction_shares": "21850",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "56129"
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "33335",
+      "transaction_price": "4.72",
+      "transaction_type": "M",
+      "shares_after_transaction": "397090"
+    },
+    {
+      "id": 46,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Moore Alexander D.",
+      "reporting_owner_cik": "0001823952",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "2400",
+      "transaction_price": "129.4035",
+      "transaction_type": "S",
+      "shares_after_transaction": "1330578"
     }
   ]
 }

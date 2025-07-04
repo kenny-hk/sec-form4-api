@@ -1,20 +1,32 @@
 {
   "ticker": "PSX",
-  "last_updated": "2025-06-27T08:32:42.999959",
+  "last_updated": "2025-07-04T08:35:31.383029",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 298,
+      "id": 936,
       "issuer_name": "Phillips 66",
-      "reporting_owner": "Mandell Brian",
-      "reporting_owner_cik": "0001641265",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-06-18",
-      "transaction_shares": "9800",
-      "transaction_price": "78.62",
-      "transaction_type": "M",
-      "shares_after_transaction": "66637.9177"
+      "reporting_owner": "Lashier Mark E",
+      "reporting_owner_cik": "0001853212",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "2202",
+      "transaction_price": "121.6475",
+      "transaction_type": "F",
+      "shares_after_transaction": "92277"
+    },
+    {
+      "id": 937,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "HAYES GREGORY",
+      "reporting_owner_cik": "0001225946",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-01",
+      "transaction_shares": "106",
+      "transaction_price": "121.6475",
+      "transaction_type": "A",
+      "shares_after_transaction": "20966.1347"
     }
   ]
 }
