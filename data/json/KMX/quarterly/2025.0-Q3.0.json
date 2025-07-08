@@ -2,11 +2,11 @@
   "ticker": "KMX",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-07T08:36:58.826271",
-  "count": 1,
+  "last_updated": "2025-07-08T08:35:17.614541",
+  "count": 2,
   "transactions": [
     {
-      "id": 265,
+      "id": 278,
       "issuer_name": "CARMAX INC",
       "reporting_owner": "Daniels Jon G",
       "reporting_owner_cik": "0001628337",
@@ -16,6 +16,18 @@
       "transaction_price": "70.64",
       "transaction_type": "S",
       "shares_after_transaction": "2779"
+    },
+    {
+      "id": 281,
+      "issuer_name": "CARMAX INC",
+      "reporting_owner": "Stuckey John M III",
+      "reporting_owner_cik": "0002030154",
+      "reporting_owner_position": "SVP, Gen Counsel & Secretary",
+      "transaction_date": "2025-07-02",
+      "transaction_shares": "55",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "1772"
     }
   ]
 }

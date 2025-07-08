@@ -1,20 +1,32 @@
 {
   "ticker": "VRSK",
-  "last_updated": "2025-06-25T08:34:58.031868",
+  "last_updated": "2025-07-08T08:35:17.614541",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 19,
+      "id": 617,
       "issuer_name": "Verisk Analytics, Inc.",
-      "reporting_owner": "Mann Elizabeth",
-      "reporting_owner_cik": "0001946842",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-06-17",
-      "transaction_shares": "300",
-      "transaction_price": "308.90",
+      "reporting_owner": "Beckles Kathy Card",
+      "reporting_owner_cik": "0001855680",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-07-03",
+      "transaction_shares": "326",
+      "transaction_price": "300.86",
       "transaction_type": "S",
-      "shares_after_transaction": "16065"
+      "shares_after_transaction": "9319"
+    },
+    {
+      "id": 618,
+      "issuer_name": "Verisk Analytics, Inc.",
+      "reporting_owner": "Daffan Nicholas",
+      "reporting_owner_cik": "0001803783",
+      "reporting_owner_position": "Chief Information Officer",
+      "transaction_date": "2025-07-03",
+      "transaction_shares": "2749",
+      "transaction_price": "104.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "59450"
     }
   ]
 }
