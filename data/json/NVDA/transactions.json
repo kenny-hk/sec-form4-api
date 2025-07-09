@@ -1,11 +1,11 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2025-07-08T08:35:17.614541",
+  "last_updated": "2025-07-09T08:35:05.325061",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 160,
+      "id": 147,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "SEAWELL A BROOKE",
       "reporting_owner_cik": "0001197652",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "2072529"
     },
     {
-      "id": 162,
+      "id": 148,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -27,30 +27,6 @@
       "transaction_price": "153.6703",
       "transaction_type": "S",
       "shares_after_transaction": "75246369"
-    },
-    {
-      "id": 159,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "SEAWELL A BROOKE",
-      "reporting_owner_cik": "0001197652",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-06-30",
-      "transaction_shares": "20463",
-      "transaction_price": "156.7071",
-      "transaction_type": "S",
-      "shares_after_transaction": "1658898"
-    },
-    {
-      "id": 161,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "HUANG JEN HSUN",
-      "reporting_owner_cik": "0001197649",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-06-27",
-      "transaction_shares": "17774",
-      "transaction_price": "156.0159",
-      "transaction_type": "S",
-      "shares_after_transaction": "75455451"
     }
   ]
 }
