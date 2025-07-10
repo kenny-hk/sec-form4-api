@@ -1,11 +1,23 @@
 {
   "ticker": "PSX",
-  "last_updated": "2025-07-09T08:35:05.325061",
+  "last_updated": "2025-07-10T08:34:04.744809",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 735,
+      "id": 350,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "Sutherland Vanessa Allen",
+      "reporting_owner_cik": "0001772603",
+      "reporting_owner_position": "EVP, GC and Secretary",
+      "transaction_date": "2025-07-08",
+      "transaction_shares": "4393",
+      "transaction_price": "130",
+      "transaction_type": "S",
+      "shares_after_transaction": "43373"
+    },
+    {
+      "id": 349,
       "issuer_name": "Phillips 66",
       "reporting_owner": "Lashier Mark E",
       "reporting_owner_cik": "0001853212",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "92277"
     },
     {
-      "id": 736,
+      "id": 351,
       "issuer_name": "Phillips 66",
       "reporting_owner": "HAYES GREGORY",
       "reporting_owner_cik": "0001225946",
