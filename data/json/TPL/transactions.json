@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2025-07-10T08:34:04.744809",
+  "last_updated": "2025-07-11T08:32:02.450483",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 257,
+      "id": 116,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-09",
+      "transaction_shares": "1",
+      "transaction_price": "1037.49",
+      "transaction_type": "P",
+      "shares_after_transaction": "1163949"
+    },
+    {
+      "id": 118,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "1163948"
     },
     {
-      "id": 255,
+      "id": 117,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "1163947"
     },
     {
-      "id": 254,
+      "id": 115,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -39,18 +51,6 @@
       "transaction_price": "1075.80",
       "transaction_type": "P",
       "shares_after_transaction": "1163946"
-    },
-    {
-      "id": 256,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-02",
-      "transaction_shares": "1",
-      "transaction_price": "1066.31",
-      "transaction_type": "P",
-      "shares_after_transaction": "1163945"
     }
   ]
 }

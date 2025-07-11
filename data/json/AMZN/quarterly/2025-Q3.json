@@ -2,11 +2,23 @@
   "ticker": "AMZN",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-10T08:34:04.744809",
+  "last_updated": "2025-07-11T08:32:02.450483",
   "count": 2,
   "transactions": [
     {
-      "id": 353,
+      "id": 156,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2025-07-08",
+      "transaction_shares": "101081",
+      "transaction_price": "223.8804",
+      "transaction_type": "S",
+      "shares_after_transaction": "902379449"
+    },
+    {
+      "id": 155,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "BEZOS JEFFREY P",
       "reporting_owner_cik": "0001043298",
@@ -16,18 +28,6 @@
       "transaction_price": "223.7316",
       "transaction_type": "S",
       "shares_after_transaction": "904527112"
-    },
-    {
-      "id": 354,
-      "issuer_name": "AMAZON COM INC",
-      "reporting_owner": "Herrington Douglas J",
-      "reporting_owner_cik": "0001936006",
-      "reporting_owner_position": "CEO Worldwide Amazon Stores",
-      "transaction_date": "2025-07-01",
-      "transaction_shares": "701",
-      "transaction_price": "219.1732",
-      "transaction_type": "S",
-      "shares_after_transaction": "516349"
     }
   ]
 }
