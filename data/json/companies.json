@@ -1,7 +1,14 @@
 {
-  "last_updated": "2025-07-11T08:32:02.449676",
-  "count": 84,
+  "last_updated": "2025-07-12T08:29:24.874219",
+  "count": 97,
   "companies": [
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "transaction_count": 14,
+      "latest_transaction": "2025-07-02",
+      "earliest_transaction": "2025-07-02"
+    },
     {
       "ticker": "INCY",
       "name": "INCYTE CORP",
@@ -52,6 +59,13 @@
       "earliest_transaction": null
     },
     {
+      "ticker": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "transaction_count": 6,
+      "latest_transaction": "2025-07-10",
+      "earliest_transaction": "2025-07-10"
+    },
+    {
       "ticker": "VRSK",
       "name": "Verisk Analytics, Inc.",
       "transaction_count": 6,
@@ -68,9 +82,23 @@
     {
       "ticker": "CRM",
       "name": "Salesforce, Inc.",
-      "transaction_count": 4,
-      "latest_transaction": "2025-07-09",
+      "transaction_count": 5,
+      "latest_transaction": "2025-07-10",
       "earliest_transaction": "2025-07-03"
+    },
+    {
+      "ticker": "TPL",
+      "name": "Texas Pacific Land Corp",
+      "transaction_count": 5,
+      "latest_transaction": "2025-07-10",
+      "earliest_transaction": "2025-07-03"
+    },
+    {
+      "ticker": "EL",
+      "name": "ESTEE LAUDER COMPANIES INC",
+      "transaction_count": 4,
+      "latest_transaction": null,
+      "earliest_transaction": null
     },
     {
       "ticker": "FICO",
@@ -101,11 +129,11 @@
       "earliest_transaction": "2025-07-07"
     },
     {
-      "ticker": "TPL",
-      "name": "Texas Pacific Land Corp",
+      "ticker": "TSCO",
+      "name": "TRACTOR SUPPLY CO /DE/",
       "transaction_count": 4,
       "latest_transaction": "2025-07-09",
-      "earliest_transaction": "2025-07-03"
+      "earliest_transaction": "2025-07-02"
     },
     {
       "ticker": "WEC",
@@ -119,6 +147,13 @@
       "name": "Airbnb, Inc.",
       "transaction_count": 3,
       "latest_transaction": "2025-07-07",
+      "earliest_transaction": "2025-07-03"
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": "2025-07-08",
       "earliest_transaction": "2025-07-03"
     },
     {
@@ -150,11 +185,18 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "TSCO",
-      "name": "TRACTOR SUPPLY CO /DE/",
+      "ticker": "ORCL",
+      "name": "ORACLE CORP",
       "transaction_count": 3,
-      "latest_transaction": "2025-07-07",
-      "earliest_transaction": "2025-07-02"
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-03"
+    },
+    {
+      "ticker": "WBA",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": null,
+      "earliest_transaction": null
     },
     {
       "ticker": "AMZN",
@@ -185,6 +227,13 @@
       "earliest_transaction": "2025-06-30"
     },
     {
+      "ticker": "EW",
+      "name": "Edwards Lifesciences Corp",
+      "transaction_count": 2,
+      "latest_transaction": "2025-07-11",
+      "earliest_transaction": "2025-07-07"
+    },
+    {
       "ticker": "FDS",
       "name": "FACTSET RESEARCH SYSTEMS INC",
       "transaction_count": 2,
@@ -199,6 +248,13 @@
       "earliest_transaction": "2025-07-02"
     },
     {
+      "ticker": "LII",
+      "name": "LENNOX INTERNATIONAL INC",
+      "transaction_count": 2,
+      "latest_transaction": "2025-07-10",
+      "earliest_transaction": "2025-07-03"
+    },
+    {
       "ticker": "META",
       "name": "Meta Platforms, Inc.",
       "transaction_count": 2,
@@ -206,18 +262,18 @@
       "earliest_transaction": "2025-07-07"
     },
     {
-      "ticker": "ORCL",
-      "name": "ORACLE CORP",
-      "transaction_count": 2,
-      "latest_transaction": "2025-07-07",
-      "earliest_transaction": "2025-07-03"
-    },
-    {
       "ticker": "PANW",
       "name": "Palo Alto Networks Inc",
       "transaction_count": 2,
       "latest_transaction": "2025-07-07",
       "earliest_transaction": "2025-05-30"
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-07"
     },
     {
       "ticker": "TRMB",
@@ -269,6 +325,13 @@
       "earliest_transaction": null
     },
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-09"
+    },
+    {
       "ticker": "BDX",
       "name": "BECTON DICKINSON & CO",
       "transaction_count": 1,
@@ -311,6 +374,13 @@
       "earliest_transaction": "2025-07-03"
     },
     {
+      "ticker": "DASH",
+      "name": "DoorDash, Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-09"
+    },
+    {
       "ticker": "DHR",
       "name": "DANAHER CORP /DE/",
       "transaction_count": 1,
@@ -346,18 +416,18 @@
       "earliest_transaction": "2025-07-08"
     },
     {
-      "ticker": "EW",
-      "name": "Edwards Lifesciences Corp",
-      "transaction_count": 1,
-      "latest_transaction": "2025-07-07",
-      "earliest_transaction": "2025-07-07"
-    },
-    {
       "ticker": "FSLR",
       "name": "FIRST SOLAR, INC.",
       "transaction_count": 1,
       "latest_transaction": "2025-07-03",
       "earliest_transaction": "2025-07-03"
+    },
+    {
+      "ticker": "GIS",
+      "name": "GENERAL MILLS INC",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-09"
     },
     {
       "ticker": "GRMN",
@@ -388,6 +458,13 @@
       "earliest_transaction": "2025-07-09"
     },
     {
+      "ticker": "ISRG",
+      "name": "INTUITIVE SURGICAL INC",
+      "transaction_count": 1,
+      "latest_transaction": null,
+      "earliest_transaction": null
+    },
+    {
       "ticker": "J",
       "name": "JACOBS SOLUTIONS INC.",
       "transaction_count": 1,
@@ -414,13 +491,6 @@
       "transaction_count": 1,
       "latest_transaction": "2025-07-08",
       "earliest_transaction": "2025-07-08"
-    },
-    {
-      "ticker": "LII",
-      "name": "LENNOX INTERNATIONAL INC",
-      "transaction_count": 1,
-      "latest_transaction": "2025-07-03",
-      "earliest_transaction": "2025-07-03"
     },
     {
       "ticker": "MA",
@@ -472,6 +542,13 @@
       "earliest_transaction": "2025-07-03"
     },
     {
+      "ticker": "NKE",
+      "name": "NIKE, Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-10",
+      "earliest_transaction": "2025-07-10"
+    },
+    {
       "ticker": "NOC",
       "name": "NORTHROP GRUMMAN CORP /DE/",
       "transaction_count": 1,
@@ -493,11 +570,25 @@
       "earliest_transaction": "2025-07-03"
     },
     {
+      "ticker": "PAYX",
+      "name": "PAYCHEX INC",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-10",
+      "earliest_transaction": "2025-07-10"
+    },
+    {
       "ticker": "PGR",
       "name": "PROGRESSIVE CORP/OH/",
       "transaction_count": 1,
       "latest_transaction": "2025-07-07",
       "earliest_transaction": "2025-07-07"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-09"
     },
     {
       "ticker": "PML",
@@ -556,13 +647,6 @@
       "earliest_transaction": "2025-07-03"
     },
     {
-      "ticker": "TMUS",
-      "name": "T-Mobile US, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2025-07-07",
-      "earliest_transaction": "2025-07-07"
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "transaction_count": 1,
@@ -589,6 +673,13 @@
       "transaction_count": 1,
       "latest_transaction": "2025-07-08",
       "earliest_transaction": "2025-07-08"
+    },
+    {
+      "ticker": "WMB",
+      "name": "WILLIAMS COMPANIES, INC.",
+      "transaction_count": 1,
+      "latest_transaction": "2025-07-09",
+      "earliest_transaction": "2025-07-09"
     }
   ]
 }
