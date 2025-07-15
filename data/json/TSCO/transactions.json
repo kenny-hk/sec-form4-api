@@ -1,11 +1,23 @@
 {
   "ticker": "TSCO",
-  "last_updated": "2025-07-14T08:36:04.689366",
+  "last_updated": "2025-07-15T08:33:09.396881",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 141,
+      "id": 139,
+      "issuer_name": "TRACTOR SUPPLY CO /DE/",
+      "reporting_owner": "Jackson Denise L",
+      "reporting_owner_cik": "0001320242",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-10",
+      "transaction_shares": "1000",
+      "transaction_price": "57.50",
+      "transaction_type": "S",
+      "shares_after_transaction": "33288"
+    },
+    {
+      "id": 140,
       "issuer_name": "TRACTOR SUPPLY CO /DE/",
       "reporting_owner": "Jackson Denise L",
       "reporting_owner_cik": "0001320242",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "34288"
     },
     {
-      "id": 138,
+      "id": 137,
       "issuer_name": "TRACTOR SUPPLY CO /DE/",
       "reporting_owner": "Estep Jonathan S",
       "reporting_owner_cik": "0001778757",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "110430.232"
     },
     {
-      "id": 139,
+      "id": 138,
       "issuer_name": "TRACTOR SUPPLY CO /DE/",
       "reporting_owner": "Jackson Denise L",
       "reporting_owner_cik": "0001320242",
@@ -39,18 +51,6 @@
       "transaction_price": "56.50",
       "transaction_type": "S",
       "shares_after_transaction": "38918"
-    },
-    {
-      "id": 140,
-      "issuer_name": "TRACTOR SUPPLY CO /DE/",
-      "reporting_owner": "Jackson Denise L",
-      "reporting_owner_cik": "0001320242",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-02",
-      "transaction_shares": "1550",
-      "transaction_price": "55",
-      "transaction_type": "S",
-      "shares_after_transaction": "39918"
     }
   ]
 }
