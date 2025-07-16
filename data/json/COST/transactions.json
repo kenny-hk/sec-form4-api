@@ -1,20 +1,32 @@
 {
   "ticker": "COST",
-  "last_updated": "2025-06-27T08:32:42.999959",
+  "last_updated": "2025-07-16T08:33:32.760330",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 95,
+      "id": 159,
       "issuer_name": "COSTCO WHOLESALE CORP /NEW",
-      "reporting_owner": "DECKER SUSAN L",
-      "reporting_owner_cik": "0001234655",
+      "reporting_owner": "RAIKES JEFFREY S",
+      "reporting_owner_cik": "0001193112",
       "reporting_owner_position": null,
-      "transaction_date": "2025-06-18",
-      "transaction_shares": "546",
-      "transaction_price": "980.00",
+      "transaction_date": "2025-07-14",
+      "transaction_shares": "6573",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "20241.936"
+    },
+    {
+      "id": 160,
+      "issuer_name": "COSTCO WHOLESALE CORP /NEW",
+      "reporting_owner": "Rubanenko Yoram",
+      "reporting_owner_cik": "0001886447",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-07-14",
+      "transaction_shares": "4000",
+      "transaction_price": "974.963",
       "transaction_type": "S",
-      "shares_after_transaction": "11531.936"
+      "shares_after_transaction": "5774.032"
     }
   ]
 }
