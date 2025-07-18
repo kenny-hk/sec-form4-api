@@ -2,11 +2,23 @@
   "ticker": "AMZN",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-17T08:33:50.624950",
+  "last_updated": "2025-07-18T08:35:16.118791",
   "count": 2,
   "transactions": [
     {
-      "id": 308,
+      "id": 424,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2025-07-15",
+      "transaction_shares": "733195",
+      "transaction_price": "227.0197",
+      "transaction_type": "S",
+      "shares_after_transaction": "894546706"
+    },
+    {
+      "id": 425,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "BEZOS JEFFREY P",
       "reporting_owner_cik": "0001043298",
@@ -16,18 +28,6 @@
       "transaction_price": "224.5483",
       "transaction_type": "S",
       "shares_after_transaction": "899024241"
-    },
-    {
-      "id": 307,
-      "issuer_name": "AMAZON COM INC",
-      "reporting_owner": "BEZOS JEFFREY P",
-      "reporting_owner_cik": "0001043298",
-      "reporting_owner_position": "Executive Chair",
-      "transaction_date": "2025-07-08",
-      "transaction_shares": "101081",
-      "transaction_price": "223.8804",
-      "transaction_type": "S",
-      "shares_after_transaction": "902379449"
     }
   ]
 }

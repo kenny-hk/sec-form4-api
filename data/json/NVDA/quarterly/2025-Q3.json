@@ -2,11 +2,23 @@
   "ticker": "NVDA",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-17T08:33:50.624950",
-  "count": 4,
+  "last_updated": "2025-07-18T08:35:16.118791",
+  "count": 3,
   "transactions": [
     {
-      "id": 326,
+      "id": 441,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Kress Colette",
+      "reporting_owner_cik": "0001588670",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2025-07-15",
+      "transaction_shares": "4933",
+      "transaction_price": "170.0271",
+      "transaction_type": "S",
+      "shares_after_transaction": "3007233"
+    },
+    {
+      "id": 442,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "SEAWELL A BROOKE",
       "reporting_owner_cik": "0001197652",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1823820"
     },
     {
-      "id": 327,
+      "id": 443,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -28,30 +40,6 @@
       "transaction_price": "164.1768",
       "transaction_type": "S",
       "shares_after_transaction": "74795675"
-    },
-    {
-      "id": 325,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "HUANG JEN HSUN",
-      "reporting_owner_cik": "0001197649",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-07-08",
-      "transaction_shares": "41182",
-      "transaction_price": "159.0669",
-      "transaction_type": "S",
-      "shares_after_transaction": "74982043"
-    },
-    {
-      "id": 328,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "SEAWELL A BROOKE",
-      "reporting_owner_cik": "0001197652",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-08",
-      "transaction_shares": "49595",
-      "transaction_price": "159.0372",
-      "transaction_type": "S",
-      "shares_after_transaction": "1925189"
     }
   ]
 }
