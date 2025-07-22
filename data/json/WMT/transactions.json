@@ -1,11 +1,23 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-07-21T08:39:04.961855",
+  "last_updated": "2025-07-22T08:37:06.864578",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 287,
+      "id": 264,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Furner John R.",
+      "reporting_owner_cik": "0001696737",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-07-17",
+      "transaction_shares": "13125",
+      "transaction_price": "95.1356",
+      "transaction_type": "S",
+      "shares_after_transaction": "932312.867"
+    },
+    {
+      "id": 263,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Chojnowski David",
       "reporting_owner_cik": "0001502438",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "144433.414"
     },
     {
-      "id": 288,
+      "id": 265,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Bartlett Daniel J",
       "reporting_owner_cik": "0001579299",
