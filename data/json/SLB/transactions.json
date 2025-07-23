@@ -1,7 +1,44 @@
 {
   "ticker": "SLB",
-  "last_updated": "2025-07-22T08:37:06.864578",
+  "last_updated": "2025-07-23T08:36:29.623072",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 96,
+      "issuer_name": "SCHLUMBERGER LIMITED/NV",
+      "reporting_owner": "Gassen Steve Matthew",
+      "reporting_owner_cik": "0002065028",
+      "reporting_owner_position": "EVP, Geographies",
+      "transaction_date": "2025-07-20",
+      "transaction_shares": "12440",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "55545"
+    },
+    {
+      "id": 98,
+      "issuer_name": "SCHLUMBERGER LIMITED/NV",
+      "reporting_owner": "Jaggi Rakesh",
+      "reporting_owner_cik": "0001973065",
+      "reporting_owner_position": "Pres Digital & Integration",
+      "transaction_date": "2025-07-20",
+      "transaction_shares": "4067",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "78558"
+    },
+    {
+      "id": 99,
+      "issuer_name": "SCHLUMBERGER LIMITED/NV",
+      "reporting_owner": "Prechner Ugo",
+      "reporting_owner_cik": "0001940485",
+      "reporting_owner_position": "VP Controller",
+      "transaction_date": "2025-07-20",
+      "transaction_shares": "9330",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "20891"
+    }
+  ]
 }
