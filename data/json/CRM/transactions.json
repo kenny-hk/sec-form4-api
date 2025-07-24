@@ -1,11 +1,59 @@
 {
   "ticker": "CRM",
-  "last_updated": "2025-07-23T08:36:29.623072",
+  "last_updated": "2025-07-24T08:34:37.484564",
   "retention_years": 3,
-  "count": 5,
+  "count": 8,
   "transactions": [
     {
+      "id": 7,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Tallapragada Srinivas",
+      "reporting_owner_cik": "0001742882",
+      "reporting_owner_position": "Chief Eng/Cust Success Officer",
+      "transaction_date": "2025-07-22",
+      "transaction_shares": "1785",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "44463"
+    },
+    {
       "id": 8,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Benioff Marc",
+      "reporting_owner_cik": "0001294693",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2025-07-22",
+      "transaction_shares": "2250",
+      "transaction_price": "161.50",
+      "transaction_type": "M",
+      "shares_after_transaction": "11913821"
+    },
+    {
+      "id": 11,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Harris Parker",
+      "reporting_owner_cik": "0001294774",
+      "reporting_owner_position": "Co-Founder and CTO, Slack",
+      "transaction_date": "2025-07-22",
+      "transaction_shares": "1785",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "138609"
+    },
+    {
+      "id": 13,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Reddy Sundeep G.",
+      "reporting_owner_cik": "0001747579",
+      "reporting_owner_position": "EVP & Chief Accounting Officer",
+      "transaction_date": "2025-07-22",
+      "transaction_shares": "423",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "12447"
+    },
+    {
+      "id": 10,
       "issuer_name": "Salesforce, Inc.",
       "reporting_owner": "Benioff Marc",
       "reporting_owner_cik": "0001294693",
@@ -17,7 +65,7 @@
       "shares_after_transaction": "11913821"
     },
     {
-      "id": 6,
+      "id": 9,
       "issuer_name": "Salesforce, Inc.",
       "reporting_owner": "Benioff Marc",
       "reporting_owner_cik": "0001294693",
@@ -29,7 +77,7 @@
       "shares_after_transaction": "11913821"
     },
     {
-      "id": 9,
+      "id": 12,
       "issuer_name": "Salesforce, Inc.",
       "reporting_owner": "Benioff Marc",
       "reporting_owner_cik": "0001294693",
@@ -41,7 +89,7 @@
       "shares_after_transaction": "11913821"
     },
     {
-      "id": 5,
+      "id": 6,
       "issuer_name": "Salesforce, Inc.",
       "reporting_owner": "Benioff Marc",
       "reporting_owner_cik": "0001294693",
@@ -51,18 +99,6 @@
       "transaction_price": "161.50",
       "transaction_type": "M",
       "shares_after_transaction": "11913821"
-    },
-    {
-      "id": 7,
-      "issuer_name": "Salesforce, Inc.",
-      "reporting_owner": "Benioff Marc",
-      "reporting_owner_cik": "0001294693",
-      "reporting_owner_position": "Chair and CEO",
-      "transaction_date": "2025-07-15",
-      "transaction_shares": "2250",
-      "transaction_price": "161.50",
-      "transaction_type": "M",
-      "shares_after_transaction": "11957816"
     }
   ]
 }
