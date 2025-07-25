@@ -1,20 +1,32 @@
 {
   "ticker": "LII",
-  "last_updated": "2025-07-21T08:39:04.961855",
+  "last_updated": "2025-07-25T08:33:15.145449",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 398,
+      "id": 181,
       "issuer_name": "LENNOX INTERNATIONAL INC",
-      "reporting_owner": "Somasundaram Sivasankaran",
-      "reporting_owner_cik": "0001424543",
+      "reporting_owner": "NORRIS JOHN W III",
+      "reporting_owner_cik": "0001139032",
       "reporting_owner_position": null,
-      "transaction_date": "2025-07-11",
-      "transaction_shares": "42",
-      "transaction_price": "616.85",
-      "transaction_type": "A",
-      "shares_after_transaction": "617"
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "700",
+      "transaction_price": "660.5147",
+      "transaction_type": "S",
+      "shares_after_transaction": "200206"
+    },
+    {
+      "id": 182,
+      "issuer_name": "LENNOX INTERNATIONAL INC",
+      "reporting_owner": "Sessa Daniel M",
+      "reporting_owner_cik": "0001403680",
+      "reporting_owner_position": "EVP, Chief HR Officer",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "54",
+      "transaction_price": "658.61",
+      "transaction_type": "S",
+      "shares_after_transaction": "34302"
     }
   ]
 }
