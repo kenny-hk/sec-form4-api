@@ -1,7 +1,44 @@
 {
   "ticker": "GS",
-  "last_updated": "2025-07-25T08:33:15.145449",
+  "last_updated": "2025-07-26T08:30:56.964051",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 136,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "COLEMAN DENIS P.",
+      "reporting_owner_cik": "0001900188",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-07-25",
+      "transaction_shares": "5455",
+      "transaction_price": "723.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "22678"
+    },
+    {
+      "id": 138,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "ROGERS JOHN F.W.",
+      "reporting_owner_cik": "0001517277",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "4053",
+      "transaction_price": "717.03",
+      "transaction_type": "S",
+      "shares_after_transaction": "67716"
+    },
+    {
+      "id": 140,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "SOLOMON DAVID M",
+      "reporting_owner_cik": "0001693709",
+      "reporting_owner_position": "Chairman of the Board and CEO",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "6608",
+      "transaction_price": "712.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "126176"
+    }
+  ]
 }

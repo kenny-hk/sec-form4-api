@@ -2,11 +2,35 @@
   "ticker": "XYZ",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-25T08:33:15.145449",
-  "count": 2,
+  "last_updated": "2025-07-26T08:30:56.964051",
+  "count": 4,
   "transactions": [
     {
-      "id": 38,
+      "id": 40,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Dale Ajmere",
+      "reporting_owner_cik": "0001683645",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "500",
+      "transaction_price": "80",
+      "transaction_type": "S",
+      "shares_after_transaction": "108236"
+    },
+    {
+      "id": 43,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Prasanna Dhananjay",
+      "reporting_owner_cik": "0002047796",
+      "reporting_owner_position": "Technology + Engineering Lead",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "800",
+      "transaction_price": "80",
+      "transaction_type": "S",
+      "shares_after_transaction": "302751"
+    },
+    {
+      "id": 41,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Jennings Owen Britton",
       "reporting_owner_cik": "0002047775",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "273931"
     },
     {
-      "id": 39,
+      "id": 42,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Ahuja Amrita",
       "reporting_owner_cik": "0001765417",

@@ -1,7 +1,32 @@
 {
   "ticker": "IQV",
-  "last_updated": "2025-05-16T08:34:37.980488",
+  "last_updated": "2025-07-26T08:30:56.964051",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 63,
+      "issuer_name": "IQVIA HOLDINGS INC.",
+      "reporting_owner": "Cherofsky Keriann",
+      "reporting_owner_cik": "0001940591",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "549",
+      "transaction_price": "191.53",
+      "transaction_type": "S",
+      "shares_after_transaction": "2910"
+    },
+    {
+      "id": 64,
+      "issuer_name": "IQVIA HOLDINGS INC.",
+      "reporting_owner": "Sherbet Eric",
+      "reporting_owner_cik": "0001679512",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "11870",
+      "transaction_price": "97.20",
+      "transaction_type": "M",
+      "shares_after_transaction": "32978"
+    }
+  ]
 }

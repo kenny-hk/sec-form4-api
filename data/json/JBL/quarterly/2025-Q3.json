@@ -2,11 +2,35 @@
   "ticker": "JBL",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-25T08:33:15.145449",
-  "count": 3,
+  "last_updated": "2025-07-26T08:30:56.964051",
+  "count": 4,
   "transactions": [
     {
-      "id": 119,
+      "id": 124,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "Priestley Andrew",
+      "reporting_owner_cik": "0002025015",
+      "reporting_owner_position": "EVP, Global Business Units",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "3702.0000",
+      "transaction_price": "225.0041",
+      "transaction_type": "S",
+      "shares_after_transaction": "44833.0000"
+    },
+    {
+      "id": 126,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "McCoy Frederic E.",
+      "reporting_owner_cik": "0001917764",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2025-07-23",
+      "transaction_shares": "4500.0000",
+      "transaction_price": "223.5510",
+      "transaction_type": "S",
+      "shares_after_transaction": "124203.0000"
+    },
+    {
+      "id": 127,
       "issuer_name": "JABIL INC",
       "reporting_owner": "RAYMUND STEVEN A",
       "reporting_owner_cik": "0001196754",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "86396.0000"
     },
     {
-      "id": 118,
+      "id": 125,
       "issuer_name": "JABIL INC",
       "reporting_owner": "Priestley Andrew",
       "reporting_owner_cik": "0002025015",
@@ -28,18 +52,6 @@
       "transaction_price": "223.9800",
       "transaction_type": "F",
       "shares_after_transaction": "52317.0000"
-    },
-    {
-      "id": 117,
-      "issuer_name": "JABIL INC",
-      "reporting_owner": "Chandrasekaran Sujatha",
-      "reporting_owner_cik": "0001734598",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-17",
-      "transaction_shares": "700.0000",
-      "transaction_price": "0.0000",
-      "transaction_type": "A",
-      "shares_after_transaction": "700.0000"
     }
   ]
 }
