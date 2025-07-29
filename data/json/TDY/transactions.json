@@ -1,7 +1,32 @@
 {
   "ticker": "TDY",
-  "last_updated": "2025-07-28T08:37:32.711796",
+  "last_updated": "2025-07-29T08:36:08.092679",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 76,
+      "issuer_name": "TELEDYNE TECHNOLOGIES INC",
+      "reporting_owner": "MEHRABIAN ROBERT",
+      "reporting_owner_cik": "0001184647",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-07-28",
+      "transaction_shares": "14400",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "135036"
+    },
+    {
+      "id": 78,
+      "issuer_name": "TELEDYNE TECHNOLOGIES INC",
+      "reporting_owner": "LORNE SIMON M",
+      "reporting_owner_cik": "0001191714",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-25",
+      "transaction_shares": "4533",
+      "transaction_price": "549.2743",
+      "transaction_type": "S",
+      "shares_after_transaction": "63691"
+    }
+  ]
 }
