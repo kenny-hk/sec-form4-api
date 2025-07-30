@@ -1,7 +1,20 @@
 {
   "ticker": "AOS",
-  "last_updated": "2025-07-15T08:33:09.396881",
+  "last_updated": "2025-07-30T08:35:45.440422",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 200,
+      "issuer_name": "SMITH A O CORP",
+      "reporting_owner": "SMITH MARK D",
+      "reporting_owner_cik": "0001236626",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "2400",
+      "transaction_price": "71.36",
+      "transaction_type": "S",
+      "shares_after_transaction": "116242"
+    }
+  ]
 }
