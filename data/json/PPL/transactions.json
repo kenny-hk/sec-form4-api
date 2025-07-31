@@ -1,7 +1,44 @@
 {
   "ticker": "PPL",
-  "last_updated": "2025-07-09T08:35:05.325061",
+  "last_updated": "2025-07-31T08:35:23.696678",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 222,
+      "issuer_name": "PPL Corp",
+      "reporting_owner": "Gosman Angela K",
+      "reporting_owner_cik": "0001900734",
+      "reporting_owner_position": "EVP and CHRO",
+      "transaction_date": "2025-07-28",
+      "transaction_shares": "3177.125",
+      "transaction_price": "35.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "30008.723"
+    },
+    {
+      "id": 223,
+      "issuer_name": "PPL Corp",
+      "reporting_owner": "Bellar Lonnie E",
+      "reporting_owner_cik": "0002064034",
+      "reporting_owner_position": "EVP-Eng, Constr and Gen",
+      "transaction_date": "2025-07-28",
+      "transaction_shares": "1735",
+      "transaction_price": "35.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "30271"
+    },
+    {
+      "id": 224,
+      "issuer_name": "PPL Corp",
+      "reporting_owner": "Bonenberger David J",
+      "reporting_owner_cik": "0001913975",
+      "reporting_owner_position": "EVP & COO-Utilities",
+      "transaction_date": "2025-07-28",
+      "transaction_shares": "3851.126",
+      "transaction_price": "35.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "49411.236"
+    }
+  ]
 }

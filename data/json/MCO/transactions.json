@@ -1,20 +1,44 @@
 {
   "ticker": "MCO",
-  "last_updated": "2025-07-23T08:36:29.623072",
+  "last_updated": "2025-07-31T08:35:23.696678",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 266,
+      "id": 225,
       "issuer_name": "MOODYS CORP /DE/",
-      "reporting_owner": "Fauber Robert",
-      "reporting_owner_cik": "0001481153",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-07-15",
-      "transaction_shares": "56",
-      "transaction_price": "80.81",
+      "reporting_owner": "Heuland Noemie Clemence",
+      "reporting_owner_cik": "0001825126",
+      "reporting_owner_position": "SVP & Chief Financial Officer",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "114.431",
+      "transaction_price": "508.84",
+      "transaction_type": "S",
+      "shares_after_transaction": "2148"
+    },
+    {
+      "id": 226,
+      "issuer_name": "MOODYS CORP /DE/",
+      "reporting_owner": "West Michael L",
+      "reporting_owner_cik": "0001791243",
+      "reporting_owner_position": "President, Moody's Investors",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "139",
+      "transaction_price": "512.20",
+      "transaction_type": "S",
+      "shares_after_transaction": "9584.506"
+    },
+    {
+      "id": 227,
+      "issuer_name": "MOODYS CORP /DE/",
+      "reporting_owner": "Steele Richard G",
+      "reporting_owner_cik": "0001990258",
+      "reporting_owner_position": "SVP - General Counsel",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "727",
+      "transaction_price": "280.42",
       "transaction_type": "M",
-      "shares_after_transaction": "62075.984"
+      "shares_after_transaction": "2113"
     }
   ]
 }
