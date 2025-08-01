@@ -1,11 +1,11 @@
 {
   "ticker": "GOOGL",
-  "last_updated": "2025-07-31T08:35:23.696678",
+  "last_updated": "2025-08-01T08:35:11.542456",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 179,
+      "id": 196,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "O'Toole Amie Thuener",
       "reporting_owner_cik": "0001738007",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "18330"
     },
     {
-      "id": 215,
+      "id": 233,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "O'Toole Amie Thuener",
       "reporting_owner_cik": "0001738007",
@@ -27,6 +27,30 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "18330"
+    },
+    {
+      "id": 197,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "ARNOLD FRANCES",
+      "reporting_owner_cik": "0001665419",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "101",
+      "transaction_price": "196.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "17490"
+    },
+    {
+      "id": 234,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "ARNOLD FRANCES",
+      "reporting_owner_cik": "0001665419",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-06-30",
+      "transaction_shares": "101",
+      "transaction_price": "196.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "17490"
     }
   ]
 }

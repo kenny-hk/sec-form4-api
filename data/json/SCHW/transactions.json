@@ -1,20 +1,56 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-07-14T08:36:04.689366",
+  "last_updated": "2025-08-01T08:35:11.542456",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 205,
+      "id": 318,
       "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Schwab-Pomerantz Carolyn",
-      "reporting_owner_cik": "0001950787",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-03",
-      "transaction_shares": "14400",
-      "transaction_price": "91.5906",
+      "reporting_owner": "Wurster Richard A",
+      "reporting_owner_cik": "0001889263",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "20500",
+      "transaction_price": "99.1635",
       "transaction_type": "S",
-      "shares_after_transaction": "1491598.6599"
+      "shares_after_transaction": "157189"
+    },
+    {
+      "id": 319,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Dea Joan",
+      "reporting_owner_cik": "0001643326",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "513",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "27673"
+    },
+    {
+      "id": 320,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Murtagh Nigel J",
+      "reporting_owner_cik": "0001649599",
+      "reporting_owner_position": "Chief Risk Officer",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "24096",
+      "transaction_price": "41.98",
+      "transaction_type": "M",
+      "shares_after_transaction": "83095.2306"
+    },
+    {
+      "id": 321,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Bettinger Walter W",
+      "reporting_owner_cik": "0001296479",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "173876",
+      "transaction_price": "98.8428",
+      "transaction_type": "S",
+      "shares_after_transaction": "590734"
     }
   ]
 }

@@ -1,11 +1,35 @@
 {
   "ticker": "TMUS",
-  "last_updated": "2025-07-31T08:35:23.696678",
+  "last_updated": "2025-08-01T08:35:11.542456",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 210,
+      "id": 228,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "DEUTSCHE TELEKOM AG",
+      "reporting_owner_cik": "0000946770",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-30",
+      "transaction_shares": "4084",
+      "transaction_price": "239.1136",
+      "transaction_type": "S",
+      "shares_after_transaction": "646539320"
+    },
+    {
+      "id": 227,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "Field Callie R",
+      "reporting_owner_cik": "0001927197",
+      "reporting_owner_position": "President, Business Group",
+      "transaction_date": "2025-07-29",
+      "transaction_shares": "12300",
+      "transaction_price": "240.80",
+      "transaction_type": "S",
+      "shares_after_transaction": "110891.114"
+    },
+    {
+      "id": 226,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "646720423"
     },
     {
-      "id": 209,
+      "id": 225,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "Freier Jon",
       "reporting_owner_cik": "0001866674",
@@ -27,18 +51,6 @@
       "transaction_price": "250",
       "transaction_type": "S",
       "shares_after_transaction": "199642.752"
-    },
-    {
-      "id": 211,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "DEUTSCHE TELEKOM AG",
-      "reporting_owner_cik": "0000946770",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-22",
-      "transaction_shares": "57513",
-      "transaction_price": "233.2756",
-      "transaction_type": "S",
-      "shares_after_transaction": "646904931"
     }
   ]
 }
