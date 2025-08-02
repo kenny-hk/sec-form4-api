@@ -2,20 +2,32 @@
   "ticker": "PSX",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-16T08:33:32.760330",
-  "count": 1,
+  "last_updated": "2025-08-02T08:33:02.461822",
+  "count": 2,
   "transactions": [
     {
-      "id": 44,
+      "id": 98,
       "issuer_name": "Phillips 66",
-      "reporting_owner": "Sutherland Vanessa Allen",
-      "reporting_owner_cik": "0001772603",
-      "reporting_owner_position": "EVP, GC and Secretary",
-      "transaction_date": "2025-07-08",
-      "transaction_shares": "4393",
-      "transaction_price": "130",
-      "transaction_type": "S",
-      "shares_after_transaction": "43373"
+      "reporting_owner": "CORNELIUS SIGMUND L",
+      "reporting_owner_cik": "0001409860",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-31",
+      "transaction_shares": "500",
+      "transaction_price": "123.55",
+      "transaction_type": "P",
+      "shares_after_transaction": "21543"
+    },
+    {
+      "id": 99,
+      "issuer_name": "Phillips 66",
+      "reporting_owner": "Heim Michael A",
+      "reporting_owner_cik": "0001387730",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-30",
+      "transaction_shares": "1000",
+      "transaction_price": "125.97",
+      "transaction_type": "P",
+      "shares_after_transaction": "12043"
     }
   ]
 }
