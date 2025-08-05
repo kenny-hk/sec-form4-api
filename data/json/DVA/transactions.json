@@ -1,20 +1,32 @@
 {
   "ticker": "DVA",
-  "last_updated": "2025-07-31T08:35:23.696678",
+  "last_updated": "2025-08-05T08:36:27.749688",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 15,
+      "id": 34,
       "issuer_name": "DAVITA INC.",
-      "reporting_owner": "HEARTY JAMES O",
-      "reporting_owner_cik": "0001735907",
-      "reporting_owner_position": "Chief Compliance Officer",
-      "transaction_date": "2025-07-23",
-      "transaction_shares": "2351",
-      "transaction_price": "150",
+      "reporting_owner": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner_cik": "0001067983",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-31",
+      "transaction_shares": "1635962",
+      "transaction_price": "140.6052",
       "transaction_type": "S",
-      "shares_after_transaction": "26038"
+      "shares_after_transaction": "32160579"
+    },
+    {
+      "id": 378,
+      "issuer_name": "DAVITA INC.",
+      "reporting_owner": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner_cik": "0001067983",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-31",
+      "transaction_shares": "1635962",
+      "transaction_price": "140.6052",
+      "transaction_type": "S",
+      "shares_after_transaction": "32160579"
     }
   ]
 }

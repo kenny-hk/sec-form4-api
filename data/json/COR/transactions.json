@@ -1,20 +1,44 @@
 {
   "ticker": "COR",
-  "last_updated": "2025-07-30T08:35:45.440422",
+  "last_updated": "2025-08-05T08:36:27.749688",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 52,
+      "id": 91,
       "issuer_name": "Cencora, Inc.",
-      "reporting_owner": "COLLIS STEVEN H",
-      "reporting_owner_cik": "0001191508",
-      "reporting_owner_position": "Executive Chairman",
-      "transaction_date": "2025-07-22",
-      "transaction_shares": "12578",
-      "transaction_price": "86.09",
-      "transaction_type": "M",
-      "shares_after_transaction": "324490.665"
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "105",
+      "transaction_price": "288.35",
+      "transaction_type": "A",
+      "shares_after_transaction": "2980"
+    },
+    {
+      "id": 92,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "122",
+      "transaction_price": "288.35",
+      "transaction_type": "A",
+      "shares_after_transaction": "13373"
+    },
+    {
+      "id": 93,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Baumann Werner",
+      "reporting_owner_cik": "0001986505",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "126",
+      "transaction_price": "288.35",
+      "transaction_type": "A",
+      "shares_after_transaction": "3022"
     }
   ]
 }

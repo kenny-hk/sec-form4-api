@@ -2,11 +2,59 @@
   "ticker": "BSX",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-04T08:37:15.086788",
-  "count": 2,
+  "last_updated": "2025-08-05T08:36:27.749688",
+  "count": 5,
   "transactions": [
     {
-      "id": 313,
+      "id": 365,
+      "issuer_name": "BOSTON SCIENTIFIC CORP",
+      "reporting_owner": "Monson Jonathan",
+      "reporting_owner_cik": "0001779170",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2025-08-02",
+      "transaction_shares": "1090.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "M",
+      "shares_after_transaction": "35817.0000"
+    },
+    {
+      "id": 363,
+      "issuer_name": "BOSTON SCIENTIFIC CORP",
+      "reporting_owner": "Fitzgerald Joseph Michael",
+      "reporting_owner_cik": "0001484186",
+      "reporting_owner_position": "EVP & Group Pres, Cardiology",
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "50000.0000",
+      "transaction_price": "26.1500",
+      "transaction_type": "M",
+      "shares_after_transaction": "228342.0000"
+    },
+    {
+      "id": 364,
+      "issuer_name": "BOSTON SCIENTIFIC CORP",
+      "reporting_owner": "LUDWIG EDWARD J",
+      "reporting_owner_cik": "0001221783",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "500.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "G",
+      "shares_after_transaction": "17979.0000"
+    },
+    {
+      "id": 367,
+      "issuer_name": "BOSTON SCIENTIFIC CORP",
+      "reporting_owner": "Butcher Arthur C",
+      "reporting_owner_cik": "0001678249",
+      "reporting_owner_position": "EVP& Grp Pres, MedSurg & APAC",
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "6952.0000",
+      "transaction_price": "27.0900",
+      "transaction_type": "M",
+      "shares_after_transaction": "30552.0000"
+    },
+    {
+      "id": 366,
       "issuer_name": "BOSTON SCIENTIFIC CORP",
       "reporting_owner": "FUJIMORI YOSHIAKI",
       "reporting_owner_cik": "0001233160",
@@ -16,18 +64,6 @@
       "transaction_price": "106.9900",
       "transaction_type": "S",
       "shares_after_transaction": "2081.0000"
-    },
-    {
-      "id": 314,
-      "issuer_name": "BOSTON SCIENTIFIC CORP",
-      "reporting_owner": "LUDWIG EDWARD J",
-      "reporting_owner_cik": "0001221783",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-25",
-      "transaction_shares": "4000.0000",
-      "transaction_price": "106.0301",
-      "transaction_type": "S",
-      "shares_after_transaction": "18479.0000"
     }
   ]
 }

@@ -2,20 +2,32 @@
   "ticker": "NONE",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-07-25T08:33:15.145449",
-  "count": 1,
+  "last_updated": "2025-08-05T08:36:27.749688",
+  "count": 2,
   "transactions": [
     {
-      "id": 153,
-      "issuer_name": "Blackstone Private Real Estate Credit & Income Fund",
-      "reporting_owner": "Blackstone Holdings I L.P.",
-      "reporting_owner_cik": "0001464694",
+      "id": 274,
+      "issuer_name": "KKR Real Estate Select Trust Inc.",
+      "reporting_owner": "KKR Alternative Assets LLC",
+      "reporting_owner_cik": "0001820655",
       "reporting_owner_position": null,
-      "transaction_date": "2025-07-18",
-      "transaction_shares": "1189532.117",
-      "transaction_price": "25.22",
-      "transaction_type": "P",
-      "shares_after_transaction": "4178770.858"
+      "transaction_date": "2025-07-31",
+      "transaction_shares": "56794.818",
+      "transaction_price": "23.84",
+      "transaction_type": "J",
+      "shares_after_transaction": "10714403.042"
+    },
+    {
+      "id": 275,
+      "issuer_name": "Invesco Real Estate Income Trust Inc.",
+      "reporting_owner": "Invesco Advisers, Inc.",
+      "reporting_owner_cik": "0000020430",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-31",
+      "transaction_shares": "5778",
+      "transaction_price": "27.9293",
+      "transaction_type": "D",
+      "shares_after_transaction": "101895"
     }
   ]
 }
