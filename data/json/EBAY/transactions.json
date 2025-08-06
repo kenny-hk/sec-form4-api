@@ -1,20 +1,80 @@
 {
   "ticker": "EBAY",
-  "last_updated": "2025-07-24T08:34:37.484564",
+  "last_updated": "2025-08-06T08:36:39.376093",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
+    {
+      "id": 7,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "Loeger Julie A",
+      "reporting_owner_cik": "0001641126",
+      "reporting_owner_position": "SVP, Chief Growth Officer",
+      "transaction_date": "2025-08-04",
+      "transaction_shares": "75952",
+      "transaction_price": "93.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "53107"
+    },
     {
       "id": 2,
       "issuer_name": "EBAY INC",
-      "reporting_owner": "Sweetnam Jordan Douglas Bradley",
-      "reporting_owner_cik": "0002067199",
-      "reporting_owner_position": "SVP, Chief Commercial Officer",
-      "transaction_date": "2025-07-15",
-      "transaction_shares": "22206",
-      "transaction_price": "77.90",
+      "reporting_owner": "SHROFF MOHAK",
+      "reporting_owner_cik": "0001824865",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "246",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "23825"
+    },
+    {
+      "id": 3,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "SPENCER REBECCA",
+      "reporting_owner_cik": "0001971508",
+      "reporting_owner_position": "VP, Chief Accounting Officer",
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "515",
+      "transaction_price": "89.18",
       "transaction_type": "S",
-      "shares_after_transaction": "0"
+      "shares_after_transaction": "9319"
+    },
+    {
+      "id": 4,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "Green Logan",
+      "reporting_owner_cik": "0001677874",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "259",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "49495"
+    },
+    {
+      "id": 5,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "Rowe Zane",
+      "reporting_owner_cik": "0001444158",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "295",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "8763"
+    },
+    {
+      "id": 6,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-01",
+      "transaction_shares": "336",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "84464"
     }
   ]
 }
