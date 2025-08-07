@@ -1,7 +1,32 @@
 {
   "ticker": "ORCL",
-  "last_updated": "2025-08-04T08:37:15.086788",
+  "last_updated": "2025-08-07T08:36:38.462015",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 302,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "HENLEY JEFFREY",
+      "reporting_owner_cik": "0001206100",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2025-08-04",
+      "transaction_shares": "25000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "975576"
+    },
+    {
+      "id": 303,
+      "issuer_name": "ORACLE CORP",
+      "reporting_owner": "Smith Maria",
+      "reporting_owner_cik": "0001957369",
+      "reporting_owner_position": "EVP, Chief  Accounting Officer",
+      "transaction_date": "2025-08-04",
+      "transaction_shares": "3375",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "44182"
+    }
+  ]
 }

@@ -2,11 +2,23 @@
   "ticker": "HII",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-06T08:36:39.376093",
+  "last_updated": "2025-08-07T08:36:38.462015",
   "count": 2,
   "transactions": [
     {
-      "id": 245,
+      "id": 247,
+      "issuer_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+      "reporting_owner": "Harker Victoria D",
+      "reporting_owner_cik": "0001350579",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-05",
+      "transaction_shares": "1000",
+      "transaction_price": "268.63",
+      "transaction_type": "S",
+      "shares_after_transaction": "3379"
+    },
+    {
+      "id": 246,
       "issuer_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
       "reporting_owner": "Green Edgar A III",
       "reporting_owner_cik": "0001691442",
@@ -16,18 +28,6 @@
       "transaction_price": "265.64",
       "transaction_type": "S",
       "shares_after_transaction": "7049.64"
-    },
-    {
-      "id": 244,
-      "issuer_name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
-      "reporting_owner": "Stanage Nick L",
-      "reporting_owner_cik": "0001348489",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-29",
-      "transaction_shares": "110",
-      "transaction_price": "260.84",
-      "transaction_type": "A",
-      "shares_after_transaction": "110"
     }
   ]
 }
