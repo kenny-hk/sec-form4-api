@@ -1,11 +1,47 @@
 {
   "ticker": "SYK",
-  "last_updated": "2025-08-07T08:36:38.462015",
+  "last_updated": "2025-08-08T08:36:02.057131",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 458,
+      "id": 498,
+      "issuer_name": "STRYKER CORP",
+      "reporting_owner": "STRYKER RONDA E",
+      "reporting_owner_cik": "0001242914",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-06",
+      "transaction_shares": "34911",
+      "transaction_price": "374.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "3387197"
+    },
+    {
+      "id": 501,
+      "issuer_name": "STRYKER CORP",
+      "reporting_owner": "King Debra",
+      "reporting_owner_cik": "0002055817",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-08-05",
+      "transaction_shares": "6553",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "6553"
+    },
+    {
+      "id": 502,
+      "issuer_name": "STRYKER CORP",
+      "reporting_owner": "Fink M Kathryn",
+      "reporting_owner_cik": "0001663095",
+      "reporting_owner_position": "VP, Chief HR Officer",
+      "transaction_date": "2025-08-05",
+      "transaction_shares": "917",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "13367"
+    },
+    {
+      "id": 499,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Montagnino Kimberly Ann",
       "reporting_owner_cik": "0002063975",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "1195"
     },
     {
-      "id": 459,
+      "id": 500,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Fletcher Robert S",
       "reporting_owner_cik": "0001775075",
