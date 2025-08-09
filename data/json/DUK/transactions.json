@@ -1,7 +1,32 @@
 {
   "ticker": "DUK",
-  "last_updated": "2025-07-14T08:36:04.689366",
+  "last_updated": "2025-08-09T08:32:21.095849",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 396,
+      "issuer_name": "Duke Energy CORP",
+      "reporting_owner": "MCKEE E MARIE",
+      "reporting_owner_cik": "0001195421",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-07",
+      "transaction_shares": "1610",
+      "transaction_price": "124.88",
+      "transaction_type": "S",
+      "shares_after_transaction": "1"
+    },
+    {
+      "id": 397,
+      "issuer_name": "Duke Energy CORP",
+      "reporting_owner": "Renjel Louis E.",
+      "reporting_owner_cik": "0001861032",
+      "reporting_owner_position": "EVP&CEO Duke Energy FL&Midwest",
+      "transaction_date": "2025-08-07",
+      "transaction_shares": "1580",
+      "transaction_price": "125.5557",
+      "transaction_type": "S",
+      "shares_after_transaction": "21132"
+    }
+  ]
 }
