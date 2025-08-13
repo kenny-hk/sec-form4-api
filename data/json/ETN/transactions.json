@@ -1,11 +1,23 @@
 {
   "ticker": "ETN",
-  "last_updated": "2025-08-12T08:33:30.328920",
+  "last_updated": "2025-08-13T08:34:01.107744",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 253,
+      "id": 261,
+      "issuer_name": "Eaton Corp plc",
+      "reporting_owner": "Johnson Gerald",
+      "reporting_owner_cik": "0001772226",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-11",
+      "transaction_shares": "100",
+      "transaction_price": "361",
+      "transaction_type": "P",
+      "shares_after_transaction": "100"
+    },
+    {
+      "id": 262,
       "issuer_name": "Eaton Corp plc",
       "reporting_owner": "LEONETTI OLIVIER",
       "reporting_owner_cik": "0001618669",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "630"
     },
     {
-      "id": 252,
+      "id": 260,
       "issuer_name": "Eaton Corp plc",
       "reporting_owner": "RUIZ STERNADT PAULO",
       "reporting_owner_cik": "0001773340",

@@ -1,20 +1,32 @@
 {
   "ticker": "CMI",
-  "last_updated": "2025-07-22T08:37:06.864578",
+  "last_updated": "2025-08-13T08:34:01.107744",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 43,
+      "id": 35,
       "issuer_name": "CUMMINS INC",
-      "reporting_owner": "Tsien Matthew",
-      "reporting_owner_cik": "0001594133",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-07-14",
-      "transaction_shares": "447.0000",
-      "transaction_price": "0.0000",
-      "transaction_type": "A",
-      "shares_after_transaction": "447.0000"
+      "reporting_owner": "Peters Luther E",
+      "reporting_owner_cik": "0001912639",
+      "reporting_owner_position": "VP - Corporate Controller",
+      "transaction_date": "2025-08-08",
+      "transaction_shares": "4850.0000",
+      "transaction_price": "109.0900",
+      "transaction_type": "M",
+      "shares_after_transaction": "12543.4430"
+    },
+    {
+      "id": 36,
+      "issuer_name": "CUMMINS INC",
+      "reporting_owner": "Bush Jennifer Mary",
+      "reporting_owner_cik": "0001897517",
+      "reporting_owner_position": "VP & Pres. - Power Systems",
+      "transaction_date": "2025-08-08",
+      "transaction_shares": "520.0000",
+      "transaction_price": "388.1270",
+      "transaction_type": "S",
+      "shares_after_transaction": "15130.1670"
     }
   ]
 }
