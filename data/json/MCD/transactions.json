@@ -1,11 +1,23 @@
 {
   "ticker": "MCD",
-  "last_updated": "2025-08-13T08:34:01.107744",
+  "last_updated": "2025-08-14T08:34:40.355927",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 372,
+      "id": 352,
+      "issuer_name": "MCDONALDS CORP",
+      "reporting_owner": "Boyd Tiffanie L.",
+      "reporting_owner_cik": "0002035797",
+      "reporting_owner_position": "EVP - Chief People Officer",
+      "transaction_date": "2025-08-11",
+      "transaction_shares": "2893",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "8456.86"
+    },
+    {
+      "id": 353,
       "issuer_name": "MCDONALDS CORP",
       "reporting_owner": "Elting Lauren B",
       "reporting_owner_cik": "0001739473",
@@ -15,18 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "990"
-    },
-    {
-      "id": 373,
-      "issuer_name": "MCDONALDS CORP",
-      "reporting_owner": "Ralls-Morrison Desiree",
-      "reporting_owner_cik": "0001723937",
-      "reporting_owner_position": "EVP, Chief Legal Officer",
-      "transaction_date": "2025-08-06",
-      "transaction_shares": "2487",
-      "transaction_price": "310",
-      "transaction_type": "S",
-      "shares_after_transaction": "8754.01"
     }
   ]
 }

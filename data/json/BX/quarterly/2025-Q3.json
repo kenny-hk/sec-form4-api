@@ -2,11 +2,23 @@
   "ticker": "BX",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-13T08:34:01.107744",
+  "last_updated": "2025-08-14T08:34:40.355927",
   "count": 2,
   "transactions": [
     {
-      "id": 256,
+      "id": 233,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-11",
+      "transaction_shares": "78.587",
+      "transaction_price": "169.72",
+      "transaction_type": "P",
+      "shares_after_transaction": "38609.164"
+    },
+    {
+      "id": 234,
       "issuer_name": "Blackstone Inc.",
       "reporting_owner": "Payne David",
       "reporting_owner_cik": "0001861422",
@@ -16,18 +28,6 @@
       "transaction_price": "169.97",
       "transaction_type": "S",
       "shares_after_transaction": "54488"
-    },
-    {
-      "id": 257,
-      "issuer_name": "Blackstone Inc.",
-      "reporting_owner": "Baratta Joseph",
-      "reporting_owner_cik": "0001574706",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-08-05",
-      "transaction_shares": "73060",
-      "transaction_price": "167.19",
-      "transaction_type": "S",
-      "shares_after_transaction": "835697"
     }
   ]
 }
