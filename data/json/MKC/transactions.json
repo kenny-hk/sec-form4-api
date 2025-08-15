@@ -1,7 +1,32 @@
 {
   "ticker": "MKC",
-  "last_updated": "2025-08-14T08:34:40.355927",
+  "last_updated": "2025-08-15T08:33:14.338438",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 173,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Piper Sarah",
+      "reporting_owner_cik": "0001956835",
+      "reporting_owner_position": "Chief Human Relations Officer",
+      "transaction_date": "2025-07-21",
+      "transaction_shares": "13.68",
+      "transaction_price": "71.3165",
+      "transaction_type": "J",
+      "shares_after_transaction": "3286.672"
+    },
+    {
+      "id": 174,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foley Brendan M",
+      "reporting_owner_cik": "0001644562",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2025-07-21",
+      "transaction_shares": ".003",
+      "transaction_price": "71.3165",
+      "transaction_type": "J",
+      "shares_after_transaction": "1145.457"
+    }
+  ]
 }

@@ -2,11 +2,23 @@
   "ticker": "APO",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-14T08:34:40.355927",
+  "last_updated": "2025-08-15T08:33:14.338438",
   "count": 2,
   "transactions": [
     {
-      "id": 144,
+      "id": 146,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "Kelly Martin",
+      "reporting_owner_cik": "0001557288",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-08-12",
+      "transaction_shares": "10935",
+      "transaction_price": "144.9513",
+      "transaction_type": "S",
+      "shares_after_transaction": "336964"
+    },
+    {
+      "id": 145,
       "issuer_name": "Apollo Global Management, Inc.",
       "reporting_owner": "Zelter James C",
       "reporting_owner_cik": "0001382483",
@@ -16,18 +28,6 @@
       "transaction_price": "145.87",
       "transaction_type": "F",
       "shares_after_transaction": "5049287"
-    },
-    {
-      "id": 145,
-      "issuer_name": "Apollo Global Management, Inc.",
-      "reporting_owner": "Chatterjee Whitney",
-      "reporting_owner_cik": "0002004215",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-08-06",
-      "transaction_shares": "4500",
-      "transaction_price": "146.0331",
-      "transaction_type": "S",
-      "shares_after_transaction": "83192"
     }
   ]
 }

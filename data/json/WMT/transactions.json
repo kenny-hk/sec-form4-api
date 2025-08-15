@@ -1,20 +1,32 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-08-11T08:38:37.377659",
+  "last_updated": "2025-08-15T08:33:14.338438",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 357,
+      "id": 252,
       "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Rainey John D",
-      "reporting_owner_cik": "0001547433",
+      "reporting_owner": "Nicholas Christopher James",
+      "reporting_owner_cik": "0001992808",
       "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-08-01",
-      "transaction_shares": "2113",
-      "transaction_price": "98.2794",
-      "transaction_type": "S",
-      "shares_after_transaction": "626204.995"
+      "transaction_date": "2025-08-12",
+      "transaction_shares": "120.929",
+      "transaction_price": "103.93",
+      "transaction_type": "F",
+      "shares_after_transaction": "573702.567"
+    },
+    {
+      "id": 253,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Chojnowski David",
+      "reporting_owner_cik": "0001502438",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-08-12",
+      "transaction_shares": "250.419",
+      "transaction_price": "103.93",
+      "transaction_type": "F",
+      "shares_after_transaction": "144182.995"
     }
   ]
 }
