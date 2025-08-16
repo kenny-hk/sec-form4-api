@@ -1,7 +1,44 @@
 {
   "ticker": "WBA",
-  "last_updated": "2025-07-18T08:35:16.118791",
+  "last_updated": "2025-08-16T08:31:34.988217",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 228,
+      "issuer_name": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner": "Hanson Bryan C",
+      "reporting_owner_cik": "0001524349",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-13",
+      "transaction_shares": "16820",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "47655"
+    },
+    {
+      "id": 235,
+      "issuer_name": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner": "Polen Thomas E Jr",
+      "reporting_owner_cik": "0001621793",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-13",
+      "transaction_shares": "11774",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "28269"
+    },
+    {
+      "id": 236,
+      "issuer_name": "Walgreens Boots Alliance, Inc.",
+      "reporting_owner": "SCHLICHTING NANCY M",
+      "reporting_owner_cik": "0001376358",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-13",
+      "transaction_shares": "16820",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "37961"
+    }
+  ]
 }

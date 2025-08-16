@@ -1,11 +1,23 @@
 {
   "ticker": "MPWR",
-  "last_updated": "2025-08-15T08:33:14.338438",
+  "last_updated": "2025-08-16T08:31:34.988217",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 348,
+      "id": 374,
+      "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
+      "reporting_owner": "Zhou Jeff",
+      "reporting_owner_cik": "0001480772",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-13",
+      "transaction_shares": "400",
+      "transaction_price": "850",
+      "transaction_type": "S",
+      "shares_after_transaction": "5804"
+    },
+    {
+      "id": 376,
       "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
       "reporting_owner": "Zhou Jeff",
       "reporting_owner_cik": "0001480772",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "6204"
     },
     {
-      "id": 347,
+      "id": 375,
       "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
       "reporting_owner": "Xiao Deming",
       "reporting_owner_cik": "0001308647",
@@ -27,18 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "4336"
-    },
-    {
-      "id": 349,
-      "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
-      "reporting_owner": "Sciammas Maurice",
-      "reporting_owner_cik": "0001360833",
-      "reporting_owner_position": "EVP, WW Sales & Marketing",
-      "transaction_date": "2025-08-06",
-      "transaction_shares": "4836",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "44930"
     }
   ]
 }
