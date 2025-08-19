@@ -1,20 +1,32 @@
 {
   "ticker": "DXCM",
-  "last_updated": "2025-08-05T08:36:27.749688",
+  "last_updated": "2025-08-19T08:33:18.497826",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 35,
+      "id": 221,
       "issuer_name": "DEXCOM INC",
-      "reporting_owner": "Stern Sadie",
-      "reporting_owner_cik": "0001797971",
-      "reporting_owner_position": "EVP, Chief HR Officer",
-      "transaction_date": "2025-07-28",
-      "transaction_shares": "1466",
-      "transaction_price": "88.99",
+      "reporting_owner": "Brown Michael Jon",
+      "reporting_owner_cik": "0001899922",
+      "reporting_owner_position": "EVP, Chief Legal Officer",
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "500",
+      "transaction_price": "80.29",
       "transaction_type": "S",
-      "shares_after_transaction": "106689"
+      "shares_after_transaction": "94102"
+    },
+    {
+      "id": 222,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "FOLETTA MARK G",
+      "reporting_owner_cik": "0001236389",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "2555",
+      "transaction_price": "81.0186",
+      "transaction_type": "S",
+      "shares_after_transaction": "51316"
     }
   ]
 }

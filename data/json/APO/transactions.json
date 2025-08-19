@@ -1,11 +1,23 @@
 {
   "ticker": "APO",
-  "last_updated": "2025-08-18T08:36:41.948055",
+  "last_updated": "2025-08-19T08:33:18.497826",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 155,
+      "id": 192,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "KLEINMAN SCOTT",
+      "reporting_owner_cik": "0001272588",
+      "reporting_owner_position": "Co-President (See Remarks)",
+      "transaction_date": "2025-08-14",
+      "transaction_shares": "9279",
+      "transaction_price": "142.60",
+      "transaction_type": "A",
+      "shares_after_transaction": "65695"
+    },
+    {
+      "id": 193,
       "issuer_name": "Apollo Global Management, Inc.",
       "reporting_owner": "Kelly Martin",
       "reporting_owner_cik": "0001557288",
@@ -15,18 +27,6 @@
       "transaction_price": "144.9513",
       "transaction_type": "S",
       "shares_after_transaction": "336964"
-    },
-    {
-      "id": 154,
-      "issuer_name": "Apollo Global Management, Inc.",
-      "reporting_owner": "Zelter James C",
-      "reporting_owner_cik": "0001382483",
-      "reporting_owner_position": "President",
-      "transaction_date": "2025-08-07",
-      "transaction_shares": "2656",
-      "transaction_price": "145.87",
-      "transaction_type": "F",
-      "shares_after_transaction": "5049287"
     }
   ]
 }

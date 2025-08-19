@@ -1,20 +1,32 @@
 {
   "ticker": "AEP",
-  "last_updated": "2025-08-11T08:38:37.377659",
+  "last_updated": "2025-08-19T08:33:18.497826",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 533,
+      "id": 456,
       "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
-      "reporting_owner": "Fehrman William",
-      "reporting_owner_cik": "0002006412",
-      "reporting_owner_position": "CEO and President",
-      "transaction_date": "2025-08-01",
-      "transaction_shares": "6193",
-      "transaction_price": "113.58",
-      "transaction_type": "F",
-      "shares_after_transaction": "73174"
+      "reporting_owner": "Ferneau Kelly J",
+      "reporting_owner_cik": "0002043394",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "3428",
+      "transaction_price": "111.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "7025"
+    },
+    {
+      "id": 457,
+      "issuer_name": "AMERICAN ELECTRIC POWER CO INC",
+      "reporting_owner": "FOWKE BENJAMIN G S III",
+      "reporting_owner_cik": "0001206908",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "5000",
+      "transaction_price": "111.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "45898"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "MSFT",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-18T08:36:41.948055",
+  "last_updated": "2025-08-19T08:33:18.497826",
   "count": 2,
   "transactions": [
     {
-      "id": 415,
+      "id": 444,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Coleman Amy",
+      "reporting_owner_cik": "0002062356",
+      "reporting_owner_position": "EVP, Chief Human Resources Off",
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "88.645",
+      "transaction_price": "522.48",
+      "transaction_type": "F",
+      "shares_after_transaction": "42453.3663"
+    },
+    {
+      "id": 445,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Numoto Takeshi",
       "reporting_owner_cik": "0001899931",
@@ -16,18 +28,6 @@
       "transaction_price": "525.555",
       "transaction_type": "S",
       "shares_after_transaction": "41929.9235"
-    },
-    {
-      "id": 416,
-      "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "SMITH BRADFORD L",
-      "reporting_owner_cik": "0001193119",
-      "reporting_owner_position": "Vice Chair and President",
-      "transaction_date": "2025-08-11",
-      "transaction_shares": "20000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "451060.9943"
     }
   ]
 }
