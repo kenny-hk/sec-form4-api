@@ -1,20 +1,32 @@
 {
   "ticker": "LIN",
-  "last_updated": "2025-08-15T08:33:14.338438",
+  "last_updated": "2025-08-20T08:34:36.172849",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 351,
+      "id": 502,
+      "issuer_name": "LINDE PLC",
+      "reporting_owner": "Enders Thomas",
+      "reporting_owner_cik": "0001757262",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "2500",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "10594.803"
+    },
+    {
+      "id": 503,
       "issuer_name": "LINDE PLC",
       "reporting_owner": "ANGEL STEPHEN F",
       "reporting_owner_cik": "0001190775",
       "reporting_owner_position": null,
-      "transaction_date": "2025-08-07",
-      "transaction_shares": "125000",
-      "transaction_price": "118.71",
-      "transaction_type": "M",
-      "shares_after_transaction": "605542.502"
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "25000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "455542.502"
     }
   ]
 }

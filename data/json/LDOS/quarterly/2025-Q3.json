@@ -2,11 +2,23 @@
   "ticker": "LDOS",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-19T08:33:18.497826",
+  "last_updated": "2025-08-20T08:34:36.172849",
   "count": 3,
   "transactions": [
     {
-      "id": 91,
+      "id": 118,
+      "issuer_name": "Leidos Holdings, Inc.",
+      "reporting_owner": "Hull Stephen Edward",
+      "reporting_owner_cik": "0002002273",
+      "reporting_owner_position": "Sector President",
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "5971",
+      "transaction_price": "62.43",
+      "transaction_type": "M",
+      "shares_after_transaction": "32451.9809"
+    },
+    {
+      "id": 117,
       "issuer_name": "Leidos Holdings, Inc.",
       "reporting_owner": "Dahlberg Gregory R",
       "reporting_owner_cik": "0001682434",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "22837"
     },
     {
-      "id": 92,
+      "id": 119,
       "issuer_name": "Leidos Holdings, Inc.",
       "reporting_owner": "May Gary Stephen",
       "reporting_owner_cik": "0001635110",
@@ -28,18 +40,6 @@
       "transaction_price": "178.0522",
       "transaction_type": "S",
       "shares_after_transaction": "10137"
-    },
-    {
-      "id": 90,
-      "issuer_name": "Leidos Holdings, Inc.",
-      "reporting_owner": "Hull Stephen Edward",
-      "reporting_owner_cik": "0002002273",
-      "reporting_owner_position": "Sector President",
-      "transaction_date": "2025-08-08",
-      "transaction_shares": "7526",
-      "transaction_price": "176.3855",
-      "transaction_type": "S",
-      "shares_after_transaction": "26480.9809"
     }
   ]
 }

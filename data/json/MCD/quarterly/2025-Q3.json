@@ -2,11 +2,23 @@
   "ticker": "MCD",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-19T08:33:18.497826",
+  "last_updated": "2025-08-20T08:34:36.172849",
   "count": 2,
   "transactions": [
     {
-      "id": 384,
+      "id": 460,
+      "issuer_name": "MCDONALDS CORP",
+      "reporting_owner": "Banner Jonathan",
+      "reporting_owner_cik": "0001943551",
+      "reporting_owner_position": "EVP - Chief Impact Officer",
+      "transaction_date": "2025-08-19",
+      "transaction_shares": "1000",
+      "transaction_price": "310",
+      "transaction_type": "S",
+      "shares_after_transaction": "98.66"
+    },
+    {
+      "id": 459,
       "issuer_name": "MCDONALDS CORP",
       "reporting_owner": "Boyd Tiffanie L.",
       "reporting_owner_cik": "0002035797",
@@ -16,18 +28,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "8456.86"
-    },
-    {
-      "id": 385,
-      "issuer_name": "MCDONALDS CORP",
-      "reporting_owner": "Elting Lauren B",
-      "reporting_owner_cik": "0001739473",
-      "reporting_owner_position": "VP - CAO and Corp Controller",
-      "transaction_date": "2025-08-07",
-      "transaction_shares": "990",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "990"
     }
   ]
 }

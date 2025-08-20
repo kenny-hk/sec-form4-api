@@ -2,11 +2,35 @@
   "ticker": "CAT",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-19T08:33:18.497826",
-  "count": 1,
+  "last_updated": "2025-08-20T08:34:36.172849",
+  "count": 3,
   "transactions": [
     {
-      "id": 62,
+      "id": 90,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "MacLennan David",
+      "reporting_owner_cik": "0001498535",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "500",
+      "transaction_price": "407.76",
+      "transaction_type": "A",
+      "shares_after_transaction": "7641"
+    },
+    {
+      "id": 92,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "SCHWAB SUSAN C",
+      "reporting_owner_cik": "0001202958",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-15",
+      "transaction_shares": "2324",
+      "transaction_price": "410.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "6917"
+    },
+    {
+      "id": 91,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Kaiser Jason",
       "reporting_owner_cik": "0002005183",
