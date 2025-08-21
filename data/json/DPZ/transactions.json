@@ -1,20 +1,32 @@
 {
   "ticker": "DPZ",
-  "last_updated": "2025-07-17T08:33:50.624950",
+  "last_updated": "2025-08-21T08:33:52.859182",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 210,
+      "id": 185,
       "issuer_name": "DOMINOS PIZZA INC",
-      "reporting_owner": "PITTENGER MAUREEN",
-      "reporting_owner_cik": "0002028542",
-      "reporting_owner_position": "EVP, Chief HR Officer",
-      "transaction_date": "2025-07-08",
-      "transaction_shares": "349",
-      "transaction_price": "459.43",
-      "transaction_type": "F",
-      "shares_after_transaction": "2700.480"
+      "reporting_owner": "GOLDMAN JAMES A",
+      "reporting_owner_cik": "0001194070",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "700",
+      "transaction_price": "451.279",
+      "transaction_type": "S",
+      "shares_after_transaction": "3684"
+    },
+    {
+      "id": 186,
+      "issuer_name": "DOMINOS PIZZA INC",
+      "reporting_owner": "WEINER RUSSELL J",
+      "reporting_owner_cik": "0001622458",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "1021",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "33548.958"
     }
   ]
 }

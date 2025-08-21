@@ -1,11 +1,35 @@
 {
   "ticker": "TMUS",
-  "last_updated": "2025-08-20T08:34:36.172849",
+  "last_updated": "2025-08-21T08:33:52.859182",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 26,
+      "id": 28,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "DEUTSCHE TELEKOM AG",
+      "reporting_owner_cik": "0000946770",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "8441",
+      "transaction_price": "254.834",
+      "transaction_type": "S",
+      "shares_after_transaction": "636193443"
+    },
+    {
+      "id": 29,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "SIEVERT G MICHAEL",
+      "reporting_owner_cik": "0001182438",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "22500",
+      "transaction_price": "255.58",
+      "transaction_type": "S",
+      "shares_after_transaction": "358721.576"
+    },
+    {
+      "id": 31,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "Katz Michael J.",
       "reporting_owner_cik": "0001867492",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "158702.521"
     },
     {
-      "id": 25,
+      "id": 30,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",

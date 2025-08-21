@@ -1,11 +1,35 @@
 {
   "ticker": "DAY",
-  "last_updated": "2025-08-20T08:34:36.172849",
+  "last_updated": "2025-08-21T08:33:52.859182",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 499,
+      "id": 517,
+      "issuer_name": "Dayforce, Inc.",
+      "reporting_owner": "Jacobs Jeffrey Scott",
+      "reporting_owner_cik": "0001809266",
+      "reporting_owner_position": "Head of Acct & Fin Reporting",
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "700",
+      "transaction_price": "66.10",
+      "transaction_type": "S",
+      "shares_after_transaction": "49754"
+    },
+    {
+      "id": 518,
+      "issuer_name": "Dayforce, Inc.",
+      "reporting_owner": "McDonald William Everett",
+      "reporting_owner_cik": "0001866735",
+      "reporting_owner_position": "EVP, CLO, & Secretary",
+      "transaction_date": "2025-08-18",
+      "transaction_shares": "3000",
+      "transaction_price": "22",
+      "transaction_type": "M",
+      "shares_after_transaction": "106684"
+    },
+    {
+      "id": 516,
       "issuer_name": "Dayforce, Inc.",
       "reporting_owner": "Holdridge Stephen H.",
       "reporting_owner_cik": "0001722522",
