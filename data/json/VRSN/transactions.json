@@ -1,11 +1,35 @@
 {
   "ticker": "VRSN",
-  "last_updated": "2025-08-21T08:33:52.859182",
+  "last_updated": "2025-08-22T08:35:18.046583",
   "retention_years": 3,
-  "count": 5,
+  "count": 6,
   "transactions": [
     {
-      "id": 155,
+      "id": 150,
+      "issuer_name": "VERISIGN INC/CA",
+      "reporting_owner": "TOMLINSON TIMOTHY",
+      "reporting_owner_cik": "0001416332",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "700",
+      "transaction_price": "270",
+      "transaction_type": "S",
+      "shares_after_transaction": "15284"
+    },
+    {
+      "id": 149,
+      "issuer_name": "VERISIGN INC/CA",
+      "reporting_owner": "BIDZOS D JAMES",
+      "reporting_owner_cik": "0001204816",
+      "reporting_owner_position": "Exec. Chairman, Pres, & CEO",
+      "transaction_date": "2025-08-19",
+      "transaction_shares": "1800",
+      "transaction_price": "267.3722",
+      "transaction_type": "S",
+      "shares_after_transaction": "501503.9644"
+    },
+    {
+      "id": 147,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "CALYS JOHN",
       "reporting_owner_cik": "0001530819",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "25798.2575"
     },
     {
-      "id": 156,
+      "id": 148,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "McPherson Danny R",
       "reporting_owner_cik": "0001940987",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "31514.2428"
     },
     {
-      "id": 157,
+      "id": 151,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "Indelicarto Thomas C",
       "reporting_owner_cik": "0001624651",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "36608.8051"
     },
     {
-      "id": 158,
+      "id": 152,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "BIDZOS D JAMES",
       "reporting_owner_cik": "0001204816",
@@ -51,18 +75,6 @@
       "transaction_price": "269.89",
       "transaction_type": "F",
       "shares_after_transaction": "504356.6089"
-    },
-    {
-      "id": 154,
-      "issuer_name": "VERISIGN INC/CA",
-      "reporting_owner": "BIDZOS D JAMES",
-      "reporting_owner_cik": "0001204816",
-      "reporting_owner_position": "Exec. Chairman, Pres, & CEO",
-      "transaction_date": "2025-08-12",
-      "transaction_shares": "2100",
-      "transaction_price": "262.8028",
-      "transaction_type": "S",
-      "shares_after_transaction": "511671.6215"
     }
   ]
 }
