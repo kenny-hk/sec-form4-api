@@ -1,7 +1,32 @@
 {
   "ticker": "EL",
-  "last_updated": "2025-07-18T08:35:16.118791",
+  "last_updated": "2025-08-26T08:36:09.557864",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 150,
+      "issuer_name": "ESTEE LAUDER COMPANIES INC",
+      "reporting_owner": "BARSHEFSKY CHARLENE",
+      "reporting_owner_cik": "0001145766",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-22",
+      "transaction_shares": "3972",
+      "transaction_price": "84.35",
+      "transaction_type": "M",
+      "shares_after_transaction": "53771.528"
+    },
+    {
+      "id": 149,
+      "issuer_name": "ESTEE LAUDER COMPANIES INC",
+      "reporting_owner": "LAUDER JANE",
+      "reporting_owner_cik": "0001008091",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-21",
+      "transaction_shares": "15699",
+      "transaction_price": "77.35",
+      "transaction_type": "M",
+      "shares_after_transaction": "74462"
+    }
+  ]
 }
