@@ -1,11 +1,23 @@
 {
   "ticker": "NUE",
-  "last_updated": "2025-08-26T08:36:09.557864",
+  "last_updated": "2025-08-27T08:32:00.314597",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 501,
+      "id": 346,
+      "issuer_name": "NUCOR CORP",
+      "reporting_owner": "Keller Michael D",
+      "reporting_owner_cik": "0001491394",
+      "reporting_owner_position": "Vice Pres. and Corp. Contro",
+      "transaction_date": "2025-08-22",
+      "transaction_shares": "6000",
+      "transaction_price": "148.41",
+      "transaction_type": "S",
+      "shares_after_transaction": "22551.71"
+    },
+    {
+      "id": 345,
       "issuer_name": "NUCOR CORP",
       "reporting_owner": "Needham Daniel R.",
       "reporting_owner_cik": "0001843254",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "92179.37"
     },
     {
-      "id": 502,
+      "id": 347,
       "issuer_name": "NUCOR CORP",
       "reporting_owner": "QUERY KENNETH REX",
       "reporting_owner_cik": "0001181114",

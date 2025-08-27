@@ -2,11 +2,23 @@
   "ticker": "TMUS",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-26T08:36:09.557864",
+  "last_updated": "2025-08-27T08:32:00.314597",
   "count": 4,
   "transactions": [
     {
-      "id": 22,
+      "id": 14,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "Drobac Daniel James",
+      "reporting_owner_cik": "0002066499",
+      "reporting_owner_position": "VP & Chief Accounting Officer",
+      "transaction_date": "2025-08-25",
+      "transaction_shares": "215.105",
+      "transaction_price": "251.74",
+      "transaction_type": "F",
+      "shares_after_transaction": "32688.49"
+    },
+    {
+      "id": 15,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "635965747"
     },
     {
-      "id": 20,
+      "id": 12,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "636193443"
     },
     {
-      "id": 21,
+      "id": 13,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "SIEVERT G MICHAEL",
       "reporting_owner_cik": "0001182438",
@@ -40,18 +52,6 @@
       "transaction_price": "255.58",
       "transaction_type": "S",
       "shares_after_transaction": "358721.576"
-    },
-    {
-      "id": 23,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "Katz Michael J.",
-      "reporting_owner_cik": "0001867492",
-      "reporting_owner_position": "Pres, Mkting Stgy & Prods",
-      "transaction_date": "2025-08-15",
-      "transaction_shares": "2500",
-      "transaction_price": "251.12",
-      "transaction_type": "S",
-      "shares_after_transaction": "158702.521"
     }
   ]
 }
