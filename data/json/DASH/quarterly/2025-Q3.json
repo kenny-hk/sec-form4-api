@@ -2,11 +2,35 @@
   "ticker": "DASH",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-27T08:32:00.314597",
-  "count": 9,
+  "last_updated": "2025-08-28T08:32:03.510248",
+  "count": 11,
   "transactions": [
     {
-      "id": 163,
+      "id": 279,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Yandell Keith",
+      "reporting_owner_cik": "0001833552",
+      "reporting_owner_position": "CHIEF BUSINESS OFFICER",
+      "transaction_date": "2025-08-25",
+      "transaction_shares": "200",
+      "transaction_price": "243.385",
+      "transaction_type": "S",
+      "shares_after_transaction": "98554"
+    },
+    {
+      "id": 283,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Adarkar Prabir",
+      "reporting_owner_cik": "0001832612",
+      "reporting_owner_position": "PRESIDENT AND COO",
+      "transaction_date": "2025-08-25",
+      "transaction_shares": "30000",
+      "transaction_price": "7.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "956428"
+    },
+    {
+      "id": 280,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Sherringham Tia",
       "reporting_owner_cik": "0001899688",
@@ -18,79 +42,19 @@
       "shares_after_transaction": "119792"
     },
     {
-      "id": 162,
+      "id": 276,
       "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Xu Tony",
-      "reporting_owner_cik": "0001832617",
-      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "282992",
-      "transaction_price": "238.098",
-      "transaction_type": "S",
-      "shares_after_transaction": "237458"
-    },
-    {
-      "id": 164,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Lee Gordon S",
-      "reporting_owner_cik": "0001635648",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "2655",
-      "transaction_price": "238.098",
-      "transaction_type": "S",
-      "shares_after_transaction": "91020"
-    },
-    {
-      "id": 165,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Yandell Keith",
-      "reporting_owner_cik": "0001833552",
-      "reporting_owner_position": "CHIEF BUSINESS OFFICER",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "4880",
-      "transaction_price": "238.098",
-      "transaction_type": "S",
-      "shares_after_transaction": "98898"
-    },
-    {
-      "id": 166,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Sherringham Tia",
-      "reporting_owner_cik": "0001899688",
-      "reporting_owner_position": "GENERAL COUNSEL AND SECRETARY",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "9152",
-      "transaction_price": "238.098",
-      "transaction_type": "S",
-      "shares_after_transaction": "120362"
-    },
-    {
-      "id": 167,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Fang Andy",
-      "reporting_owner_cik": "0001832390",
+      "reporting_owner": "Tang Stanley",
+      "reporting_owner_cik": "0001832614",
       "reporting_owner_position": null,
       "transaction_date": "2025-08-20",
       "transaction_shares": "1227",
       "transaction_price": "238.098",
       "transaction_type": "S",
-      "shares_after_transaction": "21318"
+      "shares_after_transaction": "24843"
     },
     {
-      "id": 168,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "15944",
-      "transaction_price": "238.098",
-      "transaction_type": "S",
-      "shares_after_transaction": "228961"
-    },
-    {
-      "id": 169,
+      "id": 277,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Adarkar Prabir",
       "reporting_owner_cik": "0001832612",
@@ -102,16 +66,76 @@
       "shares_after_transaction": "926893"
     },
     {
-      "id": 170,
+      "id": 278,
       "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Tang Stanley",
-      "reporting_owner_cik": "0001832614",
+      "reporting_owner": "Yandell Keith",
+      "reporting_owner_cik": "0001833552",
+      "reporting_owner_position": "CHIEF BUSINESS OFFICER",
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "4880",
+      "transaction_price": "238.098",
+      "transaction_type": "S",
+      "shares_after_transaction": "98898"
+    },
+    {
+      "id": 281,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Xu Tony",
+      "reporting_owner_cik": "0001832617",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "282992",
+      "transaction_price": "238.098",
+      "transaction_type": "S",
+      "shares_after_transaction": "237458"
+    },
+    {
+      "id": 282,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Sherringham Tia",
+      "reporting_owner_cik": "0001899688",
+      "reporting_owner_position": "GENERAL COUNSEL AND SECRETARY",
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "9152",
+      "transaction_price": "238.098",
+      "transaction_type": "S",
+      "shares_after_transaction": "120362"
+    },
+    {
+      "id": 284,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Inukonda Ravi",
+      "reporting_owner_cik": "0001849709",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "15944",
+      "transaction_price": "238.098",
+      "transaction_type": "S",
+      "shares_after_transaction": "228961"
+    },
+    {
+      "id": 285,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Lee Gordon S",
+      "reporting_owner_cik": "0001635648",
+      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
+      "transaction_date": "2025-08-20",
+      "transaction_shares": "2655",
+      "transaction_price": "238.098",
+      "transaction_type": "S",
+      "shares_after_transaction": "91020"
+    },
+    {
+      "id": 286,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Fang Andy",
+      "reporting_owner_cik": "0001832390",
       "reporting_owner_position": null,
       "transaction_date": "2025-08-20",
       "transaction_shares": "1227",
       "transaction_price": "238.098",
       "transaction_type": "S",
-      "shares_after_transaction": "24843"
+      "shares_after_transaction": "21318"
     }
   ]
 }

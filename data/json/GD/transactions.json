@@ -1,11 +1,35 @@
 {
   "ticker": "GD",
-  "last_updated": "2025-08-27T08:32:00.314597",
+  "last_updated": "2025-08-28T08:32:03.510248",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 417,
+      "id": 65,
+      "issuer_name": "GENERAL DYNAMICS CORP",
+      "reporting_owner": "Schumacher Laura J",
+      "reporting_owner_cik": "0001319245",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-25",
+      "transaction_shares": "3220",
+      "transaction_price": "135.85",
+      "transaction_type": "M",
+      "shares_after_transaction": "14873"
+    },
+    {
+      "id": 66,
+      "issuer_name": "GENERAL DYNAMICS CORP",
+      "reporting_owner": "Brady Christopher J",
+      "reporting_owner_cik": "0001762314",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2025-08-25",
+      "transaction_shares": "8150",
+      "transaction_price": "135.85",
+      "transaction_type": "M",
+      "shares_after_transaction": "30968"
+    },
+    {
+      "id": 64,
       "issuer_name": "GENERAL DYNAMICS CORP",
       "reporting_owner": "Malcolm Mark",
       "reporting_owner_cik": "0001491662",
@@ -15,18 +39,6 @@
       "transaction_price": "140.87",
       "transaction_type": "M",
       "shares_after_transaction": "11396"
-    },
-    {
-      "id": 418,
-      "issuer_name": "GENERAL DYNAMICS CORP",
-      "reporting_owner": "NOVAKOVIC PHEBE N",
-      "reporting_owner_cik": "0001222195",
-      "reporting_owner_position": "Chairman and CEO",
-      "transaction_date": "2025-08-18",
-      "transaction_shares": "10517",
-      "transaction_price": "167.61",
-      "transaction_type": "M",
-      "shares_after_transaction": "780124"
     }
   ]
 }
