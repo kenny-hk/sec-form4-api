@@ -2,11 +2,23 @@
   "ticker": "STT",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-28T08:32:03.510248",
+  "last_updated": "2025-08-29T08:31:43.820567",
   "count": 2,
   "transactions": [
     {
-      "id": 334,
+      "id": 337,
+      "issuer_name": "STATE STREET CORP",
+      "reporting_owner": "RICHARDS MICHAEL L",
+      "reporting_owner_cik": "0001807269",
+      "reporting_owner_position": "EVP and Senior Advisor",
+      "transaction_date": "2025-08-26",
+      "transaction_shares": "1000",
+      "transaction_price": "115.17",
+      "transaction_type": "S",
+      "shares_after_transaction": "40126"
+    },
+    {
+      "id": 338,
       "issuer_name": "STATE STREET CORP",
       "reporting_owner": "O HANLEY RONALD P",
       "reporting_owner_cik": "0001180495",
@@ -16,18 +28,6 @@
       "transaction_price": "112.39",
       "transaction_type": "S",
       "shares_after_transaction": "244433"
-    },
-    {
-      "id": 333,
-      "issuer_name": "STATE STREET CORP",
-      "reporting_owner": "Schaefer Elizabeth",
-      "reporting_owner_cik": "0001716132",
-      "reporting_owner_position": "SVP, Chief Accounting Officer",
-      "transaction_date": "2025-08-19",
-      "transaction_shares": "1576",
-      "transaction_price": "111.07",
-      "transaction_type": "S",
-      "shares_after_transaction": "5432"
     }
   ]
 }
