@@ -1,11 +1,35 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-08-29T08:31:43.820567",
+  "last_updated": "2025-08-30T08:26:54.367679",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 332,
+      "id": 289,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Morgan Peter J. III",
+      "reporting_owner_cik": "0001792910",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2025-08-27",
+      "transaction_shares": "2203",
+      "transaction_price": "46.39",
+      "transaction_type": "M",
+      "shares_after_transaction": "2203"
+    },
+    {
+      "id": 292,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Beatty Jonathan S",
+      "reporting_owner_cik": "0002028977",
+      "reporting_owner_position": "MD, Head of Advisor Services",
+      "transaction_date": "2025-08-27",
+      "transaction_shares": "3296",
+      "transaction_price": "97.18",
+      "transaction_type": "S",
+      "shares_after_transaction": "11923"
+    },
+    {
+      "id": 290,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "56467949"
     },
     {
-      "id": 333,
+      "id": 291,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab-Pomerantz Carolyn",
       "reporting_owner_cik": "0001950787",

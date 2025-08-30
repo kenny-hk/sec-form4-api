@@ -1,11 +1,23 @@
 {
   "ticker": "LDOS",
-  "last_updated": "2025-08-29T08:31:43.820567",
+  "last_updated": "2025-08-30T08:26:54.367679",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 152,
+      "id": 150,
+      "issuer_name": "Leidos Holdings, Inc.",
+      "reporting_owner": "Geer Noel B",
+      "reporting_owner_cik": "0001216858",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-27",
+      "transaction_shares": "3345",
+      "transaction_price": "75.02",
+      "transaction_type": "M",
+      "shares_after_transaction": "37018.8435"
+    },
+    {
+      "id": 149,
       "issuer_name": "Leidos Holdings, Inc.",
       "reporting_owner": "Stevens Roy E",
       "reporting_owner_cik": "0001755314",
@@ -15,18 +27,6 @@
       "transaction_price": "62.43",
       "transaction_type": "M",
       "shares_after_transaction": "57470"
-    },
-    {
-      "id": 153,
-      "issuer_name": "Leidos Holdings, Inc.",
-      "reporting_owner": "Hull Stephen Edward",
-      "reporting_owner_cik": "0002002273",
-      "reporting_owner_position": "Sector President",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "12890",
-      "transaction_price": "178.2735",
-      "transaction_type": "S",
-      "shares_after_transaction": "26369.9809"
     }
   ]
 }

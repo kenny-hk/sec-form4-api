@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2025-08-29T08:31:43.820567",
+  "last_updated": "2025-08-30T08:26:54.367679",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 270,
+      "id": 234,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Farooqui Duriya M",
+      "reporting_owner_cik": "0001699994",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-27",
+      "transaction_shares": "2036",
+      "transaction_price": "178.34",
+      "transaction_type": "S",
+      "shares_after_transaction": "14299"
+    },
+    {
+      "id": 236,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Surdykowski Andrew J",
       "reporting_owner_cik": "0001755922",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "50143"
     },
     {
-      "id": 269,
+      "id": 235,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Tirinnanzi Martha A",
       "reporting_owner_cik": "0001916305",
@@ -27,18 +39,6 @@
       "transaction_price": "179.76",
       "transaction_type": "S",
       "shares_after_transaction": "3519"
-    },
-    {
-      "id": 271,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Gardiner Warren",
-      "reporting_owner_cik": "0001855007",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "1570",
-      "transaction_price": "178.45",
-      "transaction_type": "S",
-      "shares_after_transaction": "22106"
     }
   ]
 }

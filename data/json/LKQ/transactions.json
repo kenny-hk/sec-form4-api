@@ -1,11 +1,23 @@
 {
   "ticker": "LKQ",
-  "last_updated": "2025-08-29T08:31:43.820567",
+  "last_updated": "2025-08-30T08:26:54.367679",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 250,
+      "id": 211,
+      "issuer_name": "LKQ CORP",
+      "reporting_owner": "Urbain Xavier",
+      "reporting_owner_cik": "0001796256",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-28",
+      "transaction_shares": "15000",
+      "transaction_price": "32.1171",
+      "transaction_type": "P",
+      "shares_after_transaction": "33669.3"
+    },
+    {
+      "id": 212,
       "issuer_name": "LKQ CORP",
       "reporting_owner": "Jude Justin L",
       "reporting_owner_cik": "0001648327",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "286446.424"
     },
     {
-      "id": 251,
+      "id": 213,
       "issuer_name": "LKQ CORP",
       "reporting_owner": "CLARKE ANDREW C",
       "reporting_owner_cik": "0001182292",
