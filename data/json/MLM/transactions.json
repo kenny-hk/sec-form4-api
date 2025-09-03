@@ -1,20 +1,44 @@
 {
   "ticker": "MLM",
-  "last_updated": "2025-08-18T08:36:41.948055",
+  "last_updated": "2025-09-03T08:31:27.443448",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 63,
+      "id": 197,
       "issuer_name": "MARTIN MARIETTA MATERIALS INC",
-      "reporting_owner": "PEREZ LAREE E",
-      "reporting_owner_cik": "0001243153",
+      "reporting_owner": "WAJSGRAS DAVID C",
+      "reporting_owner_cik": "0001193800",
       "reporting_owner_position": null,
-      "transaction_date": "2025-08-08",
-      "transaction_shares": "1038",
-      "transaction_price": "613.32",
-      "transaction_type": "S",
-      "shares_after_transaction": "15417"
+      "transaction_date": "2025-08-29",
+      "transaction_shares": "61",
+      "transaction_price": "616.40",
+      "transaction_type": "A",
+      "shares_after_transaction": "4529"
+    },
+    {
+      "id": 198,
+      "issuer_name": "MARTIN MARIETTA MATERIALS INC",
+      "reporting_owner": "KORALESKI JOHN J",
+      "reporting_owner_cik": "0001200010",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-29",
+      "transaction_shares": "76",
+      "transaction_price": "616.40",
+      "transaction_type": "A",
+      "shares_after_transaction": "8678"
+    },
+    {
+      "id": 199,
+      "issuer_name": "MARTIN MARIETTA MATERIALS INC",
+      "reporting_owner": "Pike Thomas",
+      "reporting_owner_cik": "0001471570",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-29",
+      "transaction_shares": "51",
+      "transaction_price": "616.40",
+      "transaction_type": "A",
+      "shares_after_transaction": "4493"
     }
   ]
 }

@@ -1,20 +1,32 @@
 {
   "ticker": "MCD",
-  "last_updated": "2025-08-27T08:32:00.314597",
+  "last_updated": "2025-09-03T08:31:27.443448",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 307,
+      "id": 56,
       "issuer_name": "MCDONALDS CORP",
       "reporting_owner": "Flatley Edith Morgan",
       "reporting_owner_cik": "0001962944",
       "reporting_owner_position": "EVP - Global CMO",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "4692",
-      "transaction_price": "157.79",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "1000",
+      "transaction_price": "315",
+      "transaction_type": "S",
+      "shares_after_transaction": "6857.56"
+    },
+    {
+      "id": 55,
+      "issuer_name": "MCDONALDS CORP",
+      "reporting_owner": "Rice Brian S",
+      "reporting_owner_cik": "0001767478",
+      "reporting_owner_position": "EVP-Global Chief Info. Officer",
+      "transaction_date": "2025-08-31",
+      "transaction_shares": "5508",
+      "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "12573.56"
+      "shares_after_transaction": "10572.09"
     }
   ]
 }

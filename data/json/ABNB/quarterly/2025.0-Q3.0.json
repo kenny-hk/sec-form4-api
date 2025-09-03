@@ -2,20 +2,32 @@
   "ticker": "ABNB",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-01T08:34:33.749403",
-  "count": 1,
+  "last_updated": "2025-09-03T08:31:27.443448",
+  "count": 2,
   "transactions": [
     {
-      "id": 183,
+      "id": 174,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "BALOGH ARISTOTLE N",
       "reporting_owner_cik": "0001216924",
       "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-08-21",
+      "transaction_date": "2025-08-28",
       "transaction_shares": "600",
-      "transaction_price": "124.96",
+      "transaction_price": "130.19",
       "transaction_type": "S",
-      "shares_after_transaction": "202005.973"
+      "shares_after_transaction": "201405.973"
+    },
+    {
+      "id": 176,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-08-28",
+      "transaction_shares": "1910500",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "1910515"
     }
   ]
 }

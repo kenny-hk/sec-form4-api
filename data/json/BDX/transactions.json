@@ -1,20 +1,32 @@
 {
   "ticker": "BDX",
-  "last_updated": "2025-09-02T08:32:53.813002",
+  "last_updated": "2025-09-03T08:31:27.443448",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 72,
+      "id": 105,
       "issuer_name": "BECTON DICKINSON & CO",
-      "reporting_owner": "Feld Michael",
-      "reporting_owner_cik": "0002034349",
-      "reporting_owner_position": "EVP & President, Life Sciences",
-      "transaction_date": "2025-08-22",
-      "transaction_shares": "57",
-      "transaction_price": "197.99",
-      "transaction_type": "S",
-      "shares_after_transaction": "8360"
+      "reporting_owner": "Byrd Richard",
+      "reporting_owner_cik": "0001945298",
+      "reporting_owner_position": "EVP & President Interventional",
+      "transaction_date": "2025-09-01",
+      "transaction_shares": "216",
+      "transaction_price": "0",
+      "transaction_type": "F",
+      "shares_after_transaction": "6736"
+    },
+    {
+      "id": 106,
+      "issuer_name": "BECTON DICKINSON & CO",
+      "reporting_owner": "DelOrefice Christopher",
+      "reporting_owner_cik": "0001881430",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2025-09-01",
+      "transaction_shares": "278",
+      "transaction_price": "0",
+      "transaction_type": "F",
+      "shares_after_transaction": "21221"
     }
   ]
 }
