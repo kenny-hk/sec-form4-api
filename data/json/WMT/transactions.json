@@ -1,11 +1,23 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-09-03T08:31:27.443448",
+  "last_updated": "2025-09-04T08:30:00.940431",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 229,
+      "id": 376,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Rainey John D",
+      "reporting_owner_cik": "0001547433",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "1514",
+      "transaction_price": "97.2485",
+      "transaction_type": "S",
+      "shares_after_transaction": "624603.995"
+    },
+    {
+      "id": 374,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McMillon C Douglas",
       "reporting_owner_cik": "0001335782",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "4392984.649"
     },
     {
-      "id": 230,
+      "id": 375,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",

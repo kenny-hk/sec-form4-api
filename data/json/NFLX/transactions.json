@@ -1,68 +1,32 @@
 {
   "ticker": "NFLX",
-  "last_updated": "2025-08-13T08:34:01.107744",
+  "last_updated": "2025-09-04T08:30:00.940431",
   "retention_years": 3,
-  "count": 5,
+  "count": 2,
   "transactions": [
     {
-      "id": 2,
+      "id": 234,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "HASTINGS REED",
+      "reporting_owner_cik": "0001033331",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "25959",
+      "transaction_price": "109.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "26353"
+    },
+    {
+      "id": 238,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Neumann Spencer Adam",
       "reporting_owner_cik": "0001543133",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-08-04",
-      "transaction_shares": "878",
-      "transaction_price": null,
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "304",
+      "transaction_price": "289.29",
       "transaction_type": "M",
-      "shares_after_transaction": "4569"
-    },
-    {
-      "id": 3,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "HYMAN DAVID A",
-      "reporting_owner_cik": "0001507747",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-08-04",
-      "transaction_shares": "543",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "32153"
-    },
-    {
-      "id": 4,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "SARANDOS THEODORE A",
-      "reporting_owner_cik": "0001393838",
-      "reporting_owner_position": "Co-CEO",
-      "transaction_date": "2025-08-04",
-      "transaction_shares": "2592",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "17760"
-    },
-    {
-      "id": 5,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "Peters Gregory K",
-      "reporting_owner_cik": "0001583109",
-      "reporting_owner_position": "Co-CEO",
-      "transaction_date": "2025-08-04",
-      "transaction_shares": "2592",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "15373"
-    },
-    {
-      "id": 6,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "Willems Cletus R",
-      "reporting_owner_cik": "0002065325",
-      "reporting_owner_position": "Chief Global Affairs Officer",
-      "transaction_date": "2025-08-04",
-      "transaction_shares": "316",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "316"
+      "shares_after_transaction": "3995"
     }
   ]
 }
