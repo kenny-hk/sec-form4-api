@@ -1,11 +1,59 @@
 {
   "ticker": "DASH",
-  "last_updated": "2025-09-04T08:30:00.940431",
+  "last_updated": "2025-09-05T08:32:14.947781",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 373,
+      "id": 426,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Xu Tony",
+      "reporting_owner_cik": "0001832617",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "34167",
+      "transaction_price": "7.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "35667"
+    },
+    {
+      "id": 427,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Fang Andy",
+      "reporting_owner_cik": "0001832390",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "30000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "30000"
+    },
+    {
+      "id": 428,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Tang Stanley",
+      "reporting_owner_cik": "0001832614",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "45410",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "45410"
+    },
+    {
+      "id": 430,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Yandell Keith",
+      "reporting_owner_cik": "0001833552",
+      "reporting_owner_position": "CHIEF BUSINESS OFFICER",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "400",
+      "transaction_price": "238.835",
+      "transaction_type": "S",
+      "shares_after_transaction": "93066"
+    },
+    {
+      "id": 429,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Lee Gordon S",
       "reporting_owner_cik": "0001635648",
@@ -15,18 +63,6 @@
       "transaction_price": "248.37",
       "transaction_type": "S",
       "shares_after_transaction": "89096"
-    },
-    {
-      "id": 372,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-08-26",
-      "transaction_shares": "800",
-      "transaction_price": "7.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "229288"
     }
   ]
 }

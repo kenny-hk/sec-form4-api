@@ -1,20 +1,56 @@
 {
   "ticker": "BAX",
-  "last_updated": "2025-08-28T08:32:03.510248",
+  "last_updated": "2025-09-05T08:32:14.947781",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 186,
+      "id": 320,
       "issuer_name": "BAXTER INTERNATIONAL INC",
-      "reporting_owner": "Shafer David Brent",
-      "reporting_owner_cik": "0001728374",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-08-19",
-      "transaction_shares": "31337",
-      "transaction_price": "24.33",
+      "reporting_owner": "Sonig Alok",
+      "reporting_owner_cik": "0001967368",
+      "reporting_owner_position": "EVP,Group President,Pharma",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "3191",
+      "transaction_price": "24.17",
       "transaction_type": "F",
-      "shares_after_transaction": "59446"
+      "shares_after_transaction": "128219"
+    },
+    {
+      "id": 321,
+      "issuer_name": "BAXTER INTERNATIONAL INC",
+      "reporting_owner": "Borzi James W",
+      "reporting_owner_cik": "0001495559",
+      "reporting_owner_position": "EVP,Chief Supply Chain Officer",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "1848",
+      "transaction_price": "24.17",
+      "transaction_type": "F",
+      "shares_after_transaction": "71948"
+    },
+    {
+      "id": 322,
+      "issuer_name": "BAXTER INTERNATIONAL INC",
+      "reporting_owner": "Grade Joel T.",
+      "reporting_owner_cik": "0001602507",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "102712",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "222560"
+    },
+    {
+      "id": 323,
+      "issuer_name": "BAXTER INTERNATIONAL INC",
+      "reporting_owner": "Hider Andrew P.",
+      "reporting_owner_cik": "0001940945",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "236237",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "236237"
     }
   ]
 }

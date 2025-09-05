@@ -1,20 +1,32 @@
 {
   "ticker": "JCI",
-  "last_updated": "2025-08-11T08:38:37.377659",
+  "last_updated": "2025-09-05T08:32:14.947781",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 498,
+      "id": 162,
+      "issuer_name": "Johnson Controls International plc",
+      "reporting_owner": "MCCONEGHY DANIEL C",
+      "reporting_owner_cik": "0001933475",
+      "reporting_owner_position": "VP Chief Accounting & Tax Ofcr",
+      "transaction_date": "2025-09-03",
+      "transaction_shares": "5917",
+      "transaction_price": "79.54",
+      "transaction_type": "M",
+      "shares_after_transaction": "30921.99"
+    },
+    {
+      "id": 163,
       "issuer_name": "Johnson Controls International plc",
       "reporting_owner": "MANNING NATHAN D",
       "reporting_owner_cik": "0001828573",
       "reporting_owner_position": "VP and President, Americas",
-      "transaction_date": "2025-08-01",
+      "transaction_date": "2025-09-02",
       "transaction_shares": "1422",
-      "transaction_price": "103.69",
+      "transaction_price": "105.06",
       "transaction_type": "S",
-      "shares_after_transaction": "140880.9"
+      "shares_after_transaction": "139458.9"
     }
   ]
 }

@@ -1,11 +1,35 @@
 {
   "ticker": "TTWO",
-  "last_updated": "2025-09-04T08:30:00.940431",
+  "last_updated": "2025-09-05T08:32:14.947781",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 245,
+      "id": 254,
+      "issuer_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "reporting_owner": "Goldstein Lainie",
+      "reporting_owner_cik": "0001399513",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "10000",
+      "transaction_price": "240.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "285657"
+    },
+    {
+      "id": 256,
+      "issuer_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "reporting_owner": "Emerson Daniel P",
+      "reporting_owner_cik": "0001623654",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "1083",
+      "transaction_price": "236.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "128709"
+    },
+    {
+      "id": 255,
       "issuer_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
       "reporting_owner": "Goldstein Lainie",
       "reporting_owner_cik": "0001399513",
@@ -15,18 +39,6 @@
       "transaction_price": "230.64",
       "transaction_type": "S",
       "shares_after_transaction": "295657"
-    },
-    {
-      "id": 246,
-      "issuer_name": "TAKE TWO INTERACTIVE SOFTWARE INC",
-      "reporting_owner": "ZELNICK STRAUSS",
-      "reporting_owner_cik": "0001223489",
-      "reporting_owner_position": "Chairman, CEO",
-      "transaction_date": "2025-08-26",
-      "transaction_shares": "39027",
-      "transaction_price": "231.02",
-      "transaction_type": "S",
-      "shares_after_transaction": "287468"
     }
   ]
 }

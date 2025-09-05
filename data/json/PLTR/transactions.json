@@ -1,11 +1,35 @@
 {
   "ticker": "PLTR",
-  "last_updated": "2025-09-04T08:30:00.940431",
+  "last_updated": "2025-09-05T08:32:14.947781",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 298,
+      "id": 334,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Glazer David A.",
+      "reporting_owner_cik": "0001823940",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "26513",
+      "transaction_price": "4.72",
+      "transaction_type": "M",
+      "shares_after_transaction": "500912"
+    },
+    {
+      "id": 335,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Moore Alexander D.",
+      "reporting_owner_cik": "0001823952",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-02",
+      "transaction_shares": "600",
+      "transaction_price": "151.5567",
+      "transaction_type": "S",
+      "shares_after_transaction": "1292378"
+    },
+    {
+      "id": 336,
       "issuer_name": "Palantir Technologies Inc.",
       "reporting_owner": "Buckley Jeffrey",
       "reporting_owner_cik": "0001705189",
