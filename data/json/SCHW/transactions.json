@@ -1,11 +1,23 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2025-09-05T08:32:14.947781",
+  "last_updated": "2025-09-06T08:26:26.157383",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 445,
+      "id": 471,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab-Pomerantz Carolyn",
+      "reporting_owner_cik": "0001950787",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-04",
+      "transaction_shares": "14400",
+      "transaction_price": "96.6377",
+      "transaction_type": "S",
+      "shares_after_transaction": "1449256.6599"
+    },
+    {
+      "id": 470,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Woolway Paul V",
       "reporting_owner_cik": "0002031313",
@@ -15,30 +27,6 @@
       "transaction_price": "95.2033",
       "transaction_type": "S",
       "shares_after_transaction": "37983.1078"
-    },
-    {
-      "id": 444,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Morgan Peter J. III",
-      "reporting_owner_cik": "0001792910",
-      "reporting_owner_position": "General Counsel",
-      "transaction_date": "2025-08-27",
-      "transaction_shares": "2203",
-      "transaction_price": "46.39",
-      "transaction_type": "M",
-      "shares_after_transaction": "2203"
-    },
-    {
-      "id": 446,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Beatty Jonathan S",
-      "reporting_owner_cik": "0002028977",
-      "reporting_owner_position": "MD, Head of Advisor Services",
-      "transaction_date": "2025-08-27",
-      "transaction_shares": "3296",
-      "transaction_price": "97.18",
-      "transaction_type": "S",
-      "shares_after_transaction": "11923"
     }
   ]
 }

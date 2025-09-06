@@ -1,11 +1,35 @@
 {
   "ticker": "DASH",
-  "last_updated": "2025-09-05T08:32:14.947781",
+  "last_updated": "2025-09-06T08:26:26.157383",
   "retention_years": 3,
-  "count": 5,
+  "count": 6,
   "transactions": [
     {
-      "id": 426,
+      "id": 454,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Sherringham Tia",
+      "reporting_owner_cik": "0001899688",
+      "reporting_owner_position": "GENERAL COUNSEL AND SECRETARY",
+      "transaction_date": "2025-09-03",
+      "transaction_shares": "2924",
+      "transaction_price": "250",
+      "transaction_type": "S",
+      "shares_after_transaction": "112782"
+    },
+    {
+      "id": 456,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Still Ashley",
+      "reporting_owner_cik": "0001985469",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-03",
+      "transaction_shares": "63",
+      "transaction_price": "243.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "2541"
+    },
+    {
+      "id": 452,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Xu Tony",
       "reporting_owner_cik": "0001832617",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "35667"
     },
     {
-      "id": 427,
+      "id": 453,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Fang Andy",
       "reporting_owner_cik": "0001832390",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "30000"
     },
     {
-      "id": 428,
+      "id": 455,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Tang Stanley",
       "reporting_owner_cik": "0001832614",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "45410"
     },
     {
-      "id": 430,
+      "id": 457,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Yandell Keith",
       "reporting_owner_cik": "0001833552",
@@ -51,18 +75,6 @@
       "transaction_price": "238.835",
       "transaction_type": "S",
       "shares_after_transaction": "93066"
-    },
-    {
-      "id": 429,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Lee Gordon S",
-      "reporting_owner_cik": "0001635648",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2025-08-27",
-      "transaction_shares": "1846",
-      "transaction_price": "248.37",
-      "transaction_type": "S",
-      "shares_after_transaction": "89096"
     }
   ]
 }
