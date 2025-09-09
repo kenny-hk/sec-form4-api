@@ -2,20 +2,32 @@
   "ticker": "ICE",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-05T08:32:14.947781",
-  "count": 1,
+  "last_updated": "2025-09-09T08:35:08.653978",
+  "count": 2,
   "transactions": [
     {
-      "id": 425,
+      "id": 489,
       "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Farooqui Duriya M",
-      "reporting_owner_cik": "0001699994",
+      "reporting_owner": "SPRIESER JUDITH A",
+      "reporting_owner_cik": "0001206994",
       "reporting_owner_position": null,
-      "transaction_date": "2025-08-27",
-      "transaction_shares": "2036",
-      "transaction_price": "178.34",
+      "transaction_date": "2025-09-04",
+      "transaction_shares": "1500",
+      "transaction_price": "174.0653",
       "transaction_type": "S",
-      "shares_after_transaction": "14299"
+      "shares_after_transaction": "19569"
+    },
+    {
+      "id": 490,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Martin Lynn C",
+      "reporting_owner_cik": "0001754817",
+      "reporting_owner_position": "President, NYSE Group",
+      "transaction_date": "2025-09-04",
+      "transaction_shares": "143",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "59429"
     }
   ]
 }
