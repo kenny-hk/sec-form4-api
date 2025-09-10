@@ -2,20 +2,44 @@
   "ticker": "DHI",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-04T08:30:00.940431",
-  "count": 1,
+  "last_updated": "2025-09-10T08:31:15.759597",
+  "count": 3,
   "transactions": [
     {
-      "id": 414,
+      "id": 467,
       "issuer_name": "HORTON D R INC /DE/",
-      "reporting_owner": "Murray Michael J",
-      "reporting_owner_cik": "0001621270",
-      "reporting_owner_position": "EVP and COO",
-      "transaction_date": "2025-08-27",
-      "transaction_shares": "5500",
+      "reporting_owner": "BUCHANAN MICHAEL R",
+      "reporting_owner_cik": "0001251158",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-05",
+      "transaction_shares": "1000",
+      "transaction_price": "180.74",
+      "transaction_type": "S",
+      "shares_after_transaction": "1193"
+    },
+    {
+      "id": 468,
+      "issuer_name": "HORTON D R INC /DE/",
+      "reporting_owner": "Odom Aron M.",
+      "reporting_owner_cik": "0001793767",
+      "reporting_owner_position": "SVP, Controller and PAO",
+      "transaction_date": "2025-09-05",
+      "transaction_shares": "1376",
+      "transaction_price": "183",
+      "transaction_type": "S",
+      "shares_after_transaction": "6457"
+    },
+    {
+      "id": 469,
+      "issuer_name": "HORTON D R INC /DE/",
+      "reporting_owner": "Auld David V",
+      "reporting_owner_cik": "0001592026",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-09-05",
+      "transaction_shares": "20000",
       "transaction_price": "0",
       "transaction_type": "G",
-      "shares_after_transaction": "83466"
+      "shares_after_transaction": "845672"
     }
   ]
 }

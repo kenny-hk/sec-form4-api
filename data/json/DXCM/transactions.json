@@ -1,11 +1,23 @@
 {
   "ticker": "DXCM",
-  "last_updated": "2025-09-09T08:35:08.653978",
+  "last_updated": "2025-09-10T08:31:15.759597",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 410,
+      "id": 355,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Malady Kyle",
+      "reporting_owner_cik": "0001760581",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-05",
+      "transaction_shares": "667",
+      "transaction_price": "80.86",
+      "transaction_type": "S",
+      "shares_after_transaction": "22667"
+    },
+    {
+      "id": 354,
       "issuer_name": "DEXCOM INC",
       "reporting_owner": "Stern Sadie",
       "reporting_owner_cik": "0001797971",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "105223"
     },
     {
-      "id": 411,
+      "id": 356,
       "issuer_name": "DEXCOM INC",
       "reporting_owner": "Sylvain Jereme M",
       "reporting_owner_cik": "0001681267",
