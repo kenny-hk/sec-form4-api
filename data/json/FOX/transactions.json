@@ -1,11 +1,35 @@
 {
   "ticker": "FOX",
-  "last_updated": "2025-09-10T08:31:15.759597",
+  "last_updated": "2025-09-11T08:32:18.639482",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 402,
+      "id": 249,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MFT SH Family Trust",
+      "reporting_owner_cik": "0002080603",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "9498",
+      "transaction_price": "33.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 325,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MFT SH Family Trust",
+      "reporting_owner_cik": "0002080603",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "9498",
+      "transaction_price": "33.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 250,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MURDOCH FAMILY TRUST",
       "reporting_owner_cik": "0001383755",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 500,
+      "id": 326,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MURDOCH FAMILY TRUST",
       "reporting_owner_cik": "0001383755",
