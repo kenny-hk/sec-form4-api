@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2025-09-11T08:32:18.639482",
+  "last_updated": "2025-09-12T08:30:16.539447",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 115,
+      "id": 111,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "1",
+      "transaction_price": "923.41",
+      "transaction_type": "P",
+      "shares_after_transaction": "1163993"
+    },
+    {
+      "id": 113,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "1163992"
     },
     {
-      "id": 111,
+      "id": 109,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "1163991"
     },
     {
-      "id": 114,
+      "id": 112,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "1163990"
     },
     {
-      "id": 112,
+      "id": 110,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -51,18 +63,6 @@
       "transaction_price": "912.22",
       "transaction_type": "P",
       "shares_after_transaction": "1163989"
-    },
-    {
-      "id": 113,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-03",
-      "transaction_shares": "1",
-      "transaction_price": "928.87",
-      "transaction_type": "P",
-      "shares_after_transaction": "1163988"
     }
   ]
 }

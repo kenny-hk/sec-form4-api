@@ -2,11 +2,23 @@
   "ticker": "NVDA",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-11T08:32:18.639482",
+  "last_updated": "2025-09-12T08:30:16.539447",
   "count": 3,
   "transactions": [
     {
-      "id": 161,
+      "id": 142,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-09-09",
+      "transaction_shares": "15516",
+      "transaction_price": "167.479",
+      "transaction_type": "S",
+      "shares_after_transaction": "72382850"
+    },
+    {
+      "id": 143,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "COXE TENCH",
       "reporting_owner_cik": "0001197647",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "25671360"
     },
     {
-      "id": 160,
+      "id": 141,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -28,18 +40,6 @@
       "transaction_price": "170.2439",
       "transaction_type": "S",
       "shares_after_transaction": "72600518"
-    },
-    {
-      "id": 162,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "HUDSON DAWN E",
-      "reporting_owner_cik": "0001219888",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-02",
-      "transaction_shares": "72000",
-      "transaction_price": "170.6259",
-      "transaction_type": "S",
-      "shares_after_transaction": "386887"
     }
   ]
 }

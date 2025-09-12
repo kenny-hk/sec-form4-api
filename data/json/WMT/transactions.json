@@ -1,11 +1,35 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-09-11T08:32:18.639482",
+  "last_updated": "2025-09-12T08:30:16.539447",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 275,
+      "id": 226,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Nicholas Christopher James",
+      "reporting_owner_cik": "0001992808",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-09-09",
+      "transaction_shares": "120.929",
+      "transaction_price": "102.28",
+      "transaction_type": "F",
+      "shares_after_transaction": "573581.638"
+    },
+    {
+      "id": 227,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Chojnowski David",
+      "reporting_owner_cik": "0001502438",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-09-09",
+      "transaction_shares": "250.42",
+      "transaction_price": "102.28",
+      "transaction_type": "F",
+      "shares_after_transaction": "143781.433"
+    },
+    {
+      "id": 228,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
