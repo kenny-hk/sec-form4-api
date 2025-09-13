@@ -1,11 +1,11 @@
 {
   "ticker": "MGM",
-  "last_updated": "2025-09-12T08:30:16.539447",
+  "last_updated": "2025-09-13T08:27:35.262417",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 107,
+      "id": 145,
       "issuer_name": "MGM Resorts International",
       "reporting_owner": "Meister Keith A.",
       "reporting_owner_cik": "0001307631",
@@ -15,6 +15,18 @@
       "transaction_price": "35.42",
       "transaction_type": "S",
       "shares_after_transaction": "5385478"
+    },
+    {
+      "id": 146,
+      "issuer_name": "MGM Resorts International",
+      "reporting_owner": "Fritz Gary M",
+      "reporting_owner_cik": "0001460260",
+      "reporting_owner_position": "President, Interactive",
+      "transaction_date": "2025-09-11",
+      "transaction_shares": "4710",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "71054"
     }
   ]
 }

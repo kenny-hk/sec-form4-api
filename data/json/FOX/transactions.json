@@ -1,11 +1,23 @@
 {
   "ticker": "FOX",
-  "last_updated": "2025-09-12T08:30:16.539447",
+  "last_updated": "2025-09-13T08:27:35.262417",
   "retention_years": 3,
-  "count": 4,
+  "count": 8,
   "transactions": [
     {
-      "id": 209,
+      "id": 256,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MURDOCH LACHLAN K",
+      "reporting_owner_cik": "0001242818",
+      "reporting_owner_position": "Executive Chair, CEO",
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "19000",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "19000"
+    },
+    {
+      "id": 257,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MFT SH Family Trust",
       "reporting_owner_cik": "0002080603",
@@ -17,7 +29,31 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 290,
+      "id": 259,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "LGC Holdco, LLC",
+      "reporting_owner_cik": "0002082634",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "9498",
+      "transaction_price": null,
+      "transaction_type": "P",
+      "shares_after_transaction": "19000"
+    },
+    {
+      "id": 347,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "MURDOCH LACHLAN K",
+      "reporting_owner_cik": "0001242818",
+      "reporting_owner_position": "Executive Chair, CEO",
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "19000",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "19000"
+    },
+    {
+      "id": 348,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MFT SH Family Trust",
       "reporting_owner_cik": "0002080603",
@@ -29,7 +65,19 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 210,
+      "id": 350,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "LGC Holdco, LLC",
+      "reporting_owner_cik": "0002082634",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-10",
+      "transaction_shares": "9498",
+      "transaction_price": null,
+      "transaction_type": "P",
+      "shares_after_transaction": "19000"
+    },
+    {
+      "id": 258,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MURDOCH FAMILY TRUST",
       "reporting_owner_cik": "0001383755",
@@ -41,7 +89,7 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 291,
+      "id": 349,
       "issuer_name": "Fox Corp",
       "reporting_owner": "MURDOCH FAMILY TRUST",
       "reporting_owner_cik": "0001383755",

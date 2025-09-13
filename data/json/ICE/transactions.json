@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2025-09-12T08:30:16.539447",
+  "last_updated": "2025-09-13T08:27:35.262417",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 219,
+      "id": 277,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Foley Douglas",
+      "reporting_owner_cik": "0001918894",
+      "reporting_owner_position": "SVP, HR & Administration",
+      "transaction_date": "2025-09-12",
+      "transaction_shares": "1600",
+      "transaction_price": "175.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "25796"
+    },
+    {
+      "id": 275,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "SPRIESER JUDITH A",
       "reporting_owner_cik": "0001206994",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "19569"
     },
     {
-      "id": 220,
+      "id": 276,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Martin Lynn C",
       "reporting_owner_cik": "0001754817",
