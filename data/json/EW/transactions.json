@@ -1,20 +1,44 @@
 {
   "ticker": "EW",
-  "last_updated": "2025-09-01T08:34:33.749403",
+  "last_updated": "2025-09-16T08:33:29.906949",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 282,
+      "id": 334,
+      "issuer_name": "Edwards Lifesciences Corp",
+      "reporting_owner": "Dahl Andrew M.",
+      "reporting_owner_cik": "0002022347",
+      "reporting_owner_position": "SVP, Corporate Controller",
+      "transaction_date": "2025-09-13",
+      "transaction_shares": "262.0000",
+      "transaction_price": "77.5700",
+      "transaction_type": "F",
+      "shares_after_transaction": "7926.9331"
+    },
+    {
+      "id": 332,
+      "issuer_name": "Edwards Lifesciences Corp",
+      "reporting_owner": "Markowitz Wayne",
+      "reporting_owner_cik": "0001991414",
+      "reporting_owner_position": "CVP, JAPAC",
+      "transaction_date": "2025-09-11",
+      "transaction_shares": "6410.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "18795.8708"
+    },
+    {
+      "id": 333,
       "issuer_name": "Edwards Lifesciences Corp",
       "reporting_owner": "Chopra Daveen",
       "reporting_owner_cik": "0001740963",
-      "reporting_owner_position": "CVP, TMTT",
-      "transaction_date": "2025-08-25",
-      "transaction_shares": "2500.0000",
-      "transaction_price": "81.9460",
-      "transaction_type": "S",
-      "shares_after_transaction": "30996.0000"
+      "reporting_owner_position": "CVP, TMTT & Surgical",
+      "transaction_date": "2025-09-11",
+      "transaction_shares": "3205.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "34201.0000"
     }
   ]
 }

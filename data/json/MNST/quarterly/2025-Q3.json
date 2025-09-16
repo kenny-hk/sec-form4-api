@@ -2,20 +2,32 @@
   "ticker": "MNST",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-12T08:30:16.539447",
-  "count": 1,
+  "last_updated": "2025-09-16T08:33:29.906949",
+  "count": 2,
   "transactions": [
     {
-      "id": 205,
+      "id": 270,
       "issuer_name": "Monster Beverage Corp",
-      "reporting_owner": "Gehring Rob L.",
-      "reporting_owner_cik": "0002066234",
-      "reporting_owner_position": "Chief Growth Officer",
-      "transaction_date": "2025-09-03",
-      "transaction_shares": "10000",
-      "transaction_price": null,
+      "reporting_owner": "SACKS RODNEY C",
+      "reporting_owner_cik": "0001284353",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-11",
+      "transaction_shares": "4542",
+      "transaction_price": "21.99",
       "transaction_type": "M",
-      "shares_after_transaction": "10000"
+      "shares_after_transaction": "737882"
+    },
+    {
+      "id": 271,
+      "issuer_name": "Monster Beverage Corp",
+      "reporting_owner": "SCHLOSBERG HILTON H",
+      "reporting_owner_cik": "0001284352",
+      "reporting_owner_position": "Vice Chairman and CEO",
+      "transaction_date": "2025-09-11",
+      "transaction_shares": "1100",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "2342867"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "TSLA",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-15T08:31:36.190590",
-  "count": 2,
+  "last_updated": "2025-09-16T08:33:29.906949",
+  "count": 3,
   "transactions": [
     {
-      "id": 110,
+      "id": 125,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "Musk Elon",
+      "reporting_owner_cik": "0001494730",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2025-09-12",
+      "transaction_shares": "22537",
+      "transaction_price": "371.900",
+      "transaction_type": "P",
+      "shares_after_transaction": "410816613"
+    },
+    {
+      "id": 124,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
       "reporting_owner_cik": "0001972928",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "47599.75"
     },
     {
-      "id": 109,
+      "id": 123,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Taneja Vaibhav",
       "reporting_owner_cik": "0001771340",
