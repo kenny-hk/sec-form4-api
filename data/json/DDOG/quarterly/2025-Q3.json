@@ -2,11 +2,23 @@
   "ticker": "DDOG",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-16T08:33:29.906949",
+  "last_updated": "2025-09-17T08:31:00.932828",
   "count": 4,
   "transactions": [
     {
-      "id": 232,
+      "id": 269,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Shah Shardul",
+      "reporting_owner_cik": "0001783882",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-12",
+      "transaction_shares": "2563",
+      "transaction_price": "136.7811",
+      "transaction_type": "S",
+      "shares_after_transaction": "377718"
+    },
+    {
+      "id": 268,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Vora Ami Prafullchandra",
       "reporting_owner_cik": "0002084727",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "4311"
     },
     {
-      "id": 234,
+      "id": 271,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Walters Sean Michael",
       "reporting_owner_cik": "0001903980",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "197481"
     },
     {
-      "id": 231,
+      "id": 267,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -40,18 +52,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "555086"
-    },
-    {
-      "id": 233,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Acocella Kerry",
-      "reporting_owner_cik": "0001903975",
-      "reporting_owner_position": "General Counsel and Secretary",
-      "transaction_date": "2025-09-05",
-      "transaction_shares": "600",
-      "transaction_price": "133.1231",
-      "transaction_type": "S",
-      "shares_after_transaction": "96777"
     }
   ]
 }

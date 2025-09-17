@@ -2,20 +2,32 @@
   "ticker": "TDG",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-11T08:32:18.639482",
-  "count": 1,
+  "last_updated": "2025-09-17T08:31:00.932828",
+  "count": 2,
   "transactions": [
     {
-      "id": 308,
+      "id": 402,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Howley W Nicholas",
+      "reporting_owner_cik": "0001352573",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "2736",
+      "transaction_price": "50.92",
+      "transaction_type": "M",
+      "shares_after_transaction": "24283.513"
+    },
+    {
+      "id": 403,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "SMALL ROBERT J",
       "reporting_owner_cik": "0001234544",
       "reporting_owner_position": null,
-      "transaction_date": "2025-09-02",
-      "transaction_shares": "2318",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "441814"
+      "transaction_date": "2025-09-12",
+      "transaction_shares": "403",
+      "transaction_price": "1271.3896",
+      "transaction_type": "S",
+      "shares_after_transaction": "88016"
     }
   ]
 }
