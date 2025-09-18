@@ -1,11 +1,23 @@
 {
   "ticker": "AVGO",
-  "last_updated": "2025-09-17T08:31:00.932828",
+  "last_updated": "2025-09-18T08:32:04.964368",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 423,
+      "id": 524,
+      "issuer_name": "Broadcom Inc.",
+      "reporting_owner": "PAGE JUSTINE",
+      "reporting_owner_cik": "0001359561",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "800",
+      "transaction_price": "360",
+      "transaction_type": "S",
+      "shares_after_transaction": "22982"
+    },
+    {
+      "id": 525,
       "issuer_name": "Broadcom Inc.",
       "reporting_owner": "TAN HOCK E",
       "reporting_owner_cik": "0001211588",
@@ -15,18 +27,6 @@
       "transaction_price": "336.67",
       "transaction_type": "S",
       "shares_after_transaction": "825998"
-    },
-    {
-      "id": 424,
-      "issuer_name": "Broadcom Inc.",
-      "reporting_owner": "You Harry L.",
-      "reporting_owner_cik": "0001432602",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-08",
-      "transaction_shares": "2050",
-      "transaction_price": "344.7794",
-      "transaction_type": "P",
-      "shares_after_transaction": "34102"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "WMT",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-17T08:31:00.932828",
+  "last_updated": "2025-09-18T08:32:04.964368",
   "count": 5,
   "transactions": [
     {
-      "id": 361,
+      "id": 459,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "2550000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "538052200"
+    },
+    {
+      "id": 460,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Bartlett Daniel J",
       "reporting_owner_cik": "0001579299",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "645967.662"
     },
     {
-      "id": 363,
+      "id": 462,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Kumar Suresh",
       "reporting_owner_cik": "0001781198",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "1787200.392"
     },
     {
-      "id": 362,
+      "id": 461,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Nicholas Christopher James",
       "reporting_owner_cik": "0001992808",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "573581.638"
     },
     {
-      "id": 364,
+      "id": 463,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Chojnowski David",
       "reporting_owner_cik": "0001502438",
@@ -52,18 +64,6 @@
       "transaction_price": "102.28",
       "transaction_type": "F",
       "shares_after_transaction": "143781.433"
-    },
-    {
-      "id": 365,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-08",
-      "transaction_shares": "5526000",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "540602200"
     }
   ]
 }

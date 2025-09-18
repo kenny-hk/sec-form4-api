@@ -1,11 +1,23 @@
 {
   "ticker": "WSM",
-  "last_updated": "2025-09-17T08:31:00.932828",
+  "last_updated": "2025-09-18T08:32:04.964368",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 274,
+      "id": 351,
+      "issuer_name": "WILLIAMS SONOMA INC",
+      "reporting_owner": "ALBER LAURA",
+      "reporting_owner_cik": "0001225922",
+      "reporting_owner_position": "PRESIDENT & CEO",
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "1062",
+      "transaction_price": "196.81",
+      "transaction_type": "S",
+      "shares_after_transaction": "965865"
+    },
+    {
+      "id": 350,
       "issuer_name": "WILLIAMS SONOMA INC",
       "reporting_owner": "Howie Jeffrey",
       "reporting_owner_cik": "0001946355",
@@ -15,18 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "41372"
-    },
-    {
-      "id": 275,
-      "issuer_name": "WILLIAMS SONOMA INC",
-      "reporting_owner": "King David Randolph",
-      "reporting_owner_cik": "0001539835",
-      "reporting_owner_position": "EVP GENERAL COUNSEL",
-      "transaction_date": "2025-09-08",
-      "transaction_shares": "17500",
-      "transaction_price": "203.60",
-      "transaction_type": "S",
-      "shares_after_transaction": "98560"
     }
   ]
 }

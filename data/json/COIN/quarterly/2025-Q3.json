@@ -2,20 +2,32 @@
   "ticker": "COIN",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-15T08:31:36.190590",
-  "count": 1,
+  "last_updated": "2025-09-18T08:32:04.964368",
+  "count": 2,
   "transactions": [
     {
-      "id": 210,
+      "id": 332,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Armstrong Brian",
       "reporting_owner_cik": "0001851492",
       "reporting_owner_position": "Chairman and CEO",
-      "transaction_date": "2025-09-04",
+      "transaction_date": "2025-09-15",
       "transaction_shares": "25000",
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "25526"
+    },
+    {
+      "id": 333,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "HAAS ALESIA J",
+      "reporting_owner_cik": "0001668711",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "4600",
+      "transaction_price": "322.22",
+      "transaction_type": "S",
+      "shares_after_transaction": "89295"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "TSLA",
-  "last_updated": "2025-09-17T08:31:00.932828",
+  "last_updated": "2025-09-18T08:32:04.964368",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 148,
+      "id": 185,
+      "issuer_name": "Tesla, Inc.",
+      "reporting_owner": "MURDOCH JAMES R",
+      "reporting_owner_cik": "0001420590",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-15",
+      "transaction_shares": "60000",
+      "transaction_price": "422.68",
+      "transaction_type": "S",
+      "shares_after_transaction": "637031"
+    },
+    {
+      "id": 184,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Musk Elon",
       "reporting_owner_cik": "0001494730",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "410816613"
     },
     {
-      "id": 147,
+      "id": 183,
       "issuer_name": "Tesla, Inc.",
       "reporting_owner": "Zhu Xiaotong",
       "reporting_owner_cik": "0001972928",
