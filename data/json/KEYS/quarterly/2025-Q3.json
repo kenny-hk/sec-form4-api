@@ -2,20 +2,32 @@
   "ticker": "KEYS",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-12T08:33:30.328920",
-  "count": 1,
+  "last_updated": "2025-09-20T08:28:10.368719",
+  "count": 2,
   "transactions": [
     {
-      "id": 466,
+      "id": 320,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "Estrada Ingrid A",
+      "reporting_owner_cik": "0001621346",
+      "reporting_owner_position": "SVP",
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "2000",
+      "transaction_price": "173.98",
+      "transaction_type": "S",
+      "shares_after_transaction": "106590.19"
+    },
+    {
+      "id": 321,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "POOLE LISA M.",
       "reporting_owner_cik": "0001987126",
       "reporting_owner_position": "VP and Controller",
-      "transaction_date": "2025-08-01",
-      "transaction_shares": "32",
-      "transaction_price": "158.68",
-      "transaction_type": "F",
-      "shares_after_transaction": "4788"
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "142",
+      "transaction_price": "173.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "4646"
     }
   ]
 }

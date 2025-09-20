@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2025-09-19T08:32:00.001625",
+  "last_updated": "2025-09-20T08:28:10.368719",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 436,
+      "id": 354,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Williams Stuart Glen",
+      "reporting_owner_cik": "0001942706",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "939",
+      "transaction_price": "172.0366",
+      "transaction_type": "S",
+      "shares_after_transaction": "16624"
+    },
+    {
+      "id": 353,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Williams Stuart Glen",
       "reporting_owner_cik": "0001942706",
@@ -15,18 +27,6 @@
       "transaction_price": "172.23",
       "transaction_type": "F",
       "shares_after_transaction": "17563"
-    },
-    {
-      "id": 435,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Foley Douglas",
-      "reporting_owner_cik": "0001918894",
-      "reporting_owner_position": "SVP, HR & Administration",
-      "transaction_date": "2025-09-12",
-      "transaction_shares": "1600",
-      "transaction_price": "175.62",
-      "transaction_type": "S",
-      "shares_after_transaction": "25796"
     }
   ]
 }
