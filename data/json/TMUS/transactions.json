@@ -1,11 +1,23 @@
 {
   "ticker": "TMUS",
-  "last_updated": "2025-09-22T08:32:55.469341",
+  "last_updated": "2025-09-23T08:30:13.167141",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
       "id": 288,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "DEUTSCHE TELEKOM AG",
+      "reporting_owner_cik": "0000946770",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "33097",
+      "transaction_price": "239.1107",
+      "transaction_type": "S",
+      "shares_after_transaction": "634723803"
+    },
+    {
+      "id": 287,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",
@@ -15,30 +27,6 @@
       "transaction_price": "239.1253",
       "transaction_type": "S",
       "shares_after_transaction": "634876599"
-    },
-    {
-      "id": 287,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "DEUTSCHE TELEKOM AG",
-      "reporting_owner_cik": "0000946770",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-11",
-      "transaction_shares": "28862",
-      "transaction_price": "240.4357",
-      "transaction_type": "S",
-      "shares_after_transaction": "634985742"
-    },
-    {
-      "id": 289,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "Nelson Mark Wolfe",
-      "reporting_owner_cik": "0001886089",
-      "reporting_owner_position": "EVP and General Counsel",
-      "transaction_date": "2025-09-11",
-      "transaction_shares": "47.803",
-      "transaction_price": "240.34",
-      "transaction_type": "A",
-      "shares_after_transaction": "63774.089"
     }
   ]
 }

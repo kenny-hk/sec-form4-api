@@ -1,20 +1,44 @@
 {
   "ticker": "PGR",
-  "last_updated": "2025-09-10T08:31:15.759597",
+  "last_updated": "2025-09-23T08:30:13.167141",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 6,
+      "id": 2,
       "issuer_name": "PROGRESSIVE CORP/OH/",
-      "reporting_owner": "Griffith Susan Patricia",
-      "reporting_owner_cik": "0001198113",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-09-02",
-      "transaction_shares": "30659",
-      "transaction_price": "246.058",
+      "reporting_owner": "Murphy John Jo",
+      "reporting_owner_cik": "0001642477",
+      "reporting_owner_position": "Claims President",
+      "transaction_date": "2025-09-19",
+      "transaction_shares": "2218",
+      "transaction_price": "242.10",
       "transaction_type": "S",
-      "shares_after_transaction": "476286.043"
+      "shares_after_transaction": "43505.811"
+    },
+    {
+      "id": 3,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Callahan Patrick K",
+      "reporting_owner_cik": "0001638126",
+      "reporting_owner_position": "Personal Lines President",
+      "transaction_date": "2025-09-19",
+      "transaction_shares": "6420",
+      "transaction_price": "242.2182",
+      "transaction_type": "S",
+      "shares_after_transaction": "15191.521"
+    },
+    {
+      "id": 4,
+      "issuer_name": "PROGRESSIVE CORP/OH/",
+      "reporting_owner": "Broz Steven",
+      "reporting_owner_cik": "0001665574",
+      "reporting_owner_position": "Chief Information Officer",
+      "transaction_date": "2025-09-19",
+      "transaction_shares": "1345",
+      "transaction_price": "242.10",
+      "transaction_type": "S",
+      "shares_after_transaction": "30387.793"
     }
   ]
 }
