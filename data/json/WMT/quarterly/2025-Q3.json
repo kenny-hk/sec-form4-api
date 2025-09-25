@@ -2,11 +2,23 @@
   "ticker": "WMT",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-24T08:32:00.562892",
+  "last_updated": "2025-09-25T08:32:21.490212",
   "count": 3,
   "transactions": [
     {
-      "id": 288,
+      "id": 208,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-22",
+      "transaction_shares": "566000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "535097200"
+    },
+    {
+      "id": 210,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McLay Kathryn J.",
       "reporting_owner_cik": "0001794573",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1048455.036"
     },
     {
-      "id": 287,
+      "id": 209,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Furner John R.",
       "reporting_owner_cik": "0001696737",
@@ -28,18 +40,6 @@
       "transaction_price": "103.7428",
       "transaction_type": "S",
       "shares_after_transaction": "906064.116"
-    },
-    {
-      "id": 286,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-15",
-      "transaction_shares": "2550000",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "538052200"
     }
   ]
 }

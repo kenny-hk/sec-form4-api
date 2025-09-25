@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2025-09-24T08:32:00.562892",
+  "last_updated": "2025-09-25T08:32:21.490212",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 284,
+      "id": 157,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Hill Jonathan Hopkin",
+      "reporting_owner_cik": "0002085484",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-22",
+      "transaction_shares": "1381",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1437"
+    },
+    {
+      "id": 158,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Williams Stuart Glen",
       "reporting_owner_cik": "0001942706",
@@ -15,18 +27,6 @@
       "transaction_price": "172.0366",
       "transaction_type": "S",
       "shares_after_transaction": "16624"
-    },
-    {
-      "id": 283,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Williams Stuart Glen",
-      "reporting_owner_cik": "0001942706",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-09-15",
-      "transaction_shares": "755",
-      "transaction_price": "172.23",
-      "transaction_type": "F",
-      "shares_after_transaction": "17563"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "ticker": "NVDA",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-24T08:32:00.562892",
-  "count": 9,
+  "last_updated": "2025-09-25T08:32:21.490212",
+  "count": 10,
   "transactions": [
     {
-      "id": 211,
+      "id": 162,
       "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "Drell Persis",
-      "reporting_owner_cik": "0001636665",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-19",
-      "transaction_shares": "40000",
-      "transaction_price": "177.653",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-09-22",
+      "transaction_shares": "33747",
+      "transaction_price": "175.4751",
       "transaction_type": "S",
-      "shares_after_transaction": "138740"
+      "shares_after_transaction": "71649456"
     },
     {
-      "id": 212,
+      "id": 160,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -30,7 +30,19 @@
       "shares_after_transaction": "7399803"
     },
     {
-      "id": 207,
+      "id": 165,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Drell Persis",
+      "reporting_owner_cik": "0001636665",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-19",
+      "transaction_shares": "40000",
+      "transaction_price": "177.653",
+      "transaction_type": "S",
+      "shares_after_transaction": "138740"
+    },
+    {
+      "id": 168,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "JONES HARVEY C",
       "reporting_owner_cik": "0001197650",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "7183280"
     },
     {
-      "id": 205,
+      "id": 161,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Puri Ajay K",
       "reporting_owner_cik": "0001347842",
@@ -54,19 +66,7 @@
       "shares_after_transaction": "595205"
     },
     {
-      "id": 206,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "Shoquist Debora",
-      "reporting_owner_cik": "0001283854",
-      "reporting_owner_position": "EVP, Operations",
-      "transaction_date": "2025-09-17",
-      "transaction_shares": "36333",
-      "transaction_price": "174.88",
-      "transaction_type": "F",
-      "shares_after_transaction": "512644"
-    },
-    {
-      "id": 208,
+      "id": 163,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Robertson Donald F Jr",
       "reporting_owner_cik": "0001526111",
@@ -78,19 +78,7 @@
       "shares_after_transaction": "460340"
     },
     {
-      "id": 209,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "HUANG JEN HSUN",
-      "reporting_owner_cik": "0001197649",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-09-17",
-      "transaction_shares": "40163",
-      "transaction_price": "174.88",
-      "transaction_type": "F",
-      "shares_after_transaction": "71908203"
-    },
-    {
-      "id": 210,
+      "id": 164,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Teter Timothy S.",
       "reporting_owner_cik": "0001696841",
@@ -102,7 +90,7 @@
       "shares_after_transaction": "447903"
     },
     {
-      "id": 213,
+      "id": 166,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Kress Colette",
       "reporting_owner_cik": "0001588670",
@@ -112,6 +100,30 @@
       "transaction_price": "174.88",
       "transaction_type": "F",
       "shares_after_transaction": "2913902"
+    },
+    {
+      "id": 167,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Shoquist Debora",
+      "reporting_owner_cik": "0001283854",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "36333",
+      "transaction_price": "174.88",
+      "transaction_type": "F",
+      "shares_after_transaction": "512644"
+    },
+    {
+      "id": 169,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-09-17",
+      "transaction_shares": "40163",
+      "transaction_price": "174.88",
+      "transaction_type": "F",
+      "shares_after_transaction": "71908203"
     }
   ]
 }
