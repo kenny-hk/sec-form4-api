@@ -2,20 +2,32 @@
   "ticker": "BRK.A",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-08-15T08:33:14.338438",
-  "count": 1,
+  "last_updated": "2025-09-27T08:26:37.857629",
+  "count": 2,
   "transactions": [
     {
-      "id": 156,
+      "id": 210,
       "issuer_name": "BERKSHIRE HATHAWAY INC",
       "reporting_owner": "Jain Ajit",
       "reporting_owner_cik": "0001728451",
       "reporting_owner_position": "Vice Chairman",
-      "transaction_date": "2025-08-08",
-      "transaction_shares": "2000",
-      "transaction_price": "464.726",
+      "transaction_date": "2025-09-26",
+      "transaction_shares": "15000",
+      "transaction_price": null,
       "transaction_type": "S",
-      "shares_after_transaction": "122308"
+      "shares_after_transaction": "107308"
+    },
+    {
+      "id": 211,
+      "issuer_name": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner": "Jain Ajit",
+      "reporting_owner_cik": "0001728451",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2025-09-24",
+      "transaction_shares": "32",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "384"
     }
   ]
 }
