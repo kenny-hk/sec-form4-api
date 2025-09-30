@@ -1,11 +1,23 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2025-09-29T08:33:13.835286",
+  "last_updated": "2025-09-30T08:32:58.920421",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 149,
+      "id": 140,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "HUANG JEN HSUN",
+      "reporting_owner_cik": "0001197649",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-09-25",
+      "transaction_shares": "4643",
+      "transaction_price": "173.847",
+      "transaction_type": "S",
+      "shares_after_transaction": "71453560"
+    },
+    {
+      "id": 138,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "71649456"
     },
     {
-      "id": 148,
+      "id": 137,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "7399803"
     },
     {
-      "id": 150,
+      "id": 139,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Drell Persis",
       "reporting_owner_cik": "0001636665",
@@ -39,18 +51,6 @@
       "transaction_price": "177.653",
       "transaction_type": "S",
       "shares_after_transaction": "138740"
-    },
-    {
-      "id": 151,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "JONES HARVEY C",
-      "reporting_owner_cik": "0001197650",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-18",
-      "transaction_shares": "250000",
-      "transaction_price": "176.2148",
-      "transaction_type": "S",
-      "shares_after_transaction": "7183280"
     }
   ]
 }
