@@ -2,11 +2,35 @@
   "ticker": "GM",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-09-30T08:32:58.920421",
-  "count": 2,
+  "last_updated": "2025-10-01T08:32:10.814977",
+  "count": 4,
   "transactions": [
     {
-      "id": 19,
+      "id": 29,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Harvey Rory",
+      "reporting_owner_cik": "0001976795",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-09-26",
+      "transaction_shares": "6600",
+      "transaction_price": "52.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "15113"
+    },
+    {
+      "id": 31,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Hatto Christopher",
+      "reporting_owner_cik": "0001292153",
+      "reporting_owner_position": "Vice President & CAO",
+      "transaction_date": "2025-09-26",
+      "transaction_shares": "9584",
+      "transaction_price": "41.40",
+      "transaction_type": "M",
+      "shares_after_transaction": "21591"
+    },
+    {
+      "id": 32,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Reuss Mark L",
       "reporting_owner_cik": "0001492362",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "227781"
     },
     {
-      "id": 18,
+      "id": 30,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Barra Mary T",
       "reporting_owner_cik": "0001492154",
