@@ -1,11 +1,47 @@
 {
   "ticker": "TER",
-  "last_updated": "2025-10-01T08:32:10.814977",
+  "last_updated": "2025-10-02T08:31:44.267492",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 256,
+      "id": 364,
+      "issuer_name": "TERADYNE, INC",
+      "reporting_owner": "MADDOCK ERNEST E",
+      "reporting_owner_cik": "0001227050",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-29",
+      "transaction_shares": "3",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "9593"
+    },
+    {
+      "id": 365,
+      "issuer_name": "TERADYNE, INC",
+      "reporting_owner": "TUFANO PAUL J",
+      "reporting_owner_cik": "0001201520",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-29",
+      "transaction_shares": "49",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "64569"
+    },
+    {
+      "id": 368,
+      "issuer_name": "TERADYNE, INC",
+      "reporting_owner": "Herweck Peter",
+      "reporting_owner_cik": "0001830576",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-29",
+      "transaction_shares": "9",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "15214"
+    },
+    {
+      "id": 366,
       "issuer_name": "TERADYNE, INC",
       "reporting_owner": "Herweck Peter",
       "reporting_owner_cik": "0001830576",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "15205"
     },
     {
-      "id": 257,
+      "id": 367,
       "issuer_name": "TERADYNE, INC",
       "reporting_owner": "TUFANO PAUL J",
       "reporting_owner_cik": "0001201520",
@@ -27,18 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "64520"
-    },
-    {
-      "id": 255,
-      "issuer_name": "TERADYNE, INC",
-      "reporting_owner": "Smith Gregory Stephen",
-      "reporting_owner_cik": "0001666934",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-09-22",
-      "transaction_shares": "554",
-      "transaction_price": "126.39",
-      "transaction_type": "S",
-      "shares_after_transaction": "95884.995"
     }
   ]
 }

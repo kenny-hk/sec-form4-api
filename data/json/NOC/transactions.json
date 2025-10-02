@@ -1,20 +1,32 @@
 {
   "ticker": "NOC",
-  "last_updated": "2025-07-25T08:33:15.145449",
+  "last_updated": "2025-10-02T08:31:44.267492",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 191,
+      "id": 132,
       "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
-      "reporting_owner": "Jones Thomas H",
-      "reporting_owner_cik": "0001834674",
-      "reporting_owner_position": "CVP & Pres Aeronautics Systems",
-      "transaction_date": "2025-07-17",
-      "transaction_shares": "729",
-      "transaction_price": "525",
-      "transaction_type": "S",
-      "shares_after_transaction": "6206.595"
+      "reporting_owner": "Brown Marianne Catherine",
+      "reporting_owner_cik": "0001804183",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "76",
+      "transaction_price": "609.32",
+      "transaction_type": "A",
+      "shares_after_transaction": "10836"
+    },
+    {
+      "id": 133,
+      "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
+      "reporting_owner": "KRISHNA ARVIND",
+      "reporting_owner_cik": "0001629898",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "59",
+      "transaction_price": "609.32",
+      "transaction_type": "A",
+      "shares_after_transaction": "2184"
     }
   ]
 }
