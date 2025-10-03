@@ -1,20 +1,32 @@
 {
   "ticker": "ED",
-  "last_updated": "2025-09-23T08:30:13.167141",
+  "last_updated": "2025-10-03T08:31:32.458770",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 91,
+      "id": 197,
       "issuer_name": "CONSOLIDATED EDISON INC",
-      "reporting_owner": "Miller Joseph",
-      "reporting_owner_cik": "0001837203",
-      "reporting_owner_position": "VP & Controller",
-      "transaction_date": "2025-09-15",
-      "transaction_shares": "1.056",
-      "transaction_price": "97.46",
-      "transaction_type": "P",
-      "shares_after_transaction": "3646.976"
+      "reporting_owner": "Cavanagh Brendan Thomas",
+      "reporting_owner_cik": "0001293293",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "1010",
+      "transaction_price": "98.17",
+      "transaction_type": "A",
+      "shares_after_transaction": "1010"
+    },
+    {
+      "id": 196,
+      "issuer_name": "CONSOLIDATED EDISON INC",
+      "reporting_owner": "RANGER MICHAEL W",
+      "reporting_owner_cik": "0001221061",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "484.978",
+      "transaction_price": "100.52",
+      "transaction_type": "A",
+      "shares_after_transaction": "96480.845"
     }
   ]
 }

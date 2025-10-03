@@ -1,20 +1,68 @@
 {
   "ticker": "PSA",
-  "last_updated": "2025-08-18T08:36:41.948055",
+  "last_updated": "2025-10-03T08:31:32.458770",
   "retention_years": 3,
-  "count": 1,
+  "count": 5,
   "transactions": [
     {
-      "id": 439,
+      "id": 91,
       "issuer_name": "Public Storage",
-      "reporting_owner": "PETHERBRIDGE LUKE J",
-      "reporting_owner_cik": "0001635270",
+      "reporting_owner": "WILLIAMS PAUL S",
+      "reporting_owner_cik": "0001236458",
       "reporting_owner_position": null,
-      "transaction_date": "2025-08-08",
-      "transaction_shares": "700",
-      "transaction_price": "284.25",
-      "transaction_type": "P",
-      "shares_after_transaction": "700"
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "70",
+      "transaction_price": "288.85",
+      "transaction_type": "A",
+      "shares_after_transaction": "1301"
+    },
+    {
+      "id": 93,
+      "issuer_name": "Public Storage",
+      "reporting_owner": "HAVNER RONALD L JR",
+      "reporting_owner_cik": "0001227384",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "4.22",
+      "transaction_price": "288.85",
+      "transaction_type": "A",
+      "shares_after_transaction": "7717.24"
+    },
+    {
+      "id": 94,
+      "issuer_name": "Public Storage",
+      "reporting_owner": "SPOGLI RONALD P",
+      "reporting_owner_cik": "0000916867",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "5.97",
+      "transaction_price": "288.85",
+      "transaction_type": "A",
+      "shares_after_transaction": "12814.72"
+    },
+    {
+      "id": 95,
+      "issuer_name": "Public Storage",
+      "reporting_owner": "REYES JOHN",
+      "reporting_owner_cik": "0001227389",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "115",
+      "transaction_price": "288.85",
+      "transaction_type": "A",
+      "shares_after_transaction": "3063"
+    },
+    {
+      "id": 96,
+      "issuer_name": "Public Storage",
+      "reporting_owner": "Mitra Shankh",
+      "reporting_owner_cik": "0001698445",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "115",
+      "transaction_price": "288.85",
+      "transaction_type": "A",
+      "shares_after_transaction": "8768"
     }
   ]
 }

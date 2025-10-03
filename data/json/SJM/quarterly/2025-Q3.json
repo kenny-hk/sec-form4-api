@@ -2,11 +2,11 @@
   "ticker": "SJM",
   "year": 2025,
   "quarter": 3,
-  "last_updated": "2025-10-02T08:31:44.267492",
+  "last_updated": "2025-10-03T08:31:32.458770",
   "count": 3,
   "transactions": [
     {
-      "id": 181,
+      "id": 362,
       "issuer_name": "J M SMUCKER Co",
       "reporting_owner": "Marshall Tucker H",
       "reporting_owner_cik": "0001810809",
@@ -18,7 +18,19 @@
       "shares_after_transaction": "33864"
     },
     {
-      "id": 182,
+      "id": 363,
+      "issuer_name": "J M SMUCKER Co",
+      "reporting_owner": "SMUCKER RICHARD K",
+      "reporting_owner_cik": "0001105078",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-09-30",
+      "transaction_shares": "50000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "559259"
+    },
+    {
+      "id": 364,
       "issuer_name": "J M SMUCKER Co",
       "reporting_owner": "SMUCKER MARK T",
       "reporting_owner_cik": "0001251544",
@@ -28,18 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "74702"
-    },
-    {
-      "id": 180,
-      "issuer_name": "J M SMUCKER Co",
-      "reporting_owner": "SMUCKER MARK T",
-      "reporting_owner_cik": "0001251544",
-      "reporting_owner_position": "CEO, Chair of Board",
-      "transaction_date": "2025-09-24",
-      "transaction_shares": "6500",
-      "transaction_price": "110",
-      "transaction_type": "S",
-      "shares_after_transaction": "76792"
     }
   ]
 }
