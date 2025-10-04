@@ -1,20 +1,80 @@
 {
   "ticker": "XYZ",
-  "last_updated": "2025-09-25T08:32:21.490212",
+  "last_updated": "2025-10-04T08:32:40.419530",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 10,
+      "id": 60,
       "issuer_name": "Block, Inc.",
-      "reporting_owner": "Ahuja Amrita",
-      "reporting_owner_cik": "0001765417",
-      "reporting_owner_position": "CFO & COO",
-      "transaction_date": "2025-09-16",
-      "transaction_shares": "6581",
-      "transaction_price": "75",
+      "reporting_owner": "Brooks Amy",
+      "reporting_owner_cik": "0001791777",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "207",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "26170"
+    },
+    {
+      "id": 61,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Carter Shawn Corey",
+      "reporting_owner_cik": "0001549211",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "172",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "28460"
+    },
+    {
+      "id": 62,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "BOTHA ROELOF",
+      "reporting_owner_cik": "0001222287",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "276",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "36400"
+    },
+    {
+      "id": 63,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Narula Neha",
+      "reporting_owner_cik": "0001974805",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "268",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "13196"
+    },
+    {
+      "id": 64,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Dale Ajmere",
+      "reporting_owner_cik": "0001683645",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "750",
+      "transaction_price": "72.22",
       "transaction_type": "S",
-      "shares_after_transaction": "285551"
+      "shares_after_transaction": "103578"
+    },
+    {
+      "id": 65,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Meeker Mary G",
+      "reporting_owner_cik": "0001544567",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "259",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "421084"
     }
   ]
 }

@@ -1,20 +1,32 @@
 {
   "ticker": "GDDY",
-  "last_updated": "2025-09-25T08:32:21.490212",
+  "last_updated": "2025-10-04T08:32:40.419530",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 60,
+      "id": 349,
       "issuer_name": "GoDaddy Inc.",
-      "reporting_owner": "Chen Roger",
-      "reporting_owner_cik": "0001898331",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-09-15",
-      "transaction_shares": "1000",
-      "transaction_price": "145.71",
+      "reporting_owner": "Sine Jared F.",
+      "reporting_owner_cik": "0001678432",
+      "reporting_owner_position": "Chief Strategy & Legal Officer",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "475",
+      "transaction_price": "136.57",
       "transaction_type": "S",
-      "shares_after_transaction": "251949"
+      "shares_after_transaction": "65102"
+    },
+    {
+      "id": 350,
+      "issuer_name": "GoDaddy Inc.",
+      "reporting_owner": "SHARPLES BRIAN",
+      "reporting_owner_cik": "0001034604",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "500",
+      "transaction_price": "136.57",
+      "transaction_type": "S",
+      "shares_after_transaction": "20457"
     }
   ]
 }

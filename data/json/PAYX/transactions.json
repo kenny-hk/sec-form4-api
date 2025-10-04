@@ -1,20 +1,32 @@
 {
   "ticker": "PAYX",
-  "last_updated": "2025-09-10T08:31:15.759597",
+  "last_updated": "2025-10-04T08:32:40.419530",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 164,
+      "id": 198,
       "issuer_name": "PAYCHEX INC",
-      "reporting_owner": "GOLISANO B THOMAS",
-      "reporting_owner_cik": "0000903201",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-02",
-      "transaction_shares": "736",
-      "transaction_price": "139.46",
-      "transaction_type": "G",
-      "shares_after_transaction": "41277"
+      "reporting_owner": "ANTE ADAM BROOKS",
+      "reporting_owner_cik": "0001857902",
+      "reporting_owner_position": "Sr. Vice President, Paycor",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "8902",
+      "transaction_price": "124.01",
+      "transaction_type": "F",
+      "shares_after_transaction": "59603"
+    },
+    {
+      "id": 199,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "BERGSTROM RYAN NORMAN",
+      "reporting_owner_cik": "0001857829",
+      "reporting_owner_position": "Chief Product Officer",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "6781",
+      "transaction_price": "124.01",
+      "transaction_type": "F",
+      "shares_after_transaction": "46484"
     }
   ]
 }

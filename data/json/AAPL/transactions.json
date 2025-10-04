@@ -1,7 +1,56 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2025-10-03T08:31:32.458770",
+  "last_updated": "2025-10-04T08:32:40.419530",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 807,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "COOK TIMOTHY D",
+      "reporting_owner_cik": "0001214156",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "277206",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "3557501"
+    },
+    {
+      "id": 809,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Adams Katherine L.",
+      "reporting_owner_cik": "0001462356",
+      "reporting_owner_position": "SVP, GC and Secretary",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "92403",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "271561"
+    },
+    {
+      "id": 813,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Khan Sabih",
+      "reporting_owner_cik": "0002078476",
+      "reporting_owner_position": "COO",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "92403",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "1092162"
+    },
+    {
+      "id": 814,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "O'BRIEN DEIRDRE",
+      "reporting_owner_cik": "0001767094",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-10-01",
+      "transaction_shares": "92403",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "229090"
+    }
+  ]
 }
