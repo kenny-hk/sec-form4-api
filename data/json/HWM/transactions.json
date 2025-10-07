@@ -1,20 +1,44 @@
 {
   "ticker": "HWM",
-  "last_updated": "2025-08-13T08:34:01.107744",
+  "last_updated": "2025-10-07T08:34:12.820085",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 267,
+      "id": 545,
       "issuer_name": "Howmet Aerospace Inc.",
-      "reporting_owner": "LIN LOLA FELICE",
-      "reporting_owner_cik": "0001870422",
-      "reporting_owner_position": "EVP, CL&CO and Secretary",
-      "transaction_date": "2025-08-05",
-      "transaction_shares": "13102",
-      "transaction_price": "180.5124",
-      "transaction_type": "S",
-      "shares_after_transaction": "63150"
+      "reporting_owner": "Miller Jody",
+      "reporting_owner_cik": "0001325501",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-02",
+      "transaction_shares": "176",
+      "transaction_price": "191.08",
+      "transaction_type": "A",
+      "shares_after_transaction": "29716"
+    },
+    {
+      "id": 546,
+      "issuer_name": "Howmet Aerospace Inc.",
+      "reporting_owner": "LEDUC ROBERT F",
+      "reporting_owner_cik": "0001184190",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-02",
+      "transaction_shares": "31",
+      "transaction_price": "191.08",
+      "transaction_type": "A",
+      "shares_after_transaction": "35065"
+    },
+    {
+      "id": 547,
+      "issuer_name": "Howmet Aerospace Inc.",
+      "reporting_owner": "CANTIE JOSEPH S",
+      "reporting_owner_cik": "0001275621",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-02",
+      "transaction_shares": "176",
+      "transaction_price": "191.08",
+      "transaction_type": "A",
+      "shares_after_transaction": "42904"
     }
   ]
 }
