@@ -2,11 +2,35 @@
   "ticker": "XYZ",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-10T08:32:39.173721",
-  "count": 10,
+  "last_updated": "2025-10-11T08:27:53.924136",
+  "count": 6,
   "transactions": [
     {
-      "id": 52,
+      "id": 42,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Grassadonia Brian",
+      "reporting_owner_cik": "0001803649",
+      "reporting_owner_position": "Ecosystem Lead",
+      "transaction_date": "2025-10-08",
+      "transaction_shares": "35145",
+      "transaction_price": "80",
+      "transaction_type": "S",
+      "shares_after_transaction": "535896"
+    },
+    {
+      "id": 45,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Dale Ajmere",
+      "reporting_owner_cik": "0001683645",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-10-08",
+      "transaction_shares": "750",
+      "transaction_price": "80",
+      "transaction_type": "S",
+      "shares_after_transaction": "102308"
+    },
+    {
+      "id": 41,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Jennings Owen Britton",
       "reporting_owner_cik": "0002047775",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "253956"
     },
     {
-      "id": 56,
+      "id": 43,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Esperanza Chrysty",
       "reporting_owner_cik": "0001965569",
@@ -30,7 +54,7 @@
       "shares_after_transaction": "126806"
     },
     {
-      "id": 57,
+      "id": 44,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Ahuja Amrita",
       "reporting_owner_cik": "0001765417",
@@ -42,7 +66,7 @@
       "shares_after_transaction": "284200"
     },
     {
-      "id": 60,
+      "id": 46,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Grassadonia Brian",
       "reporting_owner_cik": "0001803649",
@@ -52,78 +76,6 @@
       "transaction_price": "74.77",
       "transaction_type": "S",
       "shares_after_transaction": "572720"
-    },
-    {
-      "id": 51,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Brooks Amy",
-      "reporting_owner_cik": "0001791777",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "207",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "26170"
-    },
-    {
-      "id": 53,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Carter Shawn Corey",
-      "reporting_owner_cik": "0001549211",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "172",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "28460"
-    },
-    {
-      "id": 54,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "BOTHA ROELOF",
-      "reporting_owner_cik": "0001222287",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "276",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "36400"
-    },
-    {
-      "id": 55,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Narula Neha",
-      "reporting_owner_cik": "0001974805",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "268",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "13196"
-    },
-    {
-      "id": 58,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Dale Ajmere",
-      "reporting_owner_cik": "0001683645",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "750",
-      "transaction_price": "72.22",
-      "transaction_type": "S",
-      "shares_after_transaction": "103578"
-    },
-    {
-      "id": 59,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Meeker Mary G",
-      "reporting_owner_cik": "0001544567",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "259",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "421084"
     }
   ]
 }
