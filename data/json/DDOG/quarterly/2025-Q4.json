@@ -2,11 +2,23 @@
   "ticker": "DDOG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-15T08:32:26.229932",
+  "last_updated": "2025-10-16T08:33:49.668907",
   "count": 2,
   "transactions": [
     {
-      "id": 40,
+      "id": 31,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Shah Shardul",
+      "reporting_owner_cik": "0001783882",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-13",
+      "transaction_shares": "1100",
+      "transaction_price": "160.7327",
+      "transaction_type": "S",
+      "shares_after_transaction": "371265"
+    },
+    {
+      "id": 32,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -16,18 +28,6 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "555086"
-    },
-    {
-      "id": 39,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Callahan Michael James",
-      "reporting_owner_cik": "0001784030",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-06",
-      "transaction_shares": "91667",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "104163"
     }
   ]
 }
