@@ -1,11 +1,23 @@
 {
   "ticker": "DELL",
-  "last_updated": "2025-10-16T08:33:49.668907",
+  "last_updated": "2025-10-17T08:32:43.264161",
   "retention_years": 3,
-  "count": 4,
+  "count": 5,
   "transactions": [
     {
-      "id": 231,
+      "id": 263,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Silver Lake Group, L.L.C.",
+      "reporting_owner_cik": "0001418226",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-14",
+      "transaction_shares": "3538",
+      "transaction_price": "151.63",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 259,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "DELL MICHAEL S",
       "reporting_owner_cik": "0000908724",
@@ -17,19 +29,19 @@
       "shares_after_transaction": "16158273"
     },
     {
-      "id": 229,
+      "id": 260,
       "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA IV (GP), L.L.C.",
-      "reporting_owner_cik": "0001672568",
+      "reporting_owner": "GREEN WILLIAM D",
+      "reporting_owner_cik": "0001232906",
       "reporting_owner_position": null,
       "transaction_date": "2025-10-08",
-      "transaction_shares": "263024",
-      "transaction_price": null,
+      "transaction_shares": "152",
+      "transaction_price": "13.98",
       "transaction_type": "M",
-      "shares_after_transaction": "263024"
+      "shares_after_transaction": "47771"
     },
     {
-      "id": 230,
+      "id": 261,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA V (GP), L.L.C.",
       "reporting_owner_cik": "0001737652",
@@ -41,16 +53,16 @@
       "shares_after_transaction": "263024"
     },
     {
-      "id": 232,
+      "id": 262,
       "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "GREEN WILLIAM D",
-      "reporting_owner_cik": "0001232906",
+      "reporting_owner": "SLTA IV (GP), L.L.C.",
+      "reporting_owner_cik": "0001672568",
       "reporting_owner_position": null,
       "transaction_date": "2025-10-08",
-      "transaction_shares": "152",
-      "transaction_price": "13.98",
+      "transaction_shares": "263024",
+      "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "47771"
+      "shares_after_transaction": "263024"
     }
   ]
 }
