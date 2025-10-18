@@ -2,11 +2,23 @@
   "ticker": "TMUS",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-17T08:32:43.264161",
+  "last_updated": "2025-10-18T08:29:11.488310",
   "count": 2,
   "transactions": [
     {
-      "id": 187,
+      "id": 232,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "DEUTSCHE TELEKOM AG",
+      "reporting_owner_cik": "0000946770",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-15",
+      "transaction_shares": "22917",
+      "transaction_price": "226.6681",
+      "transaction_type": "S",
+      "shares_after_transaction": "627759130"
+    },
+    {
+      "id": 231,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "DEUTSCHE TELEKOM AG",
       "reporting_owner_cik": "0000946770",
@@ -16,18 +28,6 @@
       "transaction_price": "226.5821",
       "transaction_type": "S",
       "shares_after_transaction": "627973796"
-    },
-    {
-      "id": 188,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "DEUTSCHE TELEKOM AG",
-      "reporting_owner_cik": "0000946770",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-08",
-      "transaction_shares": "9629",
-      "transaction_price": "225.2845",
-      "transaction_type": "S",
-      "shares_after_transaction": "628094548"
     }
   ]
 }

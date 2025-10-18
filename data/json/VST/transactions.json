@@ -1,11 +1,23 @@
 {
   "ticker": "VST",
-  "last_updated": "2025-10-17T08:32:43.264161",
+  "last_updated": "2025-10-18T08:29:11.488310",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 212,
+      "id": 256,
+      "issuer_name": "Vistra Corp.",
+      "reporting_owner": "BURKE JAMES A",
+      "reporting_owner_cik": "0001268406",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-10-15",
+      "transaction_shares": "24000",
+      "transaction_price": "19.68",
+      "transaction_type": "M",
+      "shares_after_transaction": "301315"
+    },
+    {
+      "id": 257,
       "issuer_name": "Vistra Corp.",
       "reporting_owner": "BURKE JAMES A",
       "reporting_owner_cik": "0001268406",
@@ -15,18 +27,6 @@
       "transaction_price": "19.68",
       "transaction_type": "M",
       "shares_after_transaction": "293368"
-    },
-    {
-      "id": 211,
-      "issuer_name": "Vistra Corp.",
-      "reporting_owner": "BURKE JAMES A",
-      "reporting_owner_cik": "0001268406",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-10-08",
-      "transaction_shares": "22000",
-      "transaction_price": "19.68",
-      "transaction_type": "M",
-      "shares_after_transaction": "286329"
     }
   ]
 }
