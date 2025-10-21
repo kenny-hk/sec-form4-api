@@ -1,23 +1,11 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2025-10-20T08:33:32.266424",
+  "last_updated": "2025-10-21T08:35:50.705133",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 298,
-      "issuer_name": "Apple Inc.",
-      "reporting_owner": "KONDO CHRIS",
-      "reporting_owner_cik": "0001631982",
-      "reporting_owner_position": "Principal Accounting Officer",
-      "transaction_date": "2025-10-15",
-      "transaction_shares": "7371",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "22469"
-    },
-    {
-      "id": 300,
+      "id": 279,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Parekh Kevan",
       "reporting_owner_cik": "0002050912",
@@ -27,6 +15,18 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "21026"
+    },
+    {
+      "id": 280,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "KONDO CHRIS",
+      "reporting_owner_cik": "0001631982",
+      "reporting_owner_position": "Principal Accounting Officer",
+      "transaction_date": "2025-10-15",
+      "transaction_shares": "7371",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "22469"
     }
   ]
 }
