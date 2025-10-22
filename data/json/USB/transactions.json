@@ -1,20 +1,32 @@
 {
   "ticker": "USB",
-  "last_updated": "2025-08-07T08:36:38.462015",
+  "last_updated": "2025-10-22T08:34:41.054910",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 196,
+      "id": 52,
+      "issuer_name": "US BANCORP \\DE\\",
+      "reporting_owner": "CECERE ANDREW",
+      "reporting_owner_cik": "0001185476",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-20",
+      "transaction_shares": "140445.0000",
+      "transaction_price": "39.4900",
+      "transaction_type": "M",
+      "shares_after_transaction": "1500859.0000"
+    },
+    {
+      "id": 53,
       "issuer_name": "US BANCORP \\DE\\",
       "reporting_owner": "CHOSY JAMES L",
       "reporting_owner_cik": "0001271850",
       "reporting_owner_position": "Senior EVP and General Counsel",
-      "transaction_date": "2025-07-30",
-      "transaction_shares": "3214.0000",
-      "transaction_price": "0.0000",
-      "transaction_type": "G",
-      "shares_after_transaction": "223856.0000"
+      "transaction_date": "2025-10-20",
+      "transaction_shares": "29428.0000",
+      "transaction_price": "39.4900",
+      "transaction_type": "M",
+      "shares_after_transaction": "253284.0000"
     }
   ]
 }

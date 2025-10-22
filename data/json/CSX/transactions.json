@@ -1,7 +1,20 @@
 {
   "ticker": "CSX",
-  "last_updated": "2025-10-10T08:32:39.173721",
+  "last_updated": "2025-10-22T08:34:41.054910",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 4,
+      "issuer_name": "CSX CORP",
+      "reporting_owner": "ANGEL STEPHEN F",
+      "reporting_owner_cik": "0001190775",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2025-10-20",
+      "transaction_shares": "55000",
+      "transaction_price": "36.87",
+      "transaction_type": "P",
+      "shares_after_transaction": "58234"
+    }
+  ]
 }
