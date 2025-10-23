@@ -1,11 +1,11 @@
 {
   "ticker": "CSX",
-  "last_updated": "2025-10-22T08:34:41.054910",
+  "last_updated": "2025-10-23T08:33:37.226233",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 4,
+      "id": 18,
       "issuer_name": "CSX CORP",
       "reporting_owner": "ANGEL STEPHEN F",
       "reporting_owner_cik": "0001190775",
@@ -15,6 +15,18 @@
       "transaction_price": "36.87",
       "transaction_type": "P",
       "shares_after_transaction": "58234"
+    },
+    {
+      "id": 19,
+      "issuer_name": "CSX CORP",
+      "reporting_owner": "Burns Michael S.",
+      "reporting_owner_cik": "0002051357",
+      "reporting_owner_position": "SVP - CLO & Corp Secy",
+      "transaction_date": "2025-10-20",
+      "transaction_shares": "13107",
+      "transaction_price": "17.94",
+      "transaction_type": "M",
+      "shares_after_transaction": "64747"
     }
   ]
 }

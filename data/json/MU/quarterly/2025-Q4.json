@@ -2,20 +2,44 @@
   "ticker": "MU",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-14T08:30:42.292959",
-  "count": 1,
+  "last_updated": "2025-10-23T08:33:37.226233",
+  "count": 3,
   "transactions": [
     {
-      "id": 52,
+      "id": 70,
       "issuer_name": "MICRON TECHNOLOGY INC",
       "reporting_owner": "MEHROTRA SANJAY",
       "reporting_owner_cik": "0001242654",
       "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-10-03",
-      "transaction_shares": "4387.00",
-      "transaction_price": "190.37",
+      "transaction_date": "2025-10-20",
+      "transaction_shares": "10000.00",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "491578.00"
+    },
+    {
+      "id": 72,
+      "issuer_name": "MICRON TECHNOLOGY INC",
+      "reporting_owner": "ALLEN SCOTT R.",
+      "reporting_owner_cik": "0001652149",
+      "reporting_owner_position": "CVP, Chief Accounting Officer",
+      "transaction_date": "2025-10-19",
+      "transaction_shares": "269.00",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "49174.00"
+    },
+    {
+      "id": 71,
+      "issuer_name": "MICRON TECHNOLOGY INC",
+      "reporting_owner": "RAY MICHAEL CHARLES",
+      "reporting_owner_cik": "0001593199",
+      "reporting_owner_position": "SVP, Chief Legal Officer",
+      "transaction_date": "2025-10-16",
+      "transaction_shares": "200.00",
+      "transaction_price": "196.43",
       "transaction_type": "S",
-      "shares_after_transaction": "305761.00"
+      "shares_after_transaction": "105562.00"
     }
   ]
 }
