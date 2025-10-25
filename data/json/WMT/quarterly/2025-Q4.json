@@ -2,11 +2,23 @@
   "ticker": "WMT",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-24T08:31:53.081119",
-  "count": 3,
+  "last_updated": "2025-10-25T08:27:29.590502",
+  "count": 2,
   "transactions": [
     {
-      "id": 237,
+      "id": 192,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "McMillon C Douglas",
+      "reporting_owner_cik": "0001335782",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-10-23",
+      "transaction_shares": "19416",
+      "transaction_price": "107.1771",
+      "transaction_type": "S",
+      "shares_after_transaction": "4354161.551"
+    },
+    {
+      "id": 193,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McLay Kathryn J.",
       "reporting_owner_cik": "0001794573",
@@ -16,30 +28,6 @@
       "transaction_price": "107.75",
       "transaction_type": "S",
       "shares_after_transaction": "1044455.036"
-    },
-    {
-      "id": 239,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Furner John R.",
-      "reporting_owner_cik": "0001696737",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-10-16",
-      "transaction_shares": "4317",
-      "transaction_price": "106.7784",
-      "transaction_type": "S",
-      "shares_after_transaction": "901747.566"
-    },
-    {
-      "id": 238,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Bartlett Daniel J",
-      "reporting_owner_cik": "0001579299",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-10-15",
-      "transaction_shares": "1550",
-      "transaction_price": "107.46",
-      "transaction_type": "S",
-      "shares_after_transaction": "644417.662"
     }
   ]
 }
