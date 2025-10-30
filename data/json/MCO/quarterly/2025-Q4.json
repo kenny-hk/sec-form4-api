@@ -2,20 +2,32 @@
   "ticker": "MCO",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-23T08:33:37.226233",
-  "count": 1,
+  "last_updated": "2025-10-30T08:31:07.277722",
+  "count": 2,
   "transactions": [
     {
-      "id": 145,
+      "id": 102,
+      "issuer_name": "MOODYS CORP /DE/",
+      "reporting_owner": "Steele Richard G",
+      "reporting_owner_cik": "0001990258",
+      "reporting_owner_position": "SVP - General Counsel",
+      "transaction_date": "2025-10-28",
+      "transaction_shares": "26",
+      "transaction_price": "493.90",
+      "transaction_type": "S",
+      "shares_after_transaction": "1333.722"
+    },
+    {
+      "id": 103,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "Fauber Robert",
       "reporting_owner_cik": "0001481153",
       "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-10-15",
-      "transaction_shares": "55",
-      "transaction_price": "80.81",
+      "transaction_date": "2025-10-28",
+      "transaction_shares": "546",
+      "transaction_price": "113.34",
       "transaction_type": "M",
-      "shares_after_transaction": "61270.984"
+      "shares_after_transaction": "61627.984"
     }
   ]
 }

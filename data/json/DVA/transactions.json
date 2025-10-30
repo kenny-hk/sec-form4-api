@@ -1,20 +1,32 @@
 {
   "ticker": "DVA",
-  "last_updated": "2025-09-30T08:32:58.920421",
+  "last_updated": "2025-10-30T08:31:07.277722",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 50,
+      "id": 40,
       "issuer_name": "DAVITA INC.",
-      "reporting_owner": "Maughan David Paul",
-      "reporting_owner_cik": "0002037895",
-      "reporting_owner_position": "Chief Operating Officer, DKC",
-      "transaction_date": "2025-09-22",
-      "transaction_shares": "7501",
-      "transaction_price": "130.16",
-      "transaction_type": "F",
-      "shares_after_transaction": "122266"
+      "reporting_owner": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner_cik": "0001067983",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-27",
+      "transaction_shares": "401514",
+      "transaction_price": "135.3558",
+      "transaction_type": "S",
+      "shares_after_transaction": "31759065"
+    },
+    {
+      "id": 230,
+      "issuer_name": "DAVITA INC.",
+      "reporting_owner": "BERKSHIRE HATHAWAY INC",
+      "reporting_owner_cik": "0001067983",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-27",
+      "transaction_shares": "401514",
+      "transaction_price": "135.3558",
+      "transaction_type": "S",
+      "shares_after_transaction": "31759065"
     }
   ]
 }
