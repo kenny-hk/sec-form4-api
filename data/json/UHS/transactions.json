@@ -1,32 +1,56 @@
 {
   "ticker": "UHS",
-  "last_updated": "2025-08-14T08:34:40.355927",
+  "last_updated": "2025-10-31T08:31:14.713853",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 453,
+      "id": 197,
+      "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
+      "reporting_owner": "SUSSMAN ELLIOT J MD MBA",
+      "reporting_owner_cik": "0001181000",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-29",
+      "transaction_shares": "2500",
+      "transaction_price": "138.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "8613"
+    },
+    {
+      "id": 198,
+      "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
+      "reporting_owner": "Peterson Matthew Jay",
+      "reporting_owner_cik": "0001788925",
+      "reporting_owner_position": "Executive Vice President, UHS",
+      "transaction_date": "2025-10-29",
+      "transaction_shares": "8425",
+      "transaction_price": "138.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "24804.5817"
+    },
+    {
+      "id": 199,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "Miller Marc D",
       "reporting_owner_cik": "0001315495",
       "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-08-06",
-      "transaction_shares": "83252",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "0"
+      "transaction_date": "2025-10-29",
+      "transaction_shares": "75000",
+      "transaction_price": "138.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "353054"
     },
     {
-      "id": 454,
+      "id": 200,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "MILLER ALAN B",
       "reporting_owner_cik": "0001181031",
       "reporting_owner_position": "Executive Chairman",
-      "transaction_date": "2025-08-06",
-      "transaction_shares": "175993",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "0"
+      "transaction_date": "2025-10-29",
+      "transaction_shares": "70213",
+      "transaction_price": "152.68",
+      "transaction_type": "M",
+      "shares_after_transaction": "1789050"
     }
   ]
 }
