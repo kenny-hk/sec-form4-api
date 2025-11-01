@@ -1,7 +1,32 @@
 {
   "ticker": "F",
-  "last_updated": "2025-10-23T08:33:37.226233",
+  "last_updated": "2025-11-01T08:28:59.067714",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 231,
+      "issuer_name": "FORD MOTOR CO",
+      "reporting_owner": "Veihmeyer John B",
+      "reporting_owner_cik": "0001723533",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "19812",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "140914"
+    },
+    {
+      "id": 232,
+      "issuer_name": "FORD MOTOR CO",
+      "reporting_owner": "WEINBERG JOHN S",
+      "reporting_owner_cik": "0001029647",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "16861",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "196974"
+    }
+  ]
 }
