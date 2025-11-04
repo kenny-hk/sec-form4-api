@@ -2,11 +2,23 @@
   "ticker": "ABNB",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-03T08:35:18.254759",
+  "last_updated": "2025-11-04T08:34:08.988919",
   "count": 4,
   "transactions": [
     {
-      "id": 25,
+      "id": 50,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "BALOGH ARISTOTLE N",
+      "reporting_owner_cik": "0001216924",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "600",
+      "transaction_price": "125.47",
+      "transaction_type": "S",
+      "shares_after_transaction": "196005.973"
+    },
+    {
+      "id": 51,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "436570.102"
     },
     {
-      "id": 23,
+      "id": 49,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Gebbia Joseph",
       "reporting_owner_cik": "0001834171",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "692326"
     },
     {
-      "id": 22,
+      "id": 48,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -40,18 +52,6 @@
       "transaction_price": "29.955",
       "transaction_type": "M",
       "shares_after_transaction": "456254.102"
-    },
-    {
-      "id": 24,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "BALOGH ARISTOTLE N",
-      "reporting_owner_cik": "0001216924",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-10-23",
-      "transaction_shares": "600",
-      "transaction_price": "127.53",
-      "transaction_type": "S",
-      "shares_after_transaction": "196605.973"
     }
   ]
 }

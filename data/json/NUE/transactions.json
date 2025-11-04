@@ -1,20 +1,32 @@
 {
   "ticker": "NUE",
-  "last_updated": "2025-09-02T08:32:53.813002",
+  "last_updated": "2025-11-04T08:34:08.988919",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 178,
+      "id": 193,
       "issuer_name": "NUCOR CORP",
-      "reporting_owner": "Keller Michael D",
-      "reporting_owner_cik": "0001491394",
-      "reporting_owner_position": "Vice Pres. and Corp. Contro",
-      "transaction_date": "2025-08-22",
-      "transaction_shares": "6000",
-      "transaction_price": "148.41",
+      "reporting_owner": "Behr Allen C",
+      "reporting_owner_cik": "0001812083",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "9042",
+      "transaction_price": "151.2831",
       "transaction_type": "S",
-      "shares_after_transaction": "22551.71"
+      "shares_after_transaction": "73661.16"
+    },
+    {
+      "id": 194,
+      "issuer_name": "NUCOR CORP",
+      "reporting_owner": "Laxton Stephen D",
+      "reporting_owner_cik": "0001916666",
+      "reporting_owner_position": "CFO and EVP",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "2061",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "90177.27"
     }
   ]
 }

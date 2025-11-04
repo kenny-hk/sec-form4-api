@@ -1,20 +1,80 @@
 {
   "ticker": "SMCI",
-  "last_updated": "2025-09-24T08:32:00.562892",
+  "last_updated": "2025-11-04T08:34:08.988919",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 185,
+      "id": 155,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "Liaw Yih-Shyan Wally",
+      "reporting_owner_cik": "0001392937",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "5000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "82963"
+    },
+    {
+      "id": 156,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "Liang Charles",
+      "reporting_owner_cik": "0001392942",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "6000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "609657"
+    },
+    {
+      "id": 157,
       "issuer_name": "Super Micro Computer, Inc.",
       "reporting_owner": "WEIGAND DAVID E",
       "reporting_owner_cik": "0001777404",
       "reporting_owner_position": "SVP, Chief Financial Officer",
-      "transaction_date": "2025-09-15",
-      "transaction_shares": "25000",
-      "transaction_price": "5.304",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "13000",
+      "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "125188"
+      "shares_after_transaction": "113188"
+    },
+    {
+      "id": 158,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "CLEGG DON W",
+      "reporting_owner_cik": "0001777241",
+      "reporting_owner_position": "SVP, Worldwide Sales",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "6000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "48579"
+    },
+    {
+      "id": 159,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "Liu Liang Chiu-Chu Sara",
+      "reporting_owner_cik": "0001392941",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "6000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "609657"
+    },
+    {
+      "id": 160,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "KAO GEORGE",
+      "reporting_owner_cik": "0001777243",
+      "reporting_owner_position": "SVP, OPERATIONS",
+      "transaction_date": "2025-10-30",
+      "transaction_shares": "5000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "26820"
     }
   ]
 }
