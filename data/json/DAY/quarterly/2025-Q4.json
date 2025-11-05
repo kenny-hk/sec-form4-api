@@ -2,11 +2,35 @@
   "ticker": "DAY",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-04T08:34:08.988919",
-  "count": 4,
+  "last_updated": "2025-11-05T08:33:58.189617",
+  "count": 3,
   "transactions": [
     {
-      "id": 214,
+      "id": 297,
+      "issuer_name": "Dayforce, Inc.",
+      "reporting_owner": "Korngiebel Joseph B",
+      "reporting_owner_cik": "0001848122",
+      "reporting_owner_position": "EVP, CSPTO",
+      "transaction_date": "2025-11-01",
+      "transaction_shares": "2250",
+      "transaction_price": "68.74",
+      "transaction_type": "F",
+      "shares_after_transaction": "236063"
+    },
+    {
+      "id": 298,
+      "issuer_name": "Dayforce, Inc.",
+      "reporting_owner": "Holdridge Stephen H.",
+      "reporting_owner_cik": "0001722522",
+      "reporting_owner_position": "President, COO",
+      "transaction_date": "2025-11-01",
+      "transaction_shares": "3997",
+      "transaction_price": "68.74",
+      "transaction_type": "F",
+      "shares_after_transaction": "180814"
+    },
+    {
+      "id": 296,
       "issuer_name": "Dayforce, Inc.",
       "reporting_owner": "PRICE T ROWE ASSOCIATES INC /MD/",
       "reporting_owner_cik": "0000080255",
@@ -16,42 +40,6 @@
       "transaction_price": "68.45",
       "transaction_type": "S",
       "shares_after_transaction": "24753418"
-    },
-    {
-      "id": 216,
-      "issuer_name": "Dayforce, Inc.",
-      "reporting_owner": "Jacobs Jeffrey Scott",
-      "reporting_owner_cik": "0001809266",
-      "reporting_owner_position": "Head of Acct & Fin Reporting",
-      "transaction_date": "2025-10-27",
-      "transaction_shares": "353",
-      "transaction_price": "68.54",
-      "transaction_type": "S",
-      "shares_after_transaction": "49401"
-    },
-    {
-      "id": 215,
-      "issuer_name": "Dayforce, Inc.",
-      "reporting_owner": "PRICE T ROWE ASSOCIATES INC /MD/",
-      "reporting_owner_cik": "0000080255",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-24",
-      "transaction_shares": "2977",
-      "transaction_price": "68.5",
-      "transaction_type": "S",
-      "shares_after_transaction": "24789870"
-    },
-    {
-      "id": 217,
-      "issuer_name": "Dayforce, Inc.",
-      "reporting_owner": "Alkharrat Samer",
-      "reporting_owner_cik": "0001867431",
-      "reporting_owner_position": "EVP, Chief Revenue Officer",
-      "transaction_date": "2025-10-24",
-      "transaction_shares": "3233",
-      "transaction_price": "68.55",
-      "transaction_type": "S",
-      "shares_after_transaction": "117934"
     }
   ]
 }

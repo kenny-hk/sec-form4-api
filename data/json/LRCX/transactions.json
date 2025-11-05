@@ -1,11 +1,23 @@
 {
   "ticker": "LRCX",
-  "last_updated": "2025-11-04T08:34:08.988919",
+  "last_updated": "2025-11-05T08:33:58.189617",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 319,
+      "id": 439,
+      "issuer_name": "LAM RESEARCH CORP",
+      "reporting_owner": "Mayer Bethany",
+      "reporting_owner_cik": "0001405693",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "1298",
+      "transaction_price": "159.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "1652"
+    },
+    {
+      "id": 440,
       "issuer_name": "LAM RESEARCH CORP",
       "reporting_owner": "Kang Ho Kyu",
       "reporting_owner_cik": "0001965462",
@@ -15,18 +27,6 @@
       "transaction_price": "157.46",
       "transaction_type": "F",
       "shares_after_transaction": "8029"
-    },
-    {
-      "id": 318,
-      "issuer_name": "LAM RESEARCH CORP",
-      "reporting_owner": "Harter Ava",
-      "reporting_owner_cik": "0001642415",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-10-27",
-      "transaction_shares": "3000",
-      "transaction_price": "157.48",
-      "transaction_type": "S",
-      "shares_after_transaction": "56786.455"
     }
   ]
 }

@@ -1,11 +1,35 @@
 {
   "ticker": "META",
-  "last_updated": "2025-11-04T08:34:08.988919",
+  "last_updated": "2025-11-05T08:33:58.189617",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 260,
+      "id": 355,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Zuckerberg Mark",
+      "reporting_owner_cik": "0001548760",
+      "reporting_owner_position": "COB and CEO",
+      "transaction_date": "2025-10-31",
+      "transaction_shares": "242340",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "242340"
+    },
+    {
+      "id": 357,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Alford Peggy",
+      "reporting_owner_cik": "0001736236",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-10-31",
+      "transaction_shares": "601",
+      "transaction_price": "674.40",
+      "transaction_type": "S",
+      "shares_after_transaction": "3505"
+    },
+    {
+      "id": 358,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Newstead Jennifer",
       "reporting_owner_cik": "0001780525",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "27756"
     },
     {
-      "id": 259,
+      "id": 356,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Olivan Javier",
       "reporting_owner_cik": "0001564475",

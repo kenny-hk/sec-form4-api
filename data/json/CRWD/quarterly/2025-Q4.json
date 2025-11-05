@@ -2,20 +2,44 @@
   "ticker": "CRWD",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-04T08:34:08.988919",
-  "count": 1,
+  "last_updated": "2025-11-05T08:33:58.189617",
+  "count": 3,
   "transactions": [
     {
-      "id": 252,
+      "id": 344,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Kurtz George",
+      "reporting_owner_cik": "0001778564",
+      "reporting_owner_position": "PRESIDENT AND CEO",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "200",
+      "transaction_price": "545.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "2114857"
+    },
+    {
+      "id": 345,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Podbere Burt W.",
+      "reporting_owner_cik": "0001778610",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "428",
+      "transaction_price": "548.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "219996"
+    },
+    {
+      "id": 346,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "GANDHI SAMEER K",
       "reporting_owner_cik": "0001201326",
       "reporting_owner_position": null,
-      "transaction_date": "2025-10-24",
-      "transaction_shares": "538",
-      "transaction_price": "525.38",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "288",
+      "transaction_price": "545.89",
       "transaction_type": "S",
-      "shares_after_transaction": "774918"
+      "shares_after_transaction": "770168"
     }
   ]
 }

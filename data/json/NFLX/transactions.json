@@ -1,32 +1,44 @@
 {
   "ticker": "NFLX",
-  "last_updated": "2025-10-09T08:33:55.198569",
+  "last_updated": "2025-11-05T08:33:58.189617",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 824,
+      "id": 384,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Neumann Spencer Adam",
       "reporting_owner_cik": "0001543133",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "1264",
-      "transaction_price": "269.58",
-      "transaction_type": "M",
-      "shares_after_transaction": "4955"
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "30",
+      "transaction_price": "1118.15",
+      "transaction_type": "S",
+      "shares_after_transaction": "3901"
     },
     {
-      "id": 831,
+      "id": 388,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Neumann Spencer Adam",
+      "reporting_owner_cik": "0001543133",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "2600",
+      "transaction_price": "269.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "6291"
+    },
+    {
+      "id": 390,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HASTINGS REED",
       "reporting_owner_cik": "0001033331",
       "reporting_owner_position": null,
-      "transaction_date": "2025-10-01",
-      "transaction_shares": "42176",
-      "transaction_price": "94.09",
+      "transaction_date": "2025-10-31",
+      "transaction_shares": "40374",
+      "transaction_price": "98.30",
       "transaction_type": "M",
-      "shares_after_transaction": "42570"
+      "shares_after_transaction": "40768"
     }
   ]
 }
