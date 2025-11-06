@@ -1,20 +1,32 @@
 {
   "ticker": "PWR",
-  "last_updated": "2025-07-29T08:36:08.092679",
+  "last_updated": "2025-11-06T08:34:48.365454",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 3,
+      "id": 12,
+      "issuer_name": "QUANTA SERVICES, INC.",
+      "reporting_owner": "FRIED BERNARD",
+      "reporting_owner_cik": "0001284383",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "4000",
+      "transaction_price": "452.19",
+      "transaction_type": "S",
+      "shares_after_transaction": "12493"
+    },
+    {
+      "id": 13,
       "issuer_name": "QUANTA SERVICES, INC.",
       "reporting_owner": "Desai Jayshree S",
       "reporting_owner_cik": "0001716735",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-07-18",
-      "transaction_shares": "414",
-      "transaction_price": "397.90",
-      "transaction_type": "F",
-      "shares_after_transaction": "47913"
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "455",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "47458"
     }
   ]
 }

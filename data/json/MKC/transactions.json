@@ -1,7 +1,56 @@
 {
   "ticker": "MKC",
-  "last_updated": "2025-10-29T08:33:18.985282",
+  "last_updated": "2025-11-06T08:34:48.365454",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 522,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "BRAMMAN ANNE L",
+      "reporting_owner_cik": "0001637584",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "14.997",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "6653.775"
+    },
+    {
+      "id": 523,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foust Andrew",
+      "reporting_owner_cik": "0001984268",
+      "reporting_owner_position": "President, Americas",
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "32.297",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "8712.182"
+    },
+    {
+      "id": 524,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "THOMAS TERRY S",
+      "reporting_owner_cik": "0001822379",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "2.253",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "1735.948"
+    },
+    {
+      "id": 525,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "PRESTON MARGARET M V",
+      "reporting_owner_cik": "0001261238",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "414.136",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "81706.807"
+    }
+  ]
 }

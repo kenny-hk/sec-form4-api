@@ -1,7 +1,32 @@
 {
   "ticker": "IBM",
-  "last_updated": "2025-10-08T08:34:22.326480",
+  "last_updated": "2025-11-06T08:34:48.365454",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 120,
+      "issuer_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+      "reporting_owner": "KRISHNA ARVIND",
+      "reporting_owner_cik": "0001629898",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2025-11-05",
+      "transaction_shares": "20000.00",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "318624.4442"
+    },
+    {
+      "id": 121,
+      "issuer_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+      "reporting_owner": "KAVANAUGH JAMES J",
+      "reporting_owner_cik": "0001433640",
+      "reporting_owner_position": "Sr. VP and CFO",
+      "transaction_date": "2025-11-05",
+      "transaction_shares": "6700.00",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "144447.039"
+    }
+  ]
 }

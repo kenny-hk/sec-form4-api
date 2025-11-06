@@ -1,11 +1,35 @@
 {
   "ticker": "HCA",
-  "last_updated": "2025-11-05T08:33:58.189617",
+  "last_updated": "2025-11-06T08:34:48.365454",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 208,
+      "id": 253,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "McAlevey Michael R",
+      "reporting_owner_cik": "0001907875",
+      "reporting_owner_position": "EVP & Chief Legal & Admin Off.",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "13170",
+      "transaction_price": "236.61",
+      "transaction_type": "M",
+      "shares_after_transaction": "16657"
+    },
+    {
+      "id": 255,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Marks Mike A",
+      "reporting_owner_cik": "0001961124",
+      "reporting_owner_position": "EVP and CFO",
+      "transaction_date": "2025-11-03",
+      "transaction_shares": "165",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "43240"
+    },
+    {
+      "id": 254,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "HAZEN SAMUEL N",
       "reporting_owner_cik": "0001216838",
