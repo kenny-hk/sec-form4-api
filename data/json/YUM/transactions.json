@@ -1,11 +1,11 @@
 {
   "ticker": "YUM",
-  "last_updated": "2025-11-06T08:34:48.365454",
+  "last_updated": "2025-11-07T08:34:32.811595",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 434,
+      "id": 477,
       "issuer_name": "YUM BRANDS INC",
       "reporting_owner": "Burkhardt Erika",
       "reporting_owner_cik": "0002037991",
@@ -15,6 +15,18 @@
       "transaction_price": "102.87",
       "transaction_type": "M",
       "shares_after_transaction": "4137"
+    },
+    {
+      "id": 478,
+      "issuer_name": "YUM BRANDS INC",
+      "reporting_owner": "Mezvinsky Scott",
+      "reporting_owner_cik": "0002057807",
+      "reporting_owner_position": "KFC Division CEO",
+      "transaction_date": "2025-11-05",
+      "transaction_shares": "409",
+      "transaction_price": "49.66",
+      "transaction_type": "M",
+      "shares_after_transaction": "2164"
     }
   ]
 }
