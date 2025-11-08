@@ -1,11 +1,23 @@
 {
   "ticker": "LVS",
-  "last_updated": "2025-11-07T08:34:32.811595",
+  "last_updated": "2025-11-08T08:31:41.257445",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 259,
+      "id": 276,
+      "issuer_name": "LAS VEGAS SANDS CORP",
+      "reporting_owner": "Goldstein Robert G",
+      "reporting_owner_cik": "0001305337",
+      "reporting_owner_position": "Chairman & CEO",
+      "transaction_date": "2025-11-05",
+      "transaction_shares": "40000",
+      "transaction_price": "34.28",
+      "transaction_type": "M",
+      "shares_after_transaction": "40000"
+    },
+    {
+      "id": 277,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Goldstein Robert G",
       "reporting_owner_cik": "0001305337",
@@ -15,18 +27,6 @@
       "transaction_price": "34.28",
       "transaction_type": "M",
       "shares_after_transaction": "400000"
-    },
-    {
-      "id": 258,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Goldstein Robert G",
-      "reporting_owner_cik": "0001305337",
-      "reporting_owner_position": "Chairman & CEO",
-      "transaction_date": "2025-10-29",
-      "transaction_shares": "700000",
-      "transaction_price": "34.28",
-      "transaction_type": "M",
-      "shares_after_transaction": "700000"
     }
   ]
 }

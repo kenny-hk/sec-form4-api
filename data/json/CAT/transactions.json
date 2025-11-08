@@ -1,11 +1,11 @@
 {
   "ticker": "CAT",
-  "last_updated": "2025-11-07T08:34:32.811595",
+  "last_updated": "2025-11-08T08:31:41.257445",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 578,
+      "id": 618,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "MacLennan David",
       "reporting_owner_cik": "0001498535",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "7947"
     },
     {
-      "id": 579,
+      "id": 619,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Schaupp William E",
       "reporting_owner_cik": "0001739758",
@@ -27,6 +27,18 @@
       "transaction_price": "572.22",
       "transaction_type": "S",
       "shares_after_transaction": "1323"
+    },
+    {
+      "id": 620,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "De Lange Bob",
+      "reporting_owner_cik": "0001694342",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2025-11-05",
+      "transaction_shares": "20000",
+      "transaction_price": "151.12",
+      "transaction_type": "M",
+      "shares_after_transaction": "100209"
     }
   ]
 }
