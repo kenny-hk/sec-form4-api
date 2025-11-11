@@ -2,20 +2,32 @@
   "ticker": "DXCM",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-04T08:34:08.988919",
-  "count": 1,
+  "last_updated": "2025-11-11T08:33:39.836516",
+  "count": 2,
   "transactions": [
     {
-      "id": 82,
+      "id": 153,
       "issuer_name": "DEXCOM INC",
-      "reporting_owner": "Ashley Euan A.",
-      "reporting_owner_cik": "0002092523",
+      "reporting_owner": "Leach Jacob Steven",
+      "reporting_owner_cik": "0001700255",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "15700",
+      "transaction_price": "54.977",
+      "transaction_type": "P",
+      "shares_after_transaction": "329197"
+    },
+    {
+      "id": 154,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Collins Richard Alexander",
+      "reporting_owner_cik": "0001700619",
       "reporting_owner_position": null,
-      "transaction_date": "2025-10-24",
-      "transaction_shares": "7166",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "7166"
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "3948",
+      "transaction_price": "55.17",
+      "transaction_type": "S",
+      "shares_after_transaction": "37994"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "AMZN",
-  "last_updated": "2025-11-10T08:36:16.628555",
+  "last_updated": "2025-11-11T08:33:39.836516",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 221,
+      "id": 204,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2025-11-06",
+      "transaction_shares": "909691",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "882348497"
+    },
+    {
+      "id": 203,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
       "reporting_owner_cik": "0001936006",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "493507"
     },
     {
-      "id": 222,
+      "id": 205,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "RUBINSTEIN JONATHAN",
       "reporting_owner_cik": "0001209522",

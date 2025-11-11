@@ -1,11 +1,23 @@
 {
   "ticker": "VRSN",
-  "last_updated": "2025-11-10T08:36:16.628555",
+  "last_updated": "2025-11-11T08:33:39.836516",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 89,
+      "id": 72,
+      "issuer_name": "VERISIGN INC/CA",
+      "reporting_owner": "CALYS JOHN",
+      "reporting_owner_cik": "0001530819",
+      "reporting_owner_position": "EVP, Chief Financial Officer",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "1001",
+      "transaction_price": "242.712",
+      "transaction_type": "S",
+      "shares_after_transaction": "24733.934"
+    },
+    {
+      "id": 71,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "Indelicarto Thomas C",
       "reporting_owner_cik": "0001624651",
@@ -15,18 +27,6 @@
       "transaction_price": "244.52",
       "transaction_type": "S",
       "shares_after_transaction": "33855.2718"
-    },
-    {
-      "id": 90,
-      "issuer_name": "VERISIGN INC/CA",
-      "reporting_owner": "McPherson Danny R",
-      "reporting_owner_cik": "0001940987",
-      "reporting_owner_position": "EVP - Technology & CSO",
-      "transaction_date": "2025-10-31",
-      "transaction_shares": "2500",
-      "transaction_price": "236.87",
-      "transaction_type": "S",
-      "shares_after_transaction": "28576.8378"
     }
   ]
 }
