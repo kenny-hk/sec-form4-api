@@ -1,20 +1,44 @@
 {
   "ticker": "AMCR",
-  "last_updated": "2025-10-15T08:32:26.229932",
+  "last_updated": "2025-11-13T08:32:42.987935",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 119,
+      "id": 204,
       "issuer_name": "Amcor plc",
-      "reporting_owner": "Galvez Jean-Marc",
-      "reporting_owner_cik": "0001694672",
-      "reporting_owner_position": "See Remarks",
-      "transaction_date": "2025-10-06",
-      "transaction_shares": "215586",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "784046"
+      "reporting_owner": "Konieczny Peter",
+      "reporting_owner_cik": "0001413007",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "60000",
+      "transaction_price": "8.41",
+      "transaction_type": "P",
+      "shares_after_transaction": "536643"
+    },
+    {
+      "id": 205,
+      "issuer_name": "Amcor plc",
+      "reporting_owner": "Glerum James T Jr.",
+      "reporting_owner_cik": "0002036886",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "137",
+      "transaction_price": "8.378",
+      "transaction_type": "P",
+      "shares_after_transaction": "1094"
+    },
+    {
+      "id": 206,
+      "issuer_name": "Amcor plc",
+      "reporting_owner": "Wilson Ian",
+      "reporting_owner_cik": "0001775837",
+      "reporting_owner_position": "EXECUTIVE VICE PRESIDENT",
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "79000",
+      "transaction_price": "8.35",
+      "transaction_type": "P",
+      "shares_after_transaction": "416384"
     }
   ]
 }

@@ -1,20 +1,44 @@
 {
   "ticker": "MTD",
-  "last_updated": "2025-08-28T08:32:03.510248",
+  "last_updated": "2025-11-13T08:32:42.987935",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 12,
+      "id": 200,
+      "issuer_name": "METTLER TOLEDO INTERNATIONAL INC/",
+      "reporting_owner": "Kaltenbach Patrick",
+      "reporting_owner_cik": "0001625775",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "3",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "3094"
+    },
+    {
+      "id": 201,
+      "issuer_name": "METTLER TOLEDO INTERNATIONAL INC/",
+      "reporting_owner": "de la Guerroniere Marc",
+      "reporting_owner_cik": "0001508730",
+      "reporting_owner_position": "Head of Eur & NA Market Orgs",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "1",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "187"
+    },
+    {
+      "id": 202,
       "issuer_name": "METTLER TOLEDO INTERNATIONAL INC/",
       "reporting_owner": "Vadala Shawn",
       "reporting_owner_cik": "0001592710",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-08-19",
-      "transaction_shares": "300",
-      "transaction_price": "397.95",
-      "transaction_type": "M",
-      "shares_after_transaction": "5395"
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "1",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "5096"
     }
   ]
 }

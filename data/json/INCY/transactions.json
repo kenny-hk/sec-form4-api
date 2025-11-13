@@ -1,11 +1,23 @@
 {
   "ticker": "INCY",
-  "last_updated": "2025-11-12T08:35:19.588753",
+  "last_updated": "2025-11-13T08:32:42.987935",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 178,
+      "id": 194,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "Hoppenot Herve",
+      "reporting_owner_cik": "0001596492",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "187500",
+      "transaction_price": "105.46",
+      "transaction_type": "S",
+      "shares_after_transaction": "329646"
+    },
+    {
+      "id": 193,
       "issuer_name": "INCYTE CORP",
       "reporting_owner": "Stein Steven H",
       "reporting_owner_cik": "0001673776",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "104080"
     },
     {
-      "id": 177,
+      "id": 192,
       "issuer_name": "INCYTE CORP",
       "reporting_owner": "Denton Sheila A.",
       "reporting_owner_cik": "0001995298",
@@ -27,18 +39,6 @@
       "transaction_price": "58.06",
       "transaction_type": "M",
       "shares_after_transaction": "27167"
-    },
-    {
-      "id": 176,
-      "issuer_name": "INCYTE CORP",
-      "reporting_owner": "Heeson Lee",
-      "reporting_owner_cik": "0002039219",
-      "reporting_owner_position": "EVP, Head of Incyte Intl",
-      "transaction_date": "2025-11-03",
-      "transaction_shares": "3074",
-      "transaction_price": "94.02",
-      "transaction_type": "S",
-      "shares_after_transaction": "29241"
     }
   ]
 }

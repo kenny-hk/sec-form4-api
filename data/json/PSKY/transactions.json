@@ -1,7 +1,44 @@
 {
   "ticker": "PSKY",
-  "last_updated": "2025-10-15T08:32:26.229932",
+  "last_updated": "2025-11-13T08:32:42.987935",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 304,
+      "issuer_name": "Paramount Skydance Corp",
+      "reporting_owner": "SHELL JEFF",
+      "reporting_owner_cik": "0001247485",
+      "reporting_owner_position": "President",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "250000.0000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "250000.0000"
+    },
+    {
+      "id": 305,
+      "issuer_name": "Paramount Skydance Corp",
+      "reporting_owner": "Brandon-Gordon Andrew Mark",
+      "reporting_owner_cik": "0002068632",
+      "reporting_owner_position": "Chief Strategy Officer and COO",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "200000.0000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "200000.0000"
+    },
+    {
+      "id": 306,
+      "issuer_name": "Paramount Skydance Corp",
+      "reporting_owner": "Ellison David Ferris",
+      "reporting_owner_cik": "0002078052",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-11-07",
+      "transaction_shares": "250000.0000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "250000.0000"
+    }
+  ]
 }

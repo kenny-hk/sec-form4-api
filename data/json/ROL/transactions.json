@@ -1,32 +1,44 @@
 {
   "ticker": "ROL",
-  "last_updated": "2025-08-29T08:31:43.820567",
+  "last_updated": "2025-11-13T08:32:42.987935",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 330,
+      "id": 140,
       "issuer_name": "ROLLINS INC",
-      "reporting_owner": "Wilson John F",
-      "reporting_owner_cik": "0001514225",
-      "reporting_owner_position": "EXECUTIVE CHAIRMAN",
-      "transaction_date": "2025-08-22",
-      "transaction_shares": "660",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "632067"
+      "reporting_owner": "LOR INC",
+      "reporting_owner_cik": "0001212243",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "19297383",
+      "transaction_price": "56.93",
+      "transaction_type": "S",
+      "shares_after_transaction": "145284066"
     },
     {
-      "id": 331,
+      "id": 141,
       "issuer_name": "ROLLINS INC",
-      "reporting_owner": "Tesh Thomas D",
-      "reporting_owner_cik": "0001975376",
-      "reporting_owner_position": "Chief Admin. Officer",
-      "transaction_date": "2025-08-20",
-      "transaction_shares": "1000",
-      "transaction_price": "57.13",
+      "reporting_owner": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
+      "reporting_owner_cik": "0001820515",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "19297383",
+      "transaction_price": "56.93",
       "transaction_type": "S",
-      "shares_after_transaction": "37080"
+      "shares_after_transaction": "145284066"
+    },
+    {
+      "id": 142,
+      "issuer_name": "ROLLINS INC",
+      "reporting_owner": "Gary W. Rollins Voting Trust U/A dated September 14, 1994",
+      "reporting_owner_cik": "0001820491",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "19297383",
+      "transaction_price": "56.93",
+      "transaction_type": "S",
+      "shares_after_transaction": "145284066"
     }
   ]
 }
