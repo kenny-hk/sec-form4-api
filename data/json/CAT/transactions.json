@@ -1,11 +1,23 @@
 {
   "ticker": "CAT",
-  "last_updated": "2025-11-13T08:32:42.987935",
+  "last_updated": "2025-11-14T08:34:12.046151",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 432,
+      "id": 457,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Kaiser Jason",
+      "reporting_owner_cik": "0002005183",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2025-11-11",
+      "transaction_shares": "8881",
+      "transaction_price": "219.76",
+      "transaction_type": "M",
+      "shares_after_transaction": "17530"
+    },
+    {
+      "id": 456,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Fassino Anthony D.",
       "reporting_owner_cik": "0001839757",
@@ -17,31 +29,7 @@
       "shares_after_transaction": "54012"
     },
     {
-      "id": 430,
-      "issuer_name": "CATERPILLAR INC",
-      "reporting_owner": "MacLennan David",
-      "reporting_owner_cik": "0001498535",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-06",
-      "transaction_shares": "300",
-      "transaction_price": "568.86",
-      "transaction_type": "P",
-      "shares_after_transaction": "7947"
-    },
-    {
-      "id": 431,
-      "issuer_name": "CATERPILLAR INC",
-      "reporting_owner": "Schaupp William E",
-      "reporting_owner_cik": "0001739758",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1200",
-      "transaction_price": "572.22",
-      "transaction_type": "S",
-      "shares_after_transaction": "1323"
-    },
-    {
-      "id": 433,
+      "id": 458,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "De Lange Bob",
       "reporting_owner_cik": "0001694342",

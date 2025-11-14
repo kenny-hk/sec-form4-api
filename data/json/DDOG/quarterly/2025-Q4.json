@@ -2,11 +2,35 @@
   "ticker": "DDOG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-13T08:32:42.987935",
-  "count": 1,
+  "last_updated": "2025-11-14T08:34:12.046151",
+  "count": 3,
   "transactions": [
     {
-      "id": 74,
+      "id": 70,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Le-Quoc Alexis",
+      "reporting_owner_cik": "0001783984",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2025-11-11",
+      "transaction_shares": "10688",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "449573"
+    },
+    {
+      "id": 72,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Jacobson Matthew",
+      "reporting_owner_cik": "0001783518",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-10",
+      "transaction_shares": "61608",
+      "transaction_price": "198.4338",
+      "transaction_type": "S",
+      "shares_after_transaction": "114703"
+    },
+    {
+      "id": 71,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Callahan Michael James",
       "reporting_owner_cik": "0001784030",

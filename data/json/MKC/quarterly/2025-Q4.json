@@ -2,20 +2,32 @@
   "ticker": "MKC",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-10-17T08:32:43.264161",
-  "count": 1,
+  "last_updated": "2025-11-14T08:34:12.046151",
+  "count": 2,
   "transactions": [
     {
-      "id": 222,
+      "id": 459,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foley Brendan M",
+      "reporting_owner_cik": "0001644562",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2025-11-12",
+      "transaction_shares": "57144",
+      "transaction_price": "49.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "165796.016"
+    },
+    {
+      "id": 460,
       "issuer_name": "MCCORMICK & CO INC",
       "reporting_owner": "Kurzius Lawrence Erik",
       "reporting_owner_cik": "0001352090",
       "reporting_owner_position": null,
-      "transaction_date": "2025-10-08",
-      "transaction_shares": "50000",
-      "transaction_price": "49.96",
-      "transaction_type": "M",
-      "shares_after_transaction": "296762"
+      "transaction_date": "2025-11-11",
+      "transaction_shares": "6574",
+      "transaction_price": "64.54",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
     }
   ]
 }

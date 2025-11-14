@@ -1,11 +1,23 @@
 {
   "ticker": "VMC",
-  "last_updated": "2025-11-13T08:32:42.987935",
+  "last_updated": "2025-11-14T08:34:12.046151",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 280,
+      "id": 328,
+      "issuer_name": "Vulcan Materials CO",
+      "reporting_owner": "BAKER THOMPSON S II",
+      "reporting_owner_cik": "0001190090",
+      "reporting_owner_position": "President",
+      "transaction_date": "2025-11-11",
+      "transaction_shares": "6500.00",
+      "transaction_price": "113.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "47985.00"
+    },
+    {
+      "id": 329,
       "issuer_name": "Vulcan Materials CO",
       "reporting_owner": "HALL GRAYSON",
       "reporting_owner_cik": "0001217173",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "80.00"
     },
     {
-      "id": 279,
+      "id": 327,
       "issuer_name": "Vulcan Materials CO",
       "reporting_owner": "BAKER THOMPSON S II",
       "reporting_owner_cik": "0001190090",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "48085.00"
     },
     {
-      "id": 281,
+      "id": 330,
       "issuer_name": "Vulcan Materials CO",
       "reporting_owner": "Bass Stanley G",
       "reporting_owner_cik": "0001564578",
@@ -39,18 +51,6 @@
       "transaction_price": "288.00",
       "transaction_type": "S",
       "shares_after_transaction": "27620.24"
-    },
-    {
-      "id": 282,
-      "issuer_name": "Vulcan Materials CO",
-      "reporting_owner": "BAKER THOMPSON S II",
-      "reporting_owner_cik": "0001190090",
-      "reporting_owner_position": "President",
-      "transaction_date": "2025-11-04",
-      "transaction_shares": "5818.02",
-      "transaction_price": "292.26",
-      "transaction_type": "S",
-      "shares_after_transaction": "0.00"
     }
   ]
 }
