@@ -1,7 +1,32 @@
 {
   "ticker": "MMM",
-  "last_updated": "2025-11-10T08:36:16.628555",
+  "last_updated": "2025-11-15T08:31:14.226893",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 339,
+      "issuer_name": "3M CO",
+      "reporting_owner": "Dickson Zoe L",
+      "reporting_owner_cik": "0001865140",
+      "reporting_owner_position": "EVP & Chief HR Officer",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "5076",
+      "transaction_price": "154.69",
+      "transaction_type": "M",
+      "shares_after_transaction": "11237.5219"
+    },
+    {
+      "id": 340,
+      "issuer_name": "3M CO",
+      "reporting_owner": "Dickson Zoe L",
+      "reporting_owner_cik": "0001865140",
+      "reporting_owner_position": "EVP & Chief HR Officer",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "13629",
+      "transaction_price": "138.39",
+      "transaction_type": "M",
+      "shares_after_transaction": "19790.5219"
+    }
+  ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "NXPI",
-  "last_updated": "2025-11-14T08:34:12.046151",
+  "last_updated": "2025-11-15T08:31:14.226893",
   "retention_years": 3,
-  "count": 12,
+  "count": 7,
   "transactions": [
     {
       "id": 39,
+      "issuer_name": "NXP Semiconductors N.V.",
+      "reporting_owner": "Betz William",
+      "reporting_owner_cik": "0001888543",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "7299",
+      "transaction_price": "201.93",
+      "transaction_type": "S",
+      "shares_after_transaction": "1519.8396"
+    },
+    {
+      "id": 36,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Betz William",
       "reporting_owner_cik": "0001888543",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "5610.8396"
     },
     {
-      "id": 42,
+      "id": 37,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Hardy Andrew",
       "reporting_owner_cik": "0002054266",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "3672"
     },
     {
-      "id": 43,
+      "id": 38,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Wuamett Jennifer",
       "reporting_owner_cik": "0001597265",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "21464"
     },
     {
-      "id": 44,
+      "id": 40,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Micallef Andrew",
       "reporting_owner_cik": "0001341767",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "10074"
     },
     {
-      "id": 48,
+      "id": 41,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Sotomayor Rafael",
       "reporting_owner_cik": "0002066642",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "8594"
     },
     {
-      "id": 50,
+      "id": 42,
       "issuer_name": "NXP Semiconductors N.V.",
       "reporting_owner": "Jensen Christopher L",
       "reporting_owner_cik": "0001812730",
@@ -75,78 +87,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "9480"
-    },
-    {
-      "id": 40,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Micallef Andrew",
-      "reporting_owner_cik": "0001341767",
-      "reporting_owner_position": "EVP, Chief Operations Officer",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1335",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "9096"
-    },
-    {
-      "id": 41,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Wuamett Jennifer",
-      "reporting_owner_cik": "0001597265",
-      "reporting_owner_position": "EVP & General Counsel",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1335",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "20510"
-    },
-    {
-      "id": 45,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Sotomayor Rafael",
-      "reporting_owner_cik": "0002066642",
-      "reporting_owner_position": "CEO & President",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1558",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "7535"
-    },
-    {
-      "id": 46,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Hardy Andrew",
-      "reporting_owner_cik": "0002054266",
-      "reporting_owner_position": "Chief Sales Officer",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "742",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "3241"
-    },
-    {
-      "id": 47,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Jensen Christopher L",
-      "reporting_owner_cik": "0001812730",
-      "reporting_owner_position": "EVP, Chief People Officer",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1335",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "8499"
-    },
-    {
-      "id": 49,
-      "issuer_name": "NXP Semiconductors N.V.",
-      "reporting_owner": "Betz William",
-      "reporting_owner_cik": "0001888543",
-      "reporting_owner_position": "EVP & CFO",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "1558",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "4447.8396"
     }
   ]
 }

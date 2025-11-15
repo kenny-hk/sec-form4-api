@@ -1,11 +1,23 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2025-11-14T08:34:12.046151",
+  "last_updated": "2025-11-15T08:31:14.226893",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 359,
+      "id": 363,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Adams Katherine L.",
+      "reporting_owner_cik": "0001462356",
+      "reporting_owner_position": "SVP, GC and Secretary",
+      "transaction_date": "2025-11-12",
+      "transaction_shares": "3750",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "175408"
+    },
+    {
+      "id": 362,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "KONDO CHRIS",
       "reporting_owner_cik": "0001631982",

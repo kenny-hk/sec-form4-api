@@ -1,20 +1,32 @@
 {
   "ticker": "LHX",
-  "last_updated": "2025-11-11T08:33:39.836516",
+  "last_updated": "2025-11-15T08:31:14.226893",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 231,
+      "id": 221,
       "issuer_name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
-      "reporting_owner": "RAMBEAU JON",
-      "reporting_owner_cik": "0001949419",
-      "reporting_owner_position": "Pres., Integrated Mission Sys.",
-      "transaction_date": "2025-11-01",
-      "transaction_shares": "4147",
+      "reporting_owner": "ZOISS EDWARD J",
+      "reporting_owner_cik": "0001647940",
+      "reporting_owner_position": "Pres., Space & Airborne Sys.",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "1068",
       "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "24261.91"
+    },
+    {
+      "id": 222,
+      "issuer_name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "reporting_owner": "KUBASIK CHRISTOPHER E",
+      "reporting_owner_cik": "0001194001",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "14171",
+      "transaction_price": "162.30",
       "transaction_type": "M",
-      "shares_after_transaction": "7047.18"
+      "shares_after_transaction": "158597"
     }
   ]
 }
