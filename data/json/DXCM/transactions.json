@@ -1,11 +1,23 @@
 {
   "ticker": "DXCM",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-11-18T08:35:22.515739",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 129,
+      "id": 147,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Collins Richard Alexander",
+      "reporting_owner_cik": "0001700619",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "2906",
+      "transaction_price": "59.05",
+      "transaction_type": "S",
+      "shares_after_transaction": "35088"
+    },
+    {
+      "id": 146,
       "issuer_name": "DEXCOM INC",
       "reporting_owner": "Heller Bridgette P",
       "reporting_owner_cik": "0001485616",
@@ -15,30 +27,6 @@
       "transaction_price": "58.07",
       "transaction_type": "S",
       "shares_after_transaction": "27031"
-    },
-    {
-      "id": 130,
-      "issuer_name": "DEXCOM INC",
-      "reporting_owner": "Leach Jacob Steven",
-      "reporting_owner_cik": "0001700255",
-      "reporting_owner_position": "President & COO",
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "15700",
-      "transaction_price": "54.977",
-      "transaction_type": "P",
-      "shares_after_transaction": "329197"
-    },
-    {
-      "id": 131,
-      "issuer_name": "DEXCOM INC",
-      "reporting_owner": "Collins Richard Alexander",
-      "reporting_owner_cik": "0001700619",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "3948",
-      "transaction_price": "55.17",
-      "transaction_type": "S",
-      "shares_after_transaction": "37994"
     }
   ]
 }

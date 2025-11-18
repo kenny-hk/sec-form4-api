@@ -1,11 +1,23 @@
 {
   "ticker": "BXP",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-11-18T08:35:22.515739",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 349,
+      "id": 384,
+      "issuer_name": "BXP, Inc.",
+      "reporting_owner": "Otteni Peter V",
+      "reporting_owner_cik": "0001862920",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-11-17",
+      "transaction_shares": "4136",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "4136"
+    },
+    {
+      "id": 383,
       "issuer_name": "BXP, Inc.",
       "reporting_owner": "Stroman John J",
       "reporting_owner_cik": "0001862860",
@@ -15,18 +27,6 @@
       "transaction_price": "72.1724",
       "transaction_type": "S",
       "shares_after_transaction": "0"
-    },
-    {
-      "id": 348,
-      "issuer_name": "BXP, Inc.",
-      "reporting_owner": "LABELLE MICHAEL E",
-      "reporting_owner_cik": "0001419045",
-      "reporting_owner_position": "EVP and CFO",
-      "transaction_date": "2025-11-07",
-      "transaction_shares": "13422",
-      "transaction_price": "72.3403",
-      "transaction_type": "S",
-      "shares_after_transaction": "9223"
     }
   ]
 }

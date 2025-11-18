@@ -1,11 +1,23 @@
 {
   "ticker": "ES",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-11-18T08:35:22.515739",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 437,
+      "id": 485,
+      "issuer_name": "EVERSOURCE ENERGY",
+      "reporting_owner": "CHODAK PAUL III",
+      "reporting_owner_cik": "0001693504",
+      "reporting_owner_position": "EVP and COO",
+      "transaction_date": "2025-11-13",
+      "transaction_shares": "2759",
+      "transaction_price": "73.61",
+      "transaction_type": "F",
+      "shares_after_transaction": "33924"
+    },
+    {
+      "id": 483,
       "issuer_name": "EVERSOURCE ENERGY",
       "reporting_owner": "BUTLER GREGORY B",
       "reporting_owner_cik": "0001192333",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "56674"
     },
     {
-      "id": 439,
+      "id": 484,
       "issuer_name": "EVERSOURCE ENERGY",
       "reporting_owner": "NOLAN JOSEPH R JR",
       "reporting_owner_cik": "0001214401",
@@ -27,30 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "139093"
-    },
-    {
-      "id": 438,
-      "issuer_name": "EVERSOURCE ENERGY",
-      "reporting_owner": "Hunt James W III",
-      "reporting_owner_cik": "0001862789",
-      "reporting_owner_position": "EVP-Corp Rel & Sustainability",
-      "transaction_date": "2025-11-07",
-      "transaction_shares": "4129.069",
-      "transaction_price": "72.774",
-      "transaction_type": "S",
-      "shares_after_transaction": "32415"
-    },
-    {
-      "id": 440,
-      "issuer_name": "EVERSOURCE ENERGY",
-      "reporting_owner": "NOLAN JOSEPH R JR",
-      "reporting_owner_cik": "0001214401",
-      "reporting_owner_position": "Chairman of the Bd, Pres & CEO",
-      "transaction_date": "2025-11-06",
-      "transaction_shares": "1560",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "142533"
     }
   ]
 }

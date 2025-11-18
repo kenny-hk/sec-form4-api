@@ -1,11 +1,23 @@
 {
   "ticker": "EPAM",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-11-18T08:35:22.515739",
   "retention_years": 3,
-  "count": 8,
+  "count": 2,
   "transactions": [
     {
-      "id": 503,
+      "id": 532,
+      "issuer_name": "EPAM Systems, Inc.",
+      "reporting_owner": "Abrahams Gary C",
+      "reporting_owner_cik": "0001703877",
+      "reporting_owner_position": "VP, Corporate Controller, PAO",
+      "transaction_date": "2025-11-17",
+      "transaction_shares": "600",
+      "transaction_price": "179.29",
+      "transaction_type": "S",
+      "shares_after_transaction": "2720.091"
+    },
+    {
+      "id": 533,
       "issuer_name": "EPAM Systems, Inc.",
       "reporting_owner": "Dvorkin Viktar",
       "reporting_owner_cik": "0001732239",
@@ -15,90 +27,6 @@
       "transaction_price": "181.72",
       "transaction_type": "S",
       "shares_after_transaction": "40589"
-    },
-    {
-      "id": 497,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Fejes Balazs",
-      "reporting_owner_cik": "0001538408",
-      "reporting_owner_position": "CEO, President, Director",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "24808.234"
-    },
-    {
-      "id": 498,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Dvorkin Viktar",
-      "reporting_owner_cik": "0001732239",
-      "reporting_owner_position": "SVP/Head of Global Delivery",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "12256.234"
-    },
-    {
-      "id": 499,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Abrahams Gary C",
-      "reporting_owner_cik": "0001703877",
-      "reporting_owner_position": "VP, Corporate Controller, PAO",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "3265.234"
-    },
-    {
-      "id": 500,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Rockwell Edward",
-      "reporting_owner_cik": "0001761897",
-      "reporting_owner_position": "SVP/General Counsel",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "9619.234"
-    },
-    {
-      "id": 501,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Peterson Jason D.",
-      "reporting_owner_cik": "0001702274",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "31376.234"
-    },
-    {
-      "id": 504,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Shnayder Boris",
-      "reporting_owner_cik": "0001684907",
-      "reporting_owner_position": "SVP/Co-Head of Global Business",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "15590.234"
-    },
-    {
-      "id": 505,
-      "issuer_name": "EPAM Systems, Inc.",
-      "reporting_owner": "Solomon Lawrence F",
-      "reporting_owner_cik": "0001693502",
-      "reporting_owner_position": "SVP & Chief People Officer",
-      "transaction_date": "2025-04-30",
-      "transaction_shares": "56.234",
-      "transaction_price": "133.37",
-      "transaction_type": "P",
-      "shares_after_transaction": "20390.234"
     }
   ]
 }

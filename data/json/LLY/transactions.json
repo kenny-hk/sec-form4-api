@@ -1,11 +1,23 @@
 {
   "ticker": "LLY",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-11-18T08:35:22.515739",
   "retention_years": 3,
-  "count": 7,
+  "count": 6,
   "transactions": [
     {
-      "id": 265,
+      "id": 295,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "LILLY ENDOWMENT INC",
+      "reporting_owner_cik": "0000316011",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "103871",
+      "transaction_price": "1030.312",
+      "transaction_type": "S",
+      "shares_after_transaction": "92956501"
+    },
+    {
+      "id": 290,
       "issuer_name": "ELI LILLY & Co",
       "reporting_owner": "Zakrowski Donald A",
       "reporting_owner_cik": "0001561539",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "2839.659"
     },
     {
-      "id": 271,
+      "id": 294,
       "issuer_name": "ELI LILLY & Co",
       "reporting_owner": "LILLY ENDOWMENT INC",
       "reporting_owner_cik": "0000316011",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "93061732"
     },
     {
-      "id": 270,
+      "id": 293,
       "issuer_name": "ELI LILLY & Co",
       "reporting_owner": "LILLY ENDOWMENT INC",
       "reporting_owner_cik": "0000316011",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "93411150"
     },
     {
-      "id": 266,
+      "id": 291,
       "issuer_name": "ELI LILLY & Co",
       "reporting_owner": "LILLY ENDOWMENT INC",
       "reporting_owner_cik": "0000316011",
@@ -53,19 +65,7 @@
       "shares_after_transaction": "93683290"
     },
     {
-      "id": 267,
-      "issuer_name": "ELI LILLY & Co",
-      "reporting_owner": "Skovronsky Daniel",
-      "reporting_owner_cik": "0001741474",
-      "reporting_owner_position": "EVP, CS&PO & Pres. LRL",
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "179",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "137481.112"
-    },
-    {
-      "id": 268,
+      "id": 292,
       "issuer_name": "ELI LILLY & Co",
       "reporting_owner": "LILLY ENDOWMENT INC",
       "reporting_owner_cik": "0000316011",
@@ -75,18 +75,6 @@
       "transaction_price": "972.168",
       "transaction_type": "S",
       "shares_after_transaction": "93699114"
-    },
-    {
-      "id": 269,
-      "issuer_name": "ELI LILLY & Co",
-      "reporting_owner": "Ricks David A",
-      "reporting_owner_cik": "0001538604",
-      "reporting_owner_position": "President, Chair, and CEO",
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "24750",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "515166.167"
     }
   ]
 }
