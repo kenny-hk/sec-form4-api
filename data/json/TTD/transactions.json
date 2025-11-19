@@ -1,20 +1,56 @@
 {
   "ticker": "TTD",
-  "last_updated": "2025-09-19T08:32:00.001625",
+  "last_updated": "2025-11-19T08:36:21.417988",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 452,
+      "id": 464,
       "issuer_name": "Trade Desk, Inc.",
-      "reporting_owner": "Cunningham Andrea Lee",
-      "reporting_owner_cik": "0001903152",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-09-10",
-      "transaction_shares": "1403",
-      "transaction_price": "48.20",
-      "transaction_type": "S",
-      "shares_after_transaction": "5035"
+      "reporting_owner": "Green Jeffrey Terry",
+      "reporting_owner_cik": "0001671445",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-11-15",
+      "transaction_shares": "28028",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "285857"
+    },
+    {
+      "id": 465,
+      "issuer_name": "Trade Desk, Inc.",
+      "reporting_owner": "GRANT JAY R",
+      "reporting_owner_cik": "0001826731",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-11-15",
+      "transaction_shares": "1767",
+      "transaction_price": "41.93",
+      "transaction_type": "F",
+      "shares_after_transaction": "207137"
+    },
+    {
+      "id": 466,
+      "issuer_name": "Trade Desk, Inc.",
+      "reporting_owner": "Jacobson Samantha",
+      "reporting_owner_cik": "0002008907",
+      "reporting_owner_position": "Chief Strategy Officer",
+      "transaction_date": "2025-11-15",
+      "transaction_shares": "569",
+      "transaction_price": "41.93",
+      "transaction_type": "F",
+      "shares_after_transaction": "160569"
+    },
+    {
+      "id": 467,
+      "issuer_name": "Trade Desk, Inc.",
+      "reporting_owner": "Kundra Vivek",
+      "reporting_owner_cik": "0001867888",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2025-11-15",
+      "transaction_shares": "322",
+      "transaction_price": "35.64",
+      "transaction_type": "A",
+      "shares_after_transaction": "82634"
     }
   ]
 }

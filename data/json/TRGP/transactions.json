@@ -1,11 +1,23 @@
 {
   "ticker": "TRGP",
-  "last_updated": "2025-11-18T08:35:22.515739",
+  "last_updated": "2025-11-19T08:36:21.417988",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 456,
+      "id": 666,
+      "issuer_name": "Targa Resources Corp.",
+      "reporting_owner": "Pryor D. Scott",
+      "reporting_owner_cik": "0001659146",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "20000",
+      "transaction_price": "172.2075",
+      "transaction_type": "S",
+      "shares_after_transaction": "22139"
+    },
+    {
+      "id": 667,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "CRISP CHARLES R",
       "reporting_owner_cik": "0001015825",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "78923"
     },
     {
-      "id": 455,
+      "id": 665,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "MELOY MATTHEW J",
       "reporting_owner_cik": "0001506542",

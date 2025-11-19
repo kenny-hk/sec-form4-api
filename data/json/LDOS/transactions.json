@@ -1,20 +1,32 @@
 {
   "ticker": "LDOS",
-  "last_updated": "2025-10-16T08:33:49.668907",
+  "last_updated": "2025-11-19T08:36:21.417988",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 146,
+      "id": 368,
       "issuer_name": "Leidos Holdings, Inc.",
-      "reporting_owner": "KRAEMER HARRY M JANSEN JR",
-      "reporting_owner_cik": "0001082877",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-07",
-      "transaction_shares": "164.9746",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "128334.466"
+      "reporting_owner": "Carlini James F.",
+      "reporting_owner_cik": "0001926985",
+      "reporting_owner_position": "EVP, Chief Technology Officer",
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "82",
+      "transaction_price": "191.32",
+      "transaction_type": "F",
+      "shares_after_transaction": "23222"
+    },
+    {
+      "id": 369,
+      "issuer_name": "Leidos Holdings, Inc.",
+      "reporting_owner": "Schmanske Mary Vicki",
+      "reporting_owner_cik": "0001755309",
+      "reporting_owner_position": "Sector President",
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "98",
+      "transaction_price": "191.32",
+      "transaction_type": "F",
+      "shares_after_transaction": "73097"
     }
   ]
 }

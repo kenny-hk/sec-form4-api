@@ -1,11 +1,35 @@
 {
   "ticker": "FANG",
-  "last_updated": "2025-11-18T08:35:22.515739",
+  "last_updated": "2025-11-19T08:36:21.417988",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 3,
+      "id": 5,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Zmigrosky Matt",
+      "reporting_owner_cik": "0001767328",
+      "reporting_owner_position": "EVP, Chief Legal and Admin Off",
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "3500",
+      "transaction_price": "148.1801",
+      "transaction_type": "S",
+      "shares_after_transaction": "63534"
+    },
+    {
+      "id": 7,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Stice Travis D.",
+      "reporting_owner_cik": "0001559933",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-11-14",
+      "transaction_shares": "50000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "369271"
+    },
+    {
+      "id": 6,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "Meloy Charles Alvin",
       "reporting_owner_cik": "0001333454",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "1044864"
     },
     {
-      "id": 4,
+      "id": 8,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "Thompson Jere W III",
       "reporting_owner_cik": "0002012978",
