@@ -1,11 +1,23 @@
 {
   "ticker": "VTR",
-  "last_updated": "2025-11-19T08:36:21.417988",
+  "last_updated": "2025-11-20T08:35:51.133407",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 79,
+      "id": 65,
+      "issuer_name": "Ventas, Inc.",
+      "reporting_owner": "CAFARO DEBRA A",
+      "reporting_owner_cik": "0001215188",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-11-17",
+      "transaction_shares": "41294",
+      "transaction_price": "73.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "1186989"
+    },
+    {
+      "id": 64,
       "issuer_name": "Ventas, Inc.",
       "reporting_owner": "Probst Robert F",
       "reporting_owner_cik": "0001531510",
@@ -15,18 +27,6 @@
       "transaction_price": "73.71",
       "transaction_type": "M",
       "shares_after_transaction": "201955"
-    },
-    {
-      "id": 80,
-      "issuer_name": "Ventas, Inc.",
-      "reporting_owner": "Bulgarelli Peter J.",
-      "reporting_owner_cik": "0001736887",
-      "reporting_owner_position": "EVP OM&R-Ventas/Pres&CEO-LHS",
-      "transaction_date": "2025-11-07",
-      "transaction_shares": "40",
-      "transaction_price": "75.7013",
-      "transaction_type": "S",
-      "shares_after_transaction": "111488"
     }
   ]
 }
