@@ -1,9 +1,21 @@
 {
   "ticker": "FANG",
-  "last_updated": "2025-11-20T08:35:51.133407",
+  "last_updated": "2025-11-21T08:36:49.381519",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
+    {
+      "id": 6,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Van't Hof Matthew Kaes",
+      "reporting_owner_cik": "0001704666",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-11-18",
+      "transaction_shares": "1011",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "118253"
+    },
     {
       "id": 5,
       "issuer_name": "Diamondback Energy, Inc.",
@@ -27,30 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "369271"
-    },
-    {
-      "id": 6,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Meloy Charles Alvin",
-      "reporting_owner_cik": "0001333454",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-12",
-      "transaction_shares": "34000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1044864"
-    },
-    {
-      "id": 8,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Thompson Jere W III",
-      "reporting_owner_cik": "0002012978",
-      "reporting_owner_position": "CFO, Executive VP",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "1000",
-      "transaction_price": "147.7301",
-      "transaction_type": "S",
-      "shares_after_transaction": "12788"
     }
   ]
 }

@@ -1,11 +1,59 @@
 {
   "ticker": "SBUX",
-  "last_updated": "2025-11-20T08:35:51.133407",
+  "last_updated": "2025-11-21T08:36:49.381519",
   "retention_years": 3,
-  "count": 11,
+  "count": 7,
   "transactions": [
     {
-      "id": 175,
+      "id": 158,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Smith Cathy R",
+      "reporting_owner_cik": "0001322028",
+      "reporting_owner_position": "evp, cfo",
+      "transaction_date": "2025-11-19",
+      "transaction_shares": "1904.262",
+      "transaction_price": "83.68",
+      "transaction_type": "F",
+      "shares_after_transaction": "65122.738"
+    },
+    {
+      "id": 159,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "Niccol Brian R",
+      "reporting_owner_cik": "0001628588",
+      "reporting_owner_position": "chairman and ceo",
+      "transaction_date": "2025-11-19",
+      "transaction_shares": "11821.856",
+      "transaction_price": "83.68",
+      "transaction_type": "F",
+      "shares_after_transaction": "474470.238"
+    },
+    {
+      "id": 156,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "BREWER BRADY",
+      "reporting_owner_cik": "0002018223",
+      "reporting_owner_position": "ceo, International",
+      "transaction_date": "2025-11-18",
+      "transaction_shares": "4413.36",
+      "transaction_price": "83.33",
+      "transaction_type": "F",
+      "shares_after_transaction": "89083.147"
+    },
+    {
+      "id": 157,
+      "issuer_name": "STARBUCKS CORP",
+      "reporting_owner": "KELLY SARA",
+      "reporting_owner_cik": "0001971792",
+      "reporting_owner_position": "evp, chief partner officer",
+      "transaction_date": "2025-11-18",
+      "transaction_shares": "2042.382",
+      "transaction_price": "83.33",
+      "transaction_type": "F",
+      "shares_after_transaction": "62577.7193"
+    },
+    {
+      "id": 160,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "BREWER BRADY",
       "reporting_owner_cik": "0002018223",
@@ -17,7 +65,7 @@
       "shares_after_transaction": "93496.507"
     },
     {
-      "id": 176,
+      "id": 161,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "Lerman Bradley E",
       "reporting_owner_cik": "0001559405",
@@ -29,7 +77,7 @@
       "shares_after_transaction": "42675.7235"
     },
     {
-      "id": 177,
+      "id": 162,
       "issuer_name": "STARBUCKS CORP",
       "reporting_owner": "KELLY SARA",
       "reporting_owner_cik": "0001971792",
@@ -39,102 +87,6 @@
       "transaction_price": "84.78",
       "transaction_type": "F",
       "shares_after_transaction": "64620.1013"
-    },
-    {
-      "id": 167,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "RAMOS PILAR",
-      "reporting_owner_cik": "0002096603",
-      "reporting_owner_position": "evp, chief legal officer",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "16200",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "16200"
-    },
-    {
-      "id": 169,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "Lerman Bradley E",
-      "reporting_owner_cik": "0001559405",
-      "reporting_owner_position": "evp, chief legal officer",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "5420",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "43539.7975"
-    },
-    {
-      "id": 171,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "Smith Cathy R",
-      "reporting_owner_cik": "0001322028",
-      "reporting_owner_position": "evp, cfo",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "20829",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "67027"
-    },
-    {
-      "id": 172,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "GRAMS MICHAEL DAVID",
-      "reporting_owner_cik": "0002073559",
-      "reporting_owner_position": "evp, chief operating officer",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "18514",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "28750"
-    },
-    {
-      "id": 173,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "Niccol Brian R",
-      "reporting_owner_cik": "0001628588",
-      "reporting_owner_position": "chairman and ceo",
-      "transaction_date": "2025-11-11",
-      "transaction_shares": "106457",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "486292.094"
-    },
-    {
-      "id": 168,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "KNUDSTORP JORGEN VIG",
-      "reporting_owner_cik": "0001701829",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "11700",
-      "transaction_price": "85.00",
-      "transaction_type": "P",
-      "shares_after_transaction": "53096.479"
-    },
-    {
-      "id": 170,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "BREWER BRADY",
-      "reporting_owner_cik": "0002018223",
-      "reporting_owner_position": "ceo, International",
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "825.465",
-      "transaction_price": "84.60",
-      "transaction_type": "F",
-      "shares_after_transaction": "70551.076"
-    },
-    {
-      "id": 174,
-      "issuer_name": "STARBUCKS CORP",
-      "reporting_owner": "KELLY SARA",
-      "reporting_owner_cik": "0001971792",
-      "reporting_owner_position": "evp, chief partner officer",
-      "transaction_date": "2025-11-10",
-      "transaction_shares": "60.145",
-      "transaction_price": "84.60",
-      "transaction_type": "F",
-      "shares_after_transaction": "46367.0073"
     }
   ]
 }
