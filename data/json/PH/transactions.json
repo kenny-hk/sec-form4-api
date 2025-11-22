@@ -1,11 +1,23 @@
 {
   "ticker": "PH",
-  "last_updated": "2025-11-21T08:36:49.381519",
+  "last_updated": "2025-11-22T08:32:23.589436",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 632,
+      "id": 615,
+      "issuer_name": "Parker-Hannifin Corp",
+      "reporting_owner": "Ives Angela R",
+      "reporting_owner_cik": "0001836815",
+      "reporting_owner_position": "VP & Controller",
+      "transaction_date": "2025-11-19",
+      "transaction_shares": "10",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "2778"
+    },
+    {
+      "id": 616,
       "issuer_name": "Parker-Hannifin Corp",
       "reporting_owner": "Ives Angela R",
       "reporting_owner_cik": "0001836815",
@@ -15,42 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "2788"
-    },
-    {
-      "id": 629,
-      "issuer_name": "Parker-Hannifin Corp",
-      "reporting_owner": "Bracht Berend",
-      "reporting_owner_cik": "0001877800",
-      "reporting_owner_position": "VP & Pres.- Motion Sys. Grp.",
-      "transaction_date": "2025-11-12",
-      "transaction_shares": "3370",
-      "transaction_price": "296",
-      "transaction_type": "M",
-      "shares_after_transaction": "8228"
-    },
-    {
-      "id": 630,
-      "issuer_name": "Parker-Hannifin Corp",
-      "reporting_owner": "Bendali Rachid",
-      "reporting_owner_cik": "0001942683",
-      "reporting_owner_position": "VP & Pres.- Eng. Mat. Grp.",
-      "transaction_date": "2025-11-12",
-      "transaction_shares": "1437",
-      "transaction_price": "852.99",
-      "transaction_type": "S",
-      "shares_after_transaction": "2714"
-    },
-    {
-      "id": 631,
-      "issuer_name": "Parker-Hannifin Corp",
-      "reporting_owner": "Reidy Jay",
-      "reporting_owner_cik": "0002004436",
-      "reporting_owner_position": "VP & Pres.- Aerospace Grp.",
-      "transaction_date": "2025-11-12",
-      "transaction_shares": "1080",
-      "transaction_price": "296",
-      "transaction_type": "M",
-      "shares_after_transaction": "3163"
     }
   ]
 }

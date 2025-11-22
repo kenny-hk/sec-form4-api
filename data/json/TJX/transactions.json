@@ -1,20 +1,32 @@
 {
   "ticker": "TJX",
-  "last_updated": "2025-09-16T08:33:29.906949",
+  "last_updated": "2025-11-22T08:32:23.589436",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 198,
+      "id": 435,
       "issuer_name": "TJX COMPANIES INC /DE/",
-      "reporting_owner": "Benjamin Peter",
-      "reporting_owner_cik": "0002050046",
-      "reporting_owner_position": "SEVP, Group President",
-      "transaction_date": "2025-09-08",
-      "transaction_shares": "1500",
-      "transaction_price": "139.23",
+      "reporting_owner": "LANE AMY B",
+      "reporting_owner_cik": "0001208529",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-21",
+      "transaction_shares": "500",
+      "transaction_price": "151.4",
       "transaction_type": "S",
-      "shares_after_transaction": "150855"
+      "shares_after_transaction": "22212"
+    },
+    {
+      "id": 434,
+      "issuer_name": "TJX COMPANIES INC /DE/",
+      "reporting_owner": "Herrman Ernie",
+      "reporting_owner_cik": "0001388774",
+      "reporting_owner_position": "CEO & President",
+      "transaction_date": "2025-11-20",
+      "transaction_shares": "30000",
+      "transaction_price": "148.8142",
+      "transaction_type": "S",
+      "shares_after_transaction": "535143"
     }
   ]
 }
