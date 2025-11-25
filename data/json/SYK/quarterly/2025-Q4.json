@@ -2,11 +2,23 @@
   "ticker": "SYK",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-24T08:36:34.668410",
+  "last_updated": "2025-11-25T08:35:43.920365",
   "count": 2,
   "transactions": [
     {
-      "id": 476,
+      "id": 468,
+      "issuer_name": "STRYKER CORP",
+      "reporting_owner": "Pierce James Andrew",
+      "reporting_owner_cik": "0001886518",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2025-11-21",
+      "transaction_shares": "211",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "65630"
+    },
+    {
+      "id": 467,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Wells Preston Wendell",
       "reporting_owner_cik": "0002063939",
@@ -16,18 +28,6 @@
       "transaction_price": "365.88",
       "transaction_type": "S",
       "shares_after_transaction": "6694"
-    },
-    {
-      "id": 477,
-      "issuer_name": "STRYKER CORP",
-      "reporting_owner": "Berry William E Jr",
-      "reporting_owner_cik": "0001600806",
-      "reporting_owner_position": "VP, Chief Accounting Officer",
-      "transaction_date": "2025-11-14",
-      "transaction_shares": "4925",
-      "transaction_price": "154.14",
-      "transaction_type": "M",
-      "shares_after_transaction": "7758"
     }
   ]
 }

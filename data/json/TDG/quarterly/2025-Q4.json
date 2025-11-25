@@ -2,11 +2,23 @@
   "ticker": "TDG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-24T08:36:34.668410",
-  "count": 5,
+  "last_updated": "2025-11-25T08:35:43.920365",
+  "count": 4,
   "transactions": [
     {
-      "id": 452,
+      "id": 430,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Stein Kevin M",
+      "reporting_owner_cik": "0001431675",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-21",
+      "transaction_shares": "230",
+      "transaction_price": "105.88",
+      "transaction_type": "M",
+      "shares_after_transaction": "8388"
+    },
+    {
+      "id": 427,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "9262"
     },
     {
-      "id": 453,
+      "id": 428,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "15349"
     },
     {
-      "id": 454,
+      "id": 429,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Reiss Joel",
       "reporting_owner_cik": "0001656109",
@@ -40,30 +52,6 @@
       "transaction_price": "284.97",
       "transaction_type": "M",
       "shares_after_transaction": "7500"
-    },
-    {
-      "id": 456,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "Howley W Nicholas",
-      "reporting_owner_cik": "0001352573",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-17",
-      "transaction_shares": "2736",
-      "transaction_price": "50.92",
-      "transaction_type": "M",
-      "shares_after_transaction": "24283.513"
-    },
-    {
-      "id": 455,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "Lisman Michael",
-      "reporting_owner_cik": "0001748275",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2025-11-14",
-      "transaction_shares": "600",
-      "transaction_price": "1334.1300",
-      "transaction_type": "P",
-      "shares_after_transaction": "600"
     }
   ]
 }
