@@ -1,11 +1,23 @@
 {
   "ticker": "EA",
-  "last_updated": "2025-11-25T08:35:43.920365",
+  "last_updated": "2025-11-26T08:34:37.350177",
   "retention_years": 3,
-  "count": 10,
+  "count": 5,
   "transactions": [
     {
-      "id": 51,
+      "id": 53,
+      "issuer_name": "ELECTRONIC ARTS INC.",
+      "reporting_owner": "Huber Jeff",
+      "reporting_owner_cik": "0001463740",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-21",
+      "transaction_shares": "79381",
+      "transaction_price": "201.1651",
+      "transaction_type": "S",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 55,
       "issuer_name": "ELECTRONIC ARTS INC.",
       "reporting_owner": "Canfield Stuart",
       "reporting_owner_cik": "0001982711",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "5595"
     },
     {
-      "id": 50,
+      "id": 54,
       "issuer_name": "ELECTRONIC ARTS INC.",
       "reporting_owner": "Wilson Andrew",
       "reporting_owner_cik": "0001545193",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "48858"
     },
     {
-      "id": 53,
+      "id": 56,
       "issuer_name": "ELECTRONIC ARTS INC.",
       "reporting_owner": "Miele Laura",
       "reporting_owner_cik": "0001670477",
@@ -39,18 +51,6 @@
       "transaction_price": "201.0572",
       "transaction_type": "S",
       "shares_after_transaction": "55648"
-    },
-    {
-      "id": 54,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Canfield Stuart",
-      "reporting_owner_cik": "0001982711",
-      "reporting_owner_position": "EVP & Chief Financial Officer",
-      "transaction_date": "2025-11-17",
-      "transaction_shares": "3878",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "9018"
     },
     {
       "id": 57,
@@ -63,66 +63,6 @@
       "transaction_price": "201.42",
       "transaction_type": "S",
       "shares_after_transaction": "34760"
-    },
-    {
-      "id": 48,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Schatz Jacob J.",
-      "reporting_owner_cik": "0001609751",
-      "reporting_owner_position": "EVP, Global Affairs and CLO",
-      "transaction_date": "2025-11-16",
-      "transaction_shares": "3563",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "27943"
-    },
-    {
-      "id": 49,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Wilson Andrew",
-      "reporting_owner_cik": "0001545193",
-      "reporting_owner_position": "Chairman & CEO",
-      "transaction_date": "2025-11-16",
-      "transaction_shares": "10622",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "53015"
-    },
-    {
-      "id": 52,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Singh Vijayanthimala",
-      "reporting_owner_cik": "0001689214",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2025-11-16",
-      "transaction_shares": "3563",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "35894"
-    },
-    {
-      "id": 55,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Kelly Eric Charles",
-      "reporting_owner_cik": "0001879932",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-11-16",
-      "transaction_shares": "713",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "7304"
-    },
-    {
-      "id": 56,
-      "issuer_name": "ELECTRONIC ARTS INC.",
-      "reporting_owner": "Miele Laura",
-      "reporting_owner_cik": "0001670477",
-      "reporting_owner_position": "President of EA Entertainment",
-      "transaction_date": "2025-11-16",
-      "transaction_shares": "5182",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "58274"
     }
   ]
 }

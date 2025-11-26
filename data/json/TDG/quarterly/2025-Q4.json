@@ -2,11 +2,23 @@
   "ticker": "TDG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-25T08:35:43.920365",
+  "last_updated": "2025-11-26T08:34:37.350177",
   "count": 4,
   "transactions": [
     {
-      "id": 430,
+      "id": 352,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Graff Michael",
+      "reporting_owner_cik": "0001299926",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-21",
+      "transaction_shares": "340",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "1653"
+    },
+    {
+      "id": 354,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8388"
     },
     {
-      "id": 427,
+      "id": 351,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "9262"
     },
     {
-      "id": 428,
+      "id": 353,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
@@ -40,18 +52,6 @@
       "transaction_price": "105.88",
       "transaction_type": "M",
       "shares_after_transaction": "15349"
-    },
-    {
-      "id": 429,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "Reiss Joel",
-      "reporting_owner_cik": "0001656109",
-      "reporting_owner_position": "Co-Chief Operating Officer",
-      "transaction_date": "2025-11-17",
-      "transaction_shares": "3900",
-      "transaction_price": "284.97",
-      "transaction_type": "M",
-      "shares_after_transaction": "7500"
     }
   ]
 }
