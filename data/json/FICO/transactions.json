@@ -1,7 +1,20 @@
 {
   "ticker": "FICO",
-  "last_updated": "2025-11-24T08:36:34.668410",
+  "last_updated": "2025-11-27T08:35:17.882730",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 111,
+      "issuer_name": "FAIR ISAAC CORP",
+      "reporting_owner": "Scadina Mark R",
+      "reporting_owner_cik": "0001402460",
+      "reporting_owner_position": "EVP, Gen. Counsel & Sec.",
+      "transaction_date": "2025-11-24",
+      "transaction_shares": "3860",
+      "transaction_price": "185.05",
+      "transaction_type": "M",
+      "shares_after_transaction": "27020"
+    }
+  ]
 }

@@ -2,11 +2,23 @@
   "ticker": "WMT",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-26T08:34:37.350177",
+  "last_updated": "2025-11-27T08:35:17.882730",
   "count": 5,
   "transactions": [
     {
-      "id": 434,
+      "id": 437,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Chojnowski David",
+      "reporting_owner_cik": "0001502438",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-11-25",
+      "transaction_shares": "7000",
+      "transaction_price": "106.65",
+      "transaction_type": "S",
+      "shares_after_transaction": "136289.003"
+    },
+    {
+      "id": 435,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "532142968"
     },
     {
-      "id": 435,
+      "id": 436,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Furner John R.",
       "reporting_owner_cik": "0001696737",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "889757.23"
     },
     {
-      "id": 436,
+      "id": 438,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McLay Kathryn J.",
       "reporting_owner_cik": "0001794573",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "1040455.036"
     },
     {
-      "id": 437,
+      "id": 439,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Chojnowski David",
       "reporting_owner_cik": "0001502438",
@@ -52,18 +64,6 @@
       "transaction_price": "102.95",
       "transaction_type": "F",
       "shares_after_transaction": "143289.003"
-    },
-    {
-      "id": 433,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Bartlett Daniel J",
-      "reporting_owner_cik": "0001579299",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-11-17",
-      "transaction_shares": "1630",
-      "transaction_price": "102.58",
-      "transaction_type": "S",
-      "shares_after_transaction": "642787.662"
     }
   ]
 }

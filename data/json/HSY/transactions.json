@@ -1,11 +1,23 @@
 {
   "ticker": "HSY",
-  "last_updated": "2025-11-26T08:34:37.350177",
+  "last_updated": "2025-11-27T08:35:17.882730",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 340,
+      "id": 332,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Schechtman Natalie",
+      "reporting_owner_cik": "0001675001",
+      "reporting_owner_position": "SVP and CHRO",
+      "transaction_date": "2025-11-24",
+      "transaction_shares": "200",
+      "transaction_price": "186.29",
+      "transaction_type": "P",
+      "shares_after_transaction": "1267"
+    },
+    {
+      "id": 330,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Tanner Kirk",
       "reporting_owner_cik": "0001671693",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "47860"
     },
     {
-      "id": 341,
+      "id": 331,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Taffet Stacy",
       "reporting_owner_cik": "0002065367",
@@ -27,18 +39,6 @@
       "transaction_price": "186.19",
       "transaction_type": "P",
       "shares_after_transaction": "9371"
-    },
-    {
-      "id": 342,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Voskuil Steven E",
-      "reporting_owner_cik": "0001622634",
-      "reporting_owner_position": "SVP, Chief Financial Officer",
-      "transaction_date": "2025-11-18",
-      "transaction_shares": "1500",
-      "transaction_price": "179.56",
-      "transaction_type": "S",
-      "shares_after_transaction": "55319"
     }
   ]
 }
