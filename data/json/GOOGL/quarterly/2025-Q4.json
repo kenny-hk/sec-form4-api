@@ -2,11 +2,35 @@
   "ticker": "GOOGL",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-28T08:34:35.680960",
+  "last_updated": "2025-11-29T08:32:11.581213",
   "count": 4,
   "transactions": [
     {
-      "id": 80,
+      "id": 51,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "Sergey Brin",
+      "reporting_owner_cik": "0001295032",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "1778650",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "1778650"
+    },
+    {
+      "id": 130,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "Sergey Brin",
+      "reporting_owner_cik": "0001295032",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "1778650",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "1778650"
+    },
+    {
+      "id": 50,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "O'Toole Amie Thuener",
       "reporting_owner_cik": "0001738007",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "12910"
     },
     {
-      "id": 172,
+      "id": 129,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "O'Toole Amie Thuener",
       "reporting_owner_cik": "0001738007",
@@ -28,30 +52,6 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "12910"
-    },
-    {
-      "id": 81,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Pichai Sundar",
-      "reporting_owner_cik": "0001534753",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-11-19",
-      "transaction_shares": "100",
-      "transaction_price": "287.88",
-      "transaction_type": "S",
-      "shares_after_transaction": "2337019"
-    },
-    {
-      "id": 173,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Pichai Sundar",
-      "reporting_owner_cik": "0001534753",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-11-19",
-      "transaction_shares": "100",
-      "transaction_price": "287.88",
-      "transaction_type": "S",
-      "shares_after_transaction": "2337019"
     }
   ]
 }
