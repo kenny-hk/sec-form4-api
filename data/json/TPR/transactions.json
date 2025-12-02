@@ -1,11 +1,23 @@
 {
   "ticker": "TPR",
-  "last_updated": "2025-12-01T08:38:26.014752",
+  "last_updated": "2025-12-02T08:36:35.567677",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 239,
+      "id": 219,
+      "issuer_name": "TAPESTRY, INC.",
+      "reporting_owner": "Kulikowsky Denise",
+      "reporting_owner_cik": "0001808278",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "1186.0000",
+      "transaction_price": "26.5900",
+      "transaction_type": "M",
+      "shares_after_transaction": "20964.0000"
+    },
+    {
+      "id": 220,
       "issuer_name": "TAPESTRY, INC.",
       "reporting_owner": "Kahn Todd",
       "reporting_owner_cik": "0001424688",
@@ -15,30 +27,6 @@
       "transaction_price": "51.3800",
       "transaction_type": "M",
       "shares_after_transaction": "142159.0000"
-    },
-    {
-      "id": 237,
-      "issuer_name": "TAPESTRY, INC.",
-      "reporting_owner": "Crevoiserat Joanne C.",
-      "reporting_owner_cik": "0001607592",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-11-21",
-      "transaction_shares": "81000.0000",
-      "transaction_price": "20.9700",
-      "transaction_type": "M",
-      "shares_after_transaction": "698968.0000"
-    },
-    {
-      "id": 238,
-      "issuer_name": "TAPESTRY, INC.",
-      "reporting_owner": "Roe Scott A.",
-      "reporting_owner_cik": "0001570308",
-      "reporting_owner_position": "CFO and COO",
-      "transaction_date": "2025-11-21",
-      "transaction_shares": "35687.0000",
-      "transaction_price": "33.8100",
-      "transaction_type": "M",
-      "shares_after_transaction": "139849.0000"
     }
   ]
 }

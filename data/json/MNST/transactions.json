@@ -1,20 +1,32 @@
 {
   "ticker": "MNST",
-  "last_updated": "2025-11-24T08:36:34.668410",
+  "last_updated": "2025-12-02T08:36:35.567677",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 117,
+      "id": 38,
       "issuer_name": "Monster Beverage Corp",
-      "reporting_owner": "Carling Guy",
-      "reporting_owner_cik": "0001747215",
-      "reporting_owner_position": "President of EMEA & OSP",
-      "transaction_date": "2025-11-13",
-      "transaction_shares": "6",
-      "transaction_price": "25.75",
+      "reporting_owner": "SCHLOSBERG HILTON H",
+      "reporting_owner_cik": "0001284352",
+      "reporting_owner_position": "Vice Chairman and CEO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "8909",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "2338500"
+    },
+    {
+      "id": 39,
+      "issuer_name": "Monster Beverage Corp",
+      "reporting_owner": "SACKS RODNEY C",
+      "reporting_owner_cik": "0001284353",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "4326",
+      "transaction_price": "23.14",
       "transaction_type": "M",
-      "shares_after_transaction": "21999"
+      "shares_after_transaction": "742208"
     }
   ]
 }

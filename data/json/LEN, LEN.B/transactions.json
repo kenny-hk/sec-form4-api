@@ -1,20 +1,32 @@
 {
   "ticker": "LEN, LEN.B",
-  "last_updated": "2025-10-10T08:32:39.173721",
+  "last_updated": "2025-12-02T08:36:35.567677",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 385,
+      "id": 236,
       "issuer_name": "LENNAR CORP /NEW/",
-      "reporting_owner": "Lee Martin Katherine",
-      "reporting_owner_cik": "0002028758",
-      "reporting_owner_position": "Chief Legal Officer/Secretary",
-      "transaction_date": "2025-10-02",
-      "transaction_shares": "3019",
-      "transaction_price": "128.33",
-      "transaction_type": "F",
-      "shares_after_transaction": "42200"
+      "reporting_owner": "MILLER STUART A",
+      "reporting_owner_cik": "0001049444",
+      "reporting_owner_position": "Executive Chairman & Co-CEO",
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "20129",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "971789"
+    },
+    {
+      "id": 238,
+      "issuer_name": "LENNAR CORP /NEW/",
+      "reporting_owner": "Banse Amy",
+      "reporting_owner_cik": "0001550029",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "220",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "14490"
     }
   ]
 }
