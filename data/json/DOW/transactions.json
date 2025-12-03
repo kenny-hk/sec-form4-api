@@ -1,32 +1,92 @@
 {
   "ticker": "DOW",
-  "last_updated": "2025-11-12T08:35:19.588753",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 2,
+  "count": 7,
   "transactions": [
     {
-      "id": 158,
+      "id": 161,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Wilson Amy E",
+      "reporting_owner_cik": "0001772229",
+      "reporting_owner_position": "General Counsel / Secretary",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "926",
+      "transaction_price": "23.85",
+      "transaction_type": "D",
+      "shares_after_transaction": "91635"
+    },
+    {
+      "id": 162,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Tate Jeffrey L.",
+      "reporting_owner_cik": "0001699485",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "524",
+      "transaction_price": "23.85",
+      "transaction_type": "D",
+      "shares_after_transaction": "97561"
+    },
+    {
+      "id": 163,
       "issuer_name": "DOW INC.",
       "reporting_owner": "Cleason Keith",
       "reporting_owner_cik": "0002048139",
       "reporting_owner_position": "President, Pkg & Spec Plastics",
-      "transaction_date": "2025-11-03",
-      "transaction_shares": "2801",
-      "transaction_price": "23.23",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "244",
+      "transaction_price": "23.85",
       "transaction_type": "D",
-      "shares_after_transaction": "45837"
+      "shares_after_transaction": "45593"
     },
     {
-      "id": 159,
+      "id": 164,
       "issuer_name": "DOW INC.",
       "reporting_owner": "Carter Karen S",
       "reporting_owner_cik": "0001772252",
       "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-11-03",
-      "transaction_shares": "16259",
-      "transaction_price": "23.23",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "1093",
+      "transaction_price": "23.85",
       "transaction_type": "D",
-      "shares_after_transaction": "121227"
+      "shares_after_transaction": "120134"
+    },
+    {
+      "id": 165,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "SAMPSON JOHN MAURICE",
+      "reporting_owner_cik": "0001655048",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "323",
+      "transaction_price": "23.85",
+      "transaction_type": "D",
+      "shares_after_transaction": "117334"
+    },
+    {
+      "id": 166,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Fitterling James R",
+      "reporting_owner_cik": "0001490029",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "1929",
+      "transaction_price": "23.85",
+      "transaction_type": "D",
+      "shares_after_transaction": "131438"
+    },
+    {
+      "id": 167,
+      "issuer_name": "DOW INC.",
+      "reporting_owner": "Sreeram Attiganal N",
+      "reporting_owner_cik": "0001588278",
+      "reporting_owner_position": "Senior Vice President / CTO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "407",
+      "transaction_price": "23.85",
+      "transaction_type": "D",
+      "shares_after_transaction": "129791"
     }
   ]
 }

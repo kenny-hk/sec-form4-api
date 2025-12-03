@@ -1,11 +1,35 @@
 {
   "ticker": "RMD",
-  "last_updated": "2025-12-02T08:36:35.567677",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 7,
+      "id": 12,
+      "issuer_name": "RESMED INC",
+      "reporting_owner": "Sandercock Brett",
+      "reporting_owner_cik": "0001346064",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "1000",
+      "transaction_price": "244.16",
+      "transaction_type": "S",
+      "shares_after_transaction": "87495"
+    },
+    {
+      "id": 15,
+      "issuer_name": "RESMED INC",
+      "reporting_owner": "Rider Michael J",
+      "reporting_owner_cik": "0001982205",
+      "reporting_owner_position": "Global General Counsel",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "50",
+      "transaction_price": "244.16",
+      "transaction_type": "S",
+      "shares_after_transaction": "9791"
+    },
+    {
+      "id": 13,
       "issuer_name": "RESMED INC",
       "reporting_owner": "De Witte Jan",
       "reporting_owner_cik": "0001776929",

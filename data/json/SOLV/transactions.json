@@ -1,7 +1,32 @@
 {
   "ticker": "SOLV",
-  "last_updated": "2025-11-25T08:35:43.920365",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 157,
+      "issuer_name": "Solventum Corp",
+      "reporting_owner": "McMillan Wayde D.",
+      "reporting_owner_cik": "0001768648",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "28010",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "50502"
+    },
+    {
+      "id": 158,
+      "issuer_name": "Solventum Corp",
+      "reporting_owner": "Harrington Paul S",
+      "reporting_owner_cik": "0002015932",
+      "reporting_owner_position": "Chief Supply Chain Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "10463",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "20471"
+    }
+  ]
 }

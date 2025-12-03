@@ -1,11 +1,47 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-12-02T08:36:35.567677",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 289,
+      "id": 387,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Rainey John D",
+      "reporting_owner_cik": "0001547433",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "1367",
+      "transaction_price": "111.04",
+      "transaction_type": "S",
+      "shares_after_transaction": "618150.995"
+    },
+    {
+      "id": 386,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "860000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "530091456"
+    },
+    {
+      "id": 389,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "McMillon C Douglas",
+      "reporting_owner_cik": "0001335782",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "19416",
+      "transaction_price": "109.5658",
+      "transaction_type": "S",
+      "shares_after_transaction": "4334747.35"
+    },
+    {
+      "id": 388,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Chojnowski David",
       "reporting_owner_cik": "0001502438",
@@ -15,18 +51,6 @@
       "transaction_price": "106.65",
       "transaction_type": "S",
       "shares_after_transaction": "136289.003"
-    },
-    {
-      "id": 288,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-21",
-      "transaction_shares": "2954232",
-      "transaction_price": "105.454",
-      "transaction_type": "S",
-      "shares_after_transaction": "532142968"
     }
   ]
 }

@@ -1,20 +1,80 @@
 {
   "ticker": "IT",
-  "last_updated": "2025-10-24T08:31:53.081119",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 176,
+      "id": 287,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "HALL EUGENE A",
+      "reporting_owner_cik": "0001198849",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "26",
+      "transaction_price": "221.10",
+      "transaction_type": "J",
+      "shares_after_transaction": "1170307"
+    },
+    {
+      "id": 288,
       "issuer_name": "GARTNER INC",
       "reporting_owner": "Rupani Altaf",
       "reporting_owner_cik": "0001998915",
       "reporting_owner_position": "EVP, Chief Information Officer",
-      "transaction_date": "2025-10-15",
-      "transaction_shares": "166",
-      "transaction_price": "0",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "20",
+      "transaction_price": "221.10",
+      "transaction_type": "J",
+      "shares_after_transaction": "559"
+    },
+    {
+      "id": 289,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "Herkes Claire",
+      "reporting_owner_cik": "0001843712",
+      "reporting_owner_position": "EVP, Conferences",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "3052",
+      "transaction_price": "180.64",
       "transaction_type": "M",
-      "shares_after_transaction": "600"
+      "shares_after_transaction": "7126"
+    },
+    {
+      "id": 290,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "Kranich Robin B",
+      "reporting_owner_cik": "0001308381",
+      "reporting_owner_position": "EVP & CHRO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "26",
+      "transaction_price": "221.10",
+      "transaction_type": "J",
+      "shares_after_transaction": "20528"
+    },
+    {
+      "id": 291,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "van Ham Dick",
+      "reporting_owner_cik": "0002054503",
+      "reporting_owner_position": "SVP, Global Technology Sales",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "26",
+      "transaction_price": "221.10",
+      "transaction_type": "J",
+      "shares_after_transaction": "362"
+    },
+    {
+      "id": 292,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "Safian Craig",
+      "reporting_owner_cik": "0001610073",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2025-11-28",
+      "transaction_shares": "15",
+      "transaction_price": "221.10",
+      "transaction_type": "J",
+      "shares_after_transaction": "77928"
     }
   ]
 }

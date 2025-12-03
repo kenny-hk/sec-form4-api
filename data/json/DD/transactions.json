@@ -1,11 +1,11 @@
 {
   "ticker": "DD",
-  "last_updated": "2025-12-02T08:36:35.567677",
+  "last_updated": "2025-12-03T08:35:59.540162",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 224,
+      "id": 300,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "Koch Lori",
       "reporting_owner_cik": "0001803917",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "297336.6878"
     },
     {
-      "id": 225,
+      "id": 301,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "Hoover Erik T.",
       "reporting_owner_cik": "0001777446",
@@ -27,6 +27,42 @@
       "transaction_price": "28",
       "transaction_type": "M",
       "shares_after_transaction": "118106.13"
+    },
+    {
+      "id": 302,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Brady Amy G.",
+      "reporting_owner_cik": "0001562311",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "206.0091",
+      "transaction_price": "39.44",
+      "transaction_type": "A",
+      "shares_after_transaction": "19578.8854"
+    },
+    {
+      "id": 303,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Lowery Frederick M.",
+      "reporting_owner_cik": "0001777440",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "982.5051",
+      "transaction_price": "39.44",
+      "transaction_type": "A",
+      "shares_after_transaction": "34421.4286"
+    },
+    {
+      "id": 304,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "CUTLER ALEXANDER M",
+      "reporting_owner_cik": "0001188585",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "1267.7484",
+      "transaction_price": "39.44",
+      "transaction_type": "A",
+      "shares_after_transaction": "75473.223"
     }
   ]
 }
