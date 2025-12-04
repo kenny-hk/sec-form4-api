@@ -1,11 +1,23 @@
 {
   "ticker": "META",
-  "last_updated": "2025-12-03T08:35:59.540162",
+  "last_updated": "2025-12-04T08:36:16.929027",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 343,
+      "id": 433,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Olivan Javier",
+      "reporting_owner_cik": "0001564475",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "517",
+      "transaction_price": "639.0318",
+      "transaction_type": "S",
+      "shares_after_transaction": "14268"
+    },
+    {
+      "id": 434,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "KIMMITT ROBERT M",
       "reporting_owner_cik": "0001181218",
@@ -15,30 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "6747"
-    },
-    {
-      "id": 342,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Newstead Jennifer",
-      "reporting_owner_cik": "0001780525",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-11-25",
-      "transaction_shares": "519",
-      "transaction_price": "624.14",
-      "transaction_type": "S",
-      "shares_after_transaction": "31253"
-    },
-    {
-      "id": 341,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Olivan Javier",
-      "reporting_owner_cik": "0001564475",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "517",
-      "transaction_price": "598.54",
-      "transaction_type": "S",
-      "shares_after_transaction": "14785"
     }
   ]
 }

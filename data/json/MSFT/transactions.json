@@ -1,11 +1,23 @@
 {
   "ticker": "MSFT",
-  "last_updated": "2025-12-03T08:35:59.540162",
+  "last_updated": "2025-12-04T08:36:16.929027",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 159,
+      "id": 209,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Althoff Judson",
+      "reporting_owner_cik": "0001868758",
+      "reporting_owner_position": "CEO Microsoft Commercial",
+      "transaction_date": "2025-12-02",
+      "transaction_shares": "12750",
+      "transaction_price": "491.516",
+      "transaction_type": "S",
+      "shares_after_transaction": "129348.681"
+    },
+    {
+      "id": 207,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Jolla Alice L.",
       "reporting_owner_cik": "0001819285",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "72603.2416"
     },
     {
-      "id": 160,
+      "id": 208,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Coleman Amy",
       "reporting_owner_cik": "0002062356",

@@ -1,20 +1,44 @@
 {
   "ticker": "INCY",
-  "last_updated": "2025-12-02T08:36:35.567677",
+  "last_updated": "2025-12-04T08:36:16.929027",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 155,
+      "id": 266,
       "issuer_name": "INCYTE CORP",
-      "reporting_owner": "Tray Thomas",
-      "reporting_owner_cik": "0001912317",
-      "reporting_owner_position": "Principal Accounting Officer",
-      "transaction_date": "2025-11-21",
-      "transaction_shares": "169",
-      "transaction_price": "102",
+      "reporting_owner": "Hoffman Richard A.",
+      "reporting_owner_cik": "0002098091",
+      "reporting_owner_position": "EVP & General Counsel",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "9466",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "9466"
+    },
+    {
+      "id": 267,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "Morrissey Michael James",
+      "reporting_owner_cik": "0001780915",
+      "reporting_owner_position": "EVP, Head of Tech. Operations",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "326",
+      "transaction_price": "102.04",
+      "transaction_type": "F",
+      "shares_after_transaction": "85838"
+    },
+    {
+      "id": 268,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "Stein Steven H",
+      "reporting_owner_cik": "0001673776",
+      "reporting_owner_position": "EVP & Chief Medical Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "2559",
+      "transaction_price": "102.96",
       "transaction_type": "S",
-      "shares_after_transaction": "24173"
+      "shares_after_transaction": "100327"
     }
   ]
 }

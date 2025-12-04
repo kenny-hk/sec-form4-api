@@ -2,11 +2,23 @@
   "ticker": "COIN",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-03T08:35:59.540162",
-  "count": 5,
+  "last_updated": "2025-12-04T08:36:16.929027",
+  "count": 3,
   "transactions": [
     {
-      "id": 449,
+      "id": 574,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "WILSON FREDERICK R",
+      "reporting_owner_cik": "0001227688",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "200",
+      "transaction_price": "253.268",
+      "transaction_type": "S",
+      "shares_after_transaction": "204773"
+    },
+    {
+      "id": 575,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Ehrsam Frederick Ernest III",
       "reporting_owner_cik": "0001851442",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1375"
     },
     {
-      "id": 450,
+      "id": 576,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Grewal Paul",
       "reporting_owner_cik": "0001851414",
@@ -28,42 +40,6 @@
       "transaction_price": "260.0012",
       "transaction_type": "S",
       "shares_after_transaction": "74835"
-    },
-    {
-      "id": 446,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Grewal Paul",
-      "reporting_owner_cik": "0001851414",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-11-25",
-      "transaction_shares": "520",
-      "transaction_price": "241.5799",
-      "transaction_type": "S",
-      "shares_after_transaction": "87246"
-    },
-    {
-      "id": 447,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Jones Jennifer N.",
-      "reporting_owner_cik": "0001851432",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "1787",
-      "transaction_price": "244.49",
-      "transaction_type": "S",
-      "shares_after_transaction": "0"
-    },
-    {
-      "id": 448,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Brock Lawrence J",
-      "reporting_owner_cik": "0001963975",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "1579",
-      "transaction_price": "244.4669",
-      "transaction_type": "S",
-      "shares_after_transaction": "4820"
     }
   ]
 }

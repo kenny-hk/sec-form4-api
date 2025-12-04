@@ -2,20 +2,32 @@
   "ticker": "AJG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-02T08:36:35.567677",
-  "count": 1,
+  "last_updated": "2025-12-04T08:36:16.929027",
+  "count": 2,
   "transactions": [
     {
-      "id": 69,
+      "id": 100,
       "issuer_name": "Arthur J. Gallagher & Co.",
-      "reporting_owner": "Mead Christopher E",
-      "reporting_owner_cik": "0001737644",
-      "reporting_owner_position": "VICE PRESIDENT",
-      "transaction_date": "2025-11-21",
-      "transaction_shares": "1250",
-      "transaction_price": "250.74",
-      "transaction_type": "S",
-      "shares_after_transaction": "17326.7322"
+      "reporting_owner": "Miskel Christopher C.",
+      "reporting_owner_cik": "0001804681",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "162.536",
+      "transaction_price": "246.10",
+      "transaction_type": "A",
+      "shares_after_transaction": "9110.532"
+    },
+    {
+      "id": 101,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "JOHNSON DAVID S",
+      "reporting_owner_cik": "0001192476",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "198.09",
+      "transaction_price": "246.10",
+      "transaction_type": "A",
+      "shares_after_transaction": "45822.714"
     }
   ]
 }

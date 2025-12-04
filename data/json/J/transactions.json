@@ -1,44 +1,80 @@
 {
   "ticker": "J",
-  "last_updated": "2025-12-02T08:36:35.567677",
+  "last_updated": "2025-12-04T08:36:16.929027",
   "retention_years": 3,
-  "count": 3,
+  "count": 6,
   "transactions": [
     {
-      "id": 200,
+      "id": 362,
+      "issuer_name": "JACOBS SOLUTIONS INC.",
+      "reporting_owner": "ALLEN WILLIAM B JR",
+      "reporting_owner_cik": "0001271016",
+      "reporting_owner_position": "EXECUTIVE VICE PRESIDENT",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "456",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "32874"
+    },
+    {
+      "id": 363,
       "issuer_name": "JACOBS SOLUTIONS INC.",
       "reporting_owner": "Nathamuni Venkatesh",
       "reporting_owner_cik": "0001924898",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "750",
-      "transaction_price": "135.11",
-      "transaction_type": "P",
-      "shares_after_transaction": "20785"
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "809",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "21594"
     },
     {
-      "id": 201,
+      "id": 364,
       "issuer_name": "JACOBS SOLUTIONS INC.",
-      "reporting_owner": "Fernandez Manuel J",
-      "reporting_owner_cik": "0001825457",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "763",
-      "transaction_price": "130.78",
-      "transaction_type": "P",
-      "shares_after_transaction": "10380"
+      "reporting_owner": "PRAGADA ROBERT V",
+      "reporting_owner_cik": "0001456921",
+      "reporting_owner_position": "Chair & CEO",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "2425",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "330701"
     },
     {
-      "id": 202,
+      "id": 365,
       "issuer_name": "JACOBS SOLUTIONS INC.",
-      "reporting_owner": "ROBERTSON PETER J",
-      "reporting_owner_cik": "0001020290",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-11-24",
-      "transaction_shares": "1000",
-      "transaction_price": "134.76",
-      "transaction_type": "P",
-      "shares_after_transaction": "1000"
+      "reporting_owner": "Miller Shannon",
+      "reporting_owner_cik": "0001949067",
+      "reporting_owner_position": "President",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "659",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "26876"
+    },
+    {
+      "id": 366,
+      "issuer_name": "JACOBS SOLUTIONS INC.",
+      "reporting_owner": "Zaccaro Joanne Caruso",
+      "reporting_owner_cik": "0001725181",
+      "reporting_owner_position": "Chief Legal & Admin Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "975",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "80346"
+    },
+    {
+      "id": 367,
+      "issuer_name": "JACOBS SOLUTIONS INC.",
+      "reporting_owner": "Hill Patrick",
+      "reporting_owner_cik": "0001877747",
+      "reporting_owner_position": "PRESIDENT",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "831",
+      "transaction_price": "132.84",
+      "transaction_type": "A",
+      "shares_after_transaction": "84557"
     }
   ]
 }

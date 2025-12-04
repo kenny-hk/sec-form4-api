@@ -2,20 +2,44 @@
   "ticker": "APO",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-24T08:36:34.668410",
-  "count": 1,
+  "last_updated": "2025-12-04T08:36:16.929027",
+  "count": 3,
   "transactions": [
     {
-      "id": 38,
+      "id": 24,
       "issuer_name": "Apollo Global Management, Inc.",
-      "reporting_owner": "KLEINMAN SCOTT",
-      "reporting_owner_cik": "0001272588",
-      "reporting_owner_position": "Co-President (See Remarks)",
-      "transaction_date": "2025-11-13",
-      "transaction_shares": "10136",
-      "transaction_price": "129.64",
-      "transaction_type": "A",
-      "shares_after_transaction": "75831"
+      "reporting_owner": "Belardi James Richard",
+      "reporting_owner_cik": "0001689315",
+      "reporting_owner_position": "CEO of Athene Holding Ltd.",
+      "transaction_date": "2025-12-02",
+      "transaction_shares": "1500",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "154481"
+    },
+    {
+      "id": 25,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "Kelly Martin",
+      "reporting_owner_cik": "0001557288",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "6000",
+      "transaction_price": "131.4056",
+      "transaction_type": "S",
+      "shares_after_transaction": "325604"
+    },
+    {
+      "id": 26,
+      "issuer_name": "Apollo Global Management, Inc.",
+      "reporting_owner": "Socrates Trust",
+      "reporting_owner_cik": "0001901019",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-01",
+      "transaction_shares": "3000000",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "29629251"
     }
   ]
 }
