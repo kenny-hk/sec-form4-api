@@ -1,20 +1,32 @@
 {
   "ticker": "OTIS",
-  "last_updated": "2025-11-14T08:34:12.046151",
+  "last_updated": "2025-12-06T08:33:44.862885",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 464,
+      "id": 732,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Zheng Peiming",
+      "reporting_owner_cik": "0001807749",
+      "reporting_owner_position": "EVP, Chief Product, Delivery",
+      "transaction_date": "2025-12-03",
+      "transaction_shares": "10102",
+      "transaction_price": "86.94",
+      "transaction_type": "M",
+      "shares_after_transaction": "16903"
+    },
+    {
+      "id": 733,
       "issuer_name": "Otis Worldwide Corp",
       "reporting_owner": "Ryan Michael Patrick",
       "reporting_owner_cik": "0001805849",
       "reporting_owner_position": "SVP, CAO & Controller",
-      "transaction_date": "2025-11-05",
-      "transaction_shares": "10000",
-      "transaction_price": "63.92",
+      "transaction_date": "2025-12-03",
+      "transaction_shares": "23",
+      "transaction_price": "86.94",
       "transaction_type": "M",
-      "shares_after_transaction": "12628"
+      "shares_after_transaction": "2671"
     }
   ]
 }

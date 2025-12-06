@@ -1,11 +1,23 @@
 {
   "ticker": "ANET",
-  "last_updated": "2025-12-05T08:36:30.314400",
+  "last_updated": "2025-12-06T08:33:44.862885",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 183,
+      "id": 247,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "Duda Kenneth",
+      "reporting_owner_cik": "0001605808",
+      "reporting_owner_position": "President and CTO",
+      "transaction_date": "2025-12-03",
+      "transaction_shares": "75000",
+      "transaction_price": "0.0",
+      "transaction_type": "J",
+      "shares_after_transaction": "757961"
+    },
+    {
+      "id": 246,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "Giancarlo Charles H",
       "reporting_owner_cik": "0001299634",
@@ -15,30 +27,6 @@
       "transaction_price": "126.928",
       "transaction_type": "S",
       "shares_after_transaction": "33220"
-    },
-    {
-      "id": 182,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "Ullal Jayshree",
-      "reporting_owner_cik": "0001605809",
-      "reporting_owner_position": "CEO and Chairperson",
-      "transaction_date": "2025-11-25",
-      "transaction_shares": "2400",
-      "transaction_price": "123.198",
-      "transaction_type": "S",
-      "shares_after_transaction": "31559"
-    },
-    {
-      "id": 184,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "Duda Kenneth",
-      "reporting_owner_cik": "0001605808",
-      "reporting_owner_position": "President and CTO",
-      "transaction_date": "2025-11-25",
-      "transaction_shares": "79074",
-      "transaction_price": "0.0",
-      "transaction_type": "J",
-      "shares_after_transaction": "682961"
     }
   ]
 }
