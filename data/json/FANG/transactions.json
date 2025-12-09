@@ -1,11 +1,23 @@
 {
   "ticker": "FANG",
-  "last_updated": "2025-12-08T08:39:38.080764",
+  "last_updated": "2025-12-09T08:37:33.303834",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 10,
+      "id": 8,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Meloy Charles Alvin",
+      "reporting_owner_cik": "0001333454",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-04",
+      "transaction_shares": "124835",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "1044864"
+    },
+    {
+      "id": 9,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "SGF FANG Holdings, LP",
       "reporting_owner_cik": "0002080063",
@@ -15,18 +27,6 @@
       "transaction_price": "152.59",
       "transaction_type": "S",
       "shares_after_transaction": "99686727"
-    },
-    {
-      "id": 9,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Wesson Daniel N",
-      "reporting_owner_cik": "0001805429",
-      "reporting_owner_position": "Exec. VP & COO",
-      "transaction_date": "2025-11-26",
-      "transaction_shares": "4000",
-      "transaction_price": "149.2369",
-      "transaction_type": "S",
-      "shares_after_transaction": "80117"
     }
   ]
 }

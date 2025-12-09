@@ -2,11 +2,35 @@
   "ticker": "MRNA",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-08T08:39:38.080764",
-  "count": 5,
+  "last_updated": "2025-12-09T08:37:33.303834",
+  "count": 4,
   "transactions": [
     {
-      "id": 659,
+      "id": 638,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-05",
+      "transaction_shares": "47190",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "66017"
+    },
+    {
+      "id": 640,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Klinger Shannon Thyme",
+      "reporting_owner_cik": "0001866132",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-12-05",
+      "transaction_shares": "47190",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "76048"
+    },
+    {
+      "id": 637,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Hoge Stephen",
       "reporting_owner_cik": "0001760669",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "1455221"
     },
     {
-      "id": 661,
+      "id": 639,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -28,42 +52,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "28971"
-    },
-    {
-      "id": 658,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Hoge Stephen",
-      "reporting_owner_cik": "0001760669",
-      "reporting_owner_position": "President",
-      "transaction_date": "2025-11-26",
-      "transaction_shares": "1437",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "1454949"
-    },
-    {
-      "id": 660,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Klinger Shannon Thyme",
-      "reporting_owner_cik": "0001866132",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-11-26",
-      "transaction_shares": "773",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "28943"
-    },
-    {
-      "id": 662,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Mock James M",
-      "reporting_owner_cik": "0001736359",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-11-26",
-      "transaction_shares": "773",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "19032"
     }
   ]
 }
