@@ -1,7 +1,44 @@
 {
   "ticker": "SWK",
-  "last_updated": "2025-11-17T08:37:19.731444",
+  "last_updated": "2025-12-10T08:38:25.761711",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 37,
+      "issuer_name": "STANLEY BLACK & DECKER, INC.",
+      "reporting_owner": "Allan Donald",
+      "reporting_owner_cik": "0001379111",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-06",
+      "transaction_shares": "3166",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "126190.8"
+    },
+    {
+      "id": 38,
+      "issuer_name": "STANLEY BLACK & DECKER, INC.",
+      "reporting_owner": "Greulach Scot",
+      "reporting_owner_cik": "0001948075",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-12-06",
+      "transaction_shares": "948",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "5411.292"
+    },
+    {
+      "id": 39,
+      "issuer_name": "STANLEY BLACK & DECKER, INC.",
+      "reporting_owner": "Wintner Deborah",
+      "reporting_owner_cik": "0002033696",
+      "reporting_owner_position": "SVP, Chief HR Officer",
+      "transaction_date": "2025-12-06",
+      "transaction_shares": "3212",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "12059.9126"
+    }
+  ]
 }

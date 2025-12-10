@@ -2,20 +2,32 @@
   "ticker": "AFL",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-11-27T08:35:17.882730",
-  "count": 1,
+  "last_updated": "2025-12-10T08:38:25.761711",
+  "count": 2,
   "transactions": [
     {
-      "id": 112,
+      "id": 132,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "BEAVER STEVEN KENT",
+      "reporting_owner_cik": "0001776900",
+      "reporting_owner_position": "EVP, CFO Aflac Japan",
+      "transaction_date": "2025-12-05",
+      "transaction_shares": "3452",
+      "transaction_price": "28.965",
+      "transaction_type": "M",
+      "shares_after_transaction": "47312"
+    },
+    {
+      "id": 133,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "TILLMAN AUDREY B",
       "reporting_owner_cik": "0001422863",
       "reporting_owner_position": "Sr. Executive Vice President",
-      "transaction_date": "2025-11-18",
-      "transaction_shares": "15862",
-      "transaction_price": "28.965",
-      "transaction_type": "M",
-      "shares_after_transaction": "246550"
+      "transaction_date": "2025-12-05",
+      "transaction_shares": "1038",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "229650"
     }
   ]
 }

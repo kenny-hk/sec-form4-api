@@ -1,11 +1,35 @@
 {
   "ticker": "NDAQ",
-  "last_updated": "2025-12-09T08:37:33.303834",
+  "last_updated": "2025-12-10T08:38:25.761711",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 23,
+      "id": 19,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "SKULE JEREMY",
+      "reporting_owner_cik": "0001736565",
+      "reporting_owner_position": "EVP, CSO",
+      "transaction_date": "2025-12-06",
+      "transaction_shares": "4127",
+      "transaction_price": "90.22",
+      "transaction_type": "F",
+      "shares_after_transaction": "78742"
+    },
+    {
+      "id": 20,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "Youngwood Sarah",
+      "reporting_owner_cik": "0002002407",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2025-12-06",
+      "transaction_shares": "16506",
+      "transaction_price": "90.22",
+      "transaction_type": "F",
+      "shares_after_transaction": "59291"
+    },
+    {
+      "id": 21,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Smith Bryan Everard",
       "reporting_owner_cik": "0001799366",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "57670"
     },
     {
-      "id": 24,
+      "id": 22,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "SKULE JEREMY",
       "reporting_owner_cik": "0001736565",

@@ -1,11 +1,23 @@
 {
   "ticker": "RMD",
-  "last_updated": "2025-12-09T08:37:33.303834",
+  "last_updated": "2025-12-10T08:38:25.761711",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 31,
+      "id": 27,
+      "issuer_name": "RESMED INC",
+      "reporting_owner": "Farrell Michael J.",
+      "reporting_owner_cik": "0001485164",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-12-08",
+      "transaction_shares": "4991",
+      "transaction_price": "146.34",
+      "transaction_type": "M",
+      "shares_after_transaction": "471214"
+    },
+    {
+      "id": 28,
       "issuer_name": "RESMED INC",
       "reporting_owner": "FARRELL PETER C",
       "reporting_owner_cik": "0001186102",
@@ -15,30 +27,6 @@
       "transaction_price": "251.47",
       "transaction_type": "S",
       "shares_after_transaction": "68773"
-    },
-    {
-      "id": 29,
-      "issuer_name": "RESMED INC",
-      "reporting_owner": "Sandercock Brett",
-      "reporting_owner_cik": "0001346064",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-12-01",
-      "transaction_shares": "1000",
-      "transaction_price": "244.16",
-      "transaction_type": "S",
-      "shares_after_transaction": "87495"
-    },
-    {
-      "id": 30,
-      "issuer_name": "RESMED INC",
-      "reporting_owner": "Rider Michael J",
-      "reporting_owner_cik": "0001982205",
-      "reporting_owner_position": "Global General Counsel",
-      "transaction_date": "2025-12-01",
-      "transaction_shares": "50",
-      "transaction_price": "244.16",
-      "transaction_type": "S",
-      "shares_after_transaction": "9791"
     }
   ]
 }

@@ -1,16 +1,38 @@
 {
-  "last_updated": "2025-12-09T08:37:34.482212",
+  "last_updated": "2025-12-10T08:38:26.843817",
   "large_transactions": [
     {
-      "ticker": "FANG",
-      "company": "Diamondback Energy, Inc.",
-      "insider": "SGF FANG Holdings, LP",
+      "ticker": "TDG",
+      "company": "TransDigm Group INC",
+      "insider": "SMALL ROBERT J",
       "position": null,
-      "date": "2025-11-28",
-      "shares": "2000000",
-      "price": "152.59",
+      "date": "2025-12-09",
+      "shares": "75673",
+      "price": "1335.7200",
       "type": "S",
-      "value": 305180000.0
+      "value": 101077939.56
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "insider": "STEVENS MARK A",
+      "position": null,
+      "date": "2025-12-05",
+      "shares": "350000",
+      "price": "181.7259",
+      "type": "S",
+      "value": 63604065.0
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts International",
+      "insider": "IAC Inc.",
+      "position": null,
+      "date": "2025-12-05",
+      "shares": "1098748",
+      "price": "36.30",
+      "type": "P",
+      "value": 39884552.4
     },
     {
       "ticker": "CRM",
@@ -68,17 +90,6 @@
       "value": 11047321.65
     },
     {
-      "ticker": "NONE",
-      "company": "KKR Asset-Based Income Fund",
-      "insider": "GENERAL ELECTRIC PENSION TRUST",
-      "position": null,
-      "date": "2025-11-28",
-      "shares": "9785.406",
-      "price": "1021.93",
-      "type": "P",
-      "value": 9999999.95358
-    },
-    {
       "ticker": "MCHP",
       "company": "MICROCHIP TECHNOLOGY INC",
       "insider": "Sanghi Steve",
@@ -88,6 +99,17 @@
       "price": "65.81",
       "type": "G",
       "value": 9081780.0
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "insider": "SAMUELI HENRY",
+      "position": null,
+      "date": "2025-12-08",
+      "shares": "21712",
+      "price": "398.14",
+      "type": "S",
+      "value": 8644415.68
     },
     {
       "ticker": "AXON",
@@ -123,17 +145,6 @@
       "value": 6266829.0
     },
     {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies, Inc.",
-      "insider": "Nersesian Ronald S.",
-      "position": null,
-      "date": "2025-11-28",
-      "shares": "30000",
-      "price": "196.877",
-      "type": "S",
-      "value": 5906310.0
-    },
-    {
       "ticker": "VRTX",
       "company": "VERTEX PHARMACEUTICALS INC / MA",
       "insider": "LEIDEN JEFFREY M",
@@ -167,15 +178,15 @@
       "value": 4785429.5528
     },
     {
-      "ticker": "SNA",
-      "company": "Snap-on Inc",
-      "insider": "PINCHUK NICHOLAS T",
-      "position": "Chairman, President and CEO",
-      "date": "2025-12-02",
-      "shares": "33750",
-      "price": "138.03",
-      "type": "M",
-      "value": 4658512.5
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Neri Antonio F",
+      "position": "President and CEO",
+      "date": "2025-12-06",
+      "shares": "192013",
+      "price": "23.33",
+      "type": "A",
+      "value": 4479663.29
     },
     {
       "ticker": "ENPH",
@@ -187,17 +198,6 @@
       "price": "29.1276",
       "type": "S",
       "value": 4369140.0
-    },
-    {
-      "ticker": "NFLX",
-      "company": "NETFLIX INC",
-      "insider": "HASTINGS REED",
-      "position": null,
-      "date": "2025-12-01",
-      "shares": "375470",
-      "price": "10.57",
-      "type": "M",
-      "value": 3968717.9
     },
     {
       "ticker": "FOA",
@@ -220,17 +220,6 @@
       "price": "105.17",
       "type": "M",
       "value": 3786120.0
-    },
-    {
-      "ticker": "ISRG",
-      "company": "INTUITIVE SURGICAL INC",
-      "insider": "GUTHART GARY S",
-      "position": "Executive Chair of the Board o",
-      "date": "2025-12-01",
-      "shares": "25500",
-      "price": "139.52",
-      "type": "M",
-      "value": 3557760.0000000005
     },
     {
       "ticker": "JKHY",
@@ -288,17 +277,6 @@
       "value": 3076124.32
     },
     {
-      "ticker": "APH",
-      "company": "AMPHENOL CORP /DE/",
-      "insider": "Straub Peter",
-      "position": "President, ISS Division",
-      "date": "2025-12-02",
-      "shares": "132000",
-      "price": "22.55",
-      "type": "M",
-      "value": 2976600.0
-    },
-    {
       "ticker": "PANW",
       "company": "Palo Alto Networks Inc",
       "insider": "Klarich Lee",
@@ -321,26 +299,15 @@
       "value": 2677881.6591000003
     },
     {
-      "ticker": "APH",
-      "company": "AMPHENOL CORP /DE/",
-      "insider": "Doherty William J",
-      "position": "President, CS Division",
-      "date": "2025-12-02",
-      "shares": "80000",
-      "price": "33.295",
-      "type": "M",
-      "value": 2663600.0
-    },
-    {
-      "ticker": "BXP",
-      "company": "BXP, Inc.",
-      "insider": "RITCHEY RAYMOND A",
-      "position": "Senior EVP",
-      "date": "2025-12-01",
-      "shares": "36314",
-      "price": "72.1797",
-      "type": "S",
-      "value": 2621133.6258
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "MYERS MARIE",
+      "position": "EVP & CFO",
+      "date": "2025-12-07",
+      "shares": "114162",
+      "price": "23.33",
+      "type": "A",
+      "value": 2663399.46
     },
     {
       "ticker": "L",
@@ -409,6 +376,17 @@
       "value": 2414662.1625
     },
     {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "insider": "Eschenbach Carl M.",
+      "position": "CEO",
+      "date": "2025-12-05",
+      "shares": "11084",
+      "price": "216.62",
+      "type": "F",
+      "value": 2401016.08
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA CORP",
       "insider": "SEAWELL A BROOKE",
@@ -453,17 +431,6 @@
       "value": 2183108.3525
     },
     {
-      "ticker": "WMT",
-      "company": "Walmart Inc.",
-      "insider": "McMillon C Douglas",
-      "position": "President and CEO",
-      "date": "2025-11-28",
-      "shares": "19416",
-      "price": "109.5658",
-      "type": "S",
-      "value": 2127329.5727999997
-    },
-    {
       "ticker": "LVS",
       "company": "LAS VEGAS SANDS CORP",
       "insider": "Chafetz Irwin",
@@ -473,6 +440,28 @@
       "price": "69.76",
       "type": "S",
       "value": 2092800.0000000002
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp",
+      "insider": "Ciongoli Adam G.",
+      "position": "Chief Legal and Policy Officer",
+      "date": "2025-12-09",
+      "shares": "29897",
+      "price": "69.55",
+      "type": "S",
+      "value": 2079336.3499999999
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp",
+      "insider": "Ciongoli Adam G.",
+      "position": "Chief Legal and Policy Officer",
+      "date": "2025-12-09",
+      "shares": "29897",
+      "price": "69.55",
+      "type": "S",
+      "value": 2079336.3499999999
     },
     {
       "ticker": "VRTX",
@@ -508,6 +497,28 @@
       "value": 1960053.29
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "RUSSO FIDELMA",
+      "position": "EVP, GM, Hybrid Cloud & CTO",
+      "date": "2025-12-06",
+      "shares": "83563",
+      "price": "23.33",
+      "type": "A",
+      "value": 1949524.7899999998
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "SCHULTZ JOHN F",
+      "position": "EVP, COLO",
+      "date": "2025-12-06",
+      "shares": "83206",
+      "price": "23.33",
+      "type": "A",
+      "value": 1941195.9799999997
+    },
+    {
       "ticker": "JCI",
       "company": "Johnson Controls International plc",
       "insider": "RATHNINDE ANURUDDHA",
@@ -541,6 +552,17 @@
       "value": 1855652.88
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Cox Jeremy",
+      "position": "SVP, Controller & CTO",
+      "date": "2025-12-07",
+      "shares": "76284",
+      "price": "23.33",
+      "type": "M",
+      "value": 1779705.72
+    },
+    {
       "ticker": "TMO",
       "company": "THERMO FISHER SCIENTIFIC INC.",
       "insider": "Lowery Frederick M.",
@@ -563,17 +585,6 @@
       "value": 1750508.0699999998
     },
     {
-      "ticker": "MCD",
-      "company": "MCDONALDS CORP",
-      "insider": "Steijaert Manuel JM",
-      "position": "EVP - President, IOM",
-      "date": "2025-12-01",
-      "shares": "6567",
-      "price": "266.2",
-      "type": "M",
-      "value": 1748135.4
-    },
-    {
       "ticker": "DDOG",
       "company": "Datadog, Inc.",
       "insider": "Walters Sean Michael",
@@ -585,15 +596,15 @@
       "value": 1670042.205
     },
     {
-      "ticker": "ADI",
-      "company": "ANALOG DEVICES INC",
-      "insider": "Jain Vivek",
-      "position": "EVP, Global Operations",
-      "date": "2025-12-01",
-      "shares": "5913.836",
-      "price": "265.84",
-      "type": "S",
-      "value": 1572134.16224
+      "ticker": "CDNS",
+      "company": "CADENCE DESIGN SYSTEMS INC",
+      "insider": "DEVGAN ANIRUDH",
+      "position": "President and CEO",
+      "date": "2025-12-05",
+      "shares": "20000",
+      "price": "78.76",
+      "type": "M",
+      "value": 1575200.0
     },
     {
       "ticker": "JBHT",
@@ -607,15 +618,15 @@
       "value": 1529178.05
     },
     {
-      "ticker": "NONE",
-      "company": "KKR Real Estate Select Trust Inc.",
-      "insider": "KKR Alternative Assets LLC",
-      "position": null,
-      "date": "2025-11-28",
-      "shares": "60161.134",
-      "price": "23.52",
-      "type": "J",
-      "value": 1414989.8716799999
+      "ticker": "NDAQ",
+      "company": "NASDAQ, INC.",
+      "insider": "Youngwood Sarah",
+      "position": "EVP & CFO",
+      "date": "2025-12-06",
+      "shares": "16506",
+      "price": "90.22",
+      "type": "F",
+      "value": 1489171.32
     },
     {
       "ticker": "ACN",
@@ -651,15 +662,15 @@
       "value": 1349356.038
     },
     {
-      "ticker": "MMC",
-      "company": "MARSH & MCLENNAN COMPANIES, INC.",
-      "insider": "Doyle John Q",
-      "position": "President and CEO",
-      "date": "2025-12-01",
-      "shares": "21079",
-      "price": "63.09",
-      "type": "M",
-      "value": 1329874.11
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "MacDonald Neil B",
+      "position": "EVP, GM, Server",
+      "date": "2025-12-06",
+      "shares": "57605",
+      "price": "23.33",
+      "type": "A",
+      "value": 1343924.65
     },
     {
       "ticker": "BLK",
@@ -750,15 +761,15 @@
       "value": 1100972.0
     },
     {
-      "ticker": "CMG",
-      "company": "CHIPOTLE MEXICAN GRILL INC",
-      "insider": "Garner Curtis E",
-      "position": "Pres, Chief Strgy  & Tech Off",
-      "date": "2025-12-01",
-      "shares": "93000",
-      "price": "11.6554",
-      "type": "M",
-      "value": 1083952.2
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "LORES ENRIQUE",
+      "position": "President and CEO",
+      "date": "2025-12-05",
+      "shares": "41922",
+      "price": "26.005",
+      "type": "S",
+      "value": 1090181.6099999999
     },
     {
       "ticker": "WAB",
@@ -803,17 +814,6 @@
       "price": "18.29",
       "type": "D",
       "value": 1046937.8899999999
-    },
-    {
-      "ticker": "ROP",
-      "company": "ROPER TECHNOLOGIES INC",
-      "insider": "Conley Jason",
-      "position": "EVP, Chief Financial Officer",
-      "date": "2025-12-01",
-      "shares": "6000",
-      "price": "170.61",
-      "type": "M",
-      "value": 1023660.0000000001
     },
     {
       "ticker": "AXON",
@@ -882,6 +882,17 @@
       "value": 927883.9999999999
     },
     {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "Isner Joshua",
+      "position": "PRESIDENT",
+      "date": "2025-12-08",
+      "shares": "1685",
+      "price": "550.4914",
+      "type": "S",
+      "value": 927578.009
+    },
+    {
       "ticker": "BR",
       "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
       "insider": "Carey Thomas P",
@@ -915,15 +926,15 @@
       "value": 878267.88
     },
     {
-      "ticker": "PRU",
-      "company": "PRUDENTIAL FINANCIAL INC",
-      "insider": "SCHMIDT TIMOTHY L",
-      "position": "Senior Vice President",
-      "date": "2025-12-02",
-      "shares": "8000",
-      "price": "107.69",
-      "type": "S",
-      "value": 861520.0
+      "ticker": "GLW",
+      "company": "CORNING INC /NY",
+      "insider": "Seetharam Soumya",
+      "position": "Senior Vice President & CDIO",
+      "date": "2025-12-08",
+      "shares": "9838",
+      "price": "88.27",
+      "type": "F",
+      "value": 868400.26
     },
     {
       "ticker": "DDOG",
@@ -959,37 +970,15 @@
       "value": 788433.6
     },
     {
-      "ticker": "CAT",
-      "company": "CATERPILLAR INC",
-      "insider": "BONFIELD ANDREW R J",
-      "position": "Chief Financial Officer",
-      "date": "2025-12-01",
-      "shares": "1378",
-      "price": "568.57",
-      "type": "S",
-      "value": 783489.4600000001
-    },
-    {
-      "ticker": "CVS",
-      "company": "CVS HEALTH Corp",
-      "insider": "FARAH ROGER N",
-      "position": null,
-      "date": "2025-11-30",
-      "shares": "9748",
-      "price": "80.36",
-      "type": "F",
-      "value": 783349.28
-    },
-    {
-      "ticker": "CVS",
-      "company": "CVS HEALTH Corp",
-      "insider": "CAPOZZI HEIDI B",
-      "position": "EVP and Chief People Officer",
-      "date": "2025-11-30",
-      "shares": "9470",
-      "price": "80.36",
-      "type": "F",
-      "value": 761009.2
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Karros Kirt P",
+      "position": "SVP, Treasurer, Corp Dev",
+      "date": "2025-12-07",
+      "shares": "32693",
+      "price": "23.33",
+      "type": "M",
+      "value": 762727.69
     },
     {
       "ticker": "VTR",
@@ -1003,26 +992,15 @@
       "value": 760834.6199999999
     },
     {
-      "ticker": "ACGL",
-      "company": "ARCH CAPITAL GROUP LTD.",
-      "insider": "Morin Francois",
-      "position": "EVP AND CFO",
-      "date": "2025-11-28",
-      "shares": "8000",
-      "price": "94.6245",
-      "type": "S",
-      "value": 756996.0
-    },
-    {
-      "ticker": "GNRC",
-      "company": "GENERAC HOLDINGS INC.",
-      "insider": "Jagdfeld Aaron",
-      "position": "Chief Executive Officer",
-      "date": "2025-12-01",
-      "shares": "5000",
-      "price": "148.27",
-      "type": "S",
-      "value": 741350.0
+      "ticker": "RMD",
+      "company": "RESMED INC",
+      "insider": "Farrell Michael J.",
+      "position": "Chairman and CEO",
+      "date": "2025-12-08",
+      "shares": "4991",
+      "price": "146.34",
+      "type": "M",
+      "value": 730382.9400000001
     },
     {
       "ticker": "COF",
@@ -1045,17 +1023,6 @@
       "price": "366.00",
       "type": "S",
       "value": 688812.0
-    },
-    {
-      "ticker": "STT",
-      "company": "STATE STREET CORP",
-      "insider": "Horgan Kathryn M",
-      "position": "Executive Vice President",
-      "date": "2025-11-28",
-      "shares": "5676",
-      "price": "118.55",
-      "type": "S",
-      "value": 672889.7999999999
     },
     {
       "ticker": "COF",
@@ -1100,9 +1067,108 @@
       "price": "196.42",
       "type": "S",
       "value": 623633.5
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "Kunins Jeffrey C",
+      "position": "CPO & CTO",
+      "date": "2025-12-01",
+      "shares": "1167",
+      "price": "533.21",
+      "type": "F",
+      "value": 622256.0700000001
+    },
+    {
+      "ticker": "ABNB",
+      "company": "Airbnb, Inc.",
+      "insider": "Blecharczyk Nathan",
+      "position": "Chief Strategy Officer",
+      "date": "2025-12-02",
+      "shares": "5162",
+      "price": "120.0256",
+      "type": "S",
+      "value": 619572.1472
+    },
+    {
+      "ticker": "INTU",
+      "company": "INTUIT INC.",
+      "insider": "COOK SCOTT D",
+      "position": null,
+      "date": "2025-12-03",
+      "shares": "970",
+      "price": "632.1463",
+      "type": "S",
+      "value": 613181.911
     }
   ],
   "recent_transactions": [
+    {
+      "ticker": "EW",
+      "company": "Edwards Lifesciences Corp",
+      "insider": "Ullem Scott B.",
+      "position": "CVP, Chief Financial Officer",
+      "date": "2025-12-09",
+      "shares": "7700.0000",
+      "price": "59.2567",
+      "type": "M",
+      "value": 456276.59
+    },
+    {
+      "ticker": "JBHT",
+      "company": "HUNT J B TRANSPORT SERVICES INC",
+      "insider": "Webb Brian",
+      "position": "EVP- Final Mile Services",
+      "date": "2025-12-09",
+      "shares": "796.00",
+      "price": "189.106",
+      "type": "S",
+      "value": 150528.376
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp",
+      "insider": "Ciongoli Adam G.",
+      "position": "Chief Legal and Policy Officer",
+      "date": "2025-12-09",
+      "shares": "29897",
+      "price": "69.55",
+      "type": "S",
+      "value": 2079336.3499999999
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm Group INC",
+      "insider": "SMALL ROBERT J",
+      "position": null,
+      "date": "2025-12-09",
+      "shares": "75673",
+      "price": "1335.7200",
+      "type": "S",
+      "value": 101077939.56
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis, Inc.",
+      "insider": "FOTIADES GEORGE L",
+      "position": null,
+      "date": "2025-12-09",
+      "shares": "1824",
+      "price": "0.00",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp",
+      "insider": "Ciongoli Adam G.",
+      "position": "Chief Legal and Policy Officer",
+      "date": "2025-12-09",
+      "shares": "29897",
+      "price": "69.55",
+      "type": "S",
+      "value": 2079336.3499999999
+    },
     {
       "ticker": "EW",
       "company": "Edwards Lifesciences Corp",
@@ -1113,6 +1179,39 @@
       "price": "86.0100",
       "type": "S",
       "value": 50143.83
+    },
+    {
+      "ticker": "JBHT",
+      "company": "HUNT J B TRANSPORT SERVICES INC",
+      "insider": "ROBERTS JOHN N",
+      "position": "Chairman of the Board",
+      "date": "2025-12-08",
+      "shares": "9258.00",
+      "price": "0.00",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "JBHT",
+      "company": "HUNT J B TRANSPORT SERVICES INC",
+      "insider": "Keefauver David",
+      "position": "EVP of People",
+      "date": "2025-12-08",
+      "shares": "1588.00",
+      "price": "189.2901",
+      "type": "S",
+      "value": 300592.6788
+    },
+    {
+      "ticker": "JBHT",
+      "company": "HUNT J B TRANSPORT SERVICES INC",
+      "insider": "Bracy Kevin",
+      "position": "SR VP, Treasurer",
+      "date": "2025-12-08",
+      "shares": "1100.00",
+      "price": "191.15",
+      "type": "S",
+      "value": 210265.0
     },
     {
       "ticker": "AIG",
@@ -1126,6 +1225,28 @@
       "value": 0.0
     },
     {
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corp",
+      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "position": null,
+      "date": "2025-12-08",
+      "shares": "1",
+      "price": "914.15",
+      "type": "P",
+      "value": 914.15
+    },
+    {
+      "ticker": "GLW",
+      "company": "CORNING INC /NY",
+      "insider": "Seetharam Soumya",
+      "position": "Senior Vice President & CDIO",
+      "date": "2025-12-08",
+      "shares": "9838",
+      "price": "88.27",
+      "type": "F",
+      "value": 868400.26
+    },
+    {
       "ticker": "ECL",
       "company": "ECOLAB INC.",
       "insider": "MacLennan David",
@@ -1135,6 +1256,61 @@
       "price": "257.597",
       "type": "P",
       "value": 193197.74999999997
+    },
+    {
+      "ticker": "D",
+      "company": "DOMINION ENERGY, INC",
+      "insider": "HAGOOD D MAYBANK",
+      "position": null,
+      "date": "2025-12-08",
+      "shares": "1000.0000",
+      "price": "0.0000",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "SNPS",
+      "company": "SYNOPSYS INC",
+      "insider": "DE GEUS AART",
+      "position": "EXECUTIVE CHAIR",
+      "date": "2025-12-08",
+      "shares": "1234",
+      "price": "0.0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "SNPS",
+      "company": "SYNOPSYS INC",
+      "insider": "Glaser Shelagh",
+      "position": "CFO",
+      "date": "2025-12-08",
+      "shares": "3590",
+      "price": "0.0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "SNPS",
+      "company": "SYNOPSYS INC",
+      "insider": "Kankanwadi Sudhindra",
+      "position": "Chief Accounting Officer",
+      "date": "2025-12-08",
+      "shares": "740",
+      "price": "0.0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "SNPS",
+      "company": "SYNOPSYS INC",
+      "insider": "Ghazi Sassine",
+      "position": "PRESIDENT AND CEO",
+      "date": "2025-12-08",
+      "shares": "1058",
+      "price": "0.0",
+      "type": "M",
+      "value": 0.0
     },
     {
       "ticker": "LIN",
@@ -1148,6 +1324,105 @@
       "value": 999633.6
     },
     {
+      "ticker": "TKO",
+      "company": "TKO Group Holdings, Inc.",
+      "insider": "Kapral Shane",
+      "position": "Deputy Chief Financial Officer",
+      "date": "2025-12-08",
+      "shares": "254",
+      "price": "202.41",
+      "type": "S",
+      "value": 51412.14
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "insider": "SAMUELI HENRY",
+      "position": null,
+      "date": "2025-12-08",
+      "shares": "21712",
+      "price": "398.14",
+      "type": "S",
+      "value": 8644415.68
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "RATHNINDE ANURUDDHA",
+      "position": "VP and President, APAC",
+      "date": "2025-12-08",
+      "shares": "543",
+      "price": "114.98",
+      "type": "F",
+      "value": 62434.14
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "Lek Richard",
+      "position": "VP & President, EMEALA",
+      "date": "2025-12-08",
+      "shares": "997",
+      "price": "114.98",
+      "type": "D",
+      "value": 114635.06
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "Grabowski Todd M",
+      "position": "VP and President, Americas",
+      "date": "2025-12-08",
+      "shares": "599",
+      "price": "114.98",
+      "type": "F",
+      "value": 68873.02
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "Schlitz Lei Zhang",
+      "position": "VP & Pres, GP & Solutions",
+      "date": "2025-12-08",
+      "shares": "1620",
+      "price": "114.98",
+      "type": "F",
+      "value": 186267.6
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "MCCONEGHY DANIEL C",
+      "position": "VP Chief Accounting & Tax Ofcr",
+      "date": "2025-12-08",
+      "shares": "313",
+      "price": "114.98",
+      "type": "F",
+      "value": 35988.74
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "Vandiepenbeeck Marc",
+      "position": "EVP and CFO",
+      "date": "2025-12-08",
+      "shares": "307",
+      "price": "114.98",
+      "type": "F",
+      "value": 35298.86
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls International plc",
+      "insider": "Donofrio John",
+      "position": "Exec VP & General Counsel",
+      "date": "2025-12-08",
+      "shares": "1375",
+      "price": "114.98",
+      "type": "F",
+      "value": 158097.5
+    },
+    {
       "ticker": "PTC",
       "company": "PTC INC.",
       "insider": "VON STAATS AARON C",
@@ -1157,6 +1432,28 @@
       "price": "174.4333",
       "type": "S",
       "value": 520508.9672
+    },
+    {
+      "ticker": "URI",
+      "company": "UNITED RENTALS, INC.",
+      "insider": "Durand Michael D",
+      "position": "EVP, Chief Operating Officer",
+      "date": "2025-12-08",
+      "shares": "59.562",
+      "price": "785.04",
+      "type": "F",
+      "value": 46758.55248
+    },
+    {
+      "ticker": "URI",
+      "company": "UNITED RENTALS, INC.",
+      "insider": "Gross Joli L.",
+      "position": "SVP, Chief LGL & Sustain. Off.",
+      "date": "2025-12-08",
+      "shares": "64.413",
+      "price": "785.04",
+      "type": "F",
+      "value": 50566.78152
     },
     {
       "ticker": "ROP",
@@ -1170,488 +1467,191 @@
       "value": 0.0
     },
     {
-      "ticker": "AKAM",
-      "company": "AKAMAI TECHNOLOGIES INC",
-      "insider": "Howell Laura",
-      "position": "SVP, Chief Accounting Officer",
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "FIKE CARIN L",
+      "position": "Vice President and Treasurer",
+      "date": "2025-12-08",
+      "shares": "62",
+      "price": "63.38",
+      "type": "F",
+      "value": 3929.56
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "SMITH PATRICK W",
+      "position": "CHIEF EXECUTIVE OFFICER",
+      "date": "2025-12-08",
+      "shares": "294",
+      "price": "549.5589",
+      "type": "S",
+      "value": 161570.3166
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "Isner Joshua",
+      "position": "PRESIDENT",
+      "date": "2025-12-08",
+      "shares": "1685",
+      "price": "550.4914",
+      "type": "S",
+      "value": 927578.009
+    },
+    {
+      "ticker": "RMD",
+      "company": "RESMED INC",
+      "insider": "Farrell Michael J.",
+      "position": "Chairman and CEO",
+      "date": "2025-12-08",
+      "shares": "4991",
+      "price": "146.34",
+      "type": "M",
+      "value": 730382.9400000001
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Culloty Maeve C",
+      "position": "EVP, Pres & CEO Financial Serv",
+      "date": "2025-12-07",
+      "shares": "5995",
+      "price": "23.33",
+      "type": "M",
+      "value": 139863.34999999998
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "MYERS MARIE",
+      "position": "EVP & CFO",
+      "date": "2025-12-07",
+      "shares": "114162",
+      "price": "23.33",
+      "type": "A",
+      "value": 2663399.46
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Karros Kirt P",
+      "position": "SVP, Treasurer, Corp Dev",
+      "date": "2025-12-07",
+      "shares": "32693",
+      "price": "23.33",
+      "type": "M",
+      "value": 762727.69
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Cox Jeremy",
+      "position": "SVP, Controller & CTO",
+      "date": "2025-12-07",
+      "shares": "76284",
+      "price": "23.33",
+      "type": "M",
+      "value": 1779705.72
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "McQuarrie David P.",
+      "position": "Chief Commercial Officer",
+      "date": "2025-12-07",
+      "shares": "57814",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "LORES ENRIQUE",
+      "position": "President and CEO",
+      "date": "2025-12-07",
+      "shares": "189200",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "Olson Anneliese",
+      "position": "Pres Imaging Prtng & Solutions",
+      "date": "2025-12-07",
+      "shares": "31085",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "Patel Ketan M",
+      "position": "President, Personal Systems",
+      "date": "2025-12-07",
+      "shares": "41590",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "PARKHILL KAREN L",
+      "position": "Chief Financial Officer",
+      "date": "2025-12-07",
+      "shares": "28570",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "insider": "Jacobs Julie M",
+      "position": "Chief Legal Officer and GC",
+      "date": "2025-12-07",
+      "shares": "51983",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "RUSSO FIDELMA",
+      "position": "EVP, GM, Hybrid Cloud & CTO",
       "date": "2025-12-06",
-      "shares": "33",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "TER",
-      "company": "TERADYNE, INC",
-      "insider": "JOHNSON MERCEDES",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "625",
-      "price": "200.00",
-      "type": "S",
-      "value": 125000.0
-    },
-    {
-      "ticker": "ROK",
-      "company": "ROCKWELL AUTOMATION, INC",
-      "insider": "Rothe Christian E",
-      "position": "Sr. VP and CFO",
-      "date": "2025-12-05",
-      "shares": "1077",
-      "price": "0",
-      "type": "M",
-      "value": 0.0
-    },
-    {
-      "ticker": "WMB",
-      "company": "WILLIAMS COMPANIES, INC.",
-      "insider": "ARMSTRONG ALAN S",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "12200",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna, Inc.",
-      "insider": "Klinger Shannon Thyme",
-      "position": "Chief Legal Officer",
-      "date": "2025-12-05",
-      "shares": "47190",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna, Inc.",
-      "insider": "Mock James M",
-      "position": "Chief Financial Officer",
-      "date": "2025-12-05",
-      "shares": "47190",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "TPL",
-      "company": "Texas Pacific Land Corp",
-      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "1",
-      "price": "921.79",
-      "type": "P",
-      "value": 921.79
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet, Inc.",
-      "insider": "Xie Michael",
-      "position": "VP, ENGINEERING & CTO",
-      "date": "2025-12-05",
-      "shares": "245000",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Burgum Melissa A",
-      "position": "Chief Accounting Officer",
-      "date": "2025-12-05",
-      "shares": "462",
-      "price": "268.535",
+      "shares": "83563",
+      "price": "23.33",
       "type": "A",
-      "value": 124063.17000000001
+      "value": 1949524.7899999998
     },
     {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Clifford Katherine Lee",
-      "position": "Chief Leadership & HR Officer",
-      "date": "2025-12-05",
-      "shares": "396",
-      "price": "268.535",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "Neri Antonio F",
+      "position": "President and CEO",
+      "date": "2025-12-06",
+      "shares": "192013",
+      "price": "23.33",
       "type": "A",
-      "value": 106339.86000000002
+      "value": 4479663.29
     },
     {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Sharma Manish",
-      "position": "Chief Strategy & Services Ofcr",
-      "date": "2025-12-05",
-      "shares": "1502",
-      "price": "268.535",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "insider": "SCHULTZ JOHN F",
+      "position": "EVP, COLO",
+      "date": "2025-12-06",
+      "shares": "83206",
+      "price": "23.33",
       "type": "A",
-      "value": 403339.57000000007
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Hogan Catherine Kiernan",
-      "position": "Chief Operating Officer",
-      "date": "2025-12-05",
-      "shares": "844",
-      "price": "268.535",
-      "type": "A",
-      "value": 226643.54
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Sweet Julie Spellman",
-      "position": "Chair and CEO",
-      "date": "2025-12-05",
-      "shares": "5172",
-      "price": "268.535",
-      "type": "A",
-      "value": 1388863.02
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Park Angie Y",
-      "position": "Chief Financial Officer",
-      "date": "2025-12-05",
-      "shares": "1100",
-      "price": "268.535",
-      "type": "A",
-      "value": 295388.5
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Walsh John F",
-      "position": "CEO-The Americas",
-      "date": "2025-12-05",
-      "shares": "2253",
-      "price": "268.535",
-      "type": "A",
-      "value": 605009.3550000001
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "insider": "Unruch Joel",
-      "position": "General Counsel/Corp Secretary",
-      "date": "2025-12-05",
-      "shares": "1594",
-      "price": "268.535",
-      "type": "A",
-      "value": 428044.79000000004
-    },
-    {
-      "ticker": "NSC",
-      "company": "NORFOLK SOUTHERN CORP",
-      "insider": "Clyburn William Jr.",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "204.0000",
-      "price": "294.7915",
-      "type": "P",
-      "value": 60137.466
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings, Inc.",
-      "insider": "OLEARY DENIS",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "3397",
-      "price": "515.31",
-      "type": "S",
-      "value": 1750508.0699999998
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings, Inc.",
-      "insider": "Podbere Burt W.",
-      "position": "CHIEF FINANCIAL OFFICER",
-      "date": "2025-12-05",
-      "shares": "22000",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "ETR",
-      "company": "ENTERGY CORP /DE/",
-      "insider": "VIAMONTES ELIECER",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "53",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "LUV",
-      "company": "SOUTHWEST AIRLINES CO",
-      "insider": "Jones Justin",
-      "position": "EVP Operations",
-      "date": "2025-12-05",
-      "shares": "8085",
-      "price": "37.36",
-      "type": "S",
-      "value": 302055.6
-    },
-    {
-      "ticker": "MA",
-      "company": "Mastercard Inc",
-      "insider": "Lambert Jorn",
-      "position": "Chief Product Officer",
-      "date": "2025-12-05",
-      "shares": "344",
-      "price": "549.28",
-      "type": "F",
-      "value": 188952.31999999998
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "insider": "Morfit G Mason",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "96000",
-      "price": "260.58",
-      "type": "P",
-      "value": 25015680.0
-    },
-    {
-      "ticker": "KMI",
-      "company": "KINDER MORGAN, INC.",
-      "insider": "Schlosser John W",
-      "position": "V.P. (President, Terminals)",
-      "date": "2025-12-05",
-      "shares": "6166",
-      "price": "27.81",
-      "type": "S",
-      "value": 171476.46
-    },
-    {
-      "ticker": "NOC",
-      "company": "NORTHROP GRUMMAN CORP /DE/",
-      "insider": "ROEDER ROSHAN S",
-      "position": "CVP & Pres. Mission Systems",
-      "date": "2025-12-05",
-      "shares": "328",
-      "price": "0",
-      "type": "M",
-      "value": 0.0
-    },
-    {
-      "ticker": "PODD",
-      "company": "INSULET CORP",
-      "insider": "STONESIFER TIMOTHY C.",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "962",
-      "price": "311.73",
-      "type": "P",
-      "value": 299884.26
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "Donofrio John",
-      "position": "Exec VP & General Counsel",
-      "date": "2025-12-05",
-      "shares": "21778.36",
-      "price": "114.23",
-      "type": "A",
-      "value": 2487742.0628
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "Lek Richard",
-      "position": "VP & President, EMEALA",
-      "date": "2025-12-05",
-      "shares": "1237.38",
-      "price": "114.23",
-      "type": "A",
-      "value": 141345.9174
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "Schlitz Lei Zhang",
-      "position": "VP & Pres, GP & Solutions",
-      "date": "2025-12-05",
-      "shares": "27223.62",
-      "price": "114.23",
-      "type": "A",
-      "value": 3109754.1126
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "HEUER BRANDT JULIE M",
-      "position": "VP, President Global Field Ops",
-      "date": "2025-12-05",
-      "shares": "1291",
-      "price": "114.23",
-      "type": "F",
-      "value": 147470.93
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "Grabowski Todd M",
-      "position": "VP and President, Americas",
-      "date": "2025-12-05",
-      "shares": "1731.8",
-      "price": "114.23",
-      "type": "A",
-      "value": 197823.514
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "RATHNINDE ANURUDDHA",
-      "position": "VP and President, APAC",
-      "date": "2025-12-05",
-      "shares": "16828.86",
-      "price": "114.23",
-      "type": "A",
-      "value": 1922360.6778000002
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "Vandiepenbeeck Marc",
-      "position": "EVP and CFO",
-      "date": "2025-12-05",
-      "shares": "4850.36",
-      "price": "114.23",
-      "type": "A",
-      "value": 554056.6228
-    },
-    {
-      "ticker": "JCI",
-      "company": "Johnson Controls International plc",
-      "insider": "MCCONEGHY DANIEL C",
-      "position": "VP Chief Accounting & Tax Ofcr",
-      "date": "2025-12-05",
-      "shares": "4949.51",
-      "price": "114.23",
-      "type": "A",
-      "value": 565382.5273000001
-    },
-    {
-      "ticker": "PTC",
-      "company": "PTC INC.",
-      "insider": "Talvitie Kristian",
-      "position": "EVP, Chief Financial Officer",
-      "date": "2025-12-05",
-      "shares": "300",
-      "price": "172.2200",
-      "type": "S",
-      "value": 51666.0
-    },
-    {
-      "ticker": "PRU",
-      "company": "PRUDENTIAL FINANCIAL INC",
-      "insider": "SCHMIDT TIMOTHY L",
-      "position": "Senior Vice President",
-      "date": "2025-12-05",
-      "shares": "100",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "APTV",
-      "company": "Aptiv PLC",
-      "insider": "Mahoney Sean O",
-      "position": null,
-      "date": "2025-12-05",
-      "shares": "7881",
-      "price": "76.60",
-      "type": "S",
-      "value": 603684.6
-    },
-    {
-      "ticker": "PAYC",
-      "company": "Paycom Software, Inc.",
-      "insider": "Peck Randall",
-      "position": "Chief Operating Officer",
-      "date": "2025-12-05",
-      "shares": "1442",
-      "price": "165.50",
-      "type": "S",
-      "value": 238651.0
-    },
-    {
-      "ticker": "MCHP",
-      "company": "MICROCHIP TECHNOLOGY INC",
-      "insider": "Sanghi Steve",
-      "position": "President, CEO and Chair of Bd",
-      "date": "2025-12-05",
-      "shares": "138000",
-      "price": "65.81",
-      "type": "G",
-      "value": 9081780.0
-    },
-    {
-      "ticker": "TROW",
-      "company": "PRICE T ROWE GROUP INC",
-      "insider": "Robert W. Sharps",
-      "position": "CEO and President",
-      "date": "2025-12-05",
-      "shares": "1000.00",
-      "price": "0.00",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global, Inc.",
-      "insider": "Ehrsam Frederick Ernest III",
-      "position": null,
-      "date": "2025-12-04",
-      "shares": "4125",
-      "price": "0",
-      "type": "C",
-      "value": 0.0
-    },
-    {
-      "ticker": "WDC",
-      "company": "WESTERN DIGITAL CORP",
-      "insider": "Gubbi Vidyadhara K",
-      "position": "Chief of Global Operations",
-      "date": "2025-12-04",
-      "shares": "13877",
-      "price": "159.9416",
-      "type": "S",
-      "value": 2219509.5831999998
-    },
-    {
-      "ticker": "WDC",
-      "company": "WESTERN DIGITAL CORP",
-      "insider": "Alexy Kimberly",
-      "position": null,
-      "date": "2025-12-04",
-      "shares": "2000",
-      "price": "160.0824",
-      "type": "S",
-      "value": 320164.8
-    },
-    {
-      "ticker": "ADI",
-      "company": "ANALOG DEVICES INC",
-      "insider": "ROCHE VINCENT",
-      "position": "Chair & CEO",
-      "date": "2025-12-04",
-      "shares": "18800",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
+      "value": 1941195.9799999997
     }
   ]
 }

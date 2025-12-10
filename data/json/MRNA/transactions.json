@@ -1,11 +1,11 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2025-12-09T08:37:33.303834",
+  "last_updated": "2025-12-10T08:38:25.761711",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 638,
+      "id": 540,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "66017"
     },
     {
-      "id": 640,
+      "id": 541,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -27,30 +27,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "76048"
-    },
-    {
-      "id": 637,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Hoge Stephen",
-      "reporting_owner_cik": "0001760669",
-      "reporting_owner_position": "President",
-      "transaction_date": "2025-12-01",
-      "transaction_shares": "652",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "1455221"
-    },
-    {
-      "id": 639,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Klinger Shannon Thyme",
-      "reporting_owner_cik": "0001866132",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-12-01",
-      "transaction_shares": "233",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "28971"
     }
   ]
 }
