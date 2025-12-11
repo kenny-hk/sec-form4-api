@@ -1,11 +1,35 @@
 {
   "ticker": "COIN",
-  "last_updated": "2025-12-10T08:38:25.761711",
+  "last_updated": "2025-12-11T08:37:35.739604",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 657,
+      "id": 519,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Ehrsam Frederick Ernest III",
+      "reporting_owner_cik": "0001851442",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-09",
+      "transaction_shares": "2750",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "2750"
+    },
+    {
+      "id": 521,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Armstrong Brian",
+      "reporting_owner_cik": "0001851492",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-12-08",
+      "transaction_shares": "40000",
+      "transaction_price": "18.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "40000"
+    },
+    {
+      "id": 522,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Ehrsam Frederick Ernest III",
       "reporting_owner_cik": "0001851442",
@@ -17,16 +41,16 @@
       "shares_after_transaction": "4125"
     },
     {
-      "id": 656,
+      "id": 520,
       "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "WILSON FREDERICK R",
-      "reporting_owner_cik": "0001227688",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-01",
-      "transaction_shares": "200",
-      "transaction_price": "253.268",
-      "transaction_type": "S",
-      "shares_after_transaction": "204773"
+      "reporting_owner": "Armstrong Brian",
+      "reporting_owner_cik": "0001851492",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2025-11-26",
+      "transaction_shares": "40000",
+      "transaction_price": "18.71",
+      "transaction_type": "M",
+      "shares_after_transaction": "40000"
     }
   ]
 }

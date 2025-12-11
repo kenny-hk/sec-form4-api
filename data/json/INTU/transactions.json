@@ -1,11 +1,35 @@
 {
   "ticker": "INTU",
-  "last_updated": "2025-12-10T08:38:25.761711",
+  "last_updated": "2025-12-11T08:37:35.739604",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 374,
+      "id": 267,
+      "issuer_name": "INTUIT INC.",
+      "reporting_owner": "DALZELL RICHARD L",
+      "reporting_owner_cik": "0001184753",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-09",
+      "transaction_shares": "333",
+      "transaction_price": "653.42",
+      "transaction_type": "S",
+      "shares_after_transaction": "14142"
+    },
+    {
+      "id": 266,
+      "issuer_name": "INTUIT INC.",
+      "reporting_owner": "COOK SCOTT D",
+      "reporting_owner_cik": "0000938861",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-08",
+      "transaction_shares": "2000",
+      "transaction_price": "654.1888",
+      "transaction_type": "S",
+      "shares_after_transaction": "5966679"
+    },
+    {
+      "id": 265,
       "issuer_name": "INTUIT INC.",
       "reporting_owner": "COOK SCOTT D",
       "reporting_owner_cik": "0000938861",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "6117119"
     },
     {
-      "id": 375,
+      "id": 268,
       "issuer_name": "INTUIT INC.",
       "reporting_owner": "COOK SCOTT D",
       "reporting_owner_cik": "0000938861",
