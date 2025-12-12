@@ -1,11 +1,23 @@
 {
   "ticker": "APH",
-  "last_updated": "2025-12-11T08:37:35.739604",
+  "last_updated": "2025-12-12T08:38:13.475695",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 163,
+      "id": 186,
+      "issuer_name": "AMPHENOL CORP /DE/",
+      "reporting_owner": "LOEFFLER MARTIN H",
+      "reporting_owner_cik": "0001259705",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-10",
+      "transaction_shares": "3228",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "1333146"
+    },
+    {
+      "id": 185,
       "issuer_name": "AMPHENOL CORP /DE/",
       "reporting_owner": "NORWITT RICHARD ADAM",
       "reporting_owner_cik": "0001276461",
@@ -15,18 +27,6 @@
       "transaction_price": null,
       "transaction_type": "G",
       "shares_after_transaction": "1927507"
-    },
-    {
-      "id": 164,
-      "issuer_name": "AMPHENOL CORP /DE/",
-      "reporting_owner": "Lampo Craig A",
-      "reporting_owner_cik": "0001303827",
-      "reporting_owner_position": "SR VP & CFO",
-      "transaction_date": "2025-12-03",
-      "transaction_shares": "70000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "57695"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "TMO",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-11T08:37:35.739604",
+  "last_updated": "2025-12-12T08:38:13.475695",
   "count": 2,
   "transactions": [
     {
-      "id": 411,
+      "id": 498,
+      "issuer_name": "THERMO FISHER SCIENTIFIC INC.",
+      "reporting_owner": "SPERLING SCOTT M",
+      "reporting_owner_cik": "0001214212",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-10",
+      "transaction_shares": "4386",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "68980"
+    },
+    {
+      "id": 497,
       "issuer_name": "THERMO FISHER SCIENTIFIC INC.",
       "reporting_owner": "Lagarde Michel",
       "reporting_owner_cik": "0001518973",
@@ -16,18 +28,6 @@
       "transaction_price": "105.17",
       "transaction_type": "M",
       "shares_after_transaction": "84116.909"
-    },
-    {
-      "id": 410,
-      "issuer_name": "THERMO FISHER SCIENTIFIC INC.",
-      "reporting_owner": "Lagarde Michel",
-      "reporting_owner_cik": "0001518973",
-      "reporting_owner_position": "Executive Vice President & COO",
-      "transaction_date": "2025-12-02",
-      "transaction_shares": "36000",
-      "transaction_price": "105.17",
-      "transaction_type": "M",
-      "shares_after_transaction": "59479.909"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "ticker": "MKC",
-  "last_updated": "2025-12-11T08:37:35.739604",
+  "last_updated": "2025-12-12T08:38:13.475695",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 481,
+      "id": 581,
       "issuer_name": "MCCORMICK & CO INC",
       "reporting_owner": "THOMAS TERRY S",
       "reporting_owner_cik": "0001822379",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "1741.18"
     },
     {
-      "id": 482,
+      "id": 582,
       "issuer_name": "MCCORMICK & CO INC",
       "reporting_owner": "BRAMMAN ANNE L",
       "reporting_owner_cik": "0001637584",
@@ -29,7 +29,7 @@
       "shares_after_transaction": "6686.452"
     },
     {
-      "id": 483,
+      "id": 583,
       "issuer_name": "MCCORMICK & CO INC",
       "reporting_owner": "Foust Andrew",
       "reporting_owner_cik": "0001984268",
@@ -39,6 +39,18 @@
       "transaction_price": "66.92",
       "transaction_type": "J",
       "shares_after_transaction": "8784.55"
+    },
+    {
+      "id": 580,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Tapiero Jacques",
+      "reporting_owner_cik": "0001479078",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-07-22",
+      "transaction_shares": "180.254",
+      "transaction_price": "71.3165",
+      "transaction_type": "J",
+      "shares_after_transaction": "30798.008"
     }
   ]
 }
