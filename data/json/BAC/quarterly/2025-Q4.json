@@ -2,11 +2,23 @@
   "ticker": "BAC",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-12T08:38:13.475695",
+  "last_updated": "2025-12-13T08:33:37.012688",
   "count": 2,
   "transactions": [
     {
-      "id": 284,
+      "id": 260,
+      "issuer_name": "BANK OF AMERICA CORP /DE/",
+      "reporting_owner": "MOYNIHAN BRIAN T",
+      "reporting_owner_cik": "0001195071",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2025-12-11",
+      "transaction_shares": "100000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "2551313"
+    },
+    {
+      "id": 259,
       "issuer_name": "BANK OF AMERICA CORP /DE/",
       "reporting_owner": "Greener Geoffrey S",
       "reporting_owner_cik": "0001607226",
@@ -16,18 +28,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "1373904"
-    },
-    {
-      "id": 285,
-      "issuer_name": "BANK OF AMERICA CORP /DE/",
-      "reporting_owner": "Scrivener Thomas M",
-      "reporting_owner_cik": "0001888799",
-      "reporting_owner_position": "Chief Operations Executive",
-      "transaction_date": "2025-12-03",
-      "transaction_shares": "3000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "207531"
     }
   ]
 }

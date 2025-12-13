@@ -1,11 +1,35 @@
 {
   "ticker": "KEYS",
-  "last_updated": "2025-12-12T08:38:13.475695",
+  "last_updated": "2025-12-13T08:33:37.012688",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 561,
+      "id": 542,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "PAGE JOHN",
+      "reporting_owner_cik": "0001657513",
+      "reporting_owner_position": "SVP",
+      "transaction_date": "2025-12-10",
+      "transaction_shares": "15000",
+      "transaction_price": "213.479",
+      "transaction_type": "S",
+      "shares_after_transaction": "21392.6"
+    },
+    {
+      "id": 545,
+      "issuer_name": "Keysight Technologies, Inc.",
+      "reporting_owner": "NYE JEAN MCCLUNG",
+      "reporting_owner_cik": "0001142618",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-10",
+      "transaction_shares": "485",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "90"
+    },
+    {
+      "id": 543,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "Dhanasekaran Satish",
       "reporting_owner_cik": "0001712648",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "128131.255"
     },
     {
-      "id": 562,
+      "id": 544,
       "issuer_name": "Keysight Technologies, Inc.",
       "reporting_owner": "NYE JEAN MCCLUNG",
       "reporting_owner_cik": "0001142618",
@@ -27,18 +51,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "37881.53"
-    },
-    {
-      "id": 563,
-      "issuer_name": "Keysight Technologies, Inc.",
-      "reporting_owner": "Li Jeffrey K",
-      "reporting_owner_cik": "0001781319",
-      "reporting_owner_position": "SVP and Secretary",
-      "transaction_date": "2025-12-03",
-      "transaction_shares": "3934",
-      "transaction_price": "200.84",
-      "transaction_type": "S",
-      "shares_after_transaction": "36699.146"
     }
   ]
 }
