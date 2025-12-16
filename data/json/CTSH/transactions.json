@@ -1,11 +1,23 @@
 {
   "ticker": "CTSH",
-  "last_updated": "2025-12-15T08:39:46.640501",
+  "last_updated": "2025-12-16T08:38:11.644723",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 456,
+      "id": 483,
+      "issuer_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "reporting_owner": "Patsalos-Fox Michael",
+      "reporting_owner_cik": "0001553895",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-11",
+      "transaction_shares": "7000",
+      "transaction_price": "83.5219",
+      "transaction_type": "S",
+      "shares_after_transaction": "47729"
+    },
+    {
+      "id": 484,
       "issuer_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
       "reporting_owner": "Diaz Kathryn",
       "reporting_owner_cik": "0001974721",
@@ -15,42 +27,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "17922"
-    },
-    {
-      "id": 453,
-      "issuer_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-      "reporting_owner": "Singisetti Ravi Kumar",
-      "reporting_owner_cik": "0001872870",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2025-12-04",
-      "transaction_shares": "3125",
-      "transaction_price": "80.0125",
-      "transaction_type": "S",
-      "shares_after_transaction": "75454"
-    },
-    {
-      "id": 454,
-      "issuer_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-      "reporting_owner": "Kim John Sunshin",
-      "reporting_owner_cik": "0001853867",
-      "reporting_owner_position": "CLO, CAO & Corporate Secretary",
-      "transaction_date": "2025-12-04",
-      "transaction_shares": "2500",
-      "transaction_price": "80",
-      "transaction_type": "S",
-      "shares_after_transaction": "36149"
-    },
-    {
-      "id": 455,
-      "issuer_name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
-      "reporting_owner": "Dalal Jatin P",
-      "reporting_owner_cik": "0001999642",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-12-04",
-      "transaction_shares": "2166",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "37483"
     }
   ]
 }

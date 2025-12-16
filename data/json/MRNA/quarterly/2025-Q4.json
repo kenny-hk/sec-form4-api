@@ -2,11 +2,35 @@
   "ticker": "MRNA",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-15T08:39:46.640501",
+  "last_updated": "2025-12-16T08:38:11.644723",
   "count": 3,
   "transactions": [
     {
-      "id": 469,
+      "id": 497,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "AFEYAN NOUBAR",
+      "reporting_owner_cik": "0001222012",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-11",
+      "transaction_shares": "23853",
+      "transaction_price": "10.90",
+      "transaction_type": "M",
+      "shares_after_transaction": "27777"
+    },
+    {
+      "id": 499,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Bancel Stephane",
+      "reporting_owner_cik": "0001443340",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-12-11",
+      "transaction_shares": "688073",
+      "transaction_price": "10.90",
+      "transaction_type": "M",
+      "shares_after_transaction": "6181970"
+    },
+    {
+      "id": 498,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Hussain Abbas",
       "reporting_owner_cik": "0001821956",
@@ -16,30 +40,6 @@
       "transaction_price": "27.60",
       "transaction_type": "S",
       "shares_after_transaction": "1515"
-    },
-    {
-      "id": 468,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Mock James M",
-      "reporting_owner_cik": "0001736359",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "47190",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "66017"
-    },
-    {
-      "id": 470,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Klinger Shannon Thyme",
-      "reporting_owner_cik": "0001866132",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "47190",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "76048"
     }
   ]
 }
