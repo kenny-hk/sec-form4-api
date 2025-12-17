@@ -1,11 +1,23 @@
 {
   "ticker": "TDG",
-  "last_updated": "2025-12-16T08:38:11.644723",
+  "last_updated": "2025-12-17T08:37:56.709167",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 442,
+      "id": 470,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Reiss Joel",
+      "reporting_owner_cik": "0001656109",
+      "reporting_owner_position": "Co-Chief Operating Officer",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "3900",
+      "transaction_price": "284.97",
+      "transaction_type": "M",
+      "shares_after_transaction": "7500"
+    },
+    {
+      "id": 471,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "SMALL ROBERT J",
       "reporting_owner_cik": "0001234544",
@@ -15,18 +27,6 @@
       "transaction_price": "66.47",
       "transaction_type": "M",
       "shares_after_transaction": "10325"
-    },
-    {
-      "id": 441,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "SMALL ROBERT J",
-      "reporting_owner_cik": "0001234544",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-09",
-      "transaction_shares": "75673",
-      "transaction_price": "1335.7200",
-      "transaction_type": "S",
-      "shares_after_transaction": "366141"
     }
   ]
 }

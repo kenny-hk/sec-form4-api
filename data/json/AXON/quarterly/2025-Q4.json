@@ -2,11 +2,23 @@
   "ticker": "AXON",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-16T08:38:11.644723",
-  "count": 3,
+  "last_updated": "2025-12-17T08:37:56.709167",
+  "count": 2,
   "transactions": [
     {
-      "id": 43,
+      "id": 44,
+      "issuer_name": "AXON ENTERPRISE, INC.",
+      "reporting_owner": "Kalinowski Caitlin Elizabeth",
+      "reporting_owner_cik": "0001786512",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "180",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "4515"
+    },
+    {
+      "id": 45,
       "issuer_name": "AXON ENTERPRISE, INC.",
       "reporting_owner": "Bagley Brittany",
       "reporting_owner_cik": "0001743490",
@@ -16,30 +28,6 @@
       "transaction_price": "580",
       "transaction_type": "S",
       "shares_after_transaction": "103501"
-    },
-    {
-      "id": 42,
-      "issuer_name": "AXON ENTERPRISE, INC.",
-      "reporting_owner": "Isner Joshua",
-      "reporting_owner_cik": "0001648518",
-      "reporting_owner_position": "PRESIDENT",
-      "transaction_date": "2025-12-08",
-      "transaction_shares": "1685",
-      "transaction_price": "550.4914",
-      "transaction_type": "S",
-      "shares_after_transaction": "267817"
-    },
-    {
-      "id": 44,
-      "issuer_name": "AXON ENTERPRISE, INC.",
-      "reporting_owner": "SMITH PATRICK W",
-      "reporting_owner_cik": "0001167028",
-      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
-      "transaction_date": "2025-12-08",
-      "transaction_shares": "294",
-      "transaction_price": "549.5589",
-      "transaction_type": "S",
-      "shares_after_transaction": "3120703"
     }
   ]
 }

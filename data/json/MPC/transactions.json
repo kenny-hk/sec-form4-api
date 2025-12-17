@@ -1,20 +1,80 @@
 {
   "ticker": "MPC",
-  "last_updated": "2025-08-26T08:36:09.557864",
+  "last_updated": "2025-12-17T08:37:56.709167",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 279,
+      "id": 550,
+      "issuer_name": "Marathon Petroleum Corp",
+      "reporting_owner": "Floerke Gregory Scott",
+      "reporting_owner_cik": "0001313785",
+      "reporting_owner_position": "Ex VP & COO, MPLX GP LLC",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "85",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "30108"
+    },
+    {
+      "id": 551,
       "issuer_name": "Marathon Petroleum Corp",
       "reporting_owner": "Benson Molly R",
       "reporting_owner_cik": "0002005019",
       "reporting_owner_position": "Chief Legal Ofc & Corp Sec",
-      "transaction_date": "2025-08-15",
-      "transaction_shares": "10879",
-      "transaction_price": "62.68",
-      "transaction_type": "M",
-      "shares_after_transaction": "39578.942"
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "107",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "28593.155"
+    },
+    {
+      "id": 552,
+      "issuer_name": "Marathon Petroleum Corp",
+      "reporting_owner": "Hennigan Michael J",
+      "reporting_owner_cik": "0001352283",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "466",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "220902"
+    },
+    {
+      "id": 553,
+      "issuer_name": "Marathon Petroleum Corp",
+      "reporting_owner": "Lyon Shawn M",
+      "reporting_owner_cik": "0001948454",
+      "reporting_owner_position": "SVP Log & Storage, MPLX GP LLC",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "86",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "15348"
+    },
+    {
+      "id": 554,
+      "issuer_name": "Marathon Petroleum Corp",
+      "reporting_owner": "Henschen Michael A II",
+      "reporting_owner_cik": "0002069536",
+      "reporting_owner_position": "Ex VP, Refining",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "160",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "22263"
+    },
+    {
+      "id": 555,
+      "issuer_name": "Marathon Petroleum Corp",
+      "reporting_owner": "Hessling Ricky D.",
+      "reporting_owner_cik": "0002012878",
+      "reporting_owner_position": "Chief Commercial Officer",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "98",
+      "transaction_price": "185.77",
+      "transaction_type": "F",
+      "shares_after_transaction": "12064"
     }
   ]
 }

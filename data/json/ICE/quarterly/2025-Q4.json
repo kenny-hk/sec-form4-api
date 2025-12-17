@@ -2,11 +2,23 @@
   "ticker": "ICE",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-16T08:38:11.644723",
+  "last_updated": "2025-12-17T08:37:56.709167",
   "count": 2,
   "transactions": [
     {
-      "id": 355,
+      "id": 389,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Foley Douglas",
+      "reporting_owner_cik": "0001918894",
+      "reporting_owner_position": "SVP, HR & Administration",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "1600",
+      "transaction_price": "163.2",
+      "transaction_type": "S",
+      "shares_after_transaction": "24196"
+    },
+    {
+      "id": 390,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Kapani Mayur",
       "reporting_owner_cik": "0001917418",
@@ -16,18 +28,6 @@
       "transaction_price": "57.31",
       "transaction_type": "M",
       "shares_after_transaction": "70585"
-    },
-    {
-      "id": 354,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "SPRIESER JUDITH A",
-      "reporting_owner_cik": "0001206994",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "3300",
-      "transaction_price": "157.8863",
-      "transaction_type": "S",
-      "shares_after_transaction": "14869"
     }
   ]
 }

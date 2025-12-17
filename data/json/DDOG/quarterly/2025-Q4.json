@@ -2,11 +2,47 @@
   "ticker": "DDOG",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-16T08:38:11.644723",
-  "count": 3,
+  "last_updated": "2025-12-17T08:37:56.709167",
+  "count": 4,
   "transactions": [
     {
-      "id": 47,
+      "id": 48,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Pomel Olivier",
+      "reporting_owner_cik": "0001783990",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "348000",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "866133"
+    },
+    {
+      "id": 50,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Callahan Michael James",
+      "reporting_owner_cik": "0001784030",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "15000",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "27496"
+    },
+    {
+      "id": 51,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Shah Shardul",
+      "reporting_owner_cik": "0001783882",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "1310",
+      "transaction_price": "145.658",
+      "transaction_type": "S",
+      "shares_after_transaction": "355223"
+    },
+    {
+      "id": 49,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Walters Sean Michael",
       "reporting_owner_cik": "0001903980",
@@ -16,30 +52,6 @@
       "transaction_price": "149.5103",
       "transaction_type": "S",
       "shares_after_transaction": "176305"
-    },
-    {
-      "id": 48,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Le-Quoc Alexis",
-      "reporting_owner_cik": "0001783984",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "123000",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "123169"
-    },
-    {
-      "id": 49,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Acocella Kerry",
-      "reporting_owner_cik": "0001903975",
-      "reporting_owner_position": "General Counsel and Secretary",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "2238",
-      "transaction_price": "150.8607",
-      "transaction_type": "S",
-      "shares_after_transaction": "86163"
     }
   ]
 }

@@ -2,11 +2,47 @@
   "ticker": "ABNB",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-16T08:38:11.644723",
-  "count": 5,
+  "last_updated": "2025-12-17T08:37:56.709167",
+  "count": 6,
   "transactions": [
     {
-      "id": 52,
+      "id": 55,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Mertz Elinor",
+      "reporting_owner_cik": "0001938411",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "7500",
+      "transaction_price": "130.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "418029.9"
+    },
+    {
+      "id": 56,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "BALOGH ARISTOTLE N",
+      "reporting_owner_cik": "0001216924",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "650",
+      "transaction_price": "128.93",
+      "transaction_type": "S",
+      "shares_after_transaction": "169511.243"
+    },
+    {
+      "id": 58,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Chesky Brian",
+      "reporting_owner_cik": "0001834152",
+      "reporting_owner_position": "CEO and Chairman",
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "8770",
+      "transaction_price": "130.1697",
+      "transaction_type": "S",
+      "shares_after_transaction": "97084"
+    },
+    {
+      "id": 54,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -18,7 +54,7 @@
       "shares_after_transaction": "425529.9"
     },
     {
-      "id": 55,
+      "id": 59,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "BALOGH ARISTOTLE N",
       "reporting_owner_cik": "0001216924",
@@ -30,7 +66,7 @@
       "shares_after_transaction": "170161.243"
     },
     {
-      "id": 54,
+      "id": 57,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Blecharczyk Nathan",
       "reporting_owner_cik": "0001834147",
@@ -40,30 +76,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "152583"
-    },
-    {
-      "id": 53,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "BALOGH ARISTOTLE N",
-      "reporting_owner_cik": "0001216924",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "650",
-      "transaction_price": "120.92",
-      "transaction_type": "S",
-      "shares_after_transaction": "187036.243"
-    },
-    {
-      "id": 56,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Blecharczyk Nathan",
-      "reporting_owner_cik": "0001834147",
-      "reporting_owner_position": "Chief Strategy Officer",
-      "transaction_date": "2025-12-05",
-      "transaction_shares": "56742",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "41831"
     }
   ]
 }

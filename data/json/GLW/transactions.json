@@ -1,11 +1,23 @@
 {
   "ticker": "GLW",
-  "last_updated": "2025-12-16T08:38:11.644723",
+  "last_updated": "2025-12-17T08:37:56.709167",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 469,
+      "id": 500,
+      "issuer_name": "CORNING INC /NY",
+      "reporting_owner": "O'Day Michael Paul",
+      "reporting_owner_cik": "0002034226",
+      "reporting_owner_position": "SVP and GM, Optical Comm.",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "1391",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "34966"
+    },
+    {
+      "id": 499,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Seetharam Soumya",
       "reporting_owner_cik": "0001955767",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "16756"
     },
     {
-      "id": 471,
+      "id": 501,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Verkleeren Ronald L",
       "reporting_owner_cik": "0001825613",
@@ -27,30 +39,6 @@
       "transaction_price": "94.6943",
       "transaction_type": "S",
       "shares_after_transaction": "34500"
-    },
-    {
-      "id": 472,
-      "issuer_name": "CORNING INC /NY",
-      "reporting_owner": "Seetharam Soumya",
-      "reporting_owner_cik": "0001955767",
-      "reporting_owner_position": "Senior Vice President & CDIO",
-      "transaction_date": "2025-12-08",
-      "transaction_shares": "9838",
-      "transaction_price": "88.27",
-      "transaction_type": "F",
-      "shares_after_transaction": "33303"
-    },
-    {
-      "id": 470,
-      "issuer_name": "CORNING INC /NY",
-      "reporting_owner": "WEEKS WENDELL P",
-      "reporting_owner_cik": "0001206158",
-      "reporting_owner_position": "Chairman, CEO and President",
-      "transaction_date": "2025-12-04",
-      "transaction_shares": "24322",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "747779"
     }
   ]
 }
