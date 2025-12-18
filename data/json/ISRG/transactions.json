@@ -1,11 +1,23 @@
 {
   "ticker": "ISRG",
-  "last_updated": "2025-12-17T08:37:56.709167",
+  "last_updated": "2025-12-18T08:37:14.695562",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 219,
+      "id": 299,
+      "issuer_name": "INTUITIVE SURGICAL INC",
+      "reporting_owner": "Brosius Mark",
+      "reporting_owner_cik": "0002010300",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "464",
+      "transaction_price": "548.49",
+      "transaction_type": "S",
+      "shares_after_transaction": "131"
+    },
+    {
+      "id": 300,
       "issuer_name": "INTUITIVE SURGICAL INC",
       "reporting_owner": "Brosius Mark",
       "reporting_owner_cik": "0002010300",
@@ -15,18 +27,6 @@
       "transaction_price": "79.6378",
       "transaction_type": "M",
       "shares_after_transaction": "5407"
-    },
-    {
-      "id": 218,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "Curet Myriam",
-      "reporting_owner_cik": "0001632901",
-      "reporting_owner_position": "EVP & Chief Medical Officer",
-      "transaction_date": "2025-12-10",
-      "transaction_shares": "104",
-      "transaction_price": "229.39",
-      "transaction_type": "M",
-      "shares_after_transaction": "104"
     }
   ]
 }

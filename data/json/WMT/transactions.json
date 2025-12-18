@@ -1,11 +1,59 @@
 {
   "ticker": "WMT",
-  "last_updated": "2025-12-17T08:37:56.709167",
+  "last_updated": "2025-12-18T08:37:14.695562",
   "retention_years": 3,
-  "count": 2,
+  "count": 6,
   "transactions": [
     {
-      "id": 526,
+      "id": 645,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Chojnowski David",
+      "reporting_owner_cik": "0001502438",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "251.716",
+      "transaction_price": "116.79",
+      "transaction_type": "F",
+      "shares_after_transaction": "136040.81"
+    },
+    {
+      "id": 646,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "1050000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "527620456"
+    },
+    {
+      "id": 642,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Bartlett Daniel J",
+      "reporting_owner_cik": "0001579299",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "1425",
+      "transaction_price": "117",
+      "transaction_type": "S",
+      "shares_after_transaction": "641362.662"
+    },
+    {
+      "id": 644,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Steuart L",
+      "reporting_owner_cik": "0001675503",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "239000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "79292.25"
+    },
+    {
+      "id": 643,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Steuart L",
       "reporting_owner_cik": "0001675503",
@@ -17,7 +65,7 @@
       "shares_after_transaction": "318292.25"
     },
     {
-      "id": 527,
+      "id": 647,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",

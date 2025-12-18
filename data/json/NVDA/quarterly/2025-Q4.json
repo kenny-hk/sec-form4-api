@@ -2,11 +2,23 @@
   "ticker": "NVDA",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-17T08:37:56.709167",
+  "last_updated": "2025-12-18T08:37:14.695562",
   "count": 7,
   "transactions": [
     {
-      "id": 420,
+      "id": 503,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "JONES HARVEY C",
+      "reporting_owner_cik": "0001197650",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "250000",
+      "transaction_price": "177.3338",
+      "transaction_type": "S",
+      "shares_after_transaction": "6933280"
+    },
+    {
+      "id": 501,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Teter Timothy S.",
       "reporting_owner_cik": "0001696841",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "379200"
     },
     {
-      "id": 421,
+      "id": 502,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Puri Ajay K",
       "reporting_owner_cik": "0001347842",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "556232"
     },
     {
-      "id": 422,
+      "id": 504,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "HUANG JEN HSUN",
       "reporting_owner_cik": "0001197649",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "69693035"
     },
     {
-      "id": 423,
+      "id": 505,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Robertson Donald F Jr",
       "reporting_owner_cik": "0001526111",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "451450"
     },
     {
-      "id": 424,
+      "id": 506,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Shoquist Debora",
       "reporting_owner_cik": "0001283854",
@@ -66,7 +78,7 @@
       "shares_after_transaction": "476312"
     },
     {
-      "id": 425,
+      "id": 507,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "Kress Colette",
       "reporting_owner_cik": "0001588670",
@@ -76,18 +88,6 @@
       "transaction_price": "184.97",
       "transaction_type": "F",
       "shares_after_transaction": "1317326"
-    },
-    {
-      "id": 426,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "Shoquist Debora",
-      "reporting_owner_cik": "0001283854",
-      "reporting_owner_position": "EVP, Operations",
-      "transaction_date": "2025-12-09",
-      "transaction_shares": "24433",
-      "transaction_price": "184.2515",
-      "transaction_type": "S",
-      "shares_after_transaction": "1710010"
     }
   ]
 }

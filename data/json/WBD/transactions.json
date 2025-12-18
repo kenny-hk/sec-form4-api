@@ -1,11 +1,35 @@
 {
   "ticker": "WBD",
-  "last_updated": "2025-12-17T08:37:56.709167",
+  "last_updated": "2025-12-18T08:37:14.695562",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 88,
+      "id": 99,
+      "issuer_name": "Warner Bros. Discovery, Inc.",
+      "reporting_owner": "Campbell Bruce",
+      "reporting_owner_cik": "0001421985",
+      "reporting_owner_position": "Chief Rev & Strategy Officer",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "9495",
+      "transaction_price": "26.08",
+      "transaction_type": "F",
+      "shares_after_transaction": "820412"
+    },
+    {
+      "id": 100,
+      "issuer_name": "Warner Bros. Discovery, Inc.",
+      "reporting_owner": "Aiyar Priya",
+      "reporting_owner_cik": "0001933736",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2025-12-15",
+      "transaction_shares": "267165",
+      "transaction_price": "29.71",
+      "transaction_type": "F",
+      "shares_after_transaction": "1068604"
+    },
+    {
+      "id": 101,
       "issuer_name": "Warner Bros. Discovery, Inc.",
       "reporting_owner": "Wiedenfels Gunnar",
       "reporting_owner_cik": "0001694392",
@@ -15,18 +39,6 @@
       "transaction_price": "29.08",
       "transaction_type": "M",
       "shares_after_transaction": "1011532"
-    },
-    {
-      "id": 87,
-      "issuer_name": "Warner Bros. Discovery, Inc.",
-      "reporting_owner": "Locke Lori C.",
-      "reporting_owner_cik": "0001646563",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-12-08",
-      "transaction_shares": "5000",
-      "transaction_price": "27.62",
-      "transaction_type": "S",
-      "shares_after_transaction": "110084"
     }
   ]
 }
