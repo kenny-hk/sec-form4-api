@@ -2,11 +2,35 @@
   "ticker": "ADI",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-18T08:37:14.695562",
-  "count": 2,
+  "last_updated": "2025-12-19T08:36:37.567564",
+  "count": 3,
   "transactions": [
     {
-      "id": 733,
+      "id": 675,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "Cotter Martin",
+      "reporting_owner_cik": "0001685760",
+      "reporting_owner_position": "SVP, Vertical Business Units",
+      "transaction_date": "2025-12-17",
+      "transaction_shares": "5000",
+      "transaction_price": "271.1901",
+      "transaction_type": "S",
+      "shares_after_transaction": "59663.684"
+    },
+    {
+      "id": 674,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "STATA RAY",
+      "reporting_owner_cik": "0000900729",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "1080",
+      "transaction_price": "278.4932",
+      "transaction_type": "S",
+      "shares_after_transaction": "138366"
+    },
+    {
+      "id": 673,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "ROCHE VINCENT",
       "reporting_owner_cik": "0001201872",
@@ -16,18 +40,6 @@
       "transaction_price": "94.41",
       "transaction_type": "M",
       "shares_after_transaction": "165688.462"
-    },
-    {
-      "id": 734,
-      "issuer_name": "ANALOG DEVICES INC",
-      "reporting_owner": "Sondel Michael",
-      "reporting_owner_cik": "0001768266",
-      "reporting_owner_position": "CAO (principal acct. officer)",
-      "transaction_date": "2025-12-10",
-      "transaction_shares": "2200",
-      "transaction_price": "83.48",
-      "transaction_type": "M",
-      "shares_after_transaction": "21112.691"
     }
   ]
 }

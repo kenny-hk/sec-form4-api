@@ -1,20 +1,44 @@
 {
   "ticker": "EIX",
-  "last_updated": "2025-11-07T08:34:32.811595",
+  "last_updated": "2025-12-19T08:36:37.567564",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 650,
+      "id": 739,
       "issuer_name": "EDISON INTERNATIONAL",
-      "reporting_owner": "Taylor Peter J.",
-      "reporting_owner_cik": "0001536528",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-10-30",
-      "transaction_shares": "1800",
-      "transaction_price": "55.27",
-      "transaction_type": "S",
-      "shares_after_transaction": "35212"
+      "reporting_owner": "Schilling Natalie K",
+      "reporting_owner_cik": "0001913748",
+      "reporting_owner_position": "SENIOR VP & CHIEF HR OFFICER",
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "214",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "12666.1450"
+    },
+    {
+      "id": 740,
+      "issuer_name": "EDISON INTERNATIONAL",
+      "reporting_owner": "Rigatti Maria C.",
+      "reporting_owner_cik": "0001508814",
+      "reporting_owner_position": "EXEC. VP AND CFO",
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "820",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "78314"
+    },
+    {
+      "id": 741,
+      "issuer_name": "EDISON INTERNATIONAL",
+      "reporting_owner": "Murphy J Andrew",
+      "reporting_owner_cik": "0001382699",
+      "reporting_owner_position": "PRESIDENT & CEO, EDISON ENERGY",
+      "transaction_date": "2025-12-16",
+      "transaction_shares": "314",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "16000.8210"
     }
   ]
 }
