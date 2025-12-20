@@ -2,11 +2,23 @@
   "ticker": "AZO",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2025-12-19T08:36:37.567564",
+  "last_updated": "2025-12-20T08:33:08.043482",
   "count": 2,
   "transactions": [
     {
-      "id": 297,
+      "id": 294,
+      "issuer_name": "AUTOZONE INC",
+      "reporting_owner": "Hannasch Brian",
+      "reporting_owner_cik": "0001911504",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-18",
+      "transaction_shares": "147.0000",
+      "transaction_price": "3393.0900",
+      "transaction_type": "P",
+      "shares_after_transaction": "961.5800"
+    },
+    {
+      "id": 295,
       "issuer_name": "AUTOZONE INC",
       "reporting_owner": "Daniele Philip B.",
       "reporting_owner_cik": "0001657348",
@@ -16,18 +28,6 @@
       "transaction_price": "587.1300",
       "transaction_type": "M",
       "shares_after_transaction": "554.5963"
-    },
-    {
-      "id": 296,
-      "issuer_name": "AUTOZONE INC",
-      "reporting_owner": "JACKSON JAMERE",
-      "reporting_owner_cik": "0001601813",
-      "reporting_owner_position": "CFO",
-      "transaction_date": "2025-12-10",
-      "transaction_shares": "55.0000",
-      "transaction_price": "3413.5000",
-      "transaction_type": "P",
-      "shares_after_transaction": "487.9331"
     }
   ]
 }

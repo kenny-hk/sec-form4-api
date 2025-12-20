@@ -1,11 +1,11 @@
 {
   "ticker": "NVR",
-  "last_updated": "2025-12-19T08:36:37.567564",
+  "last_updated": "2025-12-20T08:33:08.043482",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 45,
+      "id": 41,
       "issuer_name": "NVR INC",
       "reporting_owner": "ANDREWS CHARLES ELLIOTT",
       "reporting_owner_cik": "0001215150",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "779"
     },
     {
-      "id": 46,
+      "id": 42,
       "issuer_name": "NVR INC",
       "reporting_owner": "Malzahn Daniel David",
       "reporting_owner_cik": "0001570014",
@@ -27,6 +27,18 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "13793"
+    },
+    {
+      "id": 40,
+      "issuer_name": "NVR INC",
+      "reporting_owner": "PREISER DAVID A",
+      "reporting_owner_cik": "0001122670",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "35",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "204"
     }
   ]
 }
