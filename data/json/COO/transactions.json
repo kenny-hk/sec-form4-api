@@ -1,11 +1,23 @@
 {
   "ticker": "COO",
-  "last_updated": "2025-12-23T08:38:39.177883",
+  "last_updated": "2025-12-24T08:37:49.185080",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 529,
+      "id": 479,
+      "issuer_name": "COOPER COMPANIES, INC.",
+      "reporting_owner": "Lucchese Cynthia L",
+      "reporting_owner_cik": "0001337319",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-22",
+      "transaction_shares": "1784.00",
+      "transaction_price": "84.06",
+      "transaction_type": "P",
+      "shares_after_transaction": "9445.00"
+    },
+    {
+      "id": 480,
       "issuer_name": "COOPER COMPANIES, INC.",
       "reporting_owner": "Rivas Maria",
       "reporting_owner_cik": "0001755794",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "11141.00"
     },
     {
-      "id": 532,
+      "id": 481,
       "issuer_name": "COOPER COMPANIES, INC.",
       "reporting_owner": "Kurzius Lawrence Erik",
       "reporting_owner_cik": "0001352090",
@@ -27,30 +39,6 @@
       "transaction_price": "82.50",
       "transaction_type": "P",
       "shares_after_transaction": "7777.00"
-    },
-    {
-      "id": 530,
-      "issuer_name": "COOPER COMPANIES, INC.",
-      "reporting_owner": "Sheffield Holly R",
-      "reporting_owner_cik": "0001745369",
-      "reporting_owner_position": "President, CSI",
-      "transaction_date": "2025-12-16",
-      "transaction_shares": "1230.00",
-      "transaction_price": "80.75",
-      "transaction_type": "P",
-      "shares_after_transaction": "39052.00"
-    },
-    {
-      "id": 531,
-      "issuer_name": "COOPER COMPANIES, INC.",
-      "reporting_owner": "White Albert G III",
-      "reporting_owner_cik": "0001357705",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2025-12-16",
-      "transaction_shares": "10000.00",
-      "transaction_price": "80.80",
-      "transaction_type": "P",
-      "shares_after_transaction": "236151.00"
     }
   ]
 }

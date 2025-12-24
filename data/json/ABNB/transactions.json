@@ -1,11 +1,23 @@
 {
   "ticker": "ABNB",
-  "last_updated": "2025-12-23T08:38:39.177883",
+  "last_updated": "2025-12-24T08:37:49.185080",
   "retention_years": 3,
-  "count": 5,
+  "count": 3,
   "transactions": [
     {
-      "id": 52,
+      "id": 37,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "BALOGH ARISTOTLE N",
+      "reporting_owner_cik": "0001216924",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2025-12-19",
+      "transaction_shares": "650",
+      "transaction_price": "134.15",
+      "transaction_type": "S",
+      "shares_after_transaction": "165086.243"
+    },
+    {
+      "id": 39,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "BALOGH ARISTOTLE N",
       "reporting_owner_cik": "0001216924",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "180999.243"
     },
     {
-      "id": 50,
+      "id": 38,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Gebbia Joseph",
       "reporting_owner_cik": "0001834171",
@@ -27,42 +39,6 @@
       "transaction_price": "128.7365",
       "transaction_type": "S",
       "shares_after_transaction": "685690"
-    },
-    {
-      "id": 51,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Mertz Elinor",
-      "reporting_owner_cik": "0001938411",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2025-12-12",
-      "transaction_shares": "7500",
-      "transaction_price": "130.00",
-      "transaction_type": "S",
-      "shares_after_transaction": "418029.9"
-    },
-    {
-      "id": 53,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "BALOGH ARISTOTLE N",
-      "reporting_owner_cik": "0001216924",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2025-12-12",
-      "transaction_shares": "650",
-      "transaction_price": "128.93",
-      "transaction_type": "S",
-      "shares_after_transaction": "169511.243"
-    },
-    {
-      "id": 54,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Chesky Brian",
-      "reporting_owner_cik": "0001834152",
-      "reporting_owner_position": "CEO and Chairman",
-      "transaction_date": "2025-12-12",
-      "transaction_shares": "8770",
-      "transaction_price": "130.1697",
-      "transaction_type": "S",
-      "shares_after_transaction": "97084"
     }
   ]
 }
