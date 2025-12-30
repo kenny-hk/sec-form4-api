@@ -1,44 +1,32 @@
 {
   "ticker": "JBL",
-  "last_updated": "2025-12-29T08:38:24.718958",
+  "last_updated": "2025-12-30T08:34:44.766521",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 133,
+      "id": 130,
       "issuer_name": "JABIL INC",
-      "reporting_owner": "ANSARI ANOUSHEH",
-      "reporting_owner_cik": "0001136701",
+      "reporting_owner": "BORGES STEVEN D",
+      "reporting_owner_cik": "0001196727",
+      "reporting_owner_position": "EVP, Global Business Units",
+      "transaction_date": "2025-12-23",
+      "transaction_shares": "10000.0000",
+      "transaction_price": "235.0000",
+      "transaction_type": "S",
+      "shares_after_transaction": "90524.0000"
+    },
+    {
+      "id": 131,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "RAYMUND STEVEN A",
+      "reporting_owner_cik": "0001196754",
       "reporting_owner_position": null,
-      "transaction_date": "2025-12-19",
-      "transaction_shares": "1500.0000",
-      "transaction_price": "225.0000",
-      "transaction_type": "S",
-      "shares_after_transaction": "34900.0000"
-    },
-    {
-      "id": 134,
-      "issuer_name": "JABIL INC",
-      "reporting_owner": "McCoy Frederic E.",
-      "reporting_owner_cik": "0001917764",
-      "reporting_owner_position": "EVP, Global Operations",
-      "transaction_date": "2025-12-19",
-      "transaction_shares": "2495.0000",
-      "transaction_price": "225.6300",
-      "transaction_type": "S",
-      "shares_after_transaction": "119892.0000"
-    },
-    {
-      "id": 135,
-      "issuer_name": "JABIL INC",
-      "reporting_owner": "MONDELLO MARK T",
-      "reporting_owner_cik": "0001196746",
-      "reporting_owner_position": "Executive Chairman",
-      "transaction_date": "2025-12-19",
-      "transaction_shares": "50000.0000",
-      "transaction_price": "225.3200",
-      "transaction_type": "S",
-      "shares_after_transaction": "1171459.0000"
+      "transaction_date": "2025-12-23",
+      "transaction_shares": "6500.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "G",
+      "shares_after_transaction": "67496.0000"
     }
   ]
 }

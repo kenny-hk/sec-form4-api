@@ -1,20 +1,44 @@
 {
   "ticker": "BEN",
-  "last_updated": "2025-12-25T08:35:22.710721",
+  "last_updated": "2025-12-30T08:34:44.766521",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 192,
+      "id": 63,
+      "issuer_name": "FRANKLIN RESOURCES INC",
+      "reporting_owner": "JOHNSON GREGORY E",
+      "reporting_owner_cik": "0001010262",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-12-26",
+      "transaction_shares": "1272",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "2687554"
+    },
+    {
+      "id": 64,
+      "issuer_name": "FRANKLIN RESOURCES INC",
+      "reporting_owner": "JOHNSON JENNIFER M",
+      "reporting_owner_cik": "0001010270",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2025-12-26",
+      "transaction_shares": "1272",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "3330456.0046"
+    },
+    {
+      "id": 65,
       "issuer_name": "FRANKLIN RESOURCES INC",
       "reporting_owner": "JOHNSON CHARLES B",
       "reporting_owner_cik": "0000936567",
       "reporting_owner_position": null,
-      "transaction_date": "2025-12-17",
-      "transaction_shares": "3816",
+      "transaction_date": "2025-12-26",
+      "transaction_shares": "25440",
       "transaction_price": null,
       "transaction_type": "G",
-      "shares_after_transaction": "90133861"
+      "shares_after_transaction": "90108421"
     }
   ]
 }
