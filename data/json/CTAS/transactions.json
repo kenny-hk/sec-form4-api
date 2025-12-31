@@ -1,7 +1,32 @@
 {
   "ticker": "CTAS",
-  "last_updated": "2025-12-24T08:37:49.185080",
+  "last_updated": "2025-12-31T08:35:25.563669",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 44,
+      "issuer_name": "CINTAS CORP",
+      "reporting_owner": "Coletti Robert E.",
+      "reporting_owner_cik": "0001681153",
+      "reporting_owner_position": "Assistant Secretary",
+      "transaction_date": "2025-12-23",
+      "transaction_shares": "545732",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "345600"
+    },
+    {
+      "id": 45,
+      "issuer_name": "CINTAS CORP",
+      "reporting_owner": "FARMER SCOTT D",
+      "reporting_owner_cik": "0001189287",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2025-12-23",
+      "transaction_shares": "1564766",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "953100"
+    }
+  ]
 }
