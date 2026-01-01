@@ -1,7 +1,32 @@
 {
   "ticker": "MKC",
-  "last_updated": "2025-12-26T08:34:13.183168",
+  "last_updated": "2026-01-01T08:36:16.231787",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 161,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foley Brendan M",
+      "reporting_owner_cik": "0001644562",
+      "reporting_owner_position": "Chairman, President & CEO",
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "6",
+      "transaction_price": "75.12",
+      "transaction_type": "J",
+      "shares_after_transaction": "1359.457"
+    },
+    {
+      "id": 162,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Sanchez Ana",
+      "reporting_owner_cik": "0001984205",
+      "reporting_owner_position": "President EMEA",
+      "transaction_date": "2025-04-21",
+      "transaction_shares": "22.344",
+      "transaction_price": "74.5263",
+      "transaction_type": "J",
+      "shares_after_transaction": "5262.807"
+    }
+  ]
 }
