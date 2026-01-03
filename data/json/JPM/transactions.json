@@ -1,7 +1,56 @@
 {
   "ticker": "JPM",
-  "last_updated": "2025-12-15T08:39:46.640501",
+  "last_updated": "2026-01-03T08:36:28.148166",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 228,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "HOBSON MELLODY L",
+      "reporting_owner_cik": "0001169896",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "139.6561",
+      "transaction_price": "322.2200",
+      "transaction_type": "A",
+      "shares_after_transaction": "28534.8572"
+    },
+    {
+      "id": 229,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "Rometty Virginia M",
+      "reporting_owner_cik": "0001333712",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "112.6694",
+      "transaction_price": "322.2200",
+      "transaction_type": "A",
+      "shares_after_transaction": "13726.3592"
+    },
+    {
+      "id": 230,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "NOVAKOVIC PHEBE N",
+      "reporting_owner_cik": "0001222195",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "116.3801",
+      "transaction_price": "322.2200",
+      "transaction_type": "A",
+      "shares_after_transaction": "12292.5220"
+    },
+    {
+      "id": 231,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "BURKE STEPHEN B",
+      "reporting_owner_cik": "0001203694",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "174.5702",
+      "transaction_price": "322.2200",
+      "transaction_type": "A",
+      "shares_after_transaction": "205550.3435"
+    }
+  ]
 }
