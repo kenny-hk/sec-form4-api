@@ -2,11 +2,11 @@
   "ticker": "NKE",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2026-01-05T08:40:36.663091",
-  "count": 1,
+  "last_updated": "2026-01-06T08:41:00.069223",
+  "count": 2,
   "transactions": [
     {
-      "id": 196,
+      "id": 562,
       "issuer_name": "NIKE, Inc.",
       "reporting_owner": "Hill Elliott",
       "reporting_owner_cik": "0001371578",
@@ -16,6 +16,18 @@
       "transaction_price": "61.10",
       "transaction_type": "P",
       "shares_after_transaction": "241587"
+    },
+    {
+      "id": 563,
+      "issuer_name": "NIKE, Inc.",
+      "reporting_owner": "Knight Travis A",
+      "reporting_owner_cik": "0001646571",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-22",
+      "transaction_shares": "1694859",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "1694859"
     }
   ]
 }

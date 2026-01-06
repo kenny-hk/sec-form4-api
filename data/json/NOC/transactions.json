@@ -1,20 +1,32 @@
 {
   "ticker": "NOC",
-  "last_updated": "2025-12-18T08:37:14.695562",
+  "last_updated": "2026-01-06T08:41:00.069223",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 222,
+      "id": 319,
       "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
-      "reporting_owner": "ROEDER ROSHAN S",
-      "reporting_owner_cik": "0001950117",
-      "reporting_owner_position": "CVP & Pres. Mission Systems",
-      "transaction_date": "2025-12-09",
-      "transaction_shares": "84",
-      "transaction_price": "555.35",
-      "transaction_type": "S",
-      "shares_after_transaction": "403.91"
+      "reporting_owner": "Brown Marianne Catherine",
+      "reporting_owner_cik": "0001804183",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "81",
+      "transaction_price": "570.21",
+      "transaction_type": "A",
+      "shares_after_transaction": "10963"
+    },
+    {
+      "id": 320,
+      "issuer_name": "NORTHROP GRUMMAN CORP /DE/",
+      "reporting_owner": "KRISHNA ARVIND",
+      "reporting_owner_cik": "0001629898",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "64",
+      "transaction_price": "570.21",
+      "transaction_type": "A",
+      "shares_after_transaction": "2257"
     }
   ]
 }

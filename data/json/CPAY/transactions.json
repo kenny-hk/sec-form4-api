@@ -1,20 +1,32 @@
 {
   "ticker": "CPAY",
-  "last_updated": "2025-10-08T08:34:22.326480",
+  "last_updated": "2026-01-06T08:41:00.069223",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 338,
+      "id": 317,
       "issuer_name": "CORPAY, INC.",
-      "reporting_owner": "Netto Armando Lins",
-      "reporting_owner_cik": "0001610692",
-      "reporting_owner_position": "Group President",
-      "transaction_date": "2025-09-30",
-      "transaction_shares": "1096",
-      "transaction_price": "295.83",
+      "reporting_owner": "Vickery Alissa B",
+      "reporting_owner_cik": "0001824163",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "171",
+      "transaction_price": "305.1",
       "transaction_type": "F",
-      "shares_after_transaction": "33369"
+      "shares_after_transaction": "2974"
+    },
+    {
+      "id": 318,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Stull Steven T",
+      "reporting_owner_cik": "0001055565",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-12",
+      "transaction_shares": "8000",
+      "transaction_price": "314.98",
+      "transaction_type": "P",
+      "shares_after_transaction": "29241"
     }
   ]
 }

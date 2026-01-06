@@ -2,11 +2,23 @@
   "ticker": "AVGO",
   "year": 2025,
   "quarter": 4,
-  "last_updated": "2026-01-05T08:40:36.663091",
+  "last_updated": "2026-01-06T08:41:00.069223",
   "count": 2,
   "transactions": [
     {
-      "id": 123,
+      "id": 321,
+      "issuer_name": "Broadcom Inc.",
+      "reporting_owner": "Spears Kirsten M.",
+      "reporting_owner_cik": "0001670725",
+      "reporting_owner_position": "CFO & Chief Accounting Officer",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "23",
+      "transaction_price": "346.637",
+      "transaction_type": "S",
+      "shares_after_transaction": "307214"
+    },
+    {
+      "id": 322,
       "issuer_name": "Broadcom Inc.",
       "reporting_owner": "Brazeal Mark David",
       "reporting_owner_cik": "0001627720",
@@ -16,18 +28,6 @@
       "transaction_price": "352.072",
       "transaction_type": "S",
       "shares_after_transaction": "240573"
-    },
-    {
-      "id": 122,
-      "issuer_name": "Broadcom Inc.",
-      "reporting_owner": "TAN HOCK E",
-      "reporting_owner_cik": "0001211588",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2025-12-23",
-      "transaction_shares": "4257",
-      "transaction_price": "339.107",
-      "transaction_type": "S",
-      "shares_after_transaction": "591381"
     }
   ]
 }

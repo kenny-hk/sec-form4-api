@@ -1,20 +1,56 @@
 {
   "ticker": "KEY",
-  "last_updated": "2025-12-23T08:38:39.177883",
+  "last_updated": "2026-01-06T08:41:00.069223",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 393,
+      "id": 574,
       "issuer_name": "KEYCORP /NEW/",
-      "reporting_owner": "BANK OF NOVA SCOTIA",
-      "reporting_owner_cik": "0000009631",
+      "reporting_owner": "Wilson David K",
+      "reporting_owner_cik": "0001613813",
       "reporting_owner_position": null,
-      "transaction_date": "2025-12-16",
-      "transaction_shares": "225084",
-      "transaction_price": "20.22",
-      "transaction_type": "D",
-      "shares_after_transaction": "161968762"
+      "transaction_date": "2026-01-01",
+      "transaction_shares": "8635",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "59506"
+    },
+    {
+      "id": 576,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "Snyder Barbara R",
+      "reporting_owner_cik": "0001496583",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-01",
+      "transaction_shares": "1526",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "77787"
+    },
+    {
+      "id": 579,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "Gile Elizabeth R.",
+      "reporting_owner_cik": "0001487311",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-01",
+      "transaction_shares": "4319",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "45201"
+    },
+    {
+      "id": 580,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "Hayes Robin",
+      "reporting_owner_cik": "0001443147",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-01",
+      "transaction_shares": "3174",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "25723"
     }
   ]
 }

@@ -1,11 +1,83 @@
 {
   "ticker": "TKO",
-  "last_updated": "2026-01-05T08:40:36.663091",
+  "last_updated": "2026-01-06T08:41:00.069223",
   "retention_years": 3,
-  "count": 2,
+  "count": 7,
   "transactions": [
     {
-      "id": 156,
+      "id": 439,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Khan Nick",
+      "reporting_owner_cik": "0001821220",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "51225",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "160292.834"
+    },
+    {
+      "id": 441,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Schleimer Andrew M",
+      "reporting_owner_cik": "0001350603",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "12415",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "21978"
+    },
+    {
+      "id": 443,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "KRAUSS SETH D",
+      "reporting_owner_cik": "0001393280",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "9777",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "17760"
+    },
+    {
+      "id": 444,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "SHAPIRO MARK S",
+      "reporting_owner_cik": "0001345978",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "63187",
+      "transaction_price": "0.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "136864"
+    },
+    {
+      "id": 445,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Johnson Dwayne D.",
+      "reporting_owner_cik": "0002004737",
+      "reporting_owner_position": null,
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "8046",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "386231"
+    },
+    {
+      "id": 446,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Kapral Shane",
+      "reporting_owner_cik": "0001992689",
+      "reporting_owner_position": "Deputy Chief Financial Officer",
+      "transaction_date": "2025-12-31",
+      "transaction_shares": "3259",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "4018"
+    },
+    {
+      "id": 442,
       "issuer_name": "TKO Group Holdings, Inc.",
       "reporting_owner": "Khan Nick",
       "reporting_owner_cik": "0001821220",
@@ -15,18 +87,6 @@
       "transaction_price": "0.00",
       "transaction_type": "A",
       "shares_after_transaction": "109067.834"
-    },
-    {
-      "id": 155,
-      "issuer_name": "TKO Group Holdings, Inc.",
-      "reporting_owner": "Kapral Shane",
-      "reporting_owner_cik": "0001992689",
-      "reporting_owner_position": "Deputy Chief Financial Officer",
-      "transaction_date": "2025-12-22",
-      "transaction_shares": "254",
-      "transaction_price": "214.08",
-      "transaction_type": "S",
-      "shares_after_transaction": "1012"
     }
   ]
 }
