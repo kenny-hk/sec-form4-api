@@ -1,32 +1,44 @@
 {
   "ticker": "DASH",
-  "last_updated": "2025-12-30T08:34:44.766521",
+  "last_updated": "2026-01-07T08:41:31.352863",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 129,
+      "id": 1177,
       "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Adarkar Prabir",
-      "reporting_owner_cik": "0001832612",
-      "reporting_owner_position": "PRESIDENT AND COO",
-      "transaction_date": "2025-12-22",
+      "reporting_owner": "Fang Andy",
+      "reporting_owner_cik": "0001832390",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-02",
       "transaction_shares": "30000",
-      "transaction_price": "7.16",
-      "transaction_type": "M",
-      "shares_after_transaction": "904130"
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "30000"
     },
     {
-      "id": 128,
+      "id": 1178,
       "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2025-12-19",
-      "transaction_shares": "800",
-      "transaction_price": "7.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "185462"
+      "reporting_owner": "Tang Stanley",
+      "reporting_owner_cik": "0001832614",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-02",
+      "transaction_shares": "45410",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "45410"
+    },
+    {
+      "id": 1179,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Still Ashley",
+      "reporting_owner_cik": "0001985469",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-02",
+      "transaction_shares": "63",
+      "transaction_price": "229.80",
+      "transaction_type": "S",
+      "shares_after_transaction": "2291"
     }
   ]
 }

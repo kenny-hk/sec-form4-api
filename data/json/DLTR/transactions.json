@@ -1,7 +1,44 @@
 {
   "ticker": "DLTR",
-  "last_updated": "2026-01-06T08:41:00.069223",
+  "last_updated": "2026-01-07T08:41:31.352863",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 836,
+      "issuer_name": "DOLLAR TREE, INC.",
+      "reporting_owner": "Schumacher Steven",
+      "reporting_owner_cik": "0002040434",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2026-01-03",
+      "transaction_shares": "153",
+      "transaction_price": "127.70",
+      "transaction_type": "F",
+      "shares_after_transaction": "17644"
+    },
+    {
+      "id": 837,
+      "issuer_name": "DOLLAR TREE, INC.",
+      "reporting_owner": "Creedon Michael C Jr",
+      "reporting_owner_cik": "0001853258",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-01-03",
+      "transaction_shares": "999",
+      "transaction_price": "127.70",
+      "transaction_type": "F",
+      "shares_after_transaction": "83352"
+    },
+    {
+      "id": 838,
+      "issuer_name": "DOLLAR TREE, INC.",
+      "reporting_owner": "Konrad Jocelyn Z",
+      "reporting_owner_cik": "0001650760",
+      "reporting_owner_position": "Chief of DTS & Enterprise Op",
+      "transaction_date": "2026-01-03",
+      "transaction_shares": "760",
+      "transaction_price": "127.70",
+      "transaction_type": "F",
+      "shares_after_transaction": "16518"
+    }
+  ]
 }
