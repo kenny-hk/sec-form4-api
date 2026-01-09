@@ -1,11 +1,23 @@
 {
   "ticker": "NDAQ",
-  "last_updated": "2026-01-08T08:41:46.838336",
+  "last_updated": "2026-01-09T08:42:08.816706",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 23,
+      "id": 24,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "Zecca John",
+      "reporting_owner_cik": "0001789709",
+      "reporting_owner_position": "EVP, Global CLO",
+      "transaction_date": "2026-01-06",
+      "transaction_shares": "4500",
+      "transaction_price": "100.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "125674"
+    },
+    {
+      "id": 25,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "FRIEDMAN ADENA T",
       "reporting_owner_cik": "0001240169",

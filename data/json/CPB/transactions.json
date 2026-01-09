@@ -1,20 +1,32 @@
 {
   "ticker": "CPB",
-  "last_updated": "2026-01-07T08:41:31.352863",
+  "last_updated": "2026-01-09T08:42:08.816706",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 823,
+      "id": 900,
       "issuer_name": "CAMPBELL'S Co",
-      "reporting_owner": "Brawley Charles A. III",
-      "reporting_owner_cik": "0002001522",
-      "reporting_owner_position": "EVP, Gen Counsel, and Corp Sec",
-      "transaction_date": "2025-12-30",
-      "transaction_shares": "11550",
-      "transaction_price": "28.145",
-      "transaction_type": "S",
-      "shares_after_transaction": "43777"
+      "reporting_owner": "Malone Mary Alice Dorrance JR",
+      "reporting_owner_cik": "0002078870",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-06",
+      "transaction_shares": "26741880",
+      "transaction_price": "27.01",
+      "transaction_type": "J",
+      "shares_after_transaction": "13218457"
+    },
+    {
+      "id": 901,
+      "issuer_name": "CAMPBELL'S Co",
+      "reporting_owner": "Amendment & Restatement of Agreement of Trust of Mary Alice Dorrance Malone dated April 17, 1990",
+      "reporting_owner_cik": "0002087724",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-06",
+      "transaction_shares": "26741880",
+      "transaction_price": "27.01",
+      "transaction_type": "J",
+      "shares_after_transaction": "13218457"
     }
   ]
 }
