@@ -1,11 +1,23 @@
 {
   "ticker": "WRB",
-  "last_updated": "2026-01-09T08:42:08.816706",
+  "last_updated": "2026-01-10T08:35:23.556997",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 891,
+      "id": 806,
+      "issuer_name": "BERKLEY W R CORP",
+      "reporting_owner": "MITSUI SUMITOMO INSURANCE CO LTD",
+      "reporting_owner_cik": "0001142206",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-08",
+      "transaction_shares": "4187",
+      "transaction_price": "68.7913",
+      "transaction_type": "P",
+      "shares_after_transaction": "51449650"
+    },
+    {
+      "id": 805,
       "issuer_name": "BERKLEY W R CORP",
       "reporting_owner": "MITSUI SUMITOMO INSURANCE CO LTD",
       "reporting_owner_cik": "0001142206",
@@ -15,18 +27,6 @@
       "transaction_price": "69.1996",
       "transaction_type": "P",
       "shares_after_transaction": "50775595"
-    },
-    {
-      "id": 892,
-      "issuer_name": "BERKLEY W R CORP",
-      "reporting_owner": "MITSUI SUMITOMO INSURANCE CO LTD",
-      "reporting_owner_cik": "0001142206",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-30",
-      "transaction_shares": "205000",
-      "transaction_price": "70.8284",
-      "transaction_type": "P",
-      "shares_after_transaction": "50296511"
     }
   ]
 }
