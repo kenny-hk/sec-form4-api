@@ -1,11 +1,23 @@
 {
   "ticker": "ADI",
-  "last_updated": "2026-01-13T08:38:14.137570",
+  "last_updated": "2026-01-14T08:37:52.002742",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 682,
+      "id": 304,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "Nakamura Katsufumi",
+      "reporting_owner_cik": "0002044259",
+      "reporting_owner_position": "SVP, Chief Customer Officer",
+      "transaction_date": "2026-01-09",
+      "transaction_shares": "500",
+      "transaction_price": "301.465",
+      "transaction_type": "S",
+      "shares_after_transaction": "12709.698"
+    },
+    {
+      "id": 305,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "Nakamura Katsufumi",
       "reporting_owner_cik": "0002044259",
@@ -15,18 +27,6 @@
       "transaction_price": "289.165",
       "transaction_type": "S",
       "shares_after_transaction": "13209.698"
-    },
-    {
-      "id": 683,
-      "issuer_name": "ANALOG DEVICES INC",
-      "reporting_owner": "Cotter Martin",
-      "reporting_owner_cik": "0001685760",
-      "reporting_owner_position": "SVP, Vertical Business Units",
-      "transaction_date": "2026-01-05",
-      "transaction_shares": "10000",
-      "transaction_price": "278.445",
-      "transaction_type": "S",
-      "shares_after_transaction": "49663.684"
     }
   ]
 }
