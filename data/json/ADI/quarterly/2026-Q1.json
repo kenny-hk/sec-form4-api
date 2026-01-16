@@ -2,11 +2,23 @@
   "ticker": "ADI",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-01-15T08:37:37.954489",
+  "last_updated": "2026-01-16T08:36:38.281626",
   "count": 2,
   "transactions": [
     {
-      "id": 272,
+      "id": 258,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "STATA RAY",
+      "reporting_owner_cik": "0000900729",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-13",
+      "transaction_shares": "1043",
+      "transaction_price": "295.7833",
+      "transaction_type": "S",
+      "shares_after_transaction": "132153"
+    },
+    {
+      "id": 257,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "Nakamura Katsufumi",
       "reporting_owner_cik": "0002044259",
@@ -16,18 +28,6 @@
       "transaction_price": "301.465",
       "transaction_type": "S",
       "shares_after_transaction": "12709.698"
-    },
-    {
-      "id": 273,
-      "issuer_name": "ANALOG DEVICES INC",
-      "reporting_owner": "Nakamura Katsufumi",
-      "reporting_owner_cik": "0002044259",
-      "reporting_owner_position": "SVP, Chief Customer Officer",
-      "transaction_date": "2026-01-07",
-      "transaction_shares": "500",
-      "transaction_price": "289.165",
-      "transaction_type": "S",
-      "shares_after_transaction": "13209.698"
     }
   ]
 }
