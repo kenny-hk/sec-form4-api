@@ -2,20 +2,32 @@
   "ticker": "TDG",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-01-16T08:36:38.281626",
-  "count": 1,
+  "last_updated": "2026-01-17T08:32:19.284280",
+  "count": 2,
   "transactions": [
     {
-      "id": 166,
+      "id": 220,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Reiss Joel",
+      "reporting_owner_cik": "0001656109",
+      "reporting_owner_position": "Co-Chief Operating Officer",
+      "transaction_date": "2026-01-15",
+      "transaction_shares": "3900",
+      "transaction_price": "284.97",
+      "transaction_type": "M",
+      "shares_after_transaction": "7500"
+    },
+    {
+      "id": 219,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-08",
-      "transaction_shares": "17373",
+      "transaction_date": "2026-01-14",
+      "transaction_shares": "7627",
       "transaction_price": "342.31",
       "transaction_type": "M",
-      "shares_after_transaction": "25531"
+      "shares_after_transaction": "15785"
     }
   ]
 }

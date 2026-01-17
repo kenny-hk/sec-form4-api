@@ -1,20 +1,32 @@
 {
   "ticker": "GILD",
-  "last_updated": "2026-01-12T08:43:04.513787",
+  "last_updated": "2026-01-17T08:32:19.284280",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 281,
+      "id": 97,
       "issuer_name": "GILEAD SCIENCES, INC.",
-      "reporting_owner": "Berger Dietmar",
-      "reporting_owner_cik": "0001739515",
-      "reporting_owner_position": "Chief Medical Officer",
-      "transaction_date": "2026-01-02",
-      "transaction_shares": "16326",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "16326"
+      "reporting_owner": "Dickinson Andrew D",
+      "reporting_owner_cik": "0001310204",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-01-15",
+      "transaction_shares": "3000",
+      "transaction_price": "124.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "150503"
+    },
+    {
+      "id": 98,
+      "issuer_name": "GILEAD SCIENCES, INC.",
+      "reporting_owner": "Mercier Johanna",
+      "reporting_owner_cik": "0001782135",
+      "reporting_owner_position": "Chief Commercial Officer",
+      "transaction_date": "2026-01-15",
+      "transaction_shares": "3000",
+      "transaction_price": "124.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "103221"
     }
   ]
 }
