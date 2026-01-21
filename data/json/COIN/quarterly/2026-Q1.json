@@ -2,44 +2,44 @@
   "ticker": "COIN",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-01-13T08:38:14.137570",
+  "last_updated": "2026-01-21T08:38:24.882775",
   "count": 3,
   "transactions": [
     {
-      "id": 690,
+      "id": 424,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "HAAS ALESIA J",
+      "reporting_owner_cik": "0001668711",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-01-15",
+      "transaction_shares": "4000",
+      "transaction_price": "249.5625",
+      "transaction_type": "S",
+      "shares_after_transaction": "74714"
+    },
+    {
+      "id": 425,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Choi Emilie",
+      "reporting_owner_cik": "0001851658",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2026-01-15",
+      "transaction_shares": "321588",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "524022"
+    },
+    {
+      "id": 426,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Ehrsam Frederick Ernest III",
       "reporting_owner_cik": "0001851442",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-05",
-      "transaction_shares": "1375",
+      "transaction_date": "2026-01-14",
+      "transaction_shares": "2750",
       "transaction_price": "0",
       "transaction_type": "C",
-      "shares_after_transaction": "1375"
-    },
-    {
-      "id": 692,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Armstrong Brian",
-      "reporting_owner_cik": "0001851492",
-      "reporting_owner_position": "Chairman and CEO",
-      "transaction_date": "2026-01-05",
-      "transaction_shares": "40000",
-      "transaction_price": "18.71",
-      "transaction_type": "M",
-      "shares_after_transaction": "40000"
-    },
-    {
-      "id": 691,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "WILSON FREDERICK R",
-      "reporting_owner_cik": "0001227688",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-01-02",
-      "transaction_shares": "280",
-      "transaction_price": "226.8771",
-      "transaction_type": "S",
-      "shares_after_transaction": "194693"
+      "shares_after_transaction": "2750"
     }
   ]
 }
