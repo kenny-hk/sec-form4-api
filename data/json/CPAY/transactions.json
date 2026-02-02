@@ -1,32 +1,44 @@
 {
   "ticker": "CPAY",
-  "last_updated": "2026-01-12T08:43:04.513787",
+  "last_updated": "2026-02-02T08:51:48.470174",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 390,
+      "id": 138,
       "issuer_name": "CORPAY, INC.",
       "reporting_owner": "Vickery Alissa B",
       "reporting_owner_cik": "0001824163",
       "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2025-12-31",
-      "transaction_shares": "171",
-      "transaction_price": "305.1",
+      "transaction_date": "2026-01-24",
+      "transaction_shares": "69",
+      "transaction_price": "320.52",
       "transaction_type": "F",
-      "shares_after_transaction": "2974"
+      "shares_after_transaction": "2905"
     },
     {
-      "id": 391,
+      "id": 139,
       "issuer_name": "CORPAY, INC.",
-      "reporting_owner": "Stull Steven T",
-      "reporting_owner_cik": "0001055565",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-12",
-      "transaction_shares": "8000",
-      "transaction_price": "314.98",
-      "transaction_type": "P",
-      "shares_after_transaction": "29241"
+      "reporting_owner": "King Alan",
+      "reporting_owner_cik": "0001681825",
+      "reporting_owner_position": "GroupPresident IntlVehiclePmts",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "490",
+      "transaction_price": "327.14",
+      "transaction_type": "F",
+      "shares_after_transaction": "21598"
+    },
+    {
+      "id": 140,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Netto Armando Lins",
+      "reporting_owner_cik": "0001610692",
+      "reporting_owner_position": "GroupPresident Brazil&USVehPmt",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "1350",
+      "transaction_price": "327.14",
+      "transaction_type": "F",
+      "shares_after_transaction": "32019"
     }
   ]
 }

@@ -1,20 +1,44 @@
 {
   "ticker": "CVX",
-  "last_updated": "2026-01-21T08:38:24.882775",
+  "last_updated": "2026-02-02T08:51:48.470174",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 151,
+      "id": 206,
       "issuer_name": "CHEVRON CORP",
       "reporting_owner": "Knowles Alana K",
       "reporting_owner_cik": "0001826984",
       "reporting_owner_position": "Controller",
-      "transaction_date": "2026-01-14",
+      "transaction_date": "2026-01-28",
       "transaction_shares": "3200",
       "transaction_price": "132.69",
       "transaction_type": "M",
       "shares_after_transaction": "4407"
+    },
+    {
+      "id": 207,
+      "issuer_name": "CHEVRON CORP",
+      "reporting_owner": "BONNER EIMEAR P",
+      "reporting_owner_cik": "0001880440",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-01-28",
+      "transaction_shares": "7534",
+      "transaction_price": "110.37",
+      "transaction_type": "M",
+      "shares_after_transaction": "11900"
+    },
+    {
+      "id": 208,
+      "issuer_name": "CHEVRON CORP",
+      "reporting_owner": "HORTON THOMAS W",
+      "reporting_owner_cik": "0001175928",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-27",
+      "transaction_shares": "458",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "458"
     }
   ]
 }

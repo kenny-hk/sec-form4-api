@@ -1,20 +1,104 @@
 {
   "ticker": "GS",
-  "last_updated": "2025-12-03T08:35:59.540162",
+  "last_updated": "2026-02-02T08:51:48.470174",
   "retention_years": 3,
-  "count": 1,
+  "count": 8,
   "transactions": [
     {
-      "id": 209,
+      "id": 220,
       "issuer_name": "GOLDMAN SACHS GROUP INC",
-      "reporting_owner": "ROGERS JOHN F.W.",
-      "reporting_owner_cik": "0001517277",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2025-11-25",
-      "transaction_shares": "1265",
+      "reporting_owner": "SOLOMON DAVID M",
+      "reporting_owner_cik": "0001693709",
+      "reporting_owner_position": "Chairman of the Board and CEO",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "232",
+      "transaction_price": "938.84",
+      "transaction_type": "S",
+      "shares_after_transaction": "125567"
+    },
+    {
+      "id": 221,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "HALIO CAREY",
+      "reporting_owner_cik": "0002021544",
+      "reporting_owner_position": "Global Treasurer",
+      "transaction_date": "2026-01-27",
+      "transaction_shares": "157",
+      "transaction_price": "921.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "4706"
+    },
+    {
+      "id": 225,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "COLEMAN DENIS P.",
+      "reporting_owner_cik": "0001900188",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-01-27",
+      "transaction_shares": "32676",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "53938"
+    },
+    {
+      "id": 219,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "GOLTEN ALEX S",
+      "reporting_owner_cik": "0002050849",
+      "reporting_owner_position": "CHIEF RISK OFFICER",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "5482",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "8913"
+    },
+    {
+      "id": 222,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "HALIO CAREY",
+      "reporting_owner_cik": "0002021544",
+      "reporting_owner_position": "Global Treasurer",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "4034",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "8586"
+    },
+    {
+      "id": 223,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "COLEMAN DENIS P.",
+      "reporting_owner_cik": "0001900188",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "5249",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "23729"
+    },
+    {
+      "id": 224,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "FREDMAN SHEARA J",
+      "reporting_owner_cik": "0001792653",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "530",
       "transaction_price": "0",
       "transaction_type": "G",
-      "shares_after_transaction": "52158"
+      "shares_after_transaction": "15164"
+    },
+    {
+      "id": 226,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "Ruemmler Kathryn H.",
+      "reporting_owner_cik": "0001850865",
+      "reporting_owner_position": "Chief Legal Officer, GC",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "580",
+      "transaction_price": "921.91",
+      "transaction_type": "S",
+      "shares_after_transaction": "27542"
     }
   ]
 }

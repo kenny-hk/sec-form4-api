@@ -1,20 +1,32 @@
 {
   "ticker": "STX",
-  "last_updated": "2026-01-21T08:38:24.882775",
+  "last_updated": "2026-02-02T08:51:48.470174",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 188,
+      "id": 232,
       "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Teh Ban Seng",
-      "reporting_owner_cik": "0001801425",
-      "reporting_owner_position": "EVP & Chief Commercial Officer",
-      "transaction_date": "2026-01-12",
-      "transaction_shares": "533",
-      "transaction_price": "68.83",
+      "reporting_owner": "Lee James CI",
+      "reporting_owner_cik": "0001773423",
+      "reporting_owner_position": "EVP & CLO",
+      "transaction_date": "2026-01-26",
+      "transaction_shares": "673",
+      "transaction_price": "348.85",
+      "transaction_type": "S",
+      "shares_after_transaction": "257"
+    },
+    {
+      "id": 231,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Lee James CI",
+      "reporting_owner_cik": "0001773423",
+      "reporting_owner_position": "EVP & CLO",
+      "transaction_date": "2026-01-22",
+      "transaction_shares": "1237",
+      "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "14226"
+      "shares_after_transaction": "1494"
     }
   ]
 }

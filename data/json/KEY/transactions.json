@@ -1,56 +1,44 @@
 {
   "ticker": "KEY",
-  "last_updated": "2026-01-12T08:43:04.513787",
+  "last_updated": "2026-02-02T08:51:48.470174",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 831,
+      "id": 322,
       "issuer_name": "KEYCORP /NEW/",
-      "reporting_owner": "Wilson David K",
-      "reporting_owner_cik": "0001613813",
+      "reporting_owner": "BANK OF NOVA SCOTIA",
+      "reporting_owner_cik": "0000009631",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-01",
-      "transaction_shares": "8635",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "59506"
+      "transaction_date": "2026-01-27",
+      "transaction_shares": "128055",
+      "transaction_price": "21.16",
+      "transaction_type": "D",
+      "shares_after_transaction": "161840707"
     },
     {
-      "id": 833,
-      "issuer_name": "KEYCORP /NEW/",
-      "reporting_owner": "Snyder Barbara R",
-      "reporting_owner_cik": "0001496583",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-01-01",
-      "transaction_shares": "1526",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "77787"
-    },
-    {
-      "id": 836,
-      "issuer_name": "KEYCORP /NEW/",
-      "reporting_owner": "Gile Elizabeth R.",
-      "reporting_owner_cik": "0001487311",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-01-01",
-      "transaction_shares": "4319",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "45201"
-    },
-    {
-      "id": 837,
+      "id": 321,
       "issuer_name": "KEYCORP /NEW/",
       "reporting_owner": "Hayes Robin",
       "reporting_owner_cik": "0001443147",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-01",
-      "transaction_shares": "3174",
+      "transaction_date": "2026-01-24",
+      "transaction_shares": "738",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "25723"
+      "shares_after_transaction": "26461"
+    },
+    {
+      "id": 323,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "Ramani Mohit",
+      "reporting_owner_cik": "0002053125",
+      "reporting_owner_position": "Chief Risk Officer",
+      "transaction_date": "2026-01-23",
+      "transaction_shares": "61483",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "71691"
     }
   ]
 }
