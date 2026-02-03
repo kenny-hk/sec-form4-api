@@ -1,32 +1,56 @@
 {
   "ticker": "LVS",
-  "last_updated": "2025-12-25T08:35:22.710721",
+  "last_updated": "2026-02-03T08:44:42.286426",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 155,
+      "id": 313,
+      "issuer_name": "LAS VEGAS SANDS CORP",
+      "reporting_owner": "Dumont Patrick",
+      "reporting_owner_cik": "0001667998",
+      "reporting_owner_position": "President & COO",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "37649",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "484257"
+    },
+    {
+      "id": 314,
+      "issuer_name": "LAS VEGAS SANDS CORP",
+      "reporting_owner": "Hudson D. Zachary",
+      "reporting_owner_cik": "0001787180",
+      "reporting_owner_position": "EVP and Global General Counsel",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "10353",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "24088"
+    },
+    {
+      "id": 315,
+      "issuer_name": "LAS VEGAS SANDS CORP",
+      "reporting_owner": "Hyzak Randy",
+      "reporting_owner_cik": "0001456136",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "11295",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "64794"
+    },
+    {
+      "id": 316,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Goldstein Robert G",
       "reporting_owner_cik": "0001305337",
       "reporting_owner_position": "Chairman & CEO",
-      "transaction_date": "2025-12-16",
-      "transaction_shares": "51350",
-      "transaction_price": "50.33",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "73415",
+      "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "51350"
-    },
-    {
-      "id": 156,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Adelson Miriam",
-      "reporting_owner_cik": "0001309416",
-      "reporting_owner_position": null,
-      "transaction_date": "2025-12-16",
-      "transaction_shares": "77991",
-      "transaction_price": "40.87",
-      "transaction_type": "X",
-      "shares_after_transaction": "23411432"
+      "shares_after_transaction": "73415"
     }
   ]
 }

@@ -2,11 +2,35 @@
   "ticker": "NTRS",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-02T08:51:48.470174",
-  "count": 1,
+  "last_updated": "2026-02-03T08:44:42.286426",
+  "count": 3,
   "transactions": [
     {
-      "id": 233,
+      "id": 333,
+      "issuer_name": "NORTHERN TRUST CORP",
+      "reporting_owner": "SMITH DAVID BYRON JR",
+      "reporting_owner_cik": "0001478669",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "1340",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "82935"
+    },
+    {
+      "id": 332,
+      "issuer_name": "NORTHERN TRUST CORP",
+      "reporting_owner": "O'Grady Michael",
+      "reporting_owner_cik": "0001527742",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "34489",
+      "transaction_price": "58.25",
+      "transaction_type": "M",
+      "shares_after_transaction": "383557.44"
+    },
+    {
+      "id": 331,
       "issuer_name": "NORTHERN TRUST CORP",
       "reporting_owner": "Cherecwich Peter",
       "reporting_owner_cik": "0001614598",

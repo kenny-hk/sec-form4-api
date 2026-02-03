@@ -1,11 +1,35 @@
 {
   "ticker": "STX",
-  "last_updated": "2026-02-02T08:51:48.470174",
+  "last_updated": "2026-02-03T08:44:42.286426",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 232,
+      "id": 329,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Geldmacher Jay L",
+      "reporting_owner_cik": "0001462488",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "925",
+      "transaction_price": "448.025",
+      "transaction_type": "S",
+      "shares_after_transaction": "223"
+    },
+    {
+      "id": 328,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Teh Ban Seng",
+      "reporting_owner_cik": "0001801425",
+      "reporting_owner_position": "EVP & Chief Commercial Officer",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "9433",
+      "transaction_price": "101.34",
+      "transaction_type": "M",
+      "shares_after_transaction": "23287"
+    },
+    {
+      "id": 330,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Lee James CI",
       "reporting_owner_cik": "0001773423",
@@ -15,18 +39,6 @@
       "transaction_price": "348.85",
       "transaction_type": "S",
       "shares_after_transaction": "257"
-    },
-    {
-      "id": 231,
-      "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Lee James CI",
-      "reporting_owner_cik": "0001773423",
-      "reporting_owner_position": "EVP & CLO",
-      "transaction_date": "2026-01-22",
-      "transaction_shares": "1237",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "1494"
     }
   ]
 }

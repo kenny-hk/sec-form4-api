@@ -1,11 +1,11 @@
 {
   "ticker": "IP",
-  "last_updated": "2026-02-02T08:51:48.470174",
+  "last_updated": "2026-02-03T08:44:42.286426",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 429,
+      "id": 592,
       "issuer_name": "INTERNATIONAL PAPER CO /NEW/",
       "reporting_owner": "Silvernail Andrew K",
       "reporting_owner_cik": "0001485532",
@@ -15,6 +15,18 @@
       "transaction_price": "39.9793",
       "transaction_type": "P",
       "shares_after_transaction": "50000"
+    },
+    {
+      "id": 593,
+      "issuer_name": "INTERNATIONAL PAPER CO /NEW/",
+      "reporting_owner": "Connor Christopher M",
+      "reporting_owner_cik": "0001181680",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "25000",
+      "transaction_price": "40.37",
+      "transaction_type": "P",
+      "shares_after_transaction": "25000"
     }
   ]
 }

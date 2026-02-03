@@ -1,7 +1,32 @@
 {
   "ticker": "KMB",
-  "last_updated": "2026-01-12T08:43:04.513787",
+  "last_updated": "2026-02-03T08:44:42.286426",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 167,
+      "issuer_name": "KIMBERLY CLARK CORP",
+      "reporting_owner": "Melucci Jeffrey P.",
+      "reporting_owner_cik": "0001712554",
+      "reporting_owner_position": "Chief Bus., Strat. & Admin.",
+      "transaction_date": "2026-01-31",
+      "transaction_shares": "4466.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "M",
+      "shares_after_transaction": "51468.0000"
+    },
+    {
+      "id": 168,
+      "issuer_name": "KIMBERLY CLARK CORP",
+      "reporting_owner": "McGee Grant B",
+      "reporting_owner_cik": "0002010725",
+      "reporting_owner_position": "General Counsel & Secretary",
+      "transaction_date": "2026-01-31",
+      "transaction_shares": "3529.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "M",
+      "shares_after_transaction": "6199.0000"
+    }
+  ]
 }

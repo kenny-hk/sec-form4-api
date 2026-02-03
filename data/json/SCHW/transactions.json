@@ -1,11 +1,23 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2026-02-02T08:51:48.470174",
+  "last_updated": "2026-02-03T08:44:42.286426",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 210,
+      "id": 283,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab Charles R.",
+      "reporting_owner_cik": "0000923738",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2026-01-29",
+      "transaction_shares": "145650",
+      "transaction_price": "103.1649",
+      "transaction_type": "S",
+      "shares_after_transaction": "55947329"
+    },
+    {
+      "id": 284,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -15,18 +27,6 @@
       "transaction_price": "26.39",
       "transaction_type": "M",
       "shares_after_transaction": "0"
-    },
-    {
-      "id": 209,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Schwab-Pomerantz Carolyn",
-      "reporting_owner_cik": "0001950787",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-01-22",
-      "transaction_shares": "19050",
-      "transaction_price": "105.2473",
-      "transaction_type": "S",
-      "shares_after_transaction": "1415508.6599"
     }
   ]
 }
