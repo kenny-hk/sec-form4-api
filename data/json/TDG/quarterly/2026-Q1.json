@@ -2,32 +2,44 @@
   "ticker": "TDG",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-01-21T08:38:24.882775",
-  "count": 2,
+  "last_updated": "2026-02-04T08:54:32.436080",
+  "count": 3,
   "transactions": [
     {
-      "id": 230,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "Reiss Joel",
-      "reporting_owner_cik": "0001656109",
-      "reporting_owner_position": "Co-Chief Operating Officer",
-      "transaction_date": "2026-01-15",
-      "transaction_shares": "3900",
-      "transaction_price": "284.97",
-      "transaction_type": "M",
-      "shares_after_transaction": "7500"
-    },
-    {
-      "id": 229,
+      "id": 701,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Stein Kevin M",
       "reporting_owner_cik": "0001431675",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-14",
-      "transaction_shares": "7627",
-      "transaction_price": "342.31",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "25000",
+      "transaction_price": "341.28",
       "transaction_type": "M",
-      "shares_after_transaction": "15785"
+      "shares_after_transaction": "33158"
+    },
+    {
+      "id": 702,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Stein Kevin M",
+      "reporting_owner_cik": "0001431675",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "1421",
+      "transaction_price": "1431.4599",
+      "transaction_type": "S",
+      "shares_after_transaction": "17812"
+    },
+    {
+      "id": 703,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "Murphy Patrick Joseph",
+      "reporting_owner_cik": "0002079804",
+      "reporting_owner_position": "Co-Chief Operating Officer",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "290",
+      "transaction_price": "269.42",
+      "transaction_type": "M",
+      "shares_after_transaction": "1345"
     }
   ]
 }

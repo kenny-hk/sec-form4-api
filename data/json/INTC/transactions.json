@@ -1,20 +1,56 @@
 {
   "ticker": "INTC",
-  "last_updated": "2026-02-03T08:44:42.286426",
+  "last_updated": "2026-02-04T08:54:32.436080",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 113,
+      "id": 191,
       "issuer_name": "INTEL CORP",
       "reporting_owner": "Zinsner David",
       "reporting_owner_cik": "0001330891",
       "reporting_owner_position": "EVP, CFO",
-      "transaction_date": "2026-01-26",
-      "transaction_shares": "5882",
-      "transaction_price": "42.50",
-      "transaction_type": "P",
-      "shares_after_transaction": "247392"
+      "transaction_date": "2026-01-31",
+      "transaction_shares": "126563",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "373955"
+    },
+    {
+      "id": 192,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "GAWEL SCOTT",
+      "reporting_owner_cik": "0001243821",
+      "reporting_owner_position": "CVP, Chief Accounting Officer",
+      "transaction_date": "2026-01-31",
+      "transaction_shares": "22052",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "28254"
+    },
+    {
+      "id": 193,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Miller Boise April",
+      "reporting_owner_cik": "0001680881",
+      "reporting_owner_position": "EVP and Chief Legal Officer",
+      "transaction_date": "2026-01-31",
+      "transaction_shares": "76705",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "162915"
+    },
+    {
+      "id": 189,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Chandrasekaran Nagasubramaniyan",
+      "reporting_owner_cik": "0002082075",
+      "reporting_owner_position": "EVP, CT & Ops Off, GM Foundry",
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "33007",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "183036"
     }
   ]
 }

@@ -1,20 +1,32 @@
 {
   "ticker": "NDAQ",
-  "last_updated": "2026-01-15T08:37:37.954489",
+  "last_updated": "2026-02-04T08:54:32.436080",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 11,
+      "id": 30,
       "issuer_name": "NASDAQ, INC.",
-      "reporting_owner": "Zecca John",
-      "reporting_owner_cik": "0001789709",
-      "reporting_owner_position": "EVP, Global CLO",
-      "transaction_date": "2026-01-06",
-      "transaction_shares": "4500",
-      "transaction_price": "100.01",
-      "transaction_type": "S",
-      "shares_after_transaction": "125674"
+      "reporting_owner": "FRIEDMAN ADENA T",
+      "reporting_owner_cik": "0001240169",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "300000",
+      "transaction_price": "22.22",
+      "transaction_type": "M",
+      "shares_after_transaction": "2224903"
+    },
+    {
+      "id": 31,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "SPLINTER MICHAEL R",
+      "reporting_owner_cik": "0001188935",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "4680",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "212742"
     }
   ]
 }

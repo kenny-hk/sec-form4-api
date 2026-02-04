@@ -1,20 +1,32 @@
 {
   "ticker": "ELV",
-  "last_updated": "2025-10-10T08:32:39.173721",
+  "last_updated": "2026-02-04T08:54:32.436080",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 63,
+      "id": 49,
       "issuer_name": "Elevance Health, Inc.",
-      "reporting_owner": "Kaye Mark",
-      "reporting_owner_cik": "0001748691",
-      "reporting_owner_position": "EVP & CFO",
-      "transaction_date": "2025-10-02",
-      "transaction_shares": "2895",
-      "transaction_price": "340.24",
+      "reporting_owner": "Craig Ryan R",
+      "reporting_owner_cik": "0002084547",
+      "reporting_owner_position": "EVP & Chief HR Officer",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "279",
+      "transaction_price": "341.83",
       "transaction_type": "F",
-      "shares_after_transaction": "16082"
+      "shares_after_transaction": "4032"
+    },
+    {
+      "id": 50,
+      "issuer_name": "Elevance Health, Inc.",
+      "reporting_owner": "SCHULMAN AMY W",
+      "reporting_owner_cik": "0001438226",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "218",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "218"
     }
   ]
 }

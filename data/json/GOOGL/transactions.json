@@ -1,11 +1,35 @@
 {
   "ticker": "GOOGL",
-  "last_updated": "2026-02-03T08:44:42.286426",
+  "last_updated": "2026-02-04T08:54:32.436080",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 59,
+      "id": 110,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "O'Toole Amie Thuener",
+      "reporting_owner_cik": "0001738007",
+      "reporting_owner_position": "VP, Chief Accounting Officer",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "933",
+      "transaction_price": "336.55",
+      "transaction_type": "S",
+      "shares_after_transaction": "9916"
+    },
+    {
+      "id": 345,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "O'Toole Amie Thuener",
+      "reporting_owner_cik": "0001738007",
+      "reporting_owner_position": "VP, Chief Accounting Officer",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "933",
+      "transaction_price": "336.55",
+      "transaction_type": "S",
+      "shares_after_transaction": "9916"
+    },
+    {
+      "id": 109,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "ARNOLD FRANCES",
       "reporting_owner_cik": "0001665419",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "18307"
     },
     {
-      "id": 224,
+      "id": 344,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "ARNOLD FRANCES",
       "reporting_owner_cik": "0001665419",
@@ -27,30 +51,6 @@
       "transaction_price": "340",
       "transaction_type": "S",
       "shares_after_transaction": "18307"
-    },
-    {
-      "id": 60,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "O'Toole Amie Thuener",
-      "reporting_owner_cik": "0001738007",
-      "reporting_owner_position": "VP, Chief Accounting Officer",
-      "transaction_date": "2026-01-25",
-      "transaction_shares": "932",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "10849"
-    },
-    {
-      "id": 225,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "O'Toole Amie Thuener",
-      "reporting_owner_cik": "0001738007",
-      "reporting_owner_position": "VP, Chief Accounting Officer",
-      "transaction_date": "2026-01-25",
-      "transaction_shares": "932",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "10849"
     }
   ]
 }

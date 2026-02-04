@@ -2,20 +2,32 @@
   "ticker": "NONE",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-03T08:44:42.286426",
-  "count": 1,
+  "last_updated": "2026-02-04T08:54:32.436080",
+  "count": 2,
   "transactions": [
     {
-      "id": 166,
-      "issuer_name": "PGIM Private Credit Fund",
-      "reporting_owner": "PRUDENTIAL INSURANCE CO OF AMERICA",
-      "reporting_owner_cik": "0000729057",
+      "id": 361,
+      "issuer_name": "Invesco Real Estate Income Trust Inc.",
+      "reporting_owner": "Invesco Advisers, Inc.",
+      "reporting_owner_cik": "0000020430",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-23",
-      "transaction_shares": "1406738.649",
-      "transaction_price": "24.87",
-      "transaction_type": "P",
-      "shares_after_transaction": "7709623.515"
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "5778.639",
+      "transaction_price": "28.1231",
+      "transaction_type": "D",
+      "shares_after_transaction": "125013.646"
+    },
+    {
+      "id": 663,
+      "issuer_name": "KKR Real Estate Select Trust Inc.",
+      "reporting_owner": "KKR Alternative Assets LLC",
+      "reporting_owner_cik": "0001820655",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-01-30",
+      "transaction_shares": "64476.278",
+      "transaction_price": "23.46",
+      "transaction_type": "J",
+      "shares_after_transaction": "11222462.107"
     }
   ]
 }
