@@ -1,20 +1,32 @@
 {
   "ticker": "DASH",
-  "last_updated": "2026-01-21T08:38:24.882775",
+  "last_updated": "2026-02-05T08:52:16.758353",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 401,
+      "id": 928,
       "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Inukonda Ravi",
-      "reporting_owner_cik": "0001849709",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2026-01-14",
-      "transaction_shares": "1017",
-      "transaction_price": "7.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "209429"
+      "reporting_owner": "Fang Andy",
+      "reporting_owner_cik": "0001832390",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "10000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "10000"
+    },
+    {
+      "id": 929,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Tang Stanley",
+      "reporting_owner_cik": "0001832614",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "45410",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "45410"
     }
   ]
 }

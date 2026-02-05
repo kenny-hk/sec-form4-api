@@ -1,11 +1,11 @@
 {
   "ticker": "CAT",
-  "last_updated": "2026-02-04T08:54:32.436080",
+  "last_updated": "2026-02-05T08:52:16.758353",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 930,
+      "id": 958,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Fassino Anthony D.",
       "reporting_owner_cik": "0001839757",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "56151"
     },
     {
-      "id": 931,
+      "id": 959,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "De Lange Bob",
       "reporting_owner_cik": "0001694342",
@@ -27,6 +27,18 @@
       "transaction_price": "151.12",
       "transaction_type": "M",
       "shares_after_transaction": "100465"
+    },
+    {
+      "id": 960,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Johnson Denise C",
+      "reporting_owner_cik": "0001608229",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-02-02",
+      "transaction_shares": "11810",
+      "transaction_price": "196.70",
+      "transaction_type": "M",
+      "shares_after_transaction": "55160"
     }
   ]
 }
