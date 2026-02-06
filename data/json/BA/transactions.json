@@ -1,7 +1,32 @@
 {
   "ticker": "BA",
-  "last_updated": "2026-01-13T08:38:14.137570",
+  "last_updated": "2026-02-06T08:50:01.313306",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 360,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "McKenzie Howard E",
+      "reporting_owner_cik": "0001967796",
+      "reporting_owner_position": "Chief Engineer & EVP, ET&T",
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "10496.8180",
+      "transaction_price": "233.9900",
+      "transaction_type": "S",
+      "shares_after_transaction": "14691.8270"
+    },
+    {
+      "id": 359,
+      "issuer_name": "BOEING CO",
+      "reporting_owner": "Amuluru Uma M",
+      "reporting_owner_cik": "0002016263",
+      "reporting_owner_position": "EVP and Chief HR Officer",
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "2731.3480",
+      "transaction_price": "236.0000",
+      "transaction_type": "S",
+      "shares_after_transaction": "11925.0000"
+    }
+  ]
 }

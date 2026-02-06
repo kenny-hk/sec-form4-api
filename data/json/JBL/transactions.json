@@ -1,11 +1,11 @@
 {
   "ticker": "JBL",
-  "last_updated": "2026-02-05T08:52:16.758353",
+  "last_updated": "2026-02-06T08:50:01.313306",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 945,
+      "id": 1006,
       "issuer_name": "JABIL INC",
       "reporting_owner": "Schick Gary K.",
       "reporting_owner_cik": "0002011807",
@@ -15,6 +15,18 @@
       "transaction_price": "236.1700",
       "transaction_type": "S",
       "shares_after_transaction": "42264.0000"
+    },
+    {
+      "id": 1007,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "Renno Rafael",
+      "reporting_owner_cik": "0002108993",
+      "reporting_owner_position": "SVP, Global Business Units",
+      "transaction_date": "2026-01-22",
+      "transaction_shares": "1540.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "16138.0000"
     }
   ]
 }

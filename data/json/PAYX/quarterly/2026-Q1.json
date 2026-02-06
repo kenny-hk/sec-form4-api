@@ -2,11 +2,35 @@
   "ticker": "PAYX",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-05T08:52:16.758353",
-  "count": 1,
+  "last_updated": "2026-02-06T08:50:01.313306",
+  "count": 3,
   "transactions": [
     {
-      "id": 132,
+      "id": 147,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "BONADIO TOM",
+      "reporting_owner_cik": "0001262878",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "1000",
+      "transaction_price": "98.498",
+      "transaction_type": "P",
+      "shares_after_transaction": "21504"
+    },
+    {
+      "id": 148,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "DOODY JOSEPH",
+      "reporting_owner_cik": "0001180658",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "1000",
+      "transaction_price": "98.76",
+      "transaction_type": "P",
+      "shares_after_transaction": "1000"
+    },
+    {
+      "id": 149,
       "issuer_name": "PAYCHEX INC",
       "reporting_owner": "GOLISANO B THOMAS",
       "reporting_owner_cik": "0000903201",
