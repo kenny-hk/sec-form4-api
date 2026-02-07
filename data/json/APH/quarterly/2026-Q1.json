@@ -2,11 +2,23 @@
   "ticker": "APH",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-06T08:50:01.313306",
+  "last_updated": "2026-02-07T08:41:41.602307",
   "count": 2,
   "transactions": [
     {
-      "id": 296,
+      "id": 340,
+      "issuer_name": "AMPHENOL CORP /DE/",
+      "reporting_owner": "Livingston Robert",
+      "reporting_owner_cik": "0001302675",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "10000",
+      "transaction_price": "128.508",
+      "transaction_type": "P",
+      "shares_after_transaction": "135720"
+    },
+    {
+      "id": 341,
       "issuer_name": "AMPHENOL CORP /DE/",
       "reporting_owner": "Ivas Michael R.",
       "reporting_owner_cik": "0001648860",
@@ -16,18 +28,6 @@
       "transaction_price": "22.3725",
       "transaction_type": "M",
       "shares_after_transaction": "179948"
-    },
-    {
-      "id": 295,
-      "issuer_name": "AMPHENOL CORP /DE/",
-      "reporting_owner": "Ivas Michael R.",
-      "reporting_owner_cik": "0001648860",
-      "reporting_owner_position": "VP & Corporate Controller",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "2536",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "154948"
     }
   ]
 }

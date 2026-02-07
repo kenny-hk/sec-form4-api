@@ -2,11 +2,23 @@
   "ticker": "NFLX",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-06T08:50:01.313306",
+  "last_updated": "2026-02-07T08:41:41.602307",
   "count": 7,
   "transactions": [
     {
-      "id": 937,
+      "id": 1084,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "HASTINGS REED",
+      "reporting_owner_cik": "0001033331",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "241944",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "21159576"
+    },
+    {
+      "id": 1070,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "SARANDOS THEODORE A",
       "reporting_owner_cik": "0001393838",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "283422"
     },
     {
-      "id": 945,
+      "id": 1078,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Peters Gregory K",
       "reporting_owner_cik": "0001583109",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "148070"
     },
     {
-      "id": 948,
+      "id": 1081,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Willems Cletus R",
       "reporting_owner_cik": "0002065325",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "3160"
     },
     {
-      "id": 949,
+      "id": 1082,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "Neumann Spencer Adam",
       "reporting_owner_cik": "0001543133",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "82567"
     },
     {
-      "id": 950,
+      "id": 1083,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HYMAN DAVID A",
       "reporting_owner_cik": "0001507747",
@@ -66,7 +78,7 @@
       "shares_after_transaction": "321540"
     },
     {
-      "id": 942,
+      "id": 1075,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HASTINGS REED",
       "reporting_owner_cik": "0001033331",
@@ -76,18 +88,6 @@
       "transaction_price": "10.151",
       "transaction_type": "M",
       "shares_after_transaction": "394910"
-    },
-    {
-      "id": 936,
-      "issuer_name": "NETFLIX INC",
-      "reporting_owner": "Peters Gregory K",
-      "reporting_owner_cik": "0001583109",
-      "reporting_owner_position": "Co-CEO",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "98221",
-      "transaction_price": "82.8728",
-      "transaction_type": "S",
-      "shares_after_transaction": "129700"
     }
   ]
 }
