@@ -1,11 +1,35 @@
 {
   "ticker": "HCA",
-  "last_updated": "2026-02-09T09:09:26.761259",
+  "last_updated": "2026-02-10T09:06:47.862350",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 567,
+      "id": 562,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Foster Jon M",
+      "reporting_owner_cik": "0001513235",
+      "reporting_owner_position": "EVP and COO",
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "29330",
+      "transaction_price": "139.06",
+      "transaction_type": "M",
+      "shares_after_transaction": "29330"
+    },
+    {
+      "id": 564,
+      "issuer_name": "HCA Healthcare, Inc.",
+      "reporting_owner": "Wyatt Christopher F.",
+      "reporting_owner_cik": "0001673365",
+      "reporting_owner_position": "SVP & Controller",
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "10670",
+      "transaction_price": "139.06",
+      "transaction_type": "M",
+      "shares_after_transaction": "51737"
+    },
+    {
+      "id": 561,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "Cuffe Michael S.",
       "reporting_owner_cik": "0001632835",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "30002.9017"
     },
     {
-      "id": 573,
+      "id": 563,
       "issuer_name": "HCA Healthcare, Inc.",
       "reporting_owner": "HAZEN SAMUEL N",
       "reporting_owner_cik": "0001216838",
@@ -27,18 +51,6 @@
       "transaction_price": "502.9482",
       "transaction_type": "S",
       "shares_after_transaction": "60437"
-    },
-    {
-      "id": 569,
-      "issuer_name": "HCA Healthcare, Inc.",
-      "reporting_owner": "HAZEN SAMUEL N",
-      "reporting_owner_cik": "0001216838",
-      "reporting_owner_position": "CEO",
-      "transaction_date": "2026-01-30",
-      "transaction_shares": "84360",
-      "transaction_price": "81.96",
-      "transaction_type": "M",
-      "shares_after_transaction": "116636"
     }
   ]
 }

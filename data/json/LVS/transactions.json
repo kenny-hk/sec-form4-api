@@ -1,11 +1,23 @@
 {
   "ticker": "LVS",
-  "last_updated": "2026-02-09T09:09:26.761259",
+  "last_updated": "2026-02-10T09:06:47.862350",
   "retention_years": 3,
-  "count": 8,
+  "count": 5,
   "transactions": [
     {
-      "id": 576,
+      "id": 567,
+      "issuer_name": "LAS VEGAS SANDS CORP",
+      "reporting_owner": "Goldstein Robert G",
+      "reporting_owner_cik": "0001305337",
+      "reporting_owner_position": "Chairman & CEO",
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "130688",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "65167"
+    },
+    {
+      "id": 566,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Hyzak Randy",
       "reporting_owner_cik": "0001456136",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "87641"
     },
     {
-      "id": 578,
+      "id": 568,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Dumont Patrick",
       "reporting_owner_cik": "0001667998",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "523518"
     },
     {
-      "id": 580,
+      "id": 569,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Goldstein Robert G",
       "reporting_owner_cik": "0001305337",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "195855"
     },
     {
-      "id": 586,
+      "id": 573,
       "issuer_name": "LAS VEGAS SANDS CORP",
       "reporting_owner": "Hudson D. Zachary",
       "reporting_owner_cik": "0001787180",
@@ -51,54 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "45023"
-    },
-    {
-      "id": 577,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Dumont Patrick",
-      "reporting_owner_cik": "0001667998",
-      "reporting_owner_position": "President & COO",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "37649",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "484257"
-    },
-    {
-      "id": 579,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Hudson D. Zachary",
-      "reporting_owner_cik": "0001787180",
-      "reporting_owner_position": "EVP and Global General Counsel",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "10353",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "24088"
-    },
-    {
-      "id": 581,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Hyzak Randy",
-      "reporting_owner_cik": "0001456136",
-      "reporting_owner_position": "EVP & CFO",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "11295",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "64794"
-    },
-    {
-      "id": 582,
-      "issuer_name": "LAS VEGAS SANDS CORP",
-      "reporting_owner": "Goldstein Robert G",
-      "reporting_owner_cik": "0001305337",
-      "reporting_owner_position": "Chairman & CEO",
-      "transaction_date": "2026-01-29",
-      "transaction_shares": "73415",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "73415"
     }
   ]
 }
