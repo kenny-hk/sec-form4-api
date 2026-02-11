@@ -2,11 +2,23 @@
   "ticker": "JCI",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-10T09:06:47.862350",
+  "last_updated": "2026-02-11T08:59:10.861971",
   "count": 2,
   "transactions": [
     {
-      "id": 370,
+      "id": 309,
+      "issuer_name": "Johnson Controls International plc",
+      "reporting_owner": "Grabowski Todd M",
+      "reporting_owner_cik": "0002088850",
+      "reporting_owner_position": "VP and President, Americas",
+      "transaction_date": "2026-02-06",
+      "transaction_shares": "5000",
+      "transaction_price": "134.75",
+      "transaction_type": "S",
+      "shares_after_transaction": "35886.42"
+    },
+    {
+      "id": 310,
       "issuer_name": "Johnson Controls International plc",
       "reporting_owner": "Vergnano Mark",
       "reporting_owner_cik": "0001474107",
@@ -16,18 +28,6 @@
       "transaction_price": "131.94",
       "transaction_type": "P",
       "shares_after_transaction": "37602.17"
-    },
-    {
-      "id": 369,
-      "issuer_name": "Johnson Controls International plc",
-      "reporting_owner": "Vandiepenbeeck Marc",
-      "reporting_owner_cik": "0001988129",
-      "reporting_owner_position": "EVP and CFO",
-      "transaction_date": "2026-02-01",
-      "transaction_shares": "3186",
-      "transaction_price": "119.26",
-      "transaction_type": "F",
-      "shares_after_transaction": "145620.76"
     }
   ]
 }

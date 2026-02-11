@@ -1,11 +1,23 @@
 {
   "ticker": "PCAR",
-  "last_updated": "2026-02-10T09:06:47.862350",
+  "last_updated": "2026-02-11T08:59:10.861971",
   "retention_years": 3,
-  "count": 5,
+  "count": 2,
   "transactions": [
     {
-      "id": 279,
+      "id": 225,
+      "issuer_name": "PACCAR INC",
+      "reporting_owner": "FEIGHT R PRESTON",
+      "reporting_owner_cik": "0001664294",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2026-02-09",
+      "transaction_shares": "15625.0000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "242941.0000"
+    },
+    {
+      "id": 231,
       "issuer_name": "PACCAR INC",
       "reporting_owner": "FEIGHT R PRESTON",
       "reporting_owner_cik": "0001664294",
@@ -15,54 +27,6 @@
       "transaction_price": "62.8667",
       "transaction_type": "M",
       "shares_after_transaction": "267824.0000"
-    },
-    {
-      "id": 276,
-      "issuer_name": "PACCAR INC",
-      "reporting_owner": "Bloch Laura J",
-      "reporting_owner_cik": "0002050054",
-      "reporting_owner_position": "Senior Vice President",
-      "transaction_date": "2026-02-03",
-      "transaction_shares": "8832.0000",
-      "transaction_price": "62.8667",
-      "transaction_type": "M",
-      "shares_after_transaction": "14934.0000"
-    },
-    {
-      "id": 278,
-      "issuer_name": "PACCAR INC",
-      "reporting_owner": "DOZIER C MICHAEL",
-      "reporting_owner_cik": "0001670013",
-      "reporting_owner_position": "EXECUTIVE VICE PRESIDENT",
-      "transaction_date": "2026-02-03",
-      "transaction_shares": "38900.0000",
-      "transaction_price": "71.9500",
-      "transaction_type": "M",
-      "shares_after_transaction": "73556.0000"
-    },
-    {
-      "id": 280,
-      "issuer_name": "PACCAR INC",
-      "reporting_owner": "BANEY KEVIN D",
-      "reporting_owner_cik": "0001784603",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2026-02-03",
-      "transaction_shares": "9672.0000",
-      "transaction_price": "50.7867",
-      "transaction_type": "M",
-      "shares_after_transaction": "22264.0000"
-    },
-    {
-      "id": 277,
-      "issuer_name": "PACCAR INC",
-      "reporting_owner": "FEIGHT R PRESTON",
-      "reporting_owner_cik": "0001664294",
-      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
-      "transaction_date": "2026-01-30",
-      "transaction_shares": "9258.0000",
-      "transaction_price": "62.8667",
-      "transaction_type": "M",
-      "shares_after_transaction": "253691.0000"
     }
   ]
 }

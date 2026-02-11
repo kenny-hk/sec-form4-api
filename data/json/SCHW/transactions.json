@@ -1,11 +1,35 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2026-02-10T09:06:47.862350",
+  "last_updated": "2026-02-11T08:59:10.861971",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
-      "id": 513,
+      "id": 419,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "DODDS CHRISTOPHER V",
+      "reporting_owner_cik": "0001186004",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-06",
+      "transaction_shares": "4390",
+      "transaction_price": "73",
+      "transaction_type": "M",
+      "shares_after_transaction": "453796"
+    },
+    {
+      "id": 420,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Bettinger Walter W",
+      "reporting_owner_cik": "0001296479",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2026-02-06",
+      "transaction_shares": "67514",
+      "transaction_price": "42.99",
+      "transaction_type": "M",
+      "shares_after_transaction": "596860"
+    },
+    {
+      "id": 418,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Bettinger Walter W",
       "reporting_owner_cik": "0001296479",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "691808"
     },
     {
-      "id": 514,
+      "id": 421,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -27,18 +51,6 @@
       "transaction_price": "103.7364",
       "transaction_type": "S",
       "shares_after_transaction": "55850704"
-    },
-    {
-      "id": 515,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Morgan Peter J. III",
-      "reporting_owner_cik": "0001792910",
-      "reporting_owner_position": "General Counsel",
-      "transaction_date": "2026-02-02",
-      "transaction_shares": "7595",
-      "transaction_price": "66.47",
-      "transaction_type": "M",
-      "shares_after_transaction": "7595"
     }
   ]
 }
