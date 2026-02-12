@@ -2,11 +2,35 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-11T08:59:10.861971",
-  "count": 1,
+  "last_updated": "2026-02-12T08:57:48.989764",
+  "count": 3,
   "transactions": [
     {
-      "id": 206,
+      "id": 201,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Blackmon Robin Littrell",
+      "reporting_owner_cik": "0002005284",
+      "reporting_owner_position": "SVP, Chief Accounting Officer",
+      "transaction_date": "2026-02-09",
+      "transaction_shares": "290",
+      "transaction_price": "113.20",
+      "transaction_type": "F",
+      "shares_after_transaction": "6807"
+    },
+    {
+      "id": 203,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Broden Max",
+      "reporting_owner_cik": "0001703138",
+      "reporting_owner_position": "Sr. EVP, CFO",
+      "transaction_date": "2026-02-09",
+      "transaction_shares": "2290",
+      "transaction_price": "113.20",
+      "transaction_type": "F",
+      "shares_after_transaction": "119772"
+    },
+    {
+      "id": 202,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Broden Max",
       "reporting_owner_cik": "0001703138",
