@@ -2,11 +2,23 @@
   "ticker": "PHM",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-12T08:57:48.989764",
-  "count": 8,
+  "last_updated": "2026-02-13T08:52:42.081986",
+  "count": 9,
   "transactions": [
     {
-      "id": 17,
+      "id": 219,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "GANNON KRISTIN F.",
+      "reporting_owner_cik": "0001613621",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "292",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "292"
+    },
+    {
+      "id": 214,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "FOLLIARD THOMAS J",
       "reporting_owner_cik": "0001223841",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8230"
     },
     {
-      "id": 14,
+      "id": 215,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "O'Meara Brien P.",
       "reporting_owner_cik": "0001803124",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "13557"
     },
     {
-      "id": 15,
+      "id": 216,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "MARSHALL RYAN",
       "reporting_owner_cik": "0001550667",
@@ -42,7 +54,19 @@
       "shares_after_transaction": "795285"
     },
     {
-      "id": 16,
+      "id": 217,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "Sheldon Todd N",
+      "reporting_owner_cik": "0001573233",
+      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "15535",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "86405"
+    },
+    {
+      "id": 218,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "Koart Matthew William",
       "reporting_owner_cik": "0001978932",
@@ -54,31 +78,7 @@
       "shares_after_transaction": "62371"
     },
     {
-      "id": 18,
-      "issuer_name": "PULTEGROUP INC/MI/",
-      "reporting_owner": "HENRY KEVIN A",
-      "reporting_owner_cik": "0001222739",
-      "reporting_owner_position": "EVP and Chief People Officer",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "9304",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "21041"
-    },
-    {
-      "id": 19,
-      "issuer_name": "PULTEGROUP INC/MI/",
-      "reporting_owner": "OSSOWSKI JAMES L",
-      "reporting_owner_cik": "0001568260",
-      "reporting_owner_position": "Exec VP and CFO",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "8112",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "20055"
-    },
-    {
-      "id": 20,
+      "id": 220,
       "issuer_name": "PULTEGROUP INC/MI/",
       "reporting_owner": "OShaughnessy Robert",
       "reporting_owner_cik": "0001355763",
@@ -90,16 +90,28 @@
       "shares_after_transaction": "89849"
     },
     {
-      "id": 21,
+      "id": 221,
       "issuer_name": "PULTEGROUP INC/MI/",
-      "reporting_owner": "Sheldon Todd N",
-      "reporting_owner_cik": "0001573233",
-      "reporting_owner_position": "EVP, Gen Counsel, Corp Sec'y",
+      "reporting_owner": "OSSOWSKI JAMES L",
+      "reporting_owner_cik": "0001568260",
+      "reporting_owner_position": "Exec VP and CFO",
       "transaction_date": "2026-02-04",
-      "transaction_shares": "15535",
+      "transaction_shares": "8112",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "86405"
+      "shares_after_transaction": "20055"
+    },
+    {
+      "id": 222,
+      "issuer_name": "PULTEGROUP INC/MI/",
+      "reporting_owner": "HENRY KEVIN A",
+      "reporting_owner_cik": "0001222739",
+      "reporting_owner_position": "EVP and Chief People Officer",
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "9304",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "21041"
     }
   ]
 }

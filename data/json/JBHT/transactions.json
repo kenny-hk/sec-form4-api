@@ -1,11 +1,23 @@
 {
   "ticker": "JBHT",
-  "last_updated": "2026-02-12T08:57:48.989764",
+  "last_updated": "2026-02-13T08:52:42.081986",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 1054,
+      "id": 766,
+      "issuer_name": "HUNT J B TRANSPORT SERVICES INC",
+      "reporting_owner": "THOMPSON JAMES K",
+      "reporting_owner_cik": "0001190258",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "400.00",
+      "transaction_price": "0.00",
+      "transaction_type": "G",
+      "shares_after_transaction": "22859.45"
+    },
+    {
+      "id": 767,
       "issuer_name": "HUNT J B TRANSPORT SERVICES INC",
       "reporting_owner": "Delco Albert Brad",
       "reporting_owner_cik": "0002084757",
@@ -15,30 +27,6 @@
       "transaction_price": "227.25",
       "transaction_type": "S",
       "shares_after_transaction": "6983.00"
-    },
-    {
-      "id": 1052,
-      "issuer_name": "HUNT J B TRANSPORT SERVICES INC",
-      "reporting_owner": "Woodruff Ronald Greer",
-      "reporting_owner_cik": "0002006590",
-      "reporting_owner_position": "EVP Safety, ESG, Maintenance",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "331.00",
-      "transaction_price": "225.57",
-      "transaction_type": "S",
-      "shares_after_transaction": "4019.00"
-    },
-    {
-      "id": 1053,
-      "issuer_name": "HUNT J B TRANSPORT SERVICES INC",
-      "reporting_owner": "Kuhlow John",
-      "reporting_owner_cik": "0001532918",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "1000.00",
-      "transaction_price": "225.675",
-      "transaction_type": "S",
-      "shares_after_transaction": "17931.00"
     }
   ]
 }

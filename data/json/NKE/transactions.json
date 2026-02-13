@@ -1,20 +1,32 @@
 {
   "ticker": "NKE",
-  "last_updated": "2026-02-11T08:59:10.861971",
+  "last_updated": "2026-02-13T08:52:42.081986",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 616,
+      "id": 1159,
       "issuer_name": "NIKE, Inc.",
-      "reporting_owner": "KNIGHT PHILIP H",
-      "reporting_owner_cik": "0000903855",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-02",
-      "transaction_shares": "4500000",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "12835687"
+      "reporting_owner": "Heinle Treasure",
+      "reporting_owner_cik": "0002050162",
+      "reporting_owner_position": "EVP: CHIEF PEOPLE OFFICER",
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "853",
+      "transaction_price": "62.41",
+      "transaction_type": "F",
+      "shares_after_transaction": "59759.489"
+    },
+    {
+      "id": 1160,
+      "issuer_name": "NIKE, Inc.",
+      "reporting_owner": "Leinwand Robert",
+      "reporting_owner_cik": "0002044264",
+      "reporting_owner_position": "EVP: Chief Legal Officer",
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "4647",
+      "transaction_price": "62.41",
+      "transaction_type": "F",
+      "shares_after_transaction": "70727.2318"
     }
   ]
 }

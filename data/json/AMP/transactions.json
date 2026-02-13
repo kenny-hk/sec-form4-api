@@ -1,11 +1,23 @@
 {
   "ticker": "AMP",
-  "last_updated": "2026-02-12T08:57:48.989764",
+  "last_updated": "2026-02-13T08:52:42.081986",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 326,
+      "id": 1235,
+      "issuer_name": "AMERIPRISE FINANCIAL INC",
+      "reporting_owner": "TRUSCOTT WILLIAM F",
+      "reporting_owner_cik": "0001282835",
+      "reporting_owner_position": "CEO, GLOBAL ASSET MANAGEMENT",
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "5000",
+      "transaction_price": "532.08",
+      "transaction_type": "S",
+      "shares_after_transaction": "12149"
+    },
+    {
+      "id": 1237,
       "issuer_name": "AMERIPRISE FINANCIAL INC",
       "reporting_owner": "Alvero Gumer",
       "reporting_owner_cik": "0001915877",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "9364"
     },
     {
-      "id": 323,
+      "id": 1236,
       "issuer_name": "AMERIPRISE FINANCIAL INC",
       "reporting_owner": "Berman Walter Stanley",
       "reporting_owner_cik": "0001335761",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "5609"
     },
     {
-      "id": 327,
+      "id": 1239,
       "issuer_name": "AMERIPRISE FINANCIAL INC",
       "reporting_owner": "CRACCHIOLO JAMES M",
       "reporting_owner_cik": "0001196484",
@@ -39,18 +51,6 @@
       "transaction_price": "540.1052",
       "transaction_type": "S",
       "shares_after_transaction": "149310"
-    },
-    {
-      "id": 328,
-      "issuer_name": "AMERIPRISE FINANCIAL INC",
-      "reporting_owner": "MELLOH HEATHER J.",
-      "reporting_owner_cik": "0001935239",
-      "reporting_owner_position": "EVP AND GENERAL COUNSEL",
-      "transaction_date": "2026-01-27",
-      "transaction_shares": "999",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "3990"
     }
   ]
 }

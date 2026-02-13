@@ -2,11 +2,47 @@
   "ticker": "TXN",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-12T08:57:48.989764",
-  "count": 3,
+  "last_updated": "2026-02-13T08:52:42.081986",
+  "count": 6,
   "transactions": [
     {
-      "id": 997,
+      "id": 447,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "BAHAI AHMAD",
+      "reporting_owner_cik": "0001498135",
+      "reporting_owner_position": "Sr. Vice President",
+      "transaction_date": "2026-02-11",
+      "transaction_shares": "6500",
+      "transaction_price": "79.26",
+      "transaction_type": "M",
+      "shares_after_transaction": "48988"
+    },
+    {
+      "id": 445,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "Gary Mark",
+      "reporting_owner_cik": "0001821977",
+      "reporting_owner_position": "Sr. Vice President",
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "10248",
+      "transaction_price": "220.8331",
+      "transaction_type": "S",
+      "shares_after_transaction": "45547"
+    },
+    {
+      "id": 446,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "Lizardi Rafael R",
+      "reporting_owner_cik": "0001691660",
+      "reporting_owner_position": "Sr. Vice President & CFO",
+      "transaction_date": "2026-02-10",
+      "transaction_shares": "64532",
+      "transaction_price": "130.52",
+      "transaction_type": "M",
+      "shares_after_transaction": "157082"
+    },
+    {
+      "id": 443,
       "issuer_name": "TEXAS INSTRUMENTS INC",
       "reporting_owner": "Roberts Mark T.",
       "reporting_owner_cik": "0001859255",
@@ -18,19 +54,7 @@
       "shares_after_transaction": "64058"
     },
     {
-      "id": 995,
-      "issuer_name": "TEXAS INSTRUMENTS INC",
-      "reporting_owner": "BAHAI AHMAD",
-      "reporting_owner_cik": "0001498135",
-      "reporting_owner_position": "Sr. Vice President",
-      "transaction_date": "2026-02-05",
-      "transaction_shares": "3000",
-      "transaction_price": "79.26",
-      "transaction_type": "M",
-      "shares_after_transaction": "45488"
-    },
-    {
-      "id": 996,
+      "id": 442,
       "issuer_name": "TEXAS INSTRUMENTS INC",
       "reporting_owner": "BLINN MARK A",
       "reporting_owner_cik": "0001129149",
@@ -40,6 +64,18 @@
       "transaction_price": "174.81",
       "transaction_type": "M",
       "shares_after_transaction": "12870"
+    },
+    {
+      "id": 444,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "BAHAI AHMAD",
+      "reporting_owner_cik": "0001498135",
+      "reporting_owner_position": "Sr. Vice President",
+      "transaction_date": "2026-02-05",
+      "transaction_shares": "3000",
+      "transaction_price": "79.26",
+      "transaction_type": "M",
+      "shares_after_transaction": "45488"
     }
   ]
 }

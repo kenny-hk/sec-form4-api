@@ -1,11 +1,11 @@
 {
   "ticker": "SYK",
-  "last_updated": "2026-02-12T08:57:48.989764",
+  "last_updated": "2026-02-13T08:52:42.081986",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 934,
+      "id": 1075,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Lobo Kevin",
       "reporting_owner_cik": "0001519419",
@@ -17,7 +17,19 @@
       "shares_after_transaction": "329350"
     },
     {
-      "id": 927,
+      "id": 1066,
+      "issuer_name": "STRYKER CORP",
+      "reporting_owner": "STRYKER RONDA E",
+      "reporting_owner_cik": "0001242914",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-04",
+      "transaction_shares": "14437",
+      "transaction_price": "358.509",
+      "transaction_type": "S",
+      "shares_after_transaction": "2692894"
+    },
+    {
+      "id": 1071,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Berry William E Jr",
       "reporting_owner_cik": "0001600806",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "3602"
     },
     {
-      "id": 930,
+      "id": 1073,
       "issuer_name": "STRYKER CORP",
       "reporting_owner": "Pierce James Andrew",
       "reporting_owner_cik": "0001886518",
@@ -39,18 +51,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "73334"
-    },
-    {
-      "id": 932,
-      "issuer_name": "STRYKER CORP",
-      "reporting_owner": "STRYKER RONDA E",
-      "reporting_owner_cik": "0001242914",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "14437",
-      "transaction_price": "358.509",
-      "transaction_type": "S",
-      "shares_after_transaction": "2692894"
     }
   ]
 }
