@@ -2,20 +2,32 @@
   "ticker": "CMCSA",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-12T08:57:48.989764",
-  "count": 1,
+  "last_updated": "2026-02-14T08:43:06.508845",
+  "count": 2,
   "transactions": [
     {
-      "id": 994,
+      "id": 618,
       "issuer_name": "COMCAST CORP",
-      "reporting_owner": "Smith Gordon",
-      "reporting_owner_cik": "0001311487",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "7869.0000",
-      "transaction_price": "0.0000",
-      "transaction_type": "A",
-      "shares_after_transaction": "7869.0000"
+      "reporting_owner": "ROBERTS BRIAN L",
+      "reporting_owner_cik": "0001063948",
+      "reporting_owner_position": "Chairman of Board & Co-CEO",
+      "transaction_date": "2026-02-11",
+      "transaction_shares": "984320.0000",
+      "transaction_price": "28.3800",
+      "transaction_type": "M",
+      "shares_after_transaction": "6801045.5260"
+    },
+    {
+      "id": 619,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Cavanagh Michael J",
+      "reporting_owner_cik": "0001304481",
+      "reporting_owner_position": "Co-CEO",
+      "transaction_date": "2026-02-11",
+      "transaction_shares": "294495.0000",
+      "transaction_price": "28.3800",
+      "transaction_type": "M",
+      "shares_after_transaction": "333128.0000"
     }
   ]
 }

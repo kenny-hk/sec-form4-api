@@ -1,11 +1,23 @@
 {
   "ticker": "GS",
-  "last_updated": "2026-02-13T08:52:42.081986",
+  "last_updated": "2026-02-14T08:43:06.508845",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 1203,
+      "id": 1270,
+      "issuer_name": "GOLDMAN SACHS GROUP INC",
+      "reporting_owner": "ROGERS JOHN F.W.",
+      "reporting_owner_cik": "0001517277",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-02-11",
+      "transaction_shares": "1461",
+      "transaction_price": "950.16",
+      "transaction_type": "S",
+      "shares_after_transaction": "50697"
+    },
+    {
+      "id": 1269,
       "issuer_name": "GOLDMAN SACHS GROUP INC",
       "reporting_owner": "COLEMAN DENIS P.",
       "reporting_owner_cik": "0001900188",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "40377"
     },
     {
-      "id": 1204,
+      "id": 1271,
       "issuer_name": "GOLDMAN SACHS GROUP INC",
       "reporting_owner": "GOLTEN ALEX S",
       "reporting_owner_cik": "0002050849",

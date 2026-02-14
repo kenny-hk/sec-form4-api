@@ -2,11 +2,23 @@
   "ticker": "AXP",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-13T08:52:42.081986",
-  "count": 4,
+  "last_updated": "2026-02-14T08:43:06.508845",
+  "count": 3,
   "transactions": [
     {
-      "id": 148,
+      "id": 159,
+      "issuer_name": "AMERICAN EXPRESS CO",
+      "reporting_owner": "Grosfield Howard",
+      "reporting_owner_cik": "0001957990",
+      "reporting_owner_position": "Group Pres., U.S. Cons. Serv.",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "8134",
+      "transaction_price": "346.73",
+      "transaction_type": "S",
+      "shares_after_transaction": "9433.089"
+    },
+    {
+      "id": 158,
       "issuer_name": "AMERICAN EXPRESS CO",
       "reporting_owner": "Radhakrishnan Ravikumar",
       "reporting_owner_cik": "0001909342",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "15583.141"
     },
     {
-      "id": 150,
+      "id": 160,
       "issuer_name": "AMERICAN EXPRESS CO",
       "reporting_owner": "Seeger Laureen",
       "reporting_owner_cik": "0001357325",
@@ -28,30 +40,6 @@
       "transaction_price": "360.99",
       "transaction_type": "S",
       "shares_after_transaction": "9001.577"
-    },
-    {
-      "id": 147,
-      "issuer_name": "AMERICAN EXPRESS CO",
-      "reporting_owner": "Pickett Denise",
-      "reporting_owner_cik": "0001730101",
-      "reporting_owner_position": "Pres., Enterprise Shared Serv.",
-      "transaction_date": "2026-02-05",
-      "transaction_shares": "12660",
-      "transaction_price": "173.61",
-      "transaction_type": "M",
-      "shares_after_transaction": "31138.936"
-    },
-    {
-      "id": 149,
-      "issuer_name": "AMERICAN EXPRESS CO",
-      "reporting_owner": "Marrs Anna",
-      "reporting_owner_cik": "0001753557",
-      "reporting_owner_position": "Group Pres., GMNS",
-      "transaction_date": "2026-02-05",
-      "transaction_shares": "14992",
-      "transaction_price": "173.61",
-      "transaction_type": "M",
-      "shares_after_transaction": "47818.52"
     }
   ]
 }

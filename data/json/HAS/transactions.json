@@ -1,7 +1,44 @@
 {
   "ticker": "HAS",
-  "last_updated": "2026-01-12T08:43:04.513787",
+  "last_updated": "2026-02-14T08:43:06.508845",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 809,
+      "issuer_name": "HASBRO, INC.",
+      "reporting_owner": "Sibley Tarrant L.",
+      "reporting_owner_cik": "0001741644",
+      "reporting_owner_position": "EVP, CLO and Corp Secretary",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "15148",
+      "transaction_price": "86.66",
+      "transaction_type": "M",
+      "shares_after_transaction": "65321.97"
+    },
+    {
+      "id": 810,
+      "issuer_name": "HASBRO, INC.",
+      "reporting_owner": "GOETTER GINA M",
+      "reporting_owner_cik": "0001828057",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "12429",
+      "transaction_price": "103.457",
+      "transaction_type": "S",
+      "shares_after_transaction": "68221"
+    },
+    {
+      "id": 811,
+      "issuer_name": "HASBRO, INC.",
+      "reporting_owner": "Bunge Jason M",
+      "reporting_owner_cik": "0002071125",
+      "reporting_owner_position": "Chief Marketing Officer",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "2380",
+      "transaction_price": "106.0259",
+      "transaction_type": "S",
+      "shares_after_transaction": "35005"
+    }
+  ]
 }

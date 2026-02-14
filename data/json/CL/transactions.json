@@ -1,11 +1,23 @@
 {
   "ticker": "CL",
-  "last_updated": "2026-02-13T08:52:42.081986",
+  "last_updated": "2026-02-14T08:43:06.508845",
   "retention_years": 3,
-  "count": 6,
+  "count": 4,
   "transactions": [
     {
-      "id": 837,
+      "id": 878,
+      "issuer_name": "COLGATE PALMOLIVE CO",
+      "reporting_owner": "Tsourapas Panagiotis",
+      "reporting_owner_cik": "0001576945",
+      "reporting_owner_position": "COO, Eur., APac, Afr Eur, Skin",
+      "transaction_date": "2026-02-11",
+      "transaction_shares": "35000.0000",
+      "transaction_price": "76.4100",
+      "transaction_type": "M",
+      "shares_after_transaction": "45415.0000"
+    },
+    {
+      "id": 880,
       "issuer_name": "COLGATE PALMOLIVE CO",
       "reporting_owner": "Hazlin John",
       "reporting_owner_cik": "0002072169",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "38634.0000"
     },
     {
-      "id": 839,
+      "id": 881,
       "issuer_name": "COLGATE PALMOLIVE CO",
       "reporting_owner": "Malcolm Gregory",
       "reporting_owner_cik": "0001934254",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "24626.0000"
     },
     {
-      "id": 834,
+      "id": 879,
       "issuer_name": "COLGATE PALMOLIVE CO",
       "reporting_owner": "Massey Sally",
       "reporting_owner_cik": "0001815662",
@@ -39,42 +51,6 @@
       "transaction_price": "76.4100",
       "transaction_type": "M",
       "shares_after_transaction": "29602.0000"
-    },
-    {
-      "id": 835,
-      "issuer_name": "COLGATE PALMOLIVE CO",
-      "reporting_owner": "Wallace Noel R.",
-      "reporting_owner_cik": "0001464265",
-      "reporting_owner_position": "Chairman, President & CEO",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "45568.0000",
-      "transaction_price": "93.9145",
-      "transaction_type": "S",
-      "shares_after_transaction": "293188.0000"
-    },
-    {
-      "id": 836,
-      "issuer_name": "COLGATE PALMOLIVE CO",
-      "reporting_owner": "Daniels Jennifer",
-      "reporting_owner_cik": "0001410523",
-      "reporting_owner_position": "CLO and Secretary",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "22000.0000",
-      "transaction_price": "72.2900",
-      "transaction_type": "M",
-      "shares_after_transaction": "98406.0000"
-    },
-    {
-      "id": 838,
-      "issuer_name": "COLGATE PALMOLIVE CO",
-      "reporting_owner": "SUTULA STANLEY J III",
-      "reporting_owner_cik": "0001629897",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "97843.0000",
-      "transaction_price": "81.7800",
-      "transaction_type": "M",
-      "shares_after_transaction": "153153.0000"
     }
   ]
 }
