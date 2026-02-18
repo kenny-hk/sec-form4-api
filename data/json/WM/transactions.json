@@ -1,11 +1,35 @@
 {
   "ticker": "WM",
-  "last_updated": "2026-02-17T08:56:34.228431",
+  "last_updated": "2026-02-18T08:57:17.465797",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 1043,
+      "id": 1150,
+      "issuer_name": "WASTE MANAGEMENT INC",
+      "reporting_owner": "Smith Donald J",
+      "reporting_owner_cik": "0001957534",
+      "reporting_owner_position": "Sr. VP - Operations",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "2465.0000",
+      "transaction_price": "126.0050",
+      "transaction_type": "M",
+      "shares_after_transaction": "15841.0000"
+    },
+    {
+      "id": 1149,
+      "issuer_name": "WASTE MANAGEMENT INC",
+      "reporting_owner": "Carrasco Rafael",
+      "reporting_owner_cik": "0001870418",
+      "reporting_owner_position": "SVP of Enterprise Strategy",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "7352.0000",
+      "transaction_price": "234.5011",
+      "transaction_type": "S",
+      "shares_after_transaction": "15539.7420"
+    },
+    {
+      "id": 1148,
       "issuer_name": "WASTE MANAGEMENT INC",
       "reporting_owner": "Carroll John A.",
       "reporting_owner_cik": "0001967811",
@@ -15,18 +39,6 @@
       "transaction_price": "234.7052",
       "transaction_type": "S",
       "shares_after_transaction": "8309.3039"
-    },
-    {
-      "id": 1044,
-      "issuer_name": "WASTE MANAGEMENT INC",
-      "reporting_owner": "Fish James C Jr",
-      "reporting_owner_cik": "0001523568",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-02-06",
-      "transaction_shares": "657.0000",
-      "transaction_price": "230.0000",
-      "transaction_type": "S",
-      "shares_after_transaction": "256183.0000"
     }
   ]
 }

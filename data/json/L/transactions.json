@@ -1,11 +1,23 @@
 {
   "ticker": "L",
-  "last_updated": "2026-02-17T08:56:34.228431",
+  "last_updated": "2026-02-18T08:57:17.465797",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 233,
+      "id": 234,
+      "issuer_name": "LOEWS CORP",
+      "reporting_owner": "TISCH ANDREW H",
+      "reporting_owner_cik": "0001009879",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "50000",
+      "transaction_price": "110.27",
+      "transaction_type": "S",
+      "shares_after_transaction": "12859642"
+    },
+    {
+      "id": 237,
       "issuer_name": "LOEWS CORP",
       "reporting_owner": "BERMAN ANN E",
       "reporting_owner_cik": "0001349408",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "4998"
     },
     {
-      "id": 235,
+      "id": 239,
       "issuer_name": "LOEWS CORP",
       "reporting_owner": "Alpert Marc A",
       "reporting_owner_cik": "0001680117",

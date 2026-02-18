@@ -1,11 +1,23 @@
 {
   "ticker": "DECK",
-  "last_updated": "2026-02-17T08:56:34.228431",
+  "last_updated": "2026-02-18T08:57:17.465797",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 634,
+      "id": 682,
+      "issuer_name": "DECKERS OUTDOOR CORP",
+      "reporting_owner": "Shanahan Lauri M",
+      "reporting_owner_cik": "0001325277",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "4682",
+      "transaction_price": "114.84",
+      "transaction_type": "S",
+      "shares_after_transaction": "25026"
+    },
+    {
+      "id": 683,
       "issuer_name": "DECKERS OUTDOOR CORP",
       "reporting_owner": "Spring-Green Robin",
       "reporting_owner_cik": "0002011893",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "42461"
     },
     {
-      "id": 635,
+      "id": 684,
       "issuer_name": "DECKERS OUTDOOR CORP",
       "reporting_owner": "Spangenberg Anne",
       "reporting_owner_cik": "0001938585",
@@ -27,18 +39,6 @@
       "transaction_price": "116.02",
       "transaction_type": "S",
       "shares_after_transaction": "80449"
-    },
-    {
-      "id": 636,
-      "issuer_name": "DECKERS OUTDOOR CORP",
-      "reporting_owner": "Fasching Steven J.",
-      "reporting_owner_cik": "0001745370",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-02-06",
-      "transaction_shares": "1079",
-      "transaction_price": "0",
-      "transaction_type": "F",
-      "shares_after_transaction": "166662"
     }
   ]
 }
