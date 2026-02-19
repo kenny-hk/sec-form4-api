@@ -2,11 +2,23 @@
   "ticker": "MCK",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-18T08:57:17.465797",
+  "last_updated": "2026-02-19T08:56:19.269731",
   "count": 3,
   "transactions": [
     {
-      "id": 901,
+      "id": 1127,
+      "issuer_name": "MCKESSON CORP",
+      "reporting_owner": "Smith LeAnn B",
+      "reporting_owner_cik": "0001955547",
+      "reporting_owner_position": "EVP & Chief HR Officer",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "190",
+      "transaction_price": "945",
+      "transaction_type": "S",
+      "shares_after_transaction": "2989"
+    },
+    {
+      "id": 1125,
       "issuer_name": "MCKESSON CORP",
       "reporting_owner": "Lau Michele",
       "reporting_owner_cik": "0001872240",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "5972"
     },
     {
-      "id": 902,
+      "id": 1126,
       "issuer_name": "MCKESSON CORP",
       "reporting_owner": "Smith LeAnn B",
       "reporting_owner_cik": "0001955547",
@@ -28,18 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "3308"
-    },
-    {
-      "id": 903,
-      "issuer_name": "MCKESSON CORP",
-      "reporting_owner": "Lau Michele",
-      "reporting_owner_cik": "0001872240",
-      "reporting_owner_position": "EVP and Chief Legal Officer",
-      "transaction_date": "2026-02-09",
-      "transaction_shares": "3990",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "7237"
     }
   ]
 }

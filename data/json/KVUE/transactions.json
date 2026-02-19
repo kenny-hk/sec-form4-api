@@ -1,20 +1,56 @@
 {
   "ticker": "KVUE",
-  "last_updated": "2026-02-17T08:56:34.228431",
+  "last_updated": "2026-02-19T08:56:19.269731",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 937,
+      "id": 1210,
+      "issuer_name": "Kenvue Inc.",
+      "reporting_owner": "Howlett Heather",
+      "reporting_owner_cik": "0001805274",
+      "reporting_owner_position": "VP & Chief Accounting Officer",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "12016",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "33284.02"
+    },
+    {
+      "id": 1211,
       "issuer_name": "Kenvue Inc.",
       "reporting_owner": "Alvarado Luani",
       "reporting_owner_cik": "0001967089",
       "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2026-02-06",
-      "transaction_shares": "85534",
-      "transaction_price": "13.76",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "14120",
+      "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "118183.14"
+      "shares_after_transaction": "60722.14"
+    },
+    {
+      "id": 1212,
+      "issuer_name": "Kenvue Inc.",
+      "reporting_owner": "Stevens Meredith",
+      "reporting_owner_cik": "0001967093",
+      "reporting_owner_position": "Chief Operations Officer",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "24825",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "90862.18"
+    },
+    {
+      "id": 1213,
+      "issuer_name": "Kenvue Inc.",
+      "reporting_owner": "Lawson Carlton",
+      "reporting_owner_cik": "0001967003",
+      "reporting_owner_position": "Group President EMEA & LA",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "4519",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "62614.03"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "NTRS",
-  "last_updated": "2026-02-18T08:57:17.465797",
+  "last_updated": "2026-02-19T08:56:19.269731",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 821,
+      "id": 1045,
+      "issuer_name": "NORTHERN TRUST CORP",
+      "reporting_owner": "Tyler Jason J.",
+      "reporting_owner_cik": "0001664676",
+      "reporting_owner_position": "President/Wealth Management",
+      "transaction_date": "2026-02-13",
+      "transaction_shares": "4599",
+      "transaction_price": "58.25",
+      "transaction_type": "M",
+      "shares_after_transaction": "84293"
+    },
+    {
+      "id": 1043,
       "issuer_name": "NORTHERN TRUST CORP",
       "reporting_owner": "Bellows Clive",
       "reporting_owner_cik": "0002027224",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "34133"
     },
     {
-      "id": 822,
+      "id": 1044,
       "issuer_name": "NORTHERN TRUST CORP",
       "reporting_owner": "Gibson Guy",
       "reporting_owner_cik": "0002104487",

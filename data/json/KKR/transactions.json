@@ -1,20 +1,44 @@
 {
   "ticker": "KKR",
-  "last_updated": "2026-02-18T08:57:17.465797",
+  "last_updated": "2026-02-19T08:56:19.269731",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 700,
+      "id": 868,
       "issuer_name": "KKR & Co. Inc.",
-      "reporting_owner": "BARAKETT TIMOTHY R",
-      "reporting_owner_cik": "0001039546",
+      "reporting_owner": "Cohler Matt",
+      "reporting_owner_cik": "0001572685",
       "reporting_owner_position": null,
-      "transaction_date": "2026-02-09",
-      "transaction_shares": "50000",
-      "transaction_price": "104.93",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "43872",
+      "transaction_price": "102.9",
       "transaction_type": "P",
-      "shares_after_transaction": "235000"
+      "shares_after_transaction": "45477"
+    },
+    {
+      "id": 869,
+      "issuer_name": "KKR & Co. Inc.",
+      "reporting_owner": "NUTTALL SCOTT C",
+      "reporting_owner_cik": "0001207606",
+      "reporting_owner_position": "Co-Chief Executive Officer",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "34761",
+      "transaction_price": "102.13",
+      "transaction_type": "P",
+      "shares_after_transaction": "15413509"
+    },
+    {
+      "id": 870,
+      "issuer_name": "KKR & Co. Inc.",
+      "reporting_owner": "BAE JOSEPH Y",
+      "reporting_owner_cik": "0001208917",
+      "reporting_owner_position": "Co-Chief Executive Officer",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "22801",
+      "transaction_price": "100.39",
+      "transaction_type": "P",
+      "shares_after_transaction": "407058"
     }
   ]
 }

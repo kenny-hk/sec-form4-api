@@ -1,7 +1,20 @@
 {
   "ticker": "BDX",
-  "last_updated": "2026-02-12T08:57:48.989764",
+  "last_updated": "2026-02-19T08:56:19.269731",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 1256,
+      "issuer_name": "BECTON DICKINSON & CO",
+      "reporting_owner": "SCOTT BERTRAM L",
+      "reporting_owner_cik": "0001221780",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "953",
+      "transaction_price": "182.61",
+      "transaction_type": "S",
+      "shares_after_transaction": "36763"
+    }
+  ]
 }
