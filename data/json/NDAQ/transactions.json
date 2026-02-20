@@ -1,11 +1,23 @@
 {
   "ticker": "NDAQ",
-  "last_updated": "2026-02-19T08:56:19.269731",
+  "last_updated": "2026-02-20T08:51:44.755660",
   "retention_years": 3,
-  "count": 9,
+  "count": 10,
   "transactions": [
     {
-      "id": 215,
+      "id": 33,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "Torgeby Johan",
+      "reporting_owner_cik": "0001940145",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "12000",
+      "transaction_price": "79.86",
+      "transaction_type": "P",
+      "shares_after_transaction": "40797"
+    },
+    {
+      "id": 41,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "INVESTOR AB",
       "reporting_owner_cik": "0000889232",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "58382426"
     },
     {
-      "id": 208,
+      "id": 36,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "FRIEDMAN ADENA T",
       "reporting_owner_cik": "0001240169",
@@ -29,19 +41,19 @@
       "shares_after_transaction": "2153358"
     },
     {
-      "id": 207,
+      "id": 32,
       "issuer_name": "NASDAQ, INC.",
-      "reporting_owner": "Zecca John",
-      "reporting_owner_cik": "0001789709",
-      "reporting_owner_position": "EVP, Global CLO",
+      "reporting_owner": "Tal Cohen",
+      "reporting_owner_cik": "0001781714",
+      "reporting_owner_position": "Pres. Market Platforms",
       "transaction_date": "2026-02-11",
-      "transaction_shares": "24602",
+      "transaction_shares": "43932",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "150276"
+      "shares_after_transaction": "235674"
     },
     {
-      "id": 209,
+      "id": 34,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Daly Michelle Lynn",
       "reporting_owner_cik": "0001860776",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "15798"
     },
     {
-      "id": 210,
+      "id": 35,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Peterson Bradley J",
       "reporting_owner_cik": "0001568592",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "154967"
     },
     {
-      "id": 211,
+      "id": 37,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "SKULE JEREMY",
       "reporting_owner_cik": "0001736565",
@@ -77,7 +89,7 @@
       "shares_after_transaction": "105101"
     },
     {
-      "id": 212,
+      "id": 38,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Smith Bryan Everard",
       "reporting_owner_cik": "0001799366",
@@ -89,7 +101,7 @@
       "shares_after_transaction": "78758"
     },
     {
-      "id": 213,
+      "id": 39,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Griggs PC Nelson",
       "reporting_owner_cik": "0001622632",
@@ -101,16 +113,16 @@
       "shares_after_transaction": "239853"
     },
     {
-      "id": 214,
+      "id": 40,
       "issuer_name": "NASDAQ, INC.",
-      "reporting_owner": "Tal Cohen",
-      "reporting_owner_cik": "0001781714",
-      "reporting_owner_position": "Pres. Market Platforms",
+      "reporting_owner": "Zecca John",
+      "reporting_owner_cik": "0001789709",
+      "reporting_owner_position": "EVP, Global CLO",
       "transaction_date": "2026-02-11",
-      "transaction_shares": "43932",
+      "transaction_shares": "24602",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "235674"
+      "shares_after_transaction": "150276"
     }
   ]
 }

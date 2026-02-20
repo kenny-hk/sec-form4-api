@@ -1,11 +1,35 @@
 {
   "ticker": "GOOGL",
-  "last_updated": "2026-02-19T08:56:19.269731",
+  "last_updated": "2026-02-20T08:51:44.755660",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 315,
+      "id": 166,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "WALKER JOHN KENT",
+      "reporting_owner_cik": "0001238734",
+      "reporting_owner_position": "President, Global Affairs, CLO",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "1900",
+      "transaction_price": "297.7",
+      "transaction_type": "S",
+      "shares_after_transaction": "58901"
+    },
+    {
+      "id": 530,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "WALKER JOHN KENT",
+      "reporting_owner_cik": "0001238734",
+      "reporting_owner_position": "President, Global Affairs, CLO",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "1900",
+      "transaction_price": "297.7",
+      "transaction_type": "S",
+      "shares_after_transaction": "58901"
+    },
+    {
+      "id": 167,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "Hennessy John L.",
       "reporting_owner_cik": "0001198046",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "21132"
     },
     {
-      "id": 330,
+      "id": 531,
       "issuer_name": "Alphabet Inc.",
       "reporting_owner": "Hennessy John L.",
       "reporting_owner_cik": "0001198046",
@@ -27,30 +51,6 @@
       "transaction_price": "306.12",
       "transaction_type": "S",
       "shares_after_transaction": "21132"
-    },
-    {
-      "id": 316,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Hennessy John L.",
-      "reporting_owner_cik": "0001198046",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-10",
-      "transaction_shares": "1765",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1"
-    },
-    {
-      "id": 331,
-      "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "Hennessy John L.",
-      "reporting_owner_cik": "0001198046",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-10",
-      "transaction_shares": "1765",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1"
     }
   ]
 }

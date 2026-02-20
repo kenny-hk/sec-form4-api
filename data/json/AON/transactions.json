@@ -1,11 +1,47 @@
 {
   "ticker": "AON",
-  "last_updated": "2026-02-19T08:56:19.269731",
+  "last_updated": "2026-02-20T08:51:44.755660",
   "retention_years": 3,
-  "count": 9,
+  "count": 11,
   "transactions": [
     {
-      "id": 1407,
+      "id": 230,
+      "issuer_name": "Aon plc",
+      "reporting_owner": "Stevens Lisa",
+      "reporting_owner_cik": "0001792850",
+      "reporting_owner_position": "Chief Administrative Officer",
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "32",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "26321.4907"
+    },
+    {
+      "id": 222,
+      "issuer_name": "Aon plc",
+      "reporting_owner": "Zeidel Darren",
+      "reporting_owner_cik": "0001782945",
+      "reporting_owner_position": "General Counsel",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "5040",
+      "transaction_price": "325.79",
+      "transaction_type": "S",
+      "shares_after_transaction": "20254.099"
+    },
+    {
+      "id": 229,
+      "issuer_name": "Aon plc",
+      "reporting_owner": "Case Gregory C",
+      "reporting_owner_cik": "0001322803",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "2357",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "941138.593"
+    },
+    {
+      "id": 226,
       "issuer_name": "Aon plc",
       "reporting_owner": "Reese Edmund",
       "reporting_owner_cik": "0001833903",
@@ -17,19 +53,7 @@
       "shares_after_transaction": "2374.886"
     },
     {
-      "id": 1404,
-      "issuer_name": "Aon plc",
-      "reporting_owner": "Case Gregory C",
-      "reporting_owner_cik": "0001322803",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "71868",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "968497.759"
-    },
-    {
-      "id": 1405,
+      "id": 223,
       "issuer_name": "Aon plc",
       "reporting_owner": "Goltermann Lori",
       "reporting_owner_cik": "0002062798",
@@ -41,19 +65,7 @@
       "shares_after_transaction": "9216.109"
     },
     {
-      "id": 1406,
-      "issuer_name": "Aon plc",
-      "reporting_owner": "Simon Mindy F.",
-      "reporting_owner_cik": "0001925598",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "5550",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "8729.421"
-    },
-    {
-      "id": 1408,
+      "id": 224,
       "issuer_name": "Aon plc",
       "reporting_owner": "Corona Anne",
       "reporting_owner_cik": "0002062793",
@@ -65,19 +77,31 @@
       "shares_after_transaction": "5395.077"
     },
     {
-      "id": 1409,
+      "id": 225,
       "issuer_name": "Aon plc",
-      "reporting_owner": "Marcell Andy",
-      "reporting_owner_cik": "0002076043",
-      "reporting_owner_position": "Global CEO, Solution Lines",
+      "reporting_owner": "Simon Mindy F.",
+      "reporting_owner_cik": "0001925598",
+      "reporting_owner_position": "Chief Operating Officer",
       "transaction_date": "2026-02-12",
-      "transaction_shares": "12882",
+      "transaction_shares": "5550",
       "transaction_price": null,
       "transaction_type": "A",
-      "shares_after_transaction": "14559.408"
+      "shares_after_transaction": "8729.421"
     },
     {
-      "id": 1410,
+      "id": 227,
+      "issuer_name": "Aon plc",
+      "reporting_owner": "Case Gregory C",
+      "reporting_owner_cik": "0001322803",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "71868",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "968497.759"
+    },
+    {
+      "id": 228,
       "issuer_name": "Aon plc",
       "reporting_owner": "Stevens Lisa",
       "reporting_owner_cik": "0001792850",
@@ -89,7 +113,7 @@
       "shares_after_transaction": "32925.1567"
     },
     {
-      "id": 1411,
+      "id": 231,
       "issuer_name": "Aon plc",
       "reporting_owner": "Zeidel Darren",
       "reporting_owner_cik": "0001782945",
@@ -101,16 +125,16 @@
       "shares_after_transaction": "27388.161"
     },
     {
-      "id": 1403,
+      "id": 232,
       "issuer_name": "Aon plc",
-      "reporting_owner": "KNIGHT LESTER B",
-      "reporting_owner_cik": "0001023262",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-10",
-      "transaction_shares": "4000",
-      "transaction_price": "319.2391",
-      "transaction_type": "P",
-      "shares_after_transaction": "143000"
+      "reporting_owner": "Marcell Andy",
+      "reporting_owner_cik": "0002076043",
+      "reporting_owner_position": "Global CEO, Solution Lines",
+      "transaction_date": "2026-02-12",
+      "transaction_shares": "12882",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "14559.408"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "DD",
-  "last_updated": "2026-02-19T08:56:19.269731",
+  "last_updated": "2026-02-20T08:51:44.755660",
   "retention_years": 3,
   "count": 6,
   "transactions": [
     {
-      "id": 664,
+      "id": 1126,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Raia Christopher",
+      "reporting_owner_cik": "0001837484",
+      "reporting_owner_position": "Senior Vice President & CHRO",
+      "transaction_date": "2026-02-15",
+      "transaction_shares": "920",
+      "transaction_price": "49.597",
+      "transaction_type": "F",
+      "shares_after_transaction": "79334.5975"
+    },
+    {
+      "id": 1127,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "Koch Lori",
       "reporting_owner_cik": "0001803917",
@@ -17,43 +29,7 @@
       "shares_after_transaction": "280622.7321"
     },
     {
-      "id": 665,
-      "issuer_name": "DuPont de Nemours, Inc.",
-      "reporting_owner": "Bloemhard Jeroen",
-      "reporting_owner_cik": "0002100539",
-      "reporting_owner_position": "President, HC and Water Tech",
-      "transaction_date": "2026-02-15",
-      "transaction_shares": "259",
-      "transaction_price": "49.597",
-      "transaction_type": "F",
-      "shares_after_transaction": "15879.6115"
-    },
-    {
-      "id": 666,
-      "issuer_name": "DuPont de Nemours, Inc.",
-      "reporting_owner": "BREEN EDWARD D",
-      "reporting_owner_cik": "0001223619",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-15",
-      "transaction_shares": "7567",
-      "transaction_price": "49.597",
-      "transaction_type": "F",
-      "shares_after_transaction": "293480.3495"
-    },
-    {
-      "id": 667,
-      "issuer_name": "DuPont de Nemours, Inc.",
-      "reporting_owner": "Franzen Antonella B",
-      "reporting_owner_cik": "0002013813",
-      "reporting_owner_position": "SVP & CFO",
-      "transaction_date": "2026-02-15",
-      "transaction_shares": "148",
-      "transaction_price": "49.597",
-      "transaction_type": "F",
-      "shares_after_transaction": "52153.8169"
-    },
-    {
-      "id": 668,
+      "id": 1128,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "Hoover Erik T.",
       "reporting_owner_cik": "0001777446",
@@ -65,16 +41,40 @@
       "shares_after_transaction": "107953.8355"
     },
     {
-      "id": 669,
+      "id": 1129,
       "issuer_name": "DuPont de Nemours, Inc.",
-      "reporting_owner": "Raia Christopher",
-      "reporting_owner_cik": "0001837484",
-      "reporting_owner_position": "Senior Vice President & CHRO",
+      "reporting_owner": "BREEN EDWARD D",
+      "reporting_owner_cik": "0001223619",
+      "reporting_owner_position": null,
       "transaction_date": "2026-02-15",
-      "transaction_shares": "920",
+      "transaction_shares": "7567",
       "transaction_price": "49.597",
       "transaction_type": "F",
-      "shares_after_transaction": "79334.5975"
+      "shares_after_transaction": "293480.3495"
+    },
+    {
+      "id": 1130,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Franzen Antonella B",
+      "reporting_owner_cik": "0002013813",
+      "reporting_owner_position": "SVP & CFO",
+      "transaction_date": "2026-02-15",
+      "transaction_shares": "148",
+      "transaction_price": "49.597",
+      "transaction_type": "F",
+      "shares_after_transaction": "52153.8169"
+    },
+    {
+      "id": 1131,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Bloemhard Jeroen",
+      "reporting_owner_cik": "0002100539",
+      "reporting_owner_position": "President, HC and Water Tech",
+      "transaction_date": "2026-02-15",
+      "transaction_shares": "259",
+      "transaction_price": "49.597",
+      "transaction_type": "F",
+      "shares_after_transaction": "15879.6115"
     }
   ]
 }
