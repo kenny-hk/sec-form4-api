@@ -2,11 +2,23 @@
   "ticker": "BLK",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-20T08:51:44.755660",
+  "last_updated": "2026-02-21T08:41:42.682531",
   "count": 2,
   "transactions": [
     {
-      "id": 1074,
+      "id": 1029,
+      "issuer_name": "BlackRock, Inc.",
+      "reporting_owner": "Cohen Stephen",
+      "reporting_owner_cik": "0001855412",
+      "reporting_owner_position": "Senior Managing Director",
+      "transaction_date": "2026-02-19",
+      "transaction_shares": "657",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "5886"
+    },
+    {
+      "id": 1030,
       "issuer_name": "BlackRock, Inc.",
       "reporting_owner": "Goldstein Robert L.",
       "reporting_owner_cik": "0001561432",
@@ -16,18 +28,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "37551.44"
-    },
-    {
-      "id": 1075,
-      "issuer_name": "BlackRock, Inc.",
-      "reporting_owner": "Cohen Stephen",
-      "reporting_owner_cik": "0001855412",
-      "reporting_owner_position": "Senior Managing Director",
-      "transaction_date": "2026-02-11",
-      "transaction_shares": "2179",
-      "transaction_price": "1073.87",
-      "transaction_type": "S",
-      "shares_after_transaction": "6543"
     }
   ]
 }
