@@ -2,11 +2,35 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-24T09:02:10.033552",
+  "last_updated": "2026-02-25T09:02:42.979598",
   "count": 3,
   "transactions": [
     {
-      "id": 310,
+      "id": 292,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "BEAVER STEVEN KENT",
+      "reporting_owner_cik": "0001776900",
+      "reporting_owner_position": "EVP, CFO Aflac Japan",
+      "transaction_date": "2026-02-20",
+      "transaction_shares": "7387",
+      "transaction_price": "113.58",
+      "transaction_type": "S",
+      "shares_after_transaction": "40526"
+    },
+    {
+      "id": 293,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "AMOS DANIEL P",
+      "reporting_owner_cik": "0001075275",
+      "reporting_owner_position": "Chairman of the Board, CEO",
+      "transaction_date": "2026-02-20",
+      "transaction_shares": "42625",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "685848"
+    },
+    {
+      "id": 291,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "TILLMAN AUDREY B",
       "reporting_owner_cik": "0001422863",
@@ -16,30 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "257619"
-    },
-    {
-      "id": 312,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Broden Max",
-      "reporting_owner_cik": "0001703138",
-      "reporting_owner_position": "Sr. EVP, CFO",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "12",
-      "transaction_price": "114.91",
-      "transaction_type": "F",
-      "shares_after_transaction": "383"
-    },
-    {
-      "id": 311,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "TILLMAN AUDREY B",
-      "reporting_owner_cik": "0001422863",
-      "reporting_owner_position": "Sr. Executive Vice President",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "1028",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "257932"
     }
   ]
 }

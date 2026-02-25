@@ -2,11 +2,23 @@
   "ticker": "HUM",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-24T09:02:10.033552",
+  "last_updated": "2026-02-25T09:02:42.979598",
   "count": 3,
   "transactions": [
     {
-      "id": 1704,
+      "id": 1649,
+      "issuer_name": "HUMANA INC",
+      "reporting_owner": "Dintenfass David",
+      "reporting_owner_cik": "0002010288",
+      "reporting_owner_position": "President, Enterprise Growth",
+      "transaction_date": "2026-02-21",
+      "transaction_shares": "3858",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "15316"
+    },
+    {
+      "id": 1648,
       "issuer_name": "HUMANA INC",
       "reporting_owner": "Mehta Japan",
       "reporting_owner_cik": "0002053625",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8158"
     },
     {
-      "id": 1706,
+      "id": 1650,
       "issuer_name": "HUMANA INC",
       "reporting_owner": "Mellet Celeste",
       "reporting_owner_cik": "0001748812",
@@ -28,18 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "28454"
-    },
-    {
-      "id": 1705,
-      "issuer_name": "HUMANA INC",
-      "reporting_owner": "Martin Aaron",
-      "reporting_owner_cik": "0002107272",
-      "reporting_owner_position": "President, Medicare Advantage",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "17031",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "17031"
     }
   ]
 }

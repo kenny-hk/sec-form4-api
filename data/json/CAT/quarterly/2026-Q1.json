@@ -2,11 +2,23 @@
   "ticker": "CAT",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-24T09:02:10.033552",
+  "last_updated": "2026-02-25T09:02:42.979598",
   "count": 3,
   "transactions": [
     {
-      "id": 1718,
+      "id": 1662,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Shurman Rodney Michael",
+      "reporting_owner_cik": "0002110101",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "2278",
+      "transaction_price": "253.98",
+      "transaction_type": "M",
+      "shares_after_transaction": "3721"
+    },
+    {
+      "id": 1660,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Shurman Rodney Michael",
       "reporting_owner_cik": "0002110101",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1440"
     },
     {
-      "id": 1719,
+      "id": 1661,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Schaupp William E",
       "reporting_owner_cik": "0001739758",
@@ -28,18 +40,6 @@
       "transaction_price": "764.20",
       "transaction_type": "S",
       "shares_after_transaction": "824"
-    },
-    {
-      "id": 1717,
-      "issuer_name": "CATERPILLAR INC",
-      "reporting_owner": "Fassino Anthony D.",
-      "reporting_owner_cik": "0001839757",
-      "reporting_owner_position": "Group President",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "11000",
-      "transaction_price": "219.76",
-      "transaction_type": "M",
-      "shares_after_transaction": "57643"
     }
   ]
 }

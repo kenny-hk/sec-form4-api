@@ -1,20 +1,44 @@
 {
   "ticker": "GIS",
-  "last_updated": "2026-02-05T08:52:16.758353",
+  "last_updated": "2026-02-25T09:02:42.979598",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 138,
+      "id": 244,
       "issuer_name": "GENERAL MILLS INC",
-      "reporting_owner": "Bottarini Joan",
-      "reporting_owner_cik": "0001755832",
+      "reporting_owner": "MORIKIS JOHN G",
+      "reporting_owner_cik": "0001203523",
       "reporting_owner_position": null,
-      "transaction_date": "2026-01-27",
-      "transaction_shares": "4026",
-      "transaction_price": "0",
+      "transaction_date": "2026-02-22",
+      "transaction_shares": "578",
+      "transaction_price": "45.36",
       "transaction_type": "A",
-      "shares_after_transaction": "4026"
+      "shares_after_transaction": "19069"
+    },
+    {
+      "id": 245,
+      "issuer_name": "GENERAL MILLS INC",
+      "reporting_owner": "Uribe Jorge A.",
+      "reporting_owner_cik": "0001646912",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-22",
+      "transaction_shares": "661",
+      "transaction_price": "45.36",
+      "transaction_type": "A",
+      "shares_after_transaction": "39983.152"
+    },
+    {
+      "id": 247,
+      "issuer_name": "GENERAL MILLS INC",
+      "reporting_owner": "HENRY MARIA",
+      "reporting_owner_cik": "0001241808",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-22",
+      "transaction_shares": "744",
+      "transaction_price": "45.36",
+      "transaction_type": "A",
+      "shares_after_transaction": "51300"
     }
   ]
 }
