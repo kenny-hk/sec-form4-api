@@ -2,11 +2,35 @@
   "ticker": "TPL",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-25T09:02:42.979598",
-  "count": 9,
+  "last_updated": "2026-02-26T09:00:54.805795",
+  "count": 6,
   "transactions": [
     {
-      "id": 1454,
+      "id": 262,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "BUFFINGTON STEPHANIE",
+      "reporting_owner_cik": "0001287302",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1608",
+      "transaction_price": "503",
+      "transaction_type": "S",
+      "shares_after_transaction": "2133"
+    },
+    {
+      "id": 263,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1",
+      "transaction_price": "520.15",
+      "transaction_type": "P",
+      "shares_after_transaction": "3479379"
+    },
+    {
+      "id": 261,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "3479378"
     },
     {
-      "id": 1450,
+      "id": 260,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -30,7 +54,7 @@
       "shares_after_transaction": "3479377"
     },
     {
-      "id": 1448,
+      "id": 258,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -42,7 +66,7 @@
       "shares_after_transaction": "3479376"
     },
     {
-      "id": 1449,
+      "id": 259,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -52,66 +76,6 @@
       "transaction_price": "435.13",
       "transaction_type": "P",
       "shares_after_transaction": "3479375"
-    },
-    {
-      "id": 1446,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "1",
-      "transaction_price": "425.55",
-      "transaction_type": "P",
-      "shares_after_transaction": "3479374"
-    },
-    {
-      "id": 1447,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "Dobbs Micheal W.",
-      "reporting_owner_cik": "0001817664",
-      "reporting_owner_position": "Senior VP, Secretary and GC",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1206",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "8125"
-    },
-    {
-      "id": 1451,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "GLOVER TYLER",
-      "reporting_owner_cik": "0001690299",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "3807",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "44845"
-    },
-    {
-      "id": 1452,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "STEDDUM CHRIS",
-      "reporting_owner_cik": "0001863734",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "2079",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "16605"
-    },
-    {
-      "id": 1453,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "BUFFINGTON STEPHANIE",
-      "reporting_owner_cik": "0001287302",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "864",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "3982"
     }
   ]
 }

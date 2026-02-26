@@ -1,11 +1,23 @@
 {
   "ticker": "EQT",
-  "last_updated": "2026-02-25T09:02:42.979598",
+  "last_updated": "2026-02-26T09:00:54.805795",
   "retention_years": 3,
-  "count": 17,
+  "count": 10,
   "transactions": [
     {
-      "id": 1527,
+      "id": 406,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "James Todd",
+      "reporting_owner_cik": "0001737431",
+      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "32514",
+      "transaction_price": "61.12",
+      "transaction_type": "S",
+      "shares_after_transaction": "58796"
+    },
+    {
+      "id": 404,
       "issuer_name": "EQT Corp",
       "reporting_owner": "Fenton Sarah",
       "reporting_owner_cik": "0002040815",
@@ -17,43 +29,7 @@
       "shares_after_transaction": "52806"
     },
     {
-      "id": 1519,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Rice Toby Z.",
-      "reporting_owner_cik": "0001597385",
-      "reporting_owner_position": "PRESIDENT & CEO",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "15419",
-      "transaction_price": "57.75",
-      "transaction_type": "F",
-      "shares_after_transaction": "2266482"
-    },
-    {
-      "id": 1520,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Bolen J.E.B.",
-      "reporting_owner_cik": "0002041211",
-      "reporting_owner_position": "EVP OPERATIONS",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "931",
-      "transaction_price": "57.75",
-      "transaction_type": "F",
-      "shares_after_transaction": "86160"
-    },
-    {
-      "id": 1522,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Duran Richard A",
-      "reporting_owner_cik": "0001783547",
-      "reporting_owner_position": "CHIEF INFORMATION OFFICER",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "1470",
-      "transaction_price": "57.75",
-      "transaction_type": "F",
-      "shares_after_transaction": "274521"
-    },
-    {
-      "id": 1523,
+      "id": 401,
       "issuer_name": "EQT Corp",
       "reporting_owner": "Fenton Sarah",
       "reporting_owner_cik": "0002040815",
@@ -65,31 +41,7 @@
       "shares_after_transaction": "56574"
     },
     {
-      "id": 1525,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Knop Jeremy",
-      "reporting_owner_cik": "0001986157",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "3818",
-      "transaction_price": "57.75",
-      "transaction_type": "F",
-      "shares_after_transaction": "136321"
-    },
-    {
-      "id": 1531,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Jordan William E.",
-      "reporting_owner_cik": "0001597171",
-      "reporting_owner_position": "CHIEF LEGAL & POLICY OFFICER",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "2938",
-      "transaction_price": "57.75",
-      "transaction_type": "F",
-      "shares_after_transaction": "494933"
-    },
-    {
-      "id": 1533,
+      "id": 402,
       "issuer_name": "EQT Corp",
       "reporting_owner": "Evancho Lesley",
       "reporting_owner_cik": "0001783548",
@@ -101,7 +53,67 @@
       "shares_after_transaction": "204573"
     },
     {
-      "id": 1535,
+      "id": 403,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Jordan William E.",
+      "reporting_owner_cik": "0001597171",
+      "reporting_owner_position": "CHIEF LEGAL & POLICY OFFICER",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "2938",
+      "transaction_price": "57.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "494933"
+    },
+    {
+      "id": 405,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Duran Richard A",
+      "reporting_owner_cik": "0001783547",
+      "reporting_owner_position": "CHIEF INFORMATION OFFICER",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "1470",
+      "transaction_price": "57.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "274521"
+    },
+    {
+      "id": 407,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Knop Jeremy",
+      "reporting_owner_cik": "0001986157",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "3818",
+      "transaction_price": "57.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "136321"
+    },
+    {
+      "id": 408,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Rice Toby Z.",
+      "reporting_owner_cik": "0001597385",
+      "reporting_owner_position": "PRESIDENT & CEO",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "15419",
+      "transaction_price": "57.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "2266482"
+    },
+    {
+      "id": 409,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Bolen J.E.B.",
+      "reporting_owner_cik": "0002041211",
+      "reporting_owner_position": "EVP OPERATIONS",
+      "transaction_date": "2026-02-17",
+      "transaction_shares": "931",
+      "transaction_price": "57.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "86160"
+    },
+    {
+      "id": 410,
       "issuer_name": "EQT Corp",
       "reporting_owner": "James Todd",
       "reporting_owner_cik": "0001737431",
@@ -111,102 +123,6 @@
       "transaction_price": "57.75",
       "transaction_type": "F",
       "shares_after_transaction": "91310"
-    },
-    {
-      "id": 1521,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Duran Richard A",
-      "reporting_owner_cik": "0001783547",
-      "reporting_owner_position": "CHIEF INFORMATION OFFICER",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1796",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "277039"
-    },
-    {
-      "id": 1524,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Fenton Sarah",
-      "reporting_owner_cik": "0002040815",
-      "reporting_owner_position": "EVP UPSTREAM",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1189",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "58477"
-    },
-    {
-      "id": 1526,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "James Todd",
-      "reporting_owner_cik": "0001737431",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1210",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "93489"
-    },
-    {
-      "id": 1528,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Knop Jeremy",
-      "reporting_owner_cik": "0001986157",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1563",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "143281"
-    },
-    {
-      "id": 1529,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Jordan William E.",
-      "reporting_owner_cik": "0001597171",
-      "reporting_owner_position": "CHIEF LEGAL & POLICY OFFICER",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "3366",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "499966"
-    },
-    {
-      "id": 1530,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Evancho Lesley",
-      "reporting_owner_cik": "0001783548",
-      "reporting_owner_position": "CHIEF HUMAN RESOURCES OFFICER",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1857",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "207325"
-    },
-    {
-      "id": 1532,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Bolen J.E.B.",
-      "reporting_owner_cik": "0002041211",
-      "reporting_owner_position": "EVP OPERATIONS",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "1140",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "87976"
-    },
-    {
-      "id": 1534,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Rice Toby Z.",
-      "reporting_owner_cik": "0001597385",
-      "reporting_owner_position": "PRESIDENT & CEO",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "13829",
-      "transaction_price": "58.70",
-      "transaction_type": "F",
-      "shares_after_transaction": "2294053"
     }
   ]
 }

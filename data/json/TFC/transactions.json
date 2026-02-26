@@ -1,32 +1,80 @@
 {
   "ticker": "TFC",
-  "last_updated": "2026-02-25T09:02:42.979598",
+  "last_updated": "2026-02-26T09:00:54.805795",
   "retention_years": 3,
-  "count": 2,
+  "count": 6,
   "transactions": [
     {
-      "id": 1170,
+      "id": 507,
+      "issuer_name": "TRUIST FINANCIAL CORP",
+      "reporting_owner": "Powell Cynthia B",
+      "reporting_owner_cik": "0001471555",
+      "reporting_owner_position": "Corp. Controller & CAO",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "1782.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "2449.0000"
+    },
+    {
+      "id": 508,
       "issuer_name": "TRUIST FINANCIAL CORP",
       "reporting_owner": "Stengel Scott A",
       "reporting_owner_cik": "0001599100",
       "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "11416.0000",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "6908.0000",
       "transaction_price": "0.0000",
       "transaction_type": "A",
-      "shares_after_transaction": "11416.0000"
+      "shares_after_transaction": "14978.0000"
     },
     {
-      "id": 1171,
+      "id": 509,
       "issuer_name": "TRUIST FINANCIAL CORP",
-      "reporting_owner": "Bender Bradley D",
-      "reporting_owner_cik": "0002045092",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "2604.0000",
+      "reporting_owner": "Wilson Donta L",
+      "reporting_owner_cik": "0001681329",
+      "reporting_owner_position": "Chief Consumer & SB BK Officer",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "3216.0000",
       "transaction_price": "0.0000",
-      "transaction_type": "M",
-      "shares_after_transaction": "3104.0000"
+      "transaction_type": "A",
+      "shares_after_transaction": "59225.0990"
+    },
+    {
+      "id": 510,
+      "issuer_name": "TRUIST FINANCIAL CORP",
+      "reporting_owner": "ROGERS WILLIAM H JR",
+      "reporting_owner_cik": "0001182002",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "17690.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "940980.8340"
+    },
+    {
+      "id": 511,
+      "issuer_name": "TRUIST FINANCIAL CORP",
+      "reporting_owner": "Lesher Kristin",
+      "reporting_owner_cik": "0002011347",
+      "reporting_owner_position": "Chief Whlse Banking Officer",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "17087.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "78953.0000"
+    },
+    {
+      "id": 512,
+      "issuer_name": "TRUIST FINANCIAL CORP",
+      "reporting_owner": "Maguire Michael Baron",
+      "reporting_owner_cik": "0001789902",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "2729.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "77052.1970"
     }
   ]
 }

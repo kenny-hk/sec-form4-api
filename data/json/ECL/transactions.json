@@ -1,11 +1,35 @@
 {
   "ticker": "ECL",
-  "last_updated": "2026-02-25T09:02:42.979598",
+  "last_updated": "2026-02-26T09:00:54.805795",
   "retention_years": 3,
-  "count": 10,
+  "count": 11,
   "transactions": [
     {
-      "id": 1212,
+      "id": 590,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "Kirkland Scott D",
+      "reporting_owner_cik": "0001779234",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "404",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "16909.412"
+    },
+    {
+      "id": 593,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "Beck Christophe",
+      "reporting_owner_cik": "0001471500",
+      "reporting_owner_position": "CHAIRMAN & CEO",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "23833",
+      "transaction_price": "117.730",
+      "transaction_type": "M",
+      "shares_after_transaction": "110794.118"
+    },
+    {
+      "id": 591,
       "issuer_name": "ECOLAB INC.",
       "reporting_owner": "Kirkland Scott D",
       "reporting_owner_cik": "0001779234",
@@ -17,31 +41,7 @@
       "shares_after_transaction": "21269.846"
     },
     {
-      "id": 1213,
-      "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "Alfano Nicholas J.",
-      "reporting_owner_cik": "0001972462",
-      "reporting_owner_position": "EVP & PRES - GLOBAL WATER",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "2202",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "6923.639"
-    },
-    {
-      "id": 1214,
-      "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "Hlila Alexandra M A",
-      "reporting_owner_cik": "0002048754",
-      "reporting_owner_position": "EVP & GM - GLOBAL PEST",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "508",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "593.216"
-    },
-    {
-      "id": 1215,
+      "id": 592,
       "issuer_name": "ECOLAB INC.",
       "reporting_owner": "Cook Gregory B",
       "reporting_owner_cik": "0001989181",
@@ -53,43 +53,19 @@
       "shares_after_transaction": "12458.380"
     },
     {
-      "id": 1216,
+      "id": 594,
       "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "Bradway Jennifer J",
-      "reporting_owner_cik": "0001902394",
-      "reporting_owner_position": "SVP & CORPORATE CONTROLLER",
+      "reporting_owner": "Hlila Alexandra M A",
+      "reporting_owner_cik": "0002048754",
+      "reporting_owner_position": "EVP & GM - GLOBAL PEST",
       "transaction_date": "2026-02-18",
-      "transaction_shares": "1948",
+      "transaction_shares": "508",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "6654.362"
+      "shares_after_transaction": "593.216"
     },
     {
-      "id": 1217,
-      "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "De Boo Alexander A.",
-      "reporting_owner_cik": "0001844358",
-      "reporting_owner_position": "EVP & PRES - GLOBAL MARKETS",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "2371",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "8096.604"
-    },
-    {
-      "id": 1218,
-      "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "Brown Darrell R",
-      "reporting_owner_cik": "0001727287",
-      "reporting_owner_position": "PRESIDENT & COO",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "8469",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "35997.563"
-    },
-    {
-      "id": 1220,
+      "id": 595,
       "issuer_name": "ECOLAB INC.",
       "reporting_owner": "Beck Christophe",
       "reporting_owner_cik": "0001471500",
@@ -101,7 +77,55 @@
       "shares_after_transaction": "98052.362"
     },
     {
-      "id": 1221,
+      "id": 596,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "Brown Darrell R",
+      "reporting_owner_cik": "0001727287",
+      "reporting_owner_position": "PRESIDENT & COO",
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "8469",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "35997.563"
+    },
+    {
+      "id": 597,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "De Boo Alexander A.",
+      "reporting_owner_cik": "0001844358",
+      "reporting_owner_position": "EVP & PRES - GLOBAL MARKETS",
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "2371",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "8096.604"
+    },
+    {
+      "id": 598,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "Alfano Nicholas J.",
+      "reporting_owner_cik": "0001972462",
+      "reporting_owner_position": "EVP & PRES - GLOBAL WATER",
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "2202",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "6923.639"
+    },
+    {
+      "id": 599,
+      "issuer_name": "ECOLAB INC.",
+      "reporting_owner": "Bradway Jennifer J",
+      "reporting_owner_cik": "0001902394",
+      "reporting_owner_position": "SVP & CORPORATE CONTROLLER",
+      "transaction_date": "2026-02-18",
+      "transaction_shares": "1948",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "6654.362"
+    },
+    {
+      "id": 600,
       "issuer_name": "ECOLAB INC.",
       "reporting_owner": "Boone Jandeen M",
       "reporting_owner_cik": "0002027855",
@@ -111,18 +135,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "1145.201"
-    },
-    {
-      "id": 1219,
-      "issuer_name": "ECOLAB INC.",
-      "reporting_owner": "Alfano Nicholas J.",
-      "reporting_owner_cik": "0001972462",
-      "reporting_owner_position": "EVP & PRES - GLOBAL WATER",
-      "transaction_date": "2026-02-17",
-      "transaction_shares": "9501",
-      "transaction_price": "137.09",
-      "transaction_type": "M",
-      "shares_after_transaction": "14222.639"
     }
   ]
 }

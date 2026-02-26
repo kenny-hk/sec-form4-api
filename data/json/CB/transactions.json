@@ -1,32 +1,68 @@
 {
   "ticker": "CB",
-  "last_updated": "2026-02-24T09:02:10.033552",
+  "last_updated": "2026-02-26T09:00:54.805795",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 327,
+      "id": 116,
+      "issuer_name": "Chubb Ltd",
+      "reporting_owner": "O'Brien Frances D.",
+      "reporting_owner_cik": "0001977408",
+      "reporting_owner_position": "Chief Risk Officer",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "130",
+      "transaction_price": "333.39",
+      "transaction_type": "F",
+      "shares_after_transaction": "41287"
+    },
+    {
+      "id": 117,
+      "issuer_name": "Chubb Ltd",
+      "reporting_owner": "Ortega Juan Luis",
+      "reporting_owner_cik": "0001784735",
+      "reporting_owner_position": "Executive Vice President*",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "185",
+      "transaction_price": "333.39",
+      "transaction_type": "F",
+      "shares_after_transaction": "35043.93"
+    },
+    {
+      "id": 118,
+      "issuer_name": "Chubb Ltd",
+      "reporting_owner": "BOROUGHS TIMOTHY ALAN",
+      "reporting_owner_cik": "0001577594",
+      "reporting_owner_position": "Executive Vice President*",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "264",
+      "transaction_price": "333.39",
+      "transaction_type": "F",
+      "shares_after_transaction": "11546"
+    },
+    {
+      "id": 119,
       "issuer_name": "Chubb Ltd",
       "reporting_owner": "Ohsiek George F.",
       "reporting_owner_cik": "0002035900",
       "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "2112",
-      "transaction_price": "118.39",
-      "transaction_type": "M",
-      "shares_after_transaction": "22156.456"
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "90",
+      "transaction_price": "333.39",
+      "transaction_type": "F",
+      "shares_after_transaction": "16926.456"
     },
     {
-      "id": 328,
+      "id": 120,
       "issuer_name": "Chubb Ltd",
-      "reporting_owner": "GREENBERG EVAN G",
-      "reporting_owner_cik": "0001162125",
-      "reporting_owner_position": "Chairman & CEO",
-      "transaction_date": "2026-02-12",
-      "transaction_shares": "14925",
-      "transaction_price": "335.0937",
-      "transaction_type": "S",
-      "shares_after_transaction": "496651"
+      "reporting_owner": "McNamee Paul",
+      "reporting_owner_cik": "0002033497",
+      "reporting_owner_position": "Executive Vice President*",
+      "transaction_date": "2026-02-23",
+      "transaction_shares": "169",
+      "transaction_price": "333.39",
+      "transaction_type": "F",
+      "shares_after_transaction": "19432"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "WEC",
-  "last_updated": "2026-02-25T09:02:42.979598",
+  "last_updated": "2026-02-26T09:00:54.805795",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 633,
+      "id": 1217,
+      "issuer_name": "WEC ENERGY GROUP, INC.",
+      "reporting_owner": "PAYNE ULICE JR",
+      "reporting_owner_cik": "0001188179",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1450",
+      "transaction_price": "114.5975",
+      "transaction_type": "S",
+      "shares_after_transaction": "20540.8844"
+    },
+    {
+      "id": 1216,
       "issuer_name": "WEC ENERGY GROUP, INC.",
       "reporting_owner": "KLAPPA GALE E",
       "reporting_owner_cik": "0001195320",
@@ -15,30 +27,6 @@
       "transaction_price": "68.175",
       "transaction_type": "M",
       "shares_after_transaction": "279780"
-    },
-    {
-      "id": 634,
-      "issuer_name": "WEC ENERGY GROUP, INC.",
-      "reporting_owner": "Straka Mary Beth",
-      "reporting_owner_cik": "0001647118",
-      "reporting_owner_position": "Sr. VP-Corp Comm & Inv Rel",
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "2815",
-      "transaction_price": "66.015",
-      "transaction_type": "M",
-      "shares_after_transaction": "7522.058"
-    },
-    {
-      "id": 635,
-      "issuer_name": "WEC ENERGY GROUP, INC.",
-      "reporting_owner": "KLAPPA GALE E",
-      "reporting_owner_cik": "0001195320",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-13",
-      "transaction_shares": "25000",
-      "transaction_price": "68.175",
-      "transaction_type": "M",
-      "shares_after_transaction": "301600"
     }
   ]
 }
