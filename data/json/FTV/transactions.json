@@ -1,20 +1,44 @@
 {
   "ticker": "FTV",
-  "last_updated": "2026-02-26T09:00:54.805795",
+  "last_updated": "2026-02-27T08:51:19.568301",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 916,
+      "id": 904,
       "issuer_name": "Fortive Corp",
-      "reporting_owner": "MITCHELL KATE",
-      "reporting_owner_cik": "0001266275",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "7131",
-      "transaction_price": "29.58",
-      "transaction_type": "M",
-      "shares_after_transaction": "38906"
+      "reporting_owner": "Soroye Olumide",
+      "reporting_owner_cik": "0001876361",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "3759",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "216310"
+    },
+    {
+      "id": 905,
+      "issuer_name": "Fortive Corp",
+      "reporting_owner": "Underwood Peter C",
+      "reporting_owner_cik": "0001502370",
+      "reporting_owner_position": "SVP - Chief Legal Officer",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1383",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "81458"
+    },
+    {
+      "id": 906,
+      "issuer_name": "Fortive Corp",
+      "reporting_owner": "Okerstrom Mark D",
+      "reporting_owner_cik": "0001530255",
+      "reporting_owner_position": "SVP - Chief Financial Officer",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "2749",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "97371"
     }
   ]
 }

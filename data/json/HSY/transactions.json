@@ -1,11 +1,35 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-02-26T09:00:54.805795",
+  "last_updated": "2026-02-27T08:51:19.568301",
   "retention_years": 3,
-  "count": 7,
+  "count": 8,
   "transactions": [
     {
-      "id": 535,
+      "id": 501,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Grover Rohit",
+      "reporting_owner_cik": "0001964803",
+      "reporting_owner_position": "President, International",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1750",
+      "transaction_price": "226.07",
+      "transaction_type": "S",
+      "shares_after_transaction": "36318"
+    },
+    {
+      "id": 507,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Reiman Jason",
+      "reporting_owner_cik": "0001778210",
+      "reporting_owner_position": "SVP Chief Supply Chain Officer",
+      "transaction_date": "2026-02-24",
+      "transaction_shares": "1000",
+      "transaction_price": "226.07",
+      "transaction_type": "S",
+      "shares_after_transaction": "42036"
+    },
+    {
+      "id": 500,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "McCalman Jennifer",
       "reporting_owner_cik": "0001848210",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "2882"
     },
     {
-      "id": 536,
+      "id": 502,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Turoff James",
       "reporting_owner_cik": "0001863661",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "24936"
     },
     {
-      "id": 537,
+      "id": 503,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Reiman Jason",
       "reporting_owner_cik": "0001778210",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "43036"
     },
     {
-      "id": 539,
+      "id": 504,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Voskuil Steven E",
       "reporting_owner_cik": "0001622634",
@@ -53,7 +77,7 @@
       "shares_after_transaction": "50193"
     },
     {
-      "id": 540,
+      "id": 505,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Bhatia Deepak",
       "reporting_owner_cik": "0001998577",
@@ -65,7 +89,7 @@
       "shares_after_transaction": "41103"
     },
     {
-      "id": 541,
+      "id": 506,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Villasenor Vero",
       "reporting_owner_cik": "0002056423",
@@ -75,18 +99,6 @@
       "transaction_price": "226.07",
       "transaction_type": "F",
       "shares_after_transaction": "19047.428"
-    },
-    {
-      "id": 538,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Voskuil Steven E",
-      "reporting_owner_cik": "0001622634",
-      "reporting_owner_position": "SVP, Chief Financial Officer",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "1500",
-      "transaction_price": "219.66",
-      "transaction_type": "S",
-      "shares_after_transaction": "50819"
     }
   ]
 }
