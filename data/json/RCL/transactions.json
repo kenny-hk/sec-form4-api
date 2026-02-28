@@ -1,11 +1,23 @@
 {
   "ticker": "RCL",
-  "last_updated": "2026-02-27T08:51:19.568301",
+  "last_updated": "2026-02-28T08:43:32.260849",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 1413,
+      "id": 1536,
+      "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
+      "reporting_owner": "Wilhelmsen Arne Alexander",
+      "reporting_owner_cik": "0001317345",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-25",
+      "transaction_shares": "42240",
+      "transaction_price": "313.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "17165277"
+    },
+    {
+      "id": 1537,
       "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
       "reporting_owner": "Wilhelmsen Arne Alexander",
       "reporting_owner_cik": "0001317345",
@@ -15,18 +27,6 @@
       "transaction_price": "310.54",
       "transaction_type": "S",
       "shares_after_transaction": "17676414"
-    },
-    {
-      "id": 1414,
-      "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
-      "reporting_owner": "Wilhelmsen Arne Alexander",
-      "reporting_owner_cik": "0001317345",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "2025",
-      "transaction_price": "317.26",
-      "transaction_type": "S",
-      "shares_after_transaction": "17885482"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "TDG",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-27T08:51:19.568301",
+  "last_updated": "2026-02-28T08:43:32.260849",
   "count": 2,
   "transactions": [
     {
-      "id": 1131,
+      "id": 1235,
+      "issuer_name": "TransDigm Group INC",
+      "reporting_owner": "SMALL ROBERT J",
+      "reporting_owner_cik": "0001234544",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-25",
+      "transaction_shares": "1",
+      "transaction_price": "1285",
+      "transaction_type": "P",
+      "shares_after_transaction": "366142"
+    },
+    {
+      "id": 1236,
       "issuer_name": "TransDigm Group INC",
       "reporting_owner": "Murphy Patrick Joseph",
       "reporting_owner_cik": "0002079804",
@@ -16,18 +28,6 @@
       "transaction_price": "269.42",
       "transaction_type": "M",
       "shares_after_transaction": "2215"
-    },
-    {
-      "id": 1130,
-      "issuer_name": "TransDigm Group INC",
-      "reporting_owner": "Howley W Nicholas",
-      "reporting_owner_cik": "0001352573",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "10168",
-      "transaction_price": "50.92",
-      "transaction_type": "M",
-      "shares_after_transaction": "31715.513"
     }
   ]
 }
