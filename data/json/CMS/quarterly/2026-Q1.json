@@ -2,11 +2,23 @@
   "ticker": "CMS",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-02T08:57:55.450333",
-  "count": 4,
+  "last_updated": "2026-03-03T08:52:44.055819",
+  "count": 2,
   "transactions": [
     {
-      "id": 1103,
+      "id": 1105,
+      "issuer_name": "CMS ENERGY CORP",
+      "reporting_owner": "Hofmeister Brandon J.",
+      "reporting_owner_cik": "0001710651",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "4000",
+      "transaction_price": "78.235",
+      "transaction_type": "S",
+      "shares_after_transaction": "70670"
+    },
+    {
+      "id": 1104,
       "issuer_name": "CMS ENERGY CORP",
       "reporting_owner": "Leopold Diane",
       "reporting_owner_cik": "0001595985",
@@ -16,42 +28,6 @@
       "transaction_price": "76.699",
       "transaction_type": "P",
       "shares_after_transaction": "2769"
-    },
-    {
-      "id": 1104,
-      "issuer_name": "CMS ENERGY CORP",
-      "reporting_owner": "RUSSELL JOHN G",
-      "reporting_owner_cik": "0001180661",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "14914",
-      "transaction_price": "75.755",
-      "transaction_type": "S",
-      "shares_after_transaction": "131568"
-    },
-    {
-      "id": 1105,
-      "issuer_name": "CMS ENERGY CORP",
-      "reporting_owner": "Leopold Diane",
-      "reporting_owner_cik": "0001595985",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "769",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "769"
-    },
-    {
-      "id": 1106,
-      "issuer_name": "CMS ENERGY CORP",
-      "reporting_owner": "Keyes Richard Patrick",
-      "reporting_owner_cik": "0002112189",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "769",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "769"
     }
   ]
 }

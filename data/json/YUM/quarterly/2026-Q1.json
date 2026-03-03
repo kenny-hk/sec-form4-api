@@ -2,11 +2,35 @@
   "ticker": "YUM",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-02T08:57:55.450333",
-  "count": 2,
+  "last_updated": "2026-03-03T08:52:44.055819",
+  "count": 4,
   "transactions": [
     {
-      "id": 24,
+      "id": 26,
+      "issuer_name": "YUM BRANDS INC",
+      "reporting_owner": "Turner Christopher Lee",
+      "reporting_owner_cik": "0001783787",
+      "reporting_owner_position": "CEO, Chairman of Board",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "238",
+      "transaction_price": "166.29",
+      "transaction_type": "S",
+      "shares_after_transaction": "65058.66"
+    },
+    {
+      "id": 28,
+      "issuer_name": "YUM BRANDS INC",
+      "reporting_owner": "Mezvinsky Scott",
+      "reporting_owner_cik": "0002057807",
+      "reporting_owner_position": "KFC Division CEO",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "483",
+      "transaction_price": "68.00",
+      "transaction_type": "M",
+      "shares_after_transaction": "483"
+    },
+    {
+      "id": 25,
       "issuer_name": "YUM BRANDS INC",
       "reporting_owner": "Mezvinsky Scott",
       "reporting_owner_cik": "0002057807",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "483"
     },
     {
-      "id": 25,
+      "id": 27,
       "issuer_name": "YUM BRANDS INC",
       "reporting_owner": "Turner Christopher Lee",
       "reporting_owner_cik": "0001783787",

@@ -1,11 +1,23 @@
 {
   "ticker": "EW",
-  "last_updated": "2026-03-02T08:57:55.450333",
+  "last_updated": "2026-03-03T08:52:44.055819",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 511,
+      "id": 541,
+      "issuer_name": "Edwards Lifesciences Corp",
+      "reporting_owner": "BOBO DONALD E JR",
+      "reporting_owner_cik": "0001196661",
+      "reporting_owner_position": "CVP,Strategy/Corp Development",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "11340.0000",
+      "transaction_price": "59.2567",
+      "transaction_type": "M",
+      "shares_after_transaction": "32606.2532"
+    },
+    {
+      "id": 542,
       "issuer_name": "Edwards Lifesciences Corp",
       "reporting_owner": "BOBO DONALD E JR",
       "reporting_owner_cik": "0001196661",
@@ -15,30 +27,6 @@
       "transaction_price": "83.8365",
       "transaction_type": "S",
       "shares_after_transaction": "21266.2532"
-    },
-    {
-      "id": 509,
-      "issuer_name": "Edwards Lifesciences Corp",
-      "reporting_owner": "Lippis Daniel J.",
-      "reporting_owner_cik": "0002004380",
-      "reporting_owner_position": "CVP, TAVR",
-      "transaction_date": "2026-02-22",
-      "transaction_shares": "432.0000",
-      "transaction_price": "79.7800",
-      "transaction_type": "F",
-      "shares_after_transaction": "33933.9103"
-    },
-    {
-      "id": 510,
-      "issuer_name": "Edwards Lifesciences Corp",
-      "reporting_owner": "Dahl Andrew M.",
-      "reporting_owner_cik": "0002022347",
-      "reporting_owner_position": "SVP, Corporate Controller",
-      "transaction_date": "2026-02-22",
-      "transaction_shares": "176.0000",
-      "transaction_price": "79.7800",
-      "transaction_type": "F",
-      "shares_after_transaction": "9089.4805"
     }
   ]
 }
