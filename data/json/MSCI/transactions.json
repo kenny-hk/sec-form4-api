@@ -1,20 +1,44 @@
 {
   "ticker": "MSCI",
-  "last_updated": "2026-02-27T08:51:19.568301",
+  "last_updated": "2026-03-04T08:51:37.697617",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 76,
+      "id": 202,
       "issuer_name": "MSCI Inc.",
-      "reporting_owner": "Ashe Robert G.",
-      "reporting_owner_cik": "0001414310",
+      "reporting_owner": "RIEFLER LINDA H",
+      "reporting_owner_cik": "0001366334",
       "reporting_owner_position": null,
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "3681",
-      "transaction_price": "543.21",
-      "transaction_type": "P",
-      "shares_after_transaction": "22290"
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "6",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20595"
+    },
+    {
+      "id": 203,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Matlock Robin",
+      "reporting_owner_cik": "0001781215",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "5",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1637"
+    },
+    {
+      "id": 204,
+      "issuer_name": "MSCI Inc.",
+      "reporting_owner": "Yang June",
+      "reporting_owner_cik": "0002008967",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "1",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "514"
     }
   ]
 }

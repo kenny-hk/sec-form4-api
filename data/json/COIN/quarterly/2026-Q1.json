@@ -2,11 +2,23 @@
   "ticker": "COIN",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-03T08:52:44.055819",
-  "count": 7,
+  "last_updated": "2026-03-04T08:51:37.697617",
+  "count": 3,
   "transactions": [
     {
-      "id": 894,
+      "id": 1197,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Grewal Paul",
+      "reporting_owner_cik": "0001851414",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "80",
+      "transaction_price": "172.67",
+      "transaction_type": "S",
+      "shares_after_transaction": "80008"
+    },
+    {
+      "id": 1196,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Brock Lawrence J",
       "reporting_owner_cik": "0001963975",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "3638"
     },
     {
-      "id": 897,
+      "id": 1198,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Jones Jennifer N.",
       "reporting_owner_cik": "0001851432",
@@ -28,66 +40,6 @@
       "transaction_price": "153.3645",
       "transaction_type": "S",
       "shares_after_transaction": "662"
-    },
-    {
-      "id": 892,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Choi Emilie",
-      "reporting_owner_cik": "0001851658",
-      "reporting_owner_position": "President & COO",
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "160793",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "525333"
-    },
-    {
-      "id": 893,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "HAAS ALESIA J",
-      "reporting_owner_cik": "0001668711",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "5869",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "408034"
-    },
-    {
-      "id": 895,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Jones Jennifer N.",
-      "reporting_owner_cik": "0001851432",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "1321",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "1321"
-    },
-    {
-      "id": 896,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Grewal Paul",
-      "reporting_owner_cik": "0001851414",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "4402",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "79237"
-    },
-    {
-      "id": 898,
-      "issuer_name": "Coinbase Global, Inc.",
-      "reporting_owner": "Brock Lawrence J",
-      "reporting_owner_cik": "0001963975",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "4402",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "4899"
     }
   ]
 }

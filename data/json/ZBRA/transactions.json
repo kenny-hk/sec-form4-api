@@ -1,11 +1,35 @@
 {
   "ticker": "ZBRA",
-  "last_updated": "2026-03-03T08:52:44.055819",
+  "last_updated": "2026-03-04T08:51:37.697617",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 437,
+      "id": 647,
+      "issuer_name": "ZEBRA TECHNOLOGIES CORP",
+      "reporting_owner": "Burns Bill",
+      "reporting_owner_cik": "0001644617",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-03-01",
+      "transaction_shares": "1548",
+      "transaction_price": "223.96",
+      "transaction_type": "F",
+      "shares_after_transaction": "57030"
+    },
+    {
+      "id": 646,
+      "issuer_name": "ZEBRA TECHNOLOGIES CORP",
+      "reporting_owner": "Dhanasekaran Satish",
+      "reporting_owner_cik": "0001712648",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "500",
+      "transaction_price": "225.25",
+      "transaction_type": "P",
+      "shares_after_transaction": "3856"
+    },
+    {
+      "id": 645,
       "issuer_name": "ZEBRA TECHNOLOGIES CORP",
       "reporting_owner": "Froese Tamara Dionne",
       "reporting_owner_cik": "0001953795",
