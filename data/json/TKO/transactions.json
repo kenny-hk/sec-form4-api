@@ -1,20 +1,32 @@
 {
   "ticker": "TKO",
-  "last_updated": "2026-03-03T08:52:44.055819",
+  "last_updated": "2026-03-05T08:55:36.557080",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 44,
+      "id": 73,
       "issuer_name": "TKO Group Holdings, Inc.",
       "reporting_owner": "Kapral Shane",
       "reporting_owner_cik": "0001992689",
       "reporting_owner_position": "Deputy Chief Financial Officer",
-      "transaction_date": "2026-02-23",
+      "transaction_date": "2026-03-03",
       "transaction_shares": "616",
-      "transaction_price": "210.00",
+      "transaction_price": "221.91",
       "transaction_type": "S",
-      "shares_after_transaction": "969"
+      "shares_after_transaction": "353"
+    },
+    {
+      "id": 74,
+      "issuer_name": "TKO Group Holdings, Inc.",
+      "reporting_owner": "Khan Nick",
+      "reporting_owner_cik": "0001821220",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "1201",
+      "transaction_price": "219.03",
+      "transaction_type": "S",
+      "shares_after_transaction": "118364.834"
     }
   ]
 }

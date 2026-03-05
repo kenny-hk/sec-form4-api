@@ -1,11 +1,47 @@
 {
   "ticker": "WMT",
-  "last_updated": "2026-03-04T08:51:37.697617",
+  "last_updated": "2026-03-05T08:55:36.557080",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 660,
+      "id": 753,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Steuart L",
+      "reporting_owner_cik": "0001675503",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "394000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "473771.574"
+    },
+    {
+      "id": 751,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "848000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "521732949"
+    },
+    {
+      "id": 754,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Rainey John D",
+      "reporting_owner_cik": "0001547433",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "17835",
+      "transaction_price": "127.7362",
+      "transaction_type": "S",
+      "shares_after_transaction": "488928.922"
+    },
+    {
+      "id": 750,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "McMillon C Douglas",
       "reporting_owner_cik": "0001335782",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "4023209.292"
     },
     {
-      "id": 661,
+      "id": 752,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
@@ -27,18 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "J",
       "shares_after_transaction": "524304185"
-    },
-    {
-      "id": 662,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-23",
-      "transaction_shares": "844309",
-      "transaction_price": "125.6253",
-      "transaction_type": "S",
-      "shares_after_transaction": "525032147"
     }
   ]
 }

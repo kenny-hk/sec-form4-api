@@ -1,11 +1,23 @@
 {
   "ticker": "META",
-  "last_updated": "2026-03-04T08:51:37.697617",
+  "last_updated": "2026-03-05T08:55:36.557080",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 1009,
+      "id": 1141,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Olivan Javier",
+      "reporting_owner_cik": "0001564475",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "926",
+      "transaction_price": "637.21",
+      "transaction_type": "S",
+      "shares_after_transaction": "16113"
+    },
+    {
+      "id": 1140,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "LI SUSAN J",
       "reporting_owner_cik": "0001739092",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "55145"
     },
     {
-      "id": 1007,
+      "id": 1138,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Alford Peggy",
       "reporting_owner_cik": "0001736236",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "3113"
     },
     {
-      "id": 1008,
+      "id": 1139,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "LI SUSAN J",
       "reporting_owner_cik": "0001739092",
@@ -39,18 +51,6 @@
       "transaction_price": "630.309",
       "transaction_type": "S",
       "shares_after_transaction": "66122"
-    },
-    {
-      "id": 1010,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Olivan Javier",
-      "reporting_owner_cik": "0001564475",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2026-02-23",
-      "transaction_shares": "926",
-      "transaction_price": "652.68",
-      "transaction_type": "S",
-      "shares_after_transaction": "17039"
     }
   ]
 }

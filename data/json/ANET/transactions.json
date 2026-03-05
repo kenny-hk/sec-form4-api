@@ -1,11 +1,23 @@
 {
   "ticker": "ANET",
-  "last_updated": "2026-03-04T08:51:37.697617",
+  "last_updated": "2026-03-05T08:55:36.557080",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 1329,
+      "id": 1484,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "Giancarlo Charles H",
+      "reporting_owner_cik": "0001299634",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "3100",
+      "transaction_price": "127.9014",
+      "transaction_type": "S",
+      "shares_after_transaction": "6684"
+    },
+    {
+      "id": 1483,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "Wassenaar Yvonne",
       "reporting_owner_cik": "0001707744",
@@ -15,18 +27,6 @@
       "transaction_price": "129.407",
       "transaction_type": "S",
       "shares_after_transaction": "14319"
-    },
-    {
-      "id": 1330,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "Battles Kelly Bodnar",
-      "reporting_owner_cik": "0001817763",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-23",
-      "transaction_shares": "121",
-      "transaction_price": "126.8497",
-      "transaction_type": "S",
-      "shares_after_transaction": "9830"
     }
   ]
 }

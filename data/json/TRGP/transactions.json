@@ -1,11 +1,23 @@
 {
   "ticker": "TRGP",
-  "last_updated": "2026-03-04T08:51:37.697617",
+  "last_updated": "2026-03-05T08:55:36.557080",
   "retention_years": 3,
-  "count": 7,
+  "count": 5,
   "transactions": [
     {
-      "id": 1986,
+      "id": 2199,
+      "issuer_name": "Targa Resources Corp.",
+      "reporting_owner": "McDonie Patrick J.",
+      "reporting_owner_cik": "0001553925",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-03-02",
+      "transaction_shares": "30421",
+      "transaction_price": "239.332",
+      "transaction_type": "S",
+      "shares_after_transaction": "306279"
+    },
+    {
+      "id": 2196,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Branstetter Benjamin James",
       "reporting_owner_cik": "0002113600",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "32543.1191"
     },
     {
-      "id": 1987,
+      "id": 2197,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Cooksen Lindsey",
       "reporting_owner_cik": "0001806033",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "11670"
     },
     {
-      "id": 1989,
+      "id": 2198,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Pryor D. Scott",
       "reporting_owner_cik": "0001659146",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "46640"
     },
     {
-      "id": 1984,
+      "id": 2195,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "JOYCE RENE R",
       "reporting_owner_cik": "0001015884",
@@ -51,42 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "210708"
-    },
-    {
-      "id": 1985,
-      "issuer_name": "Targa Resources Corp.",
-      "reporting_owner": "Kneale Jennifer R.",
-      "reporting_owner_cik": "0001732689",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-02-24",
-      "transaction_shares": "27984",
-      "transaction_price": "230.0985",
-      "transaction_type": "S",
-      "shares_after_transaction": "236785"
-    },
-    {
-      "id": 1988,
-      "issuer_name": "Targa Resources Corp.",
-      "reporting_owner": "MELOY MATTHEW J",
-      "reporting_owner_cik": "0001506542",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-02-24",
-      "transaction_shares": "40000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "727291"
-    },
-    {
-      "id": 1990,
-      "issuer_name": "Targa Resources Corp.",
-      "reporting_owner": "CRISP CHARLES R",
-      "reporting_owner_cik": "0001015825",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-24",
-      "transaction_shares": "1500",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "78453"
     }
   ]
 }
