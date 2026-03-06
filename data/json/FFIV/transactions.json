@@ -1,20 +1,32 @@
 {
   "ticker": "FFIV",
-  "last_updated": "2026-03-02T08:57:55.450333",
+  "last_updated": "2026-03-06T08:51:05.488253",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 687,
+      "id": 1014,
       "issuer_name": "F5, INC.",
-      "reporting_owner": "Dreyer Michael L",
-      "reporting_owner_cik": "0001560297",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-20",
-      "transaction_shares": "3067",
-      "transaction_price": "282.4054",
+      "reporting_owner": "Werner Edward Cooper",
+      "reporting_owner_cik": "0002042647",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "40",
+      "transaction_price": "278.21",
       "transaction_type": "S",
-      "shares_after_transaction": "1309"
+      "shares_after_transaction": "6234"
+    },
+    {
+      "id": 1015,
+      "issuer_name": "F5, INC.",
+      "reporting_owner": "Locoh-Donou Francois",
+      "reporting_owner_cik": "0001526624",
+      "reporting_owner_position": "President, CEO & Director",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "120",
+      "transaction_price": "278.12",
+      "transaction_type": "S",
+      "shares_after_transaction": "153958"
     }
   ]
 }

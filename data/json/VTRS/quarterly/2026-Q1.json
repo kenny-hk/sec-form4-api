@@ -2,20 +2,68 @@
   "ticker": "VTRS",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-01-09T08:42:08.816706",
-  "count": 1,
+  "last_updated": "2026-03-06T08:51:05.488253",
+  "count": 5,
   "transactions": [
     {
-      "id": 139,
+      "id": 1466,
+      "issuer_name": "Viatris Inc",
+      "reporting_owner": "Le Goff Corinne",
+      "reporting_owner_cik": "0001840912",
+      "reporting_owner_position": "Chief Commercial Officer",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "36720",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "72019"
+    },
+    {
+      "id": 1469,
       "issuer_name": "Viatris Inc",
       "reporting_owner": "Mistras Theodora",
       "reporting_owner_cik": "0002013495",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-01-01",
-      "transaction_shares": "23085",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "31149",
       "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "48265"
+      "shares_after_transaction": "66991"
+    },
+    {
+      "id": 1467,
+      "issuer_name": "Viatris Inc",
+      "reporting_owner": "Campbell Paul",
+      "reporting_owner_cik": "0001657568",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "17689",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "271829"
+    },
+    {
+      "id": 1468,
+      "issuer_name": "Viatris Inc",
+      "reporting_owner": "Smith Scott Andrew",
+      "reporting_owner_cik": "0001614975",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "135828",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "450635"
+    },
+    {
+      "id": 1470,
+      "issuer_name": "Viatris Inc",
+      "reporting_owner": "Enrietti Andrew",
+      "reporting_owner_cik": "0002082085",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "11531",
+      "transaction_price": "0",
+      "transaction_type": "X",
+      "shares_after_transaction": "141531"
     }
   ]
 }

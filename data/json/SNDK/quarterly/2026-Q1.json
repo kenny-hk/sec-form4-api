@@ -2,11 +2,23 @@
   "ticker": "SNDK",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-05T08:55:36.557080",
+  "last_updated": "2026-03-06T08:51:05.488253",
   "count": 4,
   "transactions": [
     {
-      "id": 1893,
+      "id": 1843,
+      "issuer_name": "Sandisk Corp",
+      "reporting_owner": "Caulfield Thomas",
+      "reporting_owner_cik": "0001342570",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "14500",
+      "transaction_price": "0.0",
+      "transaction_type": "G",
+      "shares_after_transaction": "2312"
+    },
+    {
+      "id": 1844,
       "issuer_name": "Sandisk Corp",
       "reporting_owner": "Ilkbahar Alper",
       "reporting_owner_cik": "0002059630",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "58062"
     },
     {
-      "id": 1894,
+      "id": 1845,
       "issuer_name": "Sandisk Corp",
       "reporting_owner": "Goeckeler David",
       "reporting_owner_cik": "0001713941",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "513803"
     },
     {
-      "id": 1895,
+      "id": 1846,
       "issuer_name": "Sandisk Corp",
       "reporting_owner": "Shek Bernard",
       "reporting_owner_cik": "0002060144",
@@ -40,18 +52,6 @@
       "transaction_price": "632.38",
       "transaction_type": "F",
       "shares_after_transaction": "33417"
-    },
-    {
-      "id": 1896,
-      "issuer_name": "Sandisk Corp",
-      "reporting_owner": "Suzuki Miyuki",
-      "reporting_owner_cik": "0001867852",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-25",
-      "transaction_shares": "3500",
-      "transaction_price": "627.5313",
-      "transaction_type": "S",
-      "shares_after_transaction": "9907"
     }
   ]
 }
