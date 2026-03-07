@@ -2,11 +2,23 @@
   "ticker": "ABBV",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-06T08:51:05.488253",
-  "count": 9,
+  "last_updated": "2026-03-07T08:45:16.408930",
+  "count": 10,
   "transactions": [
     {
-      "id": 1141,
+      "id": 1012,
+      "issuer_name": "AbbVie Inc.",
+      "reporting_owner": "Purdue David Ryan",
+      "reporting_owner_cik": "0002057696",
+      "reporting_owner_position": "SVP, Controller",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "5230",
+      "transaction_price": "233.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "2654"
+    },
+    {
+      "id": 1005,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Thakkar Roopal",
       "reporting_owner_cik": "0002004979",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "52376"
     },
     {
-      "id": 1142,
+      "id": 1006,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Michael Robert A.",
       "reporting_owner_cik": "0001699914",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "178737"
     },
     {
-      "id": 1143,
+      "id": 1007,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Purdue David Ryan",
       "reporting_owner_cik": "0002057696",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "7884"
     },
     {
-      "id": 1144,
+      "id": 1008,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Donoghoe Nicholas",
       "reporting_owner_cik": "0001762951",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "74430"
     },
     {
-      "id": 1145,
+      "id": 1009,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "SALEKI-GERHARDT AZITA",
       "reporting_owner_cik": "0001563545",
@@ -66,7 +78,7 @@
       "shares_after_transaction": "197794"
     },
     {
-      "id": 1146,
+      "id": 1010,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Stewart Jeffrey Ryan",
       "reporting_owner_cik": "0001761675",
@@ -78,7 +90,7 @@
       "shares_after_transaction": "83171"
     },
     {
-      "id": 1147,
+      "id": 1011,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Reents Scott T",
       "reporting_owner_cik": "0001937048",
@@ -90,7 +102,19 @@
       "shares_after_transaction": "38777"
     },
     {
-      "id": 1148,
+      "id": 1013,
+      "issuer_name": "AbbVie Inc.",
+      "reporting_owner": "Crum Demetris D",
+      "reporting_owner_cik": "0002078592",
+      "reporting_owner_position": "EVP, CHIEF HR OFFICER",
+      "transaction_date": "2026-02-27",
+      "transaction_shares": "1594",
+      "transaction_price": "232.08",
+      "transaction_type": "F",
+      "shares_after_transaction": "7914"
+    },
+    {
+      "id": 1014,
       "issuer_name": "AbbVie Inc.",
       "reporting_owner": "Siatis Perry C",
       "reporting_owner_cik": "0001951400",
@@ -100,18 +124,6 @@
       "transaction_price": "232.08",
       "transaction_type": "F",
       "shares_after_transaction": "23287"
-    },
-    {
-      "id": 1140,
-      "issuer_name": "AbbVie Inc.",
-      "reporting_owner": "Siatis Perry C",
-      "reporting_owner_cik": "0001951400",
-      "reporting_owner_position": "EVP, GC AND SECRETARY",
-      "transaction_date": "2026-02-25",
-      "transaction_shares": "7314",
-      "transaction_price": "149.62",
-      "transaction_type": "M",
-      "shares_after_transaction": "45451"
     }
   ]
 }

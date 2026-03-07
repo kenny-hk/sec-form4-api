@@ -1,11 +1,23 @@
 {
   "ticker": "WMT",
-  "last_updated": "2026-03-06T08:51:05.488253",
+  "last_updated": "2026-03-07T08:45:16.408930",
   "retention_years": 3,
-  "count": 5,
+  "count": 4,
   "transactions": [
     {
-      "id": 766,
+      "id": 707,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Steuart L",
+      "reporting_owner_cik": "0001675503",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "394000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "79771.574"
+    },
+    {
+      "id": 705,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Steuart L",
       "reporting_owner_cik": "0001675503",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "473771.574"
     },
     {
-      "id": 764,
+      "id": 704,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "521732949"
     },
     {
-      "id": 767,
+      "id": 706,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Rainey John D",
       "reporting_owner_cik": "0001547433",
@@ -39,30 +51,6 @@
       "transaction_price": "127.7362",
       "transaction_type": "S",
       "shares_after_transaction": "488928.922"
-    },
-    {
-      "id": 763,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "McMillon C Douglas",
-      "reporting_owner_cik": "0001335782",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-26",
-      "transaction_shares": "19416",
-      "transaction_price": "126.7057",
-      "transaction_type": "S",
-      "shares_after_transaction": "4023209.292"
-    },
-    {
-      "id": 765,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-26",
-      "transaction_shares": "303000",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "524304185"
     }
   ]
 }

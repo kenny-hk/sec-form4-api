@@ -1,11 +1,23 @@
 {
   "ticker": "TRGP",
-  "last_updated": "2026-03-06T08:51:05.488253",
+  "last_updated": "2026-03-07T08:45:16.408930",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 2115,
+      "id": 1934,
+      "issuer_name": "Targa Resources Corp.",
+      "reporting_owner": "Muraro Robert",
+      "reporting_owner_cik": "0001699420",
+      "reporting_owner_position": "Chief Commercial Officer",
+      "transaction_date": "2026-03-05",
+      "transaction_shares": "24589",
+      "transaction_price": "241.3428",
+      "transaction_type": "S",
+      "shares_after_transaction": "197401"
+    },
+    {
+      "id": 1935,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "McDonie Patrick J.",
       "reporting_owner_cik": "0001553925",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "306279"
     },
     {
-      "id": 2112,
+      "id": 1933,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Branstetter Benjamin James",
       "reporting_owner_cik": "0002113600",
@@ -27,30 +39,6 @@
       "transaction_price": "235.80",
       "transaction_type": "F",
       "shares_after_transaction": "32543.1191"
-    },
-    {
-      "id": 2113,
-      "issuer_name": "Targa Resources Corp.",
-      "reporting_owner": "Cooksen Lindsey",
-      "reporting_owner_cik": "0001806033",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-26",
-      "transaction_shares": "435",
-      "transaction_price": "231.7165",
-      "transaction_type": "S",
-      "shares_after_transaction": "11670"
-    },
-    {
-      "id": 2114,
-      "issuer_name": "Targa Resources Corp.",
-      "reporting_owner": "Pryor D. Scott",
-      "reporting_owner_cik": "0001659146",
-      "reporting_owner_position": "See Remarks",
-      "transaction_date": "2026-02-25",
-      "transaction_shares": "2798",
-      "transaction_price": "227.2769",
-      "transaction_type": "S",
-      "shares_after_transaction": "46640"
     }
   ]
 }

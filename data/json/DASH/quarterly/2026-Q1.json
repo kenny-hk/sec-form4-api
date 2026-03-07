@@ -2,11 +2,35 @@
   "ticker": "DASH",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-06T08:51:05.488253",
-  "count": 3,
+  "last_updated": "2026-03-07T08:45:16.408930",
+  "count": 4,
   "transactions": [
     {
-      "id": 1295,
+      "id": 1159,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Xu Tony",
+      "reporting_owner_cik": "0001832617",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "83",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 1162,
+      "issuer_name": "DoorDash, Inc.",
+      "reporting_owner": "Tang Stanley",
+      "reporting_owner_cik": "0001832614",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-04",
+      "transaction_shares": "200",
+      "transaction_price": "174.046",
+      "transaction_type": "S",
+      "shares_after_transaction": "22447"
+    },
+    {
+      "id": 1160,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Inukonda Ravi",
       "reporting_owner_cik": "0001849709",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "193986"
     },
     {
-      "id": 1296,
+      "id": 1161,
       "issuer_name": "DoorDash, Inc.",
       "reporting_owner": "Lee Gordon S",
       "reporting_owner_cik": "0001635648",
@@ -28,18 +52,6 @@
       "transaction_price": "176.19",
       "transaction_type": "S",
       "shares_after_transaction": "82366"
-    },
-    {
-      "id": 1294,
-      "issuer_name": "DoorDash, Inc.",
-      "reporting_owner": "Yandell Keith",
-      "reporting_owner_cik": "0001833552",
-      "reporting_owner_position": "CHIEF BUSINESS OFFICER",
-      "transaction_date": "2026-02-25",
-      "transaction_shares": "160",
-      "transaction_price": "166.035",
-      "transaction_type": "S",
-      "shares_after_transaction": "61399"
     }
   ]
 }
