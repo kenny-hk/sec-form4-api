@@ -1,11 +1,47 @@
 {
   "ticker": "AJG",
-  "last_updated": "2026-03-09T08:58:44.409163",
+  "last_updated": "2026-03-10T08:56:58.262490",
   "retention_years": 3,
   "count": 6,
   "transactions": [
     {
-      "id": 44,
+      "id": 37,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "Hudson Scott R",
+      "reporting_owner_cik": "0001482241",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "3800",
+      "transaction_price": "79.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "89720"
+    },
+    {
+      "id": 43,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "Mead Christopher E",
+      "reporting_owner_cik": "0001737644",
+      "reporting_owner_position": "VICE PRESIDENT",
+      "transaction_date": "2026-03-05",
+      "transaction_shares": "4000",
+      "transaction_price": "79.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "23305.7322"
+    },
+    {
+      "id": 57,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "Pesch Michael Robert",
+      "reporting_owner_cik": "0002022545",
+      "reporting_owner_position": "Vice President",
+      "transaction_date": "2026-03-05",
+      "transaction_shares": "6750",
+      "transaction_price": "79.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "48598.6557"
+    },
+    {
+      "id": 42,
       "issuer_name": "Arthur J. Gallagher & Co.",
       "reporting_owner": "Gallagher Patrick Murphy",
       "reporting_owner_cik": "0001929606",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "55109"
     },
     {
-      "id": 48,
+      "id": 47,
       "issuer_name": "Arthur J. Gallagher & Co.",
       "reporting_owner": "Gallagher Patrick Murphy",
       "reporting_owner_cik": "0001929606",
@@ -29,7 +65,7 @@
       "shares_after_transaction": "36442.6637"
     },
     {
-      "id": 52,
+      "id": 51,
       "issuer_name": "Arthur J. Gallagher & Co.",
       "reporting_owner": "GALLAGHER J PATRICK JR",
       "reporting_owner_cik": "0001186006",
@@ -39,42 +75,6 @@
       "transaction_price": "79.59",
       "transaction_type": "M",
       "shares_after_transaction": "123904.9335"
-    },
-    {
-      "id": 41,
-      "issuer_name": "Arthur J. Gallagher & Co.",
-      "reporting_owner": "Miskel Christopher C.",
-      "reporting_owner_cik": "0001804681",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-01",
-      "transaction_shares": "175.285",
-      "transaction_price": "228.20",
-      "transaction_type": "A",
-      "shares_after_transaction": "9308.109"
-    },
-    {
-      "id": 58,
-      "issuer_name": "Arthur J. Gallagher & Co.",
-      "reporting_owner": "JOHNSON DAVID S",
-      "reporting_owner_cik": "0001192476",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-01",
-      "transaction_shares": "213.628",
-      "transaction_price": "228.20",
-      "transaction_type": "A",
-      "shares_after_transaction": "46037.63"
-    },
-    {
-      "id": 55,
-      "issuer_name": "Arthur J. Gallagher & Co.",
-      "reporting_owner": "GALLAGHER THOMAS JOSEPH",
-      "reporting_owner_cik": "0001589933",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-02-26",
-      "transaction_shares": "28200",
-      "transaction_price": "75.59",
-      "transaction_type": "M",
-      "shares_after_transaction": "318691.08"
     }
   ]
 }
