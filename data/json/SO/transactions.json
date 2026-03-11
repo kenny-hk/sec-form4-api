@@ -1,20 +1,32 @@
 {
   "ticker": "SO",
-  "last_updated": "2026-03-09T08:58:44.409163",
+  "last_updated": "2026-03-11T08:51:07.332053",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 24,
+      "id": 19,
       "issuer_name": "SOUTHERN CO",
-      "reporting_owner": "EARLEY ANTHONY F JR",
-      "reporting_owner_cik": "0001167316",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-26",
-      "transaction_shares": "15000",
+      "reporting_owner": "Drake Sloane N",
+      "reporting_owner_cik": "0001971188",
+      "reporting_owner_position": "EVP & CHRO",
+      "transaction_date": "2026-03-08",
+      "transaction_shares": "1420",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "9261"
+      "transaction_type": "M",
+      "shares_after_transaction": "39565"
+    },
+    {
+      "id": 20,
+      "issuer_name": "SOUTHERN CO",
+      "reporting_owner": "Spainhour Sterling A Jr.",
+      "reporting_owner_cik": "0001849295",
+      "reporting_owner_position": "EVP & CLO",
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "6330.0066",
+      "transaction_price": "97.64",
+      "transaction_type": "I",
+      "shares_after_transaction": "704.2169"
     }
   ]
 }

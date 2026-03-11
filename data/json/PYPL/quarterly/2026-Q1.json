@@ -2,20 +2,44 @@
   "ticker": "PYPL",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-02-26T09:00:54.805795",
-  "count": 1,
+  "last_updated": "2026-03-11T08:51:07.332053",
+  "count": 3,
   "transactions": [
     {
-      "id": 682,
+      "id": 572,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Keller Frank",
+      "reporting_owner_cik": "0002006416",
+      "reporting_owner_position": "EVP, GM, Large Ent & Mer Plat.",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "8901",
+      "transaction_price": "45.1915",
+      "transaction_type": "S",
+      "shares_after_transaction": "72247"
+    },
+    {
+      "id": 573,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Natali Chris",
+      "reporting_owner_cik": "0001905272",
+      "reporting_owner_position": "SVP, Chief Accounting Officer",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "2208",
+      "transaction_price": "44.73",
+      "transaction_type": "S",
+      "shares_after_transaction": "1140"
+    },
+    {
+      "id": 574,
       "issuer_name": "PayPal Holdings, Inc.",
       "reporting_owner": "Kereere Suzan",
       "reporting_owner_cik": "0001896086",
       "reporting_owner_position": "President, Global Markets",
-      "transaction_date": "2026-02-18",
-      "transaction_shares": "31413",
-      "transaction_price": "41.45",
+      "transaction_date": "2026-03-03",
+      "transaction_shares": "4000",
+      "transaction_price": "45.1833",
       "transaction_type": "S",
-      "shares_after_transaction": "37183"
+      "shares_after_transaction": "40498"
     }
   ]
 }

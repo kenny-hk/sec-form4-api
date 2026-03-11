@@ -1,20 +1,44 @@
 {
   "ticker": "ATO",
-  "last_updated": "2026-02-12T08:57:48.989764",
+  "last_updated": "2026-03-11T08:51:07.332053",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 640,
+      "id": 761,
       "issuer_name": "ATMOS ENERGY CORP",
-      "reporting_owner": "Sampson Richard A",
-      "reporting_owner_cik": "0001532996",
+      "reporting_owner": "COCKLIN KIM R",
+      "reporting_owner_cik": "0001238118",
       "reporting_owner_position": null,
-      "transaction_date": "2026-02-04",
-      "transaction_shares": "30808",
-      "transaction_price": "171.62",
-      "transaction_type": "C",
-      "shares_after_transaction": "41082.04"
+      "transaction_date": "2026-03-07",
+      "transaction_shares": "1082",
+      "transaction_price": "184.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "173713.6045"
+    },
+    {
+      "id": 767,
+      "issuer_name": "ATMOS ENERGY CORP",
+      "reporting_owner": "Ale John C.",
+      "reporting_owner_cik": "0001548336",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-07",
+      "transaction_shares": "1082",
+      "transaction_price": "184.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "1082"
+    },
+    {
+      "id": 769,
+      "issuer_name": "ATMOS ENERGY CORP",
+      "reporting_owner": "COMPTON KELLY H",
+      "reporting_owner_cik": "0001689939",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-07",
+      "transaction_shares": "1082",
+      "transaction_price": "184.73",
+      "transaction_type": "M",
+      "shares_after_transaction": "7959.061"
     }
   ]
 }

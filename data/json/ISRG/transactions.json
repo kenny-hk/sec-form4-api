@@ -1,11 +1,23 @@
 {
   "ticker": "ISRG",
-  "last_updated": "2026-03-10T08:56:58.262490",
+  "last_updated": "2026-03-11T08:51:07.332053",
   "retention_years": 3,
-  "count": 5,
+  "count": 2,
   "transactions": [
     {
-      "id": 1246,
+      "id": 773,
+      "issuer_name": "INTUITIVE SURGICAL INC",
+      "reporting_owner": "Brosius Mark",
+      "reporting_owner_cik": "0002010300",
+      "reporting_owner_position": "SVP & Chief Mfg and Supply Cha",
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "648",
+      "transaction_price": "490.19",
+      "transaction_type": "S",
+      "shares_after_transaction": "2258"
+    },
+    {
+      "id": 772,
       "issuer_name": "INTUITIVE SURGICAL INC",
       "reporting_owner": "Brosius Mark",
       "reporting_owner_cik": "0002010300",
@@ -15,54 +27,6 @@
       "transaction_price": "488.1",
       "transaction_type": "S",
       "shares_after_transaction": "5916"
-    },
-    {
-      "id": 1244,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "Curet Myriam",
-      "reporting_owner_cik": "0001632901",
-      "reporting_owner_position": "EVP & Chief Medical Officer",
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "125",
-      "transaction_price": "208.9",
-      "transaction_type": "M",
-      "shares_after_transaction": "5262"
-    },
-    {
-      "id": 1245,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "GUTHART GARY S",
-      "reporting_owner_cik": "0001280628",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-02-28",
-      "transaction_shares": "2506",
-      "transaction_price": "0.0",
-      "transaction_type": "M",
-      "shares_after_transaction": "11757"
-    },
-    {
-      "id": 1247,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "Jeddi Iman",
-      "reporting_owner_cik": "0002106898",
-      "reporting_owner_position": "SVP & GM da Vinci Platforms &",
-      "transaction_date": "2026-02-28",
-      "transaction_shares": "626",
-      "transaction_price": "0.0",
-      "transaction_type": "M",
-      "shares_after_transaction": "2551"
-    },
-    {
-      "id": 1248,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "Widman Fredrik",
-      "reporting_owner_cik": "0001897970",
-      "reporting_owner_position": "VP Corporate Controller",
-      "transaction_date": "2026-02-27",
-      "transaction_shares": "249",
-      "transaction_price": "499.71",
-      "transaction_type": "S",
-      "shares_after_transaction": "909"
     }
   ]
 }

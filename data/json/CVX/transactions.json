@@ -1,9 +1,21 @@
 {
   "ticker": "CVX",
-  "last_updated": "2026-03-10T08:56:58.262490",
+  "last_updated": "2026-03-11T08:51:07.332053",
   "retention_years": 3,
-  "count": 6,
+  "count": 4,
   "transactions": [
+    {
+      "id": 15,
+      "issuer_name": "CHEVRON CORP",
+      "reporting_owner": "Pate R. Hewitt",
+      "reporting_owner_cik": "0001469419",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "47200",
+      "transaction_price": "113.01",
+      "transaction_type": "M",
+      "shares_after_transaction": "55758"
+    },
     {
       "id": 11,
       "issuer_name": "CHEVRON CORP",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "6600"
     },
     {
-      "id": 18,
+      "id": 16,
       "issuer_name": "CHEVRON CORP",
       "reporting_owner": "NELSON MARK A",
       "reporting_owner_cik": "0001729591",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "73937"
     },
     {
-      "id": 20,
+      "id": 18,
       "issuer_name": "CHEVRON CORP",
       "reporting_owner": "Wirth Michael K",
       "reporting_owner_cik": "0001354590",
@@ -39,42 +51,6 @@
       "transaction_price": "125.35",
       "transaction_type": "M",
       "shares_after_transaction": "213366"
-    },
-    {
-      "id": 12,
-      "issuer_name": "CHEVRON CORP",
-      "reporting_owner": "BONNER EIMEAR P",
-      "reporting_owner_cik": "0001880440",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-02-27",
-      "transaction_shares": "18800",
-      "transaction_price": "152.35",
-      "transaction_type": "M",
-      "shares_after_transaction": "27228"
-    },
-    {
-      "id": 16,
-      "issuer_name": "CHEVRON CORP",
-      "reporting_owner": "GUSTAVSON JEFF B",
-      "reporting_owner_cik": "0001960732",
-      "reporting_owner_position": "President, New Energies",
-      "transaction_date": "2026-02-27",
-      "transaction_shares": "6667",
-      "transaction_price": "125.35",
-      "transaction_type": "M",
-      "shares_after_transaction": "10383"
-    },
-    {
-      "id": 17,
-      "issuer_name": "CHEVRON CORP",
-      "reporting_owner": "Pate R. Hewitt",
-      "reporting_owner_cik": "0001469419",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-02-27",
-      "transaction_shares": "35475",
-      "transaction_price": "117.24",
-      "transaction_type": "M",
-      "shares_after_transaction": "44033"
     }
   ]
 }

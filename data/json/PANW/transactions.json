@@ -1,11 +1,23 @@
 {
   "ticker": "PANW",
-  "last_updated": "2026-03-10T08:56:58.262490",
+  "last_updated": "2026-03-11T08:51:07.332053",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 662,
+      "id": 418,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "GOETZ JAMES J",
+      "reporting_owner_cik": "0001219231",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-06",
+      "transaction_shares": "8500",
+      "transaction_price": "163.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "66684"
+    },
+    {
+      "id": 419,
       "issuer_name": "Palo Alto Networks Inc",
       "reporting_owner": "Paul Josh D.",
       "reporting_owner_cik": "0001882285",
@@ -15,18 +27,6 @@
       "transaction_price": "147.90",
       "transaction_type": "S",
       "shares_after_transaction": "58814"
-    },
-    {
-      "id": 661,
-      "issuer_name": "Palo Alto Networks Inc",
-      "reporting_owner": "Thorning-Schmidt Helle",
-      "reporting_owner_cik": "0002055370",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-01",
-      "transaction_shares": "345",
-      "transaction_price": "148.92",
-      "transaction_type": "F",
-      "shares_after_transaction": "6809"
     }
   ]
 }
