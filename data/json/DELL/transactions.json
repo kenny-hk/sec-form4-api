@@ -1,11 +1,23 @@
 {
   "ticker": "DELL",
-  "last_updated": "2026-03-11T08:51:07.332053",
+  "last_updated": "2026-03-12T08:51:55.868597",
   "retention_years": 3,
-  "count": 7,
+  "count": 4,
   "transactions": [
     {
-      "id": 935,
+      "id": 730,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Saavedra Jennifer D.",
+      "reporting_owner_cik": "0001850336",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "10200",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "252715"
+    },
+    {
+      "id": 733,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Kullman Ellen Jamison",
       "reporting_owner_cik": "0001303141",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "74463"
     },
     {
-      "id": 932,
+      "id": 731,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA V (GP), L.L.C.",
       "reporting_owner_cik": "0001737652",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "351095"
     },
     {
-      "id": 933,
+      "id": 732,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA IV (GP), L.L.C.",
       "reporting_owner_cik": "0001672568",
@@ -39,54 +51,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "351095"
-    },
-    {
-      "id": 929,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA V (GP), L.L.C.",
-      "reporting_owner_cik": "0001737652",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "262632",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "262632"
-    },
-    {
-      "id": 930,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA IV (GP), L.L.C.",
-      "reporting_owner_cik": "0001672568",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "262632",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "262632"
-    },
-    {
-      "id": 931,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA V (GP), L.L.C.",
-      "reporting_owner_cik": "0001737652",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "64182",
-      "transaction_price": "150.97",
-      "transaction_type": "S",
-      "shares_after_transaction": "98859"
-    },
-    {
-      "id": 934,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA IV (GP), L.L.C.",
-      "reporting_owner_cik": "0001672568",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "64182",
-      "transaction_price": "150.97",
-      "transaction_type": "S",
-      "shares_after_transaction": "98859"
     }
   ]
 }

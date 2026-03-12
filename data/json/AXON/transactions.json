@@ -1,20 +1,44 @@
 {
   "ticker": "AXON",
-  "last_updated": "2026-03-11T08:51:07.332053",
+  "last_updated": "2026-03-12T08:51:55.868597",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 173,
+      "id": 127,
       "issuer_name": "AXON ENTERPRISE, INC.",
-      "reporting_owner": "Mak Jennifer H",
-      "reporting_owner_cik": "0001673075",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "1500",
-      "transaction_price": "573.45",
+      "reporting_owner": "Isner Joshua",
+      "reporting_owner_cik": "0001648518",
+      "reporting_owner_position": "PRESIDENT",
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "7390",
+      "transaction_price": "530.2711",
       "transaction_type": "S",
-      "shares_after_transaction": "12239.824"
+      "shares_after_transaction": "242112"
+    },
+    {
+      "id": 128,
+      "issuer_name": "AXON ENTERPRISE, INC.",
+      "reporting_owner": "SMITH PATRICK W",
+      "reporting_owner_cik": "0001167028",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "124",
+      "transaction_price": "546.8094",
+      "transaction_type": "S",
+      "shares_after_transaction": "3090873"
+    },
+    {
+      "id": 129,
+      "issuer_name": "AXON ENTERPRISE, INC.",
+      "reporting_owner": "Brooks Cameron",
+      "reporting_owner_cik": "0002017144",
+      "reporting_owner_position": "CHIEF REVENUE OFFICER",
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "1221",
+      "transaction_price": "565.51",
+      "transaction_type": "S",
+      "shares_after_transaction": "57545.39"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "ABNB",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-11T08:51:07.332053",
+  "last_updated": "2026-03-12T08:51:55.868597",
   "count": 2,
   "transactions": [
     {
-      "id": 916,
+      "id": 722,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "3100",
+      "transaction_price": "128.7192",
+      "transaction_type": "S",
+      "shares_after_transaction": "340915"
+    },
+    {
+      "id": 721,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -16,18 +28,6 @@
       "transaction_price": "135.73",
       "transaction_type": "S",
       "shares_after_transaction": "398108.681"
-    },
-    {
-      "id": 915,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Mertz Elinor",
-      "reporting_owner_cik": "0001938411",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-03-02",
-      "transaction_shares": "3750",
-      "transaction_price": "130.00",
-      "transaction_type": "S",
-      "shares_after_transaction": "402416.681"
     }
   ]
 }

@@ -1,20 +1,44 @@
 {
   "ticker": "TGT",
-  "last_updated": "2025-11-11T08:33:39.836516",
+  "last_updated": "2026-03-12T08:51:55.868597",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 37,
+      "id": 254,
       "issuer_name": "TARGET CORP",
-      "reporting_owner": "Vemana Pratabkumar",
-      "reporting_owner_cik": "0001854365",
+      "reporting_owner": "Cornell Brian C",
+      "reporting_owner_cik": "0001288709",
       "reporting_owner_position": "Executive Officer",
-      "transaction_date": "2025-10-31",
-      "transaction_shares": "760",
-      "transaction_price": "92.28",
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "50000",
+      "transaction_price": "121.7605",
+      "transaction_type": "S",
+      "shares_after_transaction": "196453"
+    },
+    {
+      "id": 255,
+      "issuer_name": "TARGET CORP",
+      "reporting_owner": "ROATH LISA R",
+      "reporting_owner_cik": "0002110401",
+      "reporting_owner_position": "Executive Officer",
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "209",
+      "transaction_price": "117.95",
       "transaction_type": "F",
-      "shares_after_transaction": "20318"
+      "shares_after_transaction": "16052"
+    },
+    {
+      "id": 256,
+      "issuer_name": "TARGET CORP",
+      "reporting_owner": "LIEGEL MATTHEW A",
+      "reporting_owner_cik": "0001921955",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-03-09",
+      "transaction_shares": "192",
+      "transaction_price": "117.95",
+      "transaction_type": "F",
+      "shares_after_transaction": "11271"
     }
   ]
 }
