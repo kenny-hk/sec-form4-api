@@ -1,32 +1,44 @@
 {
   "ticker": "DVA",
-  "last_updated": "2026-02-16T08:58:36.674664",
+  "last_updated": "2026-03-13T08:48:19.774557",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 543,
+      "id": 331,
+      "issuer_name": "DAVITA INC.",
+      "reporting_owner": "HEARTY JAMES O",
+      "reporting_owner_cik": "0001735907",
+      "reporting_owner_position": "Chief Compliance Officer",
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "1756",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "28054"
+    },
+    {
+      "id": 332,
+      "issuer_name": "DAVITA INC.",
+      "reporting_owner": "ACKERMAN JOEL",
+      "reporting_owner_cik": "0001220630",
+      "reporting_owner_position": "CFO and Treasurer",
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "6585",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "155022"
+    },
+    {
+      "id": 333,
       "issuer_name": "DAVITA INC.",
       "reporting_owner": "Waters Kathleen Alyce",
       "reporting_owner_cik": "0001640409",
       "reporting_owner_position": "Chief Legal & Pub. Affairs Off",
-      "transaction_date": "2026-02-06",
-      "transaction_shares": "8079",
-      "transaction_price": "108.93",
-      "transaction_type": "M",
-      "shares_after_transaction": "105833"
-    },
-    {
-      "id": 544,
-      "issuer_name": "DAVITA INC.",
-      "reporting_owner": "ACKERMAN JOEL",
-      "reporting_owner_cik": "0001220630",
-      "reporting_owner_position": "CFO and Treasuer",
-      "transaction_date": "2026-02-06",
-      "transaction_shares": "44065",
-      "transaction_price": "108.93",
-      "transaction_type": "M",
-      "shares_after_transaction": "185705"
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "4829",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "103947"
     }
   ]
 }

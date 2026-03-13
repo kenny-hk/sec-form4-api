@@ -2,11 +2,23 @@
   "ticker": "COP",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-12T08:51:55.868597",
+  "last_updated": "2026-03-13T08:48:19.774557",
   "count": 3,
   "transactions": [
     {
-      "id": 53,
+      "id": 37,
+      "issuer_name": "CONOCOPHILLIPS",
+      "reporting_owner": "Olds Nicholas G",
+      "reporting_owner_cik": "0001819979",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-03-11",
+      "transaction_shares": "12150",
+      "transaction_price": "49.7550",
+      "transaction_type": "M",
+      "shares_after_transaction": "39061"
+    },
+    {
+      "id": 36,
       "issuer_name": "CONOCOPHILLIPS",
       "reporting_owner": "Rose Kelly Brunetti",
       "reporting_owner_cik": "0001752517",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "32984"
     },
     {
-      "id": 52,
+      "id": 35,
       "issuer_name": "CONOCOPHILLIPS",
       "reporting_owner": "LEACH TIMOTHY A",
       "reporting_owner_cik": "0001034312",
@@ -28,18 +40,6 @@
       "transaction_price": "118.7921",
       "transaction_type": "S",
       "shares_after_transaction": "411211"
-    },
-    {
-      "id": 54,
-      "issuer_name": "CONOCOPHILLIPS",
-      "reporting_owner": "LEACH TIMOTHY A",
-      "reporting_owner_cik": "0001034312",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-04",
-      "transaction_shares": "7390",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "448608"
     }
   ]
 }

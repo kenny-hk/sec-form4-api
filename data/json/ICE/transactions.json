@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2026-03-12T08:51:55.868597",
+  "last_updated": "2026-03-13T08:48:19.774557",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 245,
+      "id": 211,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Jackson Benjamin",
+      "reporting_owner_cik": "0001722067",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "1079",
+      "transaction_price": "92.63",
+      "transaction_type": "M",
+      "shares_after_transaction": "162518"
+    },
+    {
+      "id": 210,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Foley Douglas",
       "reporting_owner_cik": "0001918894",
