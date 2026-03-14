@@ -2,11 +2,23 @@
   "ticker": "TMUS",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-13T08:48:19.774557",
+  "last_updated": "2026-03-14T08:44:39.027186",
   "count": 2,
   "transactions": [
     {
-      "id": 836,
+      "id": 842,
+      "issuer_name": "T-Mobile US, Inc.",
+      "reporting_owner": "Nelson Mark Wolfe",
+      "reporting_owner_cik": "0001886089",
+      "reporting_owner_position": "Chief Legal Officer & GC",
+      "transaction_date": "2026-03-12",
+      "transaction_shares": "85.786",
+      "transaction_price": "211.58",
+      "transaction_type": "A",
+      "shares_after_transaction": "65762.615"
+    },
+    {
+      "id": 843,
       "issuer_name": "T-Mobile US, Inc.",
       "reporting_owner": "Datar Srikant M.",
       "reporting_owner_cik": "0001376436",
@@ -16,18 +28,6 @@
       "transaction_price": "218.2501",
       "transaction_type": "S",
       "shares_after_transaction": "10843"
-    },
-    {
-      "id": 835,
-      "issuer_name": "T-Mobile US, Inc.",
-      "reporting_owner": "Datar Srikant M.",
-      "reporting_owner_cik": "0001376436",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-04",
-      "transaction_shares": "3291",
-      "transaction_price": "221.10",
-      "transaction_type": "S",
-      "shares_after_transaction": "1038"
     }
   ]
 }
