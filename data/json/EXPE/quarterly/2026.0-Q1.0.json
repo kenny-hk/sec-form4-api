@@ -2,20 +2,32 @@
   "ticker": "EXPE",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-12T08:51:55.868597",
-  "count": 1,
+  "last_updated": "2026-03-17T09:02:39.268870",
+  "count": 2,
   "transactions": [
     {
-      "id": 194,
+      "id": 154,
+      "issuer_name": "Expedia Group, Inc.",
+      "reporting_owner": "Schenkel Scott F.",
+      "reporting_owner_cik": "0001645504",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-03-15",
+      "transaction_shares": "7626.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "M",
+      "shares_after_transaction": "32389.0000"
+    },
+    {
+      "id": 156,
       "issuer_name": "Expedia Group, Inc.",
       "reporting_owner": "Dzielak Robert J",
       "reporting_owner_cik": "0001549041",
       "reporting_owner_position": "Chief Legal Officer & Sec'y",
-      "transaction_date": "2026-03-04",
-      "transaction_shares": "8225.0000",
-      "transaction_price": "220.8200",
-      "transaction_type": "S",
-      "shares_after_transaction": "102480.0000"
+      "transaction_date": "2026-03-15",
+      "transaction_shares": "4631.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "M",
+      "shares_after_transaction": "107111.0000"
     }
   ]
 }
