@@ -1,11 +1,11 @@
 {
   "ticker": "UHS",
-  "last_updated": "2026-03-18T09:17:24.340897",
+  "last_updated": "2026-03-19T08:52:31.567506",
   "retention_years": 3,
-  "count": 4,
+  "count": 7,
   "transactions": [
     {
-      "id": 355,
+      "id": 380,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "FILTON STEVE",
       "reporting_owner_cik": "0001181033",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "157701"
     },
     {
-      "id": 356,
+      "id": 381,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "Sim Edward H",
       "reporting_owner_cik": "0001957320",
@@ -29,7 +29,19 @@
       "shares_after_transaction": "26246"
     },
     {
-      "id": 357,
+      "id": 382,
+      "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
+      "reporting_owner": "MILLER ALAN B",
+      "reporting_owner_cik": "0001181031",
+      "reporting_owner_position": "Executive Chairman",
+      "transaction_date": "2026-03-12",
+      "transaction_shares": "33149",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1797634"
+    },
+    {
+      "id": 383,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "Peterson Matthew Jay",
       "reporting_owner_cik": "0001788925",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "33146.2263"
     },
     {
-      "id": 358,
+      "id": 384,
       "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
       "reporting_owner": "Miller Marc D",
       "reporting_owner_cik": "0001315495",
@@ -51,6 +63,30 @@
       "transaction_price": "138.80",
       "transaction_type": "M",
       "shares_after_transaction": "361296"
+    },
+    {
+      "id": 385,
+      "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
+      "reporting_owner": "Singer Maria Ruderman",
+      "reporting_owner_cik": "0001805988",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-12",
+      "transaction_shares": "2500",
+      "transaction_price": "138.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "10384"
+    },
+    {
+      "id": 379,
+      "issuer_name": "UNIVERSAL HEALTH SERVICES INC",
+      "reporting_owner": "SUSSMAN ELLIOT J MD MBA",
+      "reporting_owner_cik": "0001181000",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-11",
+      "transaction_shares": "1250",
+      "transaction_price": "138.80",
+      "transaction_type": "M",
+      "shares_after_transaction": "7363"
     }
   ]
 }

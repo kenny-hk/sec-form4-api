@@ -1,20 +1,32 @@
 {
   "ticker": "CMCSA",
-  "last_updated": "2026-03-13T08:48:19.774557",
+  "last_updated": "2026-03-19T08:52:31.567506",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 347,
+      "id": 435,
       "issuer_name": "COMCAST CORP",
-      "reporting_owner": "Armstrong Jason",
-      "reporting_owner_cik": "0001958909",
-      "reporting_owner_position": "CFO",
-      "transaction_date": "2026-03-05",
-      "transaction_shares": "73497.0000",
+      "reporting_owner": "BREEN EDWARD D",
+      "reporting_owner_cik": "0001223619",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-17",
+      "transaction_shares": "30000.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "G",
+      "shares_after_transaction": "55825.2770"
+    },
+    {
+      "id": 436,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Khoury Jennifer",
+      "reporting_owner_cik": "0001958734",
+      "reporting_owner_position": "Chief Communications Officer",
+      "transaction_date": "2026-03-17",
+      "transaction_shares": "10867.0000",
       "transaction_price": "28.3800",
       "transaction_type": "M",
-      "shares_after_transaction": "172399.5830"
+      "shares_after_transaction": "71052.0000"
     }
   ]
 }

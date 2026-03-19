@@ -1,11 +1,23 @@
 {
   "ticker": "EQT",
-  "last_updated": "2026-03-18T09:17:24.340897",
+  "last_updated": "2026-03-19T08:52:31.567506",
   "retention_years": 3,
-  "count": 9,
+  "count": 2,
   "transactions": [
     {
-      "id": 267,
+      "id": 314,
+      "issuer_name": "EQT Corp",
+      "reporting_owner": "Fenton Sarah",
+      "reporting_owner_cik": "0002040815",
+      "reporting_owner_position": "EVP UPSTREAM",
+      "transaction_date": "2026-03-16",
+      "transaction_shares": "4876",
+      "transaction_price": "64.49",
+      "transaction_type": "S",
+      "shares_after_transaction": "52953"
+    },
+    {
+      "id": 313,
       "issuer_name": "EQT Corp",
       "reporting_owner": "Bolen J.E.B.",
       "reporting_owner_cik": "0002041211",
@@ -15,102 +27,6 @@
       "transaction_price": "64.35",
       "transaction_type": "S",
       "shares_after_transaction": "83550"
-    },
-    {
-      "id": 268,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Duran Richard A",
-      "reporting_owner_cik": "0001783547",
-      "reporting_owner_position": "CHIEF INFORMATION OFFICER",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "32361",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "306941"
-    },
-    {
-      "id": 269,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Knop Jeremy",
-      "reporting_owner_cik": "0001986157",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "32857",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "149461"
-    },
-    {
-      "id": 270,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Jordan William E.",
-      "reporting_owner_cik": "0001597171",
-      "reporting_owner_position": "CHIEF LEGAL & POLICY OFFICER",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "64705",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "559762"
-    },
-    {
-      "id": 271,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Bolen J.E.B.",
-      "reporting_owner_cik": "0002041211",
-      "reporting_owner_position": "EVP OPERATIONS",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "8630",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "94938"
-    },
-    {
-      "id": 272,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Fenton Sarah",
-      "reporting_owner_cik": "0002040815",
-      "reporting_owner_position": "EVP UPSTREAM",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "8630",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "61583"
-    },
-    {
-      "id": 273,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "James Todd",
-      "reporting_owner_cik": "0001737431",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "19417",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "78261"
-    },
-    {
-      "id": 274,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Rice Toby Z.",
-      "reporting_owner_cik": "0001597385",
-      "reporting_owner_position": "PRESIDENT & CEO",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "291125",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "2558088"
-    },
-    {
-      "id": 275,
-      "issuer_name": "EQT Corp",
-      "reporting_owner": "Evancho Lesley",
-      "reporting_owner_cik": "0001783548",
-      "reporting_owner_position": "CHIEF HUMAN RESOURCES OFFICER",
-      "transaction_date": "2026-03-09",
-      "transaction_shares": "31147",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "215776"
     }
   ]
 }
