@@ -1,7 +1,20 @@
 {
   "ticker": "CPAY",
-  "last_updated": "2026-03-16T09:06:29.465283",
+  "last_updated": "2026-03-20T08:49:11.118815",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 500,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Netto Armando Lins",
+      "reporting_owner_cik": "0001610692",
+      "reporting_owner_position": "GroupPresident Brazil&USVehPmt",
+      "transaction_date": "2026-03-17",
+      "transaction_shares": "760",
+      "transaction_price": "310.22",
+      "transaction_type": "F",
+      "shares_after_transaction": "33035"
+    }
+  ]
 }
