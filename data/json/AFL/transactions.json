@@ -1,11 +1,23 @@
 {
   "ticker": "AFL",
-  "last_updated": "2026-03-20T08:49:11.118815",
+  "last_updated": "2026-03-21T08:42:47.693976",
   "retention_years": 3,
-  "count": 7,
+  "count": 5,
   "transactions": [
     {
-      "id": 631,
+      "id": 538,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-18",
+      "transaction_shares": "7993",
+      "transaction_price": "108.14",
+      "transaction_type": "S",
+      "shares_after_transaction": "52092907"
+    },
+    {
+      "id": 537,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "52100900"
     },
     {
-      "id": 633,
+      "id": 539,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "52116884"
     },
     {
-      "id": 635,
+      "id": 541,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "52134157"
     },
     {
-      "id": 634,
+      "id": 540,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -51,42 +63,6 @@
       "transaction_price": "109.58",
       "transaction_type": "S",
       "shares_after_transaction": "52151361"
-    },
-    {
-      "id": 630,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-11",
-      "transaction_shares": "17820",
-      "transaction_price": "109.52",
-      "transaction_type": "S",
-      "shares_after_transaction": "52168280"
-    },
-    {
-      "id": 632,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "LAKE CHARLES D II",
-      "reporting_owner_cik": "0001144994",
-      "reporting_owner_position": "Chairman & Rep. Director, ALIJ",
-      "transaction_date": "2026-03-11",
-      "transaction_shares": "15590",
-      "transaction_price": "109.93",
-      "transaction_type": "S",
-      "shares_after_transaction": "62237"
-    },
-    {
-      "id": 636,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Koide Masatoshi",
-      "reporting_owner_cik": "0001705261",
-      "reporting_owner_position": "Pres. and Rep. Director, ALIJ",
-      "transaction_date": "2026-03-11",
-      "transaction_shares": "15431",
-      "transaction_price": "109.93",
-      "transaction_type": "S",
-      "shares_after_transaction": "86422"
     }
   ]
 }
