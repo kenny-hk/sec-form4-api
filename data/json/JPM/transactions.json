@@ -1,7 +1,20 @@
 {
   "ticker": "JPM",
-  "last_updated": "2026-03-23T09:04:33.501053",
+  "last_updated": "2026-03-24T09:00:35.628297",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 639,
+      "issuer_name": "JPMORGAN CHASE & CO",
+      "reporting_owner": "Leopold Robin",
+      "reporting_owner_cik": "0001726825",
+      "reporting_owner_position": "Head of Human Resources",
+      "transaction_date": "2026-03-23",
+      "transaction_shares": "433",
+      "transaction_price": "295.06",
+      "transaction_type": "S",
+      "shares_after_transaction": "64920"
+    }
+  ]
 }
