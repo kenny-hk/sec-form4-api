@@ -1,11 +1,35 @@
 {
   "ticker": "FANG",
-  "last_updated": "2026-03-24T09:00:35.628297",
+  "last_updated": "2026-03-25T08:58:40.244402",
   "retention_years": 3,
-  "count": 6,
+  "count": 5,
   "transactions": [
     {
-      "id": 110,
+      "id": 79,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Wesson Daniel N",
+      "reporting_owner_cik": "0001805429",
+      "reporting_owner_position": "Exec. VP & COO",
+      "transaction_date": "2026-03-20",
+      "transaction_shares": "5000",
+      "transaction_price": "191.9552",
+      "transaction_type": "S",
+      "shares_after_transaction": "78289"
+    },
+    {
+      "id": 83,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Dick Teresa L.",
+      "reporting_owner_cik": "0001559931",
+      "reporting_owner_position": "CAO, Exec. VP, Assist. Sec.",
+      "transaction_date": "2026-03-20",
+      "transaction_shares": "5000",
+      "transaction_price": "193",
+      "transaction_type": "S",
+      "shares_after_transaction": "102755"
+    },
+    {
+      "id": 80,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "Zmigrosky Matt",
       "reporting_owner_cik": "0001767328",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "56392"
     },
     {
-      "id": 111,
+      "id": 81,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "WEST STEVEN E",
       "reporting_owner_cik": "0001190898",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "4484"
     },
     {
-      "id": 113,
+      "id": 84,
       "issuer_name": "Diamondback Energy, Inc.",
       "reporting_owner": "Dick Teresa L.",
       "reporting_owner_cik": "0001559931",
@@ -39,42 +63,6 @@
       "transaction_price": "190",
       "transaction_type": "S",
       "shares_after_transaction": "107755"
-    },
-    {
-      "id": 108,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Thompson Jere W III",
-      "reporting_owner_cik": "0002012978",
-      "reporting_owner_position": "CFO, Executive VP",
-      "transaction_date": "2026-03-16",
-      "transaction_shares": "750",
-      "transaction_price": "182.4679",
-      "transaction_type": "S",
-      "shares_after_transaction": "19975"
-    },
-    {
-      "id": 107,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Zmigrosky Matt",
-      "reporting_owner_cik": "0001767328",
-      "reporting_owner_position": "EVP, Chief Legal and Admin Off",
-      "transaction_date": "2026-03-13",
-      "transaction_shares": "20899",
-      "transaction_price": "180.0027",
-      "transaction_type": "S",
-      "shares_after_transaction": "60493"
-    },
-    {
-      "id": 109,
-      "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Barkmann Albert",
-      "reporting_owner_cik": "0002012976",
-      "reporting_owner_position": "Exec. VP and Chief Engineer",
-      "transaction_date": "2026-03-13",
-      "transaction_shares": "4000",
-      "transaction_price": "182.90",
-      "transaction_type": "S",
-      "shares_after_transaction": "27571"
     }
   ]
 }

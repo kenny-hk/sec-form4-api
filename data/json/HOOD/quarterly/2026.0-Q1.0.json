@@ -2,11 +2,35 @@
   "ticker": "HOOD",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-24T09:00:35.628297",
-  "count": 1,
+  "last_updated": "2026-03-25T08:58:40.244402",
+  "count": 3,
   "transactions": [
     {
-      "id": 94,
+      "id": 70,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Bhatt Baiju",
+      "reporting_owner_cik": "0001870914",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-20",
+      "transaction_shares": "67422",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "67422"
+    },
+    {
+      "id": 73,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Pinner Jeffrey Tsvi",
+      "reporting_owner_cik": "0002049077",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2026-03-20",
+      "transaction_shares": "2435",
+      "transaction_price": "70.5483",
+      "transaction_type": "S",
+      "shares_after_transaction": "27241"
+    },
+    {
+      "id": 72,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Verma Shiv",
       "reporting_owner_cik": "0002108589",
