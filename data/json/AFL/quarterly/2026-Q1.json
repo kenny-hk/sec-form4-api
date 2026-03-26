@@ -2,11 +2,23 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-25T08:58:40.244402",
+  "last_updated": "2026-03-26T09:03:31.763171",
   "count": 5,
   "transactions": [
     {
-      "id": 356,
+      "id": 305,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-23",
+      "transaction_shares": "14895",
+      "transaction_price": "106.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "52046905"
+    },
+    {
+      "id": 301,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "52063749"
     },
     {
-      "id": 358,
+      "id": 302,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "52079900"
     },
     {
-      "id": 355,
+      "id": 304,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "52092907"
     },
     {
-      "id": 354,
+      "id": 303,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -52,18 +64,6 @@
       "transaction_price": "109.77",
       "transaction_type": "S",
       "shares_after_transaction": "52100900"
-    },
-    {
-      "id": 357,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-16",
-      "transaction_shares": "15816",
-      "transaction_price": "109.38",
-      "transaction_type": "S",
-      "shares_after_transaction": "52116884"
     }
   ]
 }
