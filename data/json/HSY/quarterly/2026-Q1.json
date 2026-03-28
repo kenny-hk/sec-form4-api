@@ -2,11 +2,23 @@
   "ticker": "HSY",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-27T08:59:36.066847",
+  "last_updated": "2026-03-28T08:46:19.003623",
   "count": 9,
   "transactions": [
     {
-      "id": 160,
+      "id": 85,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-25",
+      "transaction_shares": "300",
+      "transaction_price": "212.6387",
+      "transaction_type": "S",
+      "shares_after_transaction": "1995819"
+    },
+    {
+      "id": 88,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -18,19 +30,7 @@
       "shares_after_transaction": "2015973"
     },
     {
-      "id": 152,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "McCalman Jennifer",
-      "reporting_owner_cik": "0001848210",
-      "reporting_owner_position": "VP, Chief Accounting Officer",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "82",
-      "transaction_price": "210.58",
-      "transaction_type": "F",
-      "shares_after_transaction": "4296"
-    },
-    {
-      "id": 153,
+      "id": 81,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Turoff James",
       "reporting_owner_cik": "0001863661",
@@ -42,31 +42,7 @@
       "shares_after_transaction": "30520"
     },
     {
-      "id": 155,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Bhatia Deepak",
-      "reporting_owner_cik": "0001998577",
-      "reporting_owner_position": "SVP, Chief Technology Officer",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "508",
-      "transaction_price": "210.58",
-      "transaction_type": "F",
-      "shares_after_transaction": "49645"
-    },
-    {
-      "id": 156,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Voskuil Steven E",
-      "reporting_owner_cik": "0001622634",
-      "reporting_owner_position": "SVP, Chief Financial Officer",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "674",
-      "transaction_price": "210.58",
-      "transaction_type": "F",
-      "shares_after_transaction": "59195"
-    },
-    {
-      "id": 157,
+      "id": 82,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Archambault Matthew Andrew",
       "reporting_owner_cik": "0001940063",
@@ -78,7 +54,19 @@
       "shares_after_transaction": "48132"
     },
     {
-      "id": 158,
+      "id": 83,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Voskuil Steven E",
+      "reporting_owner_cik": "0001622634",
+      "reporting_owner_position": "SVP, Chief Financial Officer",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "674",
+      "transaction_price": "210.58",
+      "transaction_type": "F",
+      "shares_after_transaction": "59195"
+    },
+    {
+      "id": 84,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Villasenor Vero",
       "reporting_owner_cik": "0002056423",
@@ -90,7 +78,31 @@
       "shares_after_transaction": "21418.428"
     },
     {
-      "id": 159,
+      "id": 86,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "McCalman Jennifer",
+      "reporting_owner_cik": "0001848210",
+      "reporting_owner_position": "VP, Chief Accounting Officer",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "82",
+      "transaction_price": "210.58",
+      "transaction_type": "F",
+      "shares_after_transaction": "4296"
+    },
+    {
+      "id": 87,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Bhatia Deepak",
+      "reporting_owner_cik": "0001998577",
+      "reporting_owner_position": "SVP, Chief Technology Officer",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "508",
+      "transaction_price": "210.58",
+      "transaction_type": "F",
+      "shares_after_transaction": "49645"
+    },
+    {
+      "id": 89,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Reiman Jason",
       "reporting_owner_cik": "0001778210",
@@ -100,18 +112,6 @@
       "transaction_price": "210.58",
       "transaction_type": "F",
       "shares_after_transaction": "47567"
-    },
-    {
-      "id": 154,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-18",
-      "transaction_shares": "3703",
-      "transaction_price": "212.6412",
-      "transaction_type": "S",
-      "shares_after_transaction": "2042416"
     }
   ]
 }

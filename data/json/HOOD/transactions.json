@@ -1,23 +1,11 @@
 {
   "ticker": "HOOD",
-  "last_updated": "2026-03-27T08:59:36.066847",
+  "last_updated": "2026-03-28T08:46:19.003623",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 50,
-      "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Bhatt Baiju",
-      "reporting_owner_cik": "0001870914",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-03-20",
-      "transaction_shares": "67422",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "67422"
-    },
-    {
-      "id": 52,
+      "id": 5,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Pinner Jeffrey Tsvi",
       "reporting_owner_cik": "0002049077",
@@ -27,6 +15,18 @@
       "transaction_price": "70.5483",
       "transaction_type": "S",
       "shares_after_transaction": "27241"
+    },
+    {
+      "id": 10,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Bhatt Baiju",
+      "reporting_owner_cik": "0001870914",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-20",
+      "transaction_shares": "67422",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "67422"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "ticker": "AME",
-  "last_updated": "2026-03-27T08:59:36.066847",
+  "last_updated": "2026-03-28T08:46:19.003623",
   "retention_years": 3,
   "count": 10,
   "transactions": [
     {
-      "id": 206,
+      "id": 294,
       "issuer_name": "AMETEK INC/",
       "reporting_owner": "AMATO THOMAS A",
       "reporting_owner_cik": "0001269873",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "4480"
     },
     {
-      "id": 199,
+      "id": 290,
       "issuer_name": "AMETEK INC/",
       "reporting_owner": "Hermance David F.",
       "reporting_owner_cik": "0001897901",
@@ -29,55 +29,7 @@
       "shares_after_transaction": "42792"
     },
     {
-      "id": 200,
-      "issuer_name": "AMETEK INC/",
-      "reporting_owner": "Puri Dalip",
-      "reporting_owner_cik": "0001505873",
-      "reporting_owner_position": "Executive VP- CFO",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "237",
-      "transaction_price": "211.50",
-      "transaction_type": "F",
-      "shares_after_transaction": "11595"
-    },
-    {
-      "id": 201,
-      "issuer_name": "AMETEK INC/",
-      "reporting_owner": "Hardin John Wesley",
-      "reporting_owner_cik": "0001439359",
-      "reporting_owner_position": "PRES. - ELECTRONIC INSTRUMENTS",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "178",
-      "transaction_price": "211.50",
-      "transaction_type": "F",
-      "shares_after_transaction": "68138"
-    },
-    {
-      "id": 202,
-      "issuer_name": "AMETEK INC/",
-      "reporting_owner": "ZAPICO DAVID A",
-      "reporting_owner_cik": "0001262305",
-      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "1412",
-      "transaction_price": "211.50",
-      "transaction_type": "F",
-      "shares_after_transaction": "345687"
-    },
-    {
-      "id": 203,
-      "issuer_name": "AMETEK INC/",
-      "reporting_owner": "Amodei Robert",
-      "reporting_owner_cik": "0002097422",
-      "reporting_owner_position": "Senior VP, Controller",
-      "transaction_date": "2026-03-19",
-      "transaction_shares": "48",
-      "transaction_price": "211.50",
-      "transaction_type": "F",
-      "shares_after_transaction": "44173"
-    },
-    {
-      "id": 204,
+      "id": 291,
       "issuer_name": "AMETEK INC/",
       "reporting_owner": "CIAMPITTI TONY J",
       "reporting_owner_cik": "0001691577",
@@ -89,19 +41,19 @@
       "shares_after_transaction": "56020"
     },
     {
-      "id": 205,
+      "id": 292,
       "issuer_name": "AMETEK INC/",
-      "reporting_owner": "Speranza Emanuela",
-      "reporting_owner_cik": "0001893078",
-      "reporting_owner_position": "CHIEF COMMERCIAL OFFICER",
+      "reporting_owner": "Amodei Robert",
+      "reporting_owner_cik": "0002097422",
+      "reporting_owner_position": "Senior VP, Controller",
       "transaction_date": "2026-03-19",
-      "transaction_shares": "230",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "30431"
+      "transaction_shares": "48",
+      "transaction_price": "211.50",
+      "transaction_type": "F",
+      "shares_after_transaction": "44173"
     },
     {
-      "id": 207,
+      "id": 293,
       "issuer_name": "AMETEK INC/",
       "reporting_owner": "Marecic Thomas C",
       "reporting_owner_cik": "0001623855",
@@ -113,7 +65,43 @@
       "shares_after_transaction": "45347"
     },
     {
-      "id": 208,
+      "id": 295,
+      "issuer_name": "AMETEK INC/",
+      "reporting_owner": "ZAPICO DAVID A",
+      "reporting_owner_cik": "0001262305",
+      "reporting_owner_position": "CHIEF EXECUTIVE OFFICER",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "1412",
+      "transaction_price": "211.50",
+      "transaction_type": "F",
+      "shares_after_transaction": "345687"
+    },
+    {
+      "id": 296,
+      "issuer_name": "AMETEK INC/",
+      "reporting_owner": "Puri Dalip",
+      "reporting_owner_cik": "0001505873",
+      "reporting_owner_position": "Executive VP- CFO",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "237",
+      "transaction_price": "211.50",
+      "transaction_type": "F",
+      "shares_after_transaction": "11595"
+    },
+    {
+      "id": 297,
+      "issuer_name": "AMETEK INC/",
+      "reporting_owner": "Speranza Emanuela",
+      "reporting_owner_cik": "0001893078",
+      "reporting_owner_position": "CHIEF COMMERCIAL OFFICER",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "230",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "30431"
+    },
+    {
+      "id": 298,
       "issuer_name": "AMETEK INC/",
       "reporting_owner": "Oscher Ronald J",
       "reporting_owner_cik": "0001623856",
@@ -123,6 +111,18 @@
       "transaction_price": "211.50",
       "transaction_type": "F",
       "shares_after_transaction": "43107"
+    },
+    {
+      "id": 299,
+      "issuer_name": "AMETEK INC/",
+      "reporting_owner": "Hardin John Wesley",
+      "reporting_owner_cik": "0001439359",
+      "reporting_owner_position": "PRES. - ELECTRONIC INSTRUMENTS",
+      "transaction_date": "2026-03-19",
+      "transaction_shares": "178",
+      "transaction_price": "211.50",
+      "transaction_type": "F",
+      "shares_after_transaction": "68138"
     }
   ]
 }
