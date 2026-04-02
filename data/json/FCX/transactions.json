@@ -1,20 +1,32 @@
 {
   "ticker": "FCX",
-  "last_updated": "2026-03-17T09:02:39.268870",
+  "last_updated": "2026-04-02T09:04:53.365812",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 688,
+      "id": 346,
       "issuer_name": "FREEPORT-MCMORAN INC",
-      "reporting_owner": "ADKERSON RICHARD C",
-      "reporting_owner_cik": "0001200685",
-      "reporting_owner_position": "Chairman of the Board",
-      "transaction_date": "2026-03-07",
-      "transaction_shares": "27693",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1638005"
+      "reporting_owner": "GRANT HUGH",
+      "reporting_owner_cik": "0001083211",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "574",
+      "transaction_price": "58.78",
+      "transaction_type": "A",
+      "shares_after_transaction": "46514"
+    },
+    {
+      "id": 347,
+      "issuer_name": "FREEPORT-MCMORAN INC",
+      "reporting_owner": "STEPHENS JOHN JOSEPH",
+      "reporting_owner_cik": "0001258391",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "350",
+      "transaction_price": "58.78",
+      "transaction_type": "A",
+      "shares_after_transaction": "68377"
     }
   ]
 }
