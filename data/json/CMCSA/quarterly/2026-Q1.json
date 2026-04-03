@@ -2,32 +2,68 @@
   "ticker": "CMCSA",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-03-25T08:58:40.244402",
-  "count": 2,
+  "last_updated": "2026-04-03T09:03:12.092612",
+  "count": 5,
   "transactions": [
     {
-      "id": 238,
+      "id": 890,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Smith Gordon",
+      "reporting_owner_cik": "0001311487",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-31",
+      "transaction_shares": "1176.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "9045.0000"
+    },
+    {
+      "id": 891,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Baltimore Thomas J Jr",
+      "reporting_owner_cik": "0001390946",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-31",
+      "transaction_shares": "1176.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "39043.4930"
+    },
+    {
+      "id": 892,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Brady Louise F.",
+      "reporting_owner_cik": "0001690498",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-31",
+      "transaction_shares": "1176.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "32682.8900"
+    },
+    {
+      "id": 893,
+      "issuer_name": "COMCAST CORP",
+      "reporting_owner": "Honickman Jeffrey A",
+      "reporting_owner_cik": "0001347196",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-31",
+      "transaction_shares": "1524.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "262583.0210"
+    },
+    {
+      "id": 894,
       "issuer_name": "COMCAST CORP",
       "reporting_owner": "BREEN EDWARD D",
       "reporting_owner_cik": "0001223619",
       "reporting_owner_position": null,
-      "transaction_date": "2026-03-17",
-      "transaction_shares": "30000.0000",
+      "transaction_date": "2026-03-31",
+      "transaction_shares": "697.0000",
       "transaction_price": "0.0000",
-      "transaction_type": "G",
-      "shares_after_transaction": "55825.2770"
-    },
-    {
-      "id": 239,
-      "issuer_name": "COMCAST CORP",
-      "reporting_owner": "Khoury Jennifer",
-      "reporting_owner_cik": "0001958734",
-      "reporting_owner_position": "Chief Communications Officer",
-      "transaction_date": "2026-03-17",
-      "transaction_shares": "10867.0000",
-      "transaction_price": "28.3800",
-      "transaction_type": "M",
-      "shares_after_transaction": "71052.0000"
+      "transaction_type": "A",
+      "shares_after_transaction": "56522.2770"
     }
   ]
 }

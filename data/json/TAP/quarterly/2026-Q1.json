@@ -2,11 +2,11 @@
   "ticker": "TAP",
   "year": 2026,
   "quarter": 1,
-  "last_updated": "2026-04-02T09:04:53.365812",
-  "count": 2,
+  "last_updated": "2026-04-03T09:03:12.092612",
+  "count": 3,
   "transactions": [
     {
-      "id": 161,
+      "id": 333,
       "issuer_name": "MOLSON COORS BEVERAGE CO",
       "reporting_owner": "Cocks Christian P",
       "reporting_owner_cik": "0001850672",
@@ -18,7 +18,7 @@
       "shares_after_transaction": "5302"
     },
     {
-      "id": 162,
+      "id": 335,
       "issuer_name": "MOLSON COORS BEVERAGE CO",
       "reporting_owner": "HERINGTON CHARLES M",
       "reporting_owner_cik": "0001218006",
@@ -28,6 +28,18 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "61585"
+    },
+    {
+      "id": 336,
+      "issuer_name": "MOLSON COORS BEVERAGE CO",
+      "reporting_owner": "Coors Peter Joseph",
+      "reporting_owner_cik": "0001641121",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "10917",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "27800"
     }
   ]
 }

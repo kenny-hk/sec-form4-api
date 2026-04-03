@@ -1,11 +1,23 @@
 {
   "ticker": "YUM",
-  "last_updated": "2026-04-02T09:04:53.365812",
+  "last_updated": "2026-04-03T09:03:12.092612",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 177,
+      "id": 370,
+      "issuer_name": "YUM BRANDS INC",
+      "reporting_owner": "Oberg Kathleen K.",
+      "reporting_owner_cik": "0001662448",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "910",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "910"
+    },
+    {
+      "id": 371,
       "issuer_name": "YUM BRANDS INC",
       "reporting_owner": "Mezvinsky Scott",
       "reporting_owner_cik": "0002057807",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "483"
     },
     {
-      "id": 178,
+      "id": 372,
       "issuer_name": "YUM BRANDS INC",
       "reporting_owner": "Turner Christopher Lee",
       "reporting_owner_cik": "0001783787",
@@ -27,6 +39,18 @@
       "transaction_price": "154.18",
       "transaction_type": "S",
       "shares_after_transaction": "64801.66"
+    },
+    {
+      "id": 373,
+      "issuer_name": "YUM BRANDS INC",
+      "reporting_owner": "Domier Tanya",
+      "reporting_owner_cik": "0001645820",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "2787",
+      "transaction_price": "155.48",
+      "transaction_type": "M",
+      "shares_after_transaction": "7744"
     }
   ]
 }

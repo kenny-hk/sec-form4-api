@@ -1,11 +1,23 @@
 {
   "ticker": "TAP",
-  "last_updated": "2026-04-02T09:04:53.365812",
+  "last_updated": "2026-04-03T09:03:12.092612",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 161,
+      "id": 334,
+      "issuer_name": "MOLSON COORS BEVERAGE CO",
+      "reporting_owner": "Stelter Roxanne",
+      "reporting_owner_cik": "0001846862",
+      "reporting_owner_position": "VP,Controller & Chf Acct Off",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "1049",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "16188"
+    },
+    {
+      "id": 333,
       "issuer_name": "MOLSON COORS BEVERAGE CO",
       "reporting_owner": "Cocks Christian P",
       "reporting_owner_cik": "0001850672",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "5302"
     },
     {
-      "id": 162,
+      "id": 335,
       "issuer_name": "MOLSON COORS BEVERAGE CO",
       "reporting_owner": "HERINGTON CHARLES M",
       "reporting_owner_cik": "0001218006",
@@ -27,6 +39,18 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "61585"
+    },
+    {
+      "id": 336,
+      "issuer_name": "MOLSON COORS BEVERAGE CO",
+      "reporting_owner": "Coors Peter Joseph",
+      "reporting_owner_cik": "0001641121",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-03-10",
+      "transaction_shares": "10917",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "27800"
     }
   ]
 }
