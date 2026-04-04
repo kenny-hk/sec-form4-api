@@ -1,11 +1,11 @@
 {
   "ticker": "RMD",
-  "last_updated": "2026-04-03T09:03:12.092612",
+  "last_updated": "2026-04-04T08:49:05.571186",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 191,
+      "id": 242,
       "issuer_name": "RESMED INC",
       "reporting_owner": "FARRELL PETER C",
       "reporting_owner_cik": "0001186102",
@@ -15,6 +15,18 @@
       "transaction_price": "225.00",
       "transaction_type": "S",
       "shares_after_transaction": "60773"
+    },
+    {
+      "id": 243,
+      "issuer_name": "RESMED INC",
+      "reporting_owner": "Sandercock Brett",
+      "reporting_owner_cik": "0001346064",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "1000",
+      "transaction_price": "224.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "83495"
     }
   ]
 }

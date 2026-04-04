@@ -1,20 +1,44 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2026-03-24T09:00:35.628297",
+  "last_updated": "2026-04-04T08:49:05.571186",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 48,
+      "id": 473,
       "issuer_name": "Apple Inc.",
-      "reporting_owner": "Newstead Jennifer",
-      "reporting_owner_cik": "0001780525",
-      "reporting_owner_position": "SVP, GC and Secretary",
-      "transaction_date": "2026-03-15",
-      "transaction_shares": "60208",
+      "reporting_owner": "Khan Sabih",
+      "reporting_owner_cik": "0002078476",
+      "reporting_owner_position": "COO",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "64317",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "60208"
+      "shares_after_transaction": "1107212"
+    },
+    {
+      "id": 474,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "O'BRIEN DEIRDRE",
+      "reporting_owner_cik": "0001767094",
+      "reporting_owner_position": "Senior Vice President",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "64317",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "201127"
+    },
+    {
+      "id": 476,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "COOK TIMOTHY D",
+      "reporting_owner_cik": "0001214156",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "131576",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "3411994"
     }
   ]
 }
