@@ -1,11 +1,47 @@
 {
   "ticker": "JBL",
-  "last_updated": "2026-04-09T09:18:10.695538",
+  "last_updated": "2026-04-10T09:17:20.992099",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 49,
+      "id": 305,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "Dastoor Michael",
+      "reporting_owner_cik": "0001295399",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-04-08",
+      "transaction_shares": "470.0000",
+      "transaction_price": "289.4900",
+      "transaction_type": "S",
+      "shares_after_transaction": "262096.0000"
+    },
+    {
+      "id": 306,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "BORGES STEVEN D",
+      "reporting_owner_cik": "0001196727",
+      "reporting_owner_position": "EVP, Global Business Units",
+      "transaction_date": "2026-04-08",
+      "transaction_shares": "7000.0000",
+      "transaction_price": "290.0000",
+      "transaction_type": "S",
+      "shares_after_transaction": "83524.0000"
+    },
+    {
+      "id": 307,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "Renno Rafael",
+      "reporting_owner_cik": "0002108993",
+      "reporting_owner_position": "SVP, Global Business Units",
+      "transaction_date": "2026-04-08",
+      "transaction_shares": "1000.0000",
+      "transaction_price": "288.0000",
+      "transaction_type": "S",
+      "shares_after_transaction": "18208.0000"
+    },
+    {
+      "id": 308,
       "issuer_name": "JABIL INC",
       "reporting_owner": "HOLLAND CHRISTOPHER S",
       "reporting_owner_cik": "0001271440",
@@ -15,18 +51,6 @@
       "transaction_price": "0.0000",
       "transaction_type": "G",
       "shares_after_transaction": "11150.0000"
-    },
-    {
-      "id": 48,
-      "issuer_name": "JABIL INC",
-      "reporting_owner": "Berry Adam E.",
-      "reporting_owner_cik": "0002030635",
-      "reporting_owner_position": "SVP, IR and Corporate Affairs",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "1000.0000",
-      "transaction_price": "272.7965",
-      "transaction_type": "S",
-      "shares_after_transaction": "17920.0000"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "ticker": "SHW",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-04-09T09:18:10.695538",
+  "last_updated": "2026-04-10T09:17:20.992099",
   "count": 4,
   "transactions": [
     {
-      "id": 794,
+      "id": 322,
       "issuer_name": "SHERWIN WILLIAMS CO",
       "reporting_owner": "THAMAN MICHAEL H",
       "reporting_owner_cik": "0001228309",
@@ -18,7 +18,19 @@
       "shares_after_transaction": "5601.56"
     },
     {
-      "id": 795,
+      "id": 323,
+      "issuer_name": "SHERWIN WILLIAMS CO",
+      "reporting_owner": "Williams Thomas",
+      "reporting_owner_cik": "0001320730",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-06",
+      "transaction_shares": "106.97",
+      "transaction_price": "315.50",
+      "transaction_type": "A",
+      "shares_after_transaction": "1162.73"
+    },
+    {
+      "id": 324,
       "issuer_name": "SHERWIN WILLIAMS CO",
       "reporting_owner": "ANDERSON KERRII B",
       "reporting_owner_cik": "0001227159",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "1045.15"
     },
     {
-      "id": 796,
+      "id": 325,
       "issuer_name": "SHERWIN WILLIAMS CO",
       "reporting_owner": "Gamgort Robert James",
       "reporting_owner_cik": "0001570836",
@@ -40,18 +52,6 @@
       "transaction_price": "315.50",
       "transaction_type": "A",
       "shares_after_transaction": "487.96"
-    },
-    {
-      "id": 797,
-      "issuer_name": "SHERWIN WILLIAMS CO",
-      "reporting_owner": "Williams Thomas",
-      "reporting_owner_cik": "0001320730",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-06",
-      "transaction_shares": "106.97",
-      "transaction_price": "315.50",
-      "transaction_type": "A",
-      "shares_after_transaction": "1162.73"
     }
   ]
 }

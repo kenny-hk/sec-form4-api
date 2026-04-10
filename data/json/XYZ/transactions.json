@@ -1,11 +1,71 @@
 {
   "ticker": "XYZ",
-  "last_updated": "2026-04-09T09:18:10.695538",
+  "last_updated": "2026-04-10T09:17:20.992099",
   "retention_years": 3,
-  "count": 11,
+  "count": 16,
   "transactions": [
     {
-      "id": 254,
+      "id": 567,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Grassadonia Brian",
+      "reporting_owner_cik": "0001803649",
+      "reporting_owner_position": "Ecosystem Lead",
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "117569",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "618332"
+    },
+    {
+      "id": 570,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Jennings Owen Britton",
+      "reporting_owner_cik": "0002047775",
+      "reporting_owner_position": "Business Lead",
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "268727",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "498818"
+    },
+    {
+      "id": 571,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Esperanza Chrysty",
+      "reporting_owner_cik": "0001965569",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "151159",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "271169"
+    },
+    {
+      "id": 572,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Weber Arnaud",
+      "reporting_owner_cik": "0002087197",
+      "reporting_owner_position": "Engineering Lead",
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "285523",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "540161"
+    },
+    {
+      "id": 575,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Ahuja Amrita",
+      "reporting_owner_cik": "0001765417",
+      "reporting_owner_position": "CFO & COO",
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "268727",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "531735"
+    },
+    {
+      "id": 561,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Jennings Owen Britton",
       "reporting_owner_cik": "0002047775",
@@ -17,7 +77,7 @@
       "shares_after_transaction": "230091"
     },
     {
-      "id": 262,
+      "id": 565,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Grassadonia Brian",
       "reporting_owner_cik": "0001803649",
@@ -29,31 +89,7 @@
       "shares_after_transaction": "500763"
     },
     {
-      "id": 253,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "BOTHA ROELOF",
-      "reporting_owner_cik": "0001222287",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "332",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "37039"
-    },
-    {
-      "id": 255,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Carter Shawn Corey",
-      "reporting_owner_cik": "0001549211",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "207",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "28859"
-    },
-    {
-      "id": 256,
+      "id": 560,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Esperanza Chrysty",
       "reporting_owner_cik": "0001965569",
@@ -65,55 +101,7 @@
       "shares_after_transaction": "120010"
     },
     {
-      "id": 257,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Grassadonia Brian",
-      "reporting_owner_cik": "0001803649",
-      "reporting_owner_position": "Ecosystem Lead",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "1252",
-      "transaction_price": "59.54",
-      "transaction_type": "F",
-      "shares_after_transaction": "502532"
-    },
-    {
-      "id": 258,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Meeker Mary G",
-      "reporting_owner_cik": "0001544567",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "311",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "421683"
-    },
-    {
-      "id": 259,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Jennings Owen Britton",
-      "reporting_owner_cik": "0002047775",
-      "reporting_owner_position": "Business Lead",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "1038",
-      "transaction_price": "59.54",
-      "transaction_type": "F",
-      "shares_after_transaction": "230224"
-    },
-    {
-      "id": 260,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Ahuja Amrita",
-      "reporting_owner_cik": "0001765417",
-      "reporting_owner_position": "CFO & COO",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "1337",
-      "transaction_price": "59.54",
-      "transaction_type": "F",
-      "shares_after_transaction": "263008"
-    },
-    {
-      "id": 261,
+      "id": 562,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Narula Neha",
       "reporting_owner_cik": "0001974805",
@@ -125,7 +113,67 @@
       "shares_after_transaction": "13814"
     },
     {
-      "id": 263,
+      "id": 563,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Ahuja Amrita",
+      "reporting_owner_cik": "0001765417",
+      "reporting_owner_position": "CFO & COO",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "1337",
+      "transaction_price": "59.54",
+      "transaction_type": "F",
+      "shares_after_transaction": "263008"
+    },
+    {
+      "id": 564,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Jennings Owen Britton",
+      "reporting_owner_cik": "0002047775",
+      "reporting_owner_position": "Business Lead",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "1038",
+      "transaction_price": "59.54",
+      "transaction_type": "F",
+      "shares_after_transaction": "230224"
+    },
+    {
+      "id": 566,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Grassadonia Brian",
+      "reporting_owner_cik": "0001803649",
+      "reporting_owner_position": "Ecosystem Lead",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "1252",
+      "transaction_price": "59.54",
+      "transaction_type": "F",
+      "shares_after_transaction": "502532"
+    },
+    {
+      "id": 568,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Meeker Mary G",
+      "reporting_owner_cik": "0001544567",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "311",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "421683"
+    },
+    {
+      "id": 569,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Carter Shawn Corey",
+      "reporting_owner_cik": "0001549211",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "207",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "28859"
+    },
+    {
+      "id": 573,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Brooks Amy",
       "reporting_owner_cik": "0001791777",
@@ -135,6 +183,18 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "26649"
+    },
+    {
+      "id": 574,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "BOTHA ROELOF",
+      "reporting_owner_cik": "0001222287",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "332",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "37039"
     }
   ]
 }

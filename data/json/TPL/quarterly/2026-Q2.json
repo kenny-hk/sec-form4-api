@@ -2,11 +2,35 @@
   "ticker": "TPL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-04-09T09:18:10.695538",
-  "count": 3,
+  "last_updated": "2026-04-10T09:17:20.992099",
+  "count": 4,
   "transactions": [
     {
-      "id": 580,
+      "id": 275,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-08",
+      "transaction_shares": "3",
+      "transaction_price": "449",
+      "transaction_type": "P",
+      "shares_after_transaction": "3435492"
+    },
+    {
+      "id": 276,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-07",
+      "transaction_shares": "1",
+      "transaction_price": "447.12",
+      "transaction_type": "P",
+      "shares_after_transaction": "3435489"
+    },
+    {
+      "id": 278,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "3461296"
     },
     {
-      "id": 582,
+      "id": 277,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -28,18 +52,6 @@
       "transaction_price": "443.26",
       "transaction_type": "P",
       "shares_after_transaction": "3461344"
-    },
-    {
-      "id": 581,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "1",
-      "transaction_price": "454.04",
-      "transaction_type": "P",
-      "shares_after_transaction": "3461343"
     }
   ]
 }

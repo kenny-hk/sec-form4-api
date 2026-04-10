@@ -1,11 +1,11 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-04-09T09:18:10.695538",
+  "last_updated": "2026-04-10T09:17:20.992099",
   "retention_years": 3,
   "count": 11,
   "transactions": [
     {
-      "id": 269,
+      "id": 174,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Le-Quoc Alexis",
       "reporting_owner_cik": "0001783984",
@@ -17,55 +17,7 @@
       "shares_after_transaction": "541999"
     },
     {
-      "id": 266,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Li Yanbing",
-      "reporting_owner_cik": "0001783061",
-      "reporting_owner_position": "Chief Product Officer",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "51116",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "305117"
-    },
-    {
-      "id": 267,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Acocella Kerry",
-      "reporting_owner_cik": "0001903975",
-      "reporting_owner_position": "General Counsel and Secretary",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "28625",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "154346"
-    },
-    {
-      "id": 268,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Galloreese David",
-      "reporting_owner_cik": "0001757760",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "25354",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "130886"
-    },
-    {
-      "id": 270,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Agarwal Amit",
-      "reporting_owner_cik": "0001540517",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "20000",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "21640"
-    },
-    {
-      "id": 271,
+      "id": 165,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Phillips Dominic",
       "reporting_owner_cik": "0001895148",
@@ -77,43 +29,7 @@
       "shares_after_transaction": "5191"
     },
     {
-      "id": 272,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Le-Quoc Alexis",
-      "reporting_owner_cik": "0001783984",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "94054",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "531311"
-    },
-    {
-      "id": 273,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Pomel Olivier",
-      "reporting_owner_cik": "0001783990",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "130858",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "835679"
-    },
-    {
-      "id": 274,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Blitzer Adam",
-      "reporting_owner_cik": "0001861590",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2026-04-01",
-      "transaction_shares": "59295",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "289615"
-    },
-    {
-      "id": 275,
+      "id": 166,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "OBSTLER DAVID M",
       "reporting_owner_cik": "0001120741",
@@ -125,7 +41,91 @@
       "shares_after_transaction": "525914"
     },
     {
-      "id": 276,
+      "id": 167,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Galloreese David",
+      "reporting_owner_cik": "0001757760",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "25354",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "130886"
+    },
+    {
+      "id": 168,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Li Yanbing",
+      "reporting_owner_cik": "0001783061",
+      "reporting_owner_position": "Chief Product Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "51116",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "305117"
+    },
+    {
+      "id": 169,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Acocella Kerry",
+      "reporting_owner_cik": "0001903975",
+      "reporting_owner_position": "General Counsel and Secretary",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "28625",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "154346"
+    },
+    {
+      "id": 170,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Blitzer Adam",
+      "reporting_owner_cik": "0001861590",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "59295",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "289615"
+    },
+    {
+      "id": 171,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Pomel Olivier",
+      "reporting_owner_cik": "0001783990",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "130858",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "835679"
+    },
+    {
+      "id": 172,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Le-Quoc Alexis",
+      "reporting_owner_cik": "0001783984",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "94054",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "531311"
+    },
+    {
+      "id": 173,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Agarwal Amit",
+      "reporting_owner_cik": "0001540517",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-01",
+      "transaction_shares": "20000",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "21640"
+    },
+    {
+      "id": 175,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Walters Sean Michael",
       "reporting_owner_cik": "0001903980",
