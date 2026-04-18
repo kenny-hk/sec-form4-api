@@ -1,11 +1,35 @@
 {
   "ticker": "CIEN",
-  "last_updated": "2026-04-17T09:23:59.597430",
+  "last_updated": "2026-04-18T08:58:17.888758",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 5,
+      "id": 6,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "SMITH GARY B",
+      "reporting_owner_cik": "0001032553",
+      "reporting_owner_position": "President, CEO",
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "2952",
+      "transaction_price": "467.4715",
+      "transaction_type": "S",
+      "shares_after_transaction": "278413"
+    },
+    {
+      "id": 7,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "Gage Brodie",
+      "reporting_owner_cik": "0001998826",
+      "reporting_owner_position": "SVP Global Products & Supply",
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "1200",
+      "transaction_price": "471.79",
+      "transaction_type": "S",
+      "shares_after_transaction": "45141"
+    },
+    {
+      "id": 8,
       "issuer_name": "CIENA CORP",
       "reporting_owner": "DiPerna Dino",
       "reporting_owner_cik": "0001998460",
@@ -15,6 +39,18 @@
       "transaction_price": "471.79",
       "transaction_type": "S",
       "shares_after_transaction": "43967"
+    },
+    {
+      "id": 9,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "Rothenstein David M",
+      "reporting_owner_cik": "0001444157",
+      "reporting_owner_position": "SVP and Chief Strategy Officer",
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "2500",
+      "transaction_price": "467.6536",
+      "transaction_type": "S",
+      "shares_after_transaction": "192581"
     }
   ]
 }

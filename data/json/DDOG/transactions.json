@@ -1,11 +1,35 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-04-17T09:23:59.597430",
+  "last_updated": "2026-04-18T08:58:17.888758",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 106,
+      "id": 128,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Agarwal Amit",
+      "reporting_owner_cik": "0001540517",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "20000",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "21640"
+    },
+    {
+      "id": 129,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Shah Shardul",
+      "reporting_owner_cik": "0001783882",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "7916",
+      "transaction_price": "120",
+      "transaction_type": "S",
+      "shares_after_transaction": "316953"
+    },
+    {
+      "id": 130,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -15,18 +39,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "878122"
-    },
-    {
-      "id": 105,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Agarwal Amit",
-      "reporting_owner_cik": "0001540517",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-08",
-      "transaction_shares": "20000",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "21640"
     }
   ]
 }

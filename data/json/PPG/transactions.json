@@ -1,7 +1,32 @@
 {
   "ticker": "PPG",
-  "last_updated": "2026-04-17T09:23:59.597430",
+  "last_updated": "2026-04-18T08:58:17.888758",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 287,
+      "issuer_name": "PPG INDUSTRIES INC",
+      "reporting_owner": "Schneider Todd M.",
+      "reporting_owner_cik": "0001744882",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "432",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "532"
+    },
+    {
+      "id": 290,
+      "issuer_name": "PPG INDUSTRIES INC",
+      "reporting_owner": "Smith Cathy R",
+      "reporting_owner_cik": "0001322028",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "1849",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "9501"
+    }
+  ]
 }
