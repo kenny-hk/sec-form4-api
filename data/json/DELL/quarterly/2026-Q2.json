@@ -2,11 +2,11 @@
   "ticker": "DELL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-04-20T10:04:57.512312",
-  "count": 6,
+  "last_updated": "2026-04-21T09:46:01.212301",
+  "count": 5,
   "transactions": [
     {
-      "id": 53,
+      "id": 55,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA V (GP), L.L.C.",
       "reporting_owner_cik": "0001737652",
@@ -18,7 +18,7 @@
       "shares_after_transaction": "274254"
     },
     {
-      "id": 55,
+      "id": 57,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA IV (GP), L.L.C.",
       "reporting_owner_cik": "0001672568",
@@ -28,24 +28,12 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "274254"
-    },
-    {
-      "id": 54,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA V (GP), L.L.C.",
-      "reporting_owner_cik": "0001737652",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-15",
-      "transaction_shares": "241941",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "241941"
     },
     {
       "id": 56,
       "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA IV (GP), L.L.C.",
-      "reporting_owner_cik": "0001672568",
+      "reporting_owner": "SLTA V (GP), L.L.C.",
+      "reporting_owner_cik": "0001737652",
       "reporting_owner_position": null,
       "transaction_date": "2026-04-15",
       "transaction_shares": "241941",
@@ -56,6 +44,18 @@
     {
       "id": 58,
       "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "SLTA IV (GP), L.L.C.",
+      "reporting_owner_cik": "0001672568",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-15",
+      "transaction_shares": "241941",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "241941"
+    },
+    {
+      "id": 59,
+      "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "CLARKE JEFFREY W",
       "reporting_owner_cik": "0001215588",
       "reporting_owner_position": "COO & Vice Chairman",
@@ -64,18 +64,6 @@
       "transaction_price": "182.48",
       "transaction_type": "S",
       "shares_after_transaction": "1687414"
-    },
-    {
-      "id": 57,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Kennedy David Alan",
-      "reporting_owner_cik": "0002086800",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-04-09",
-      "transaction_shares": "19500",
-      "transaction_price": "182.53",
-      "transaction_type": "S",
-      "shares_after_transaction": "183097"
     }
   ]
 }
