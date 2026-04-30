@@ -1,20 +1,32 @@
 {
   "ticker": "JBL",
-  "last_updated": "2026-04-28T10:20:25.977153",
+  "last_updated": "2026-04-30T10:12:57.908041",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 248,
+      "id": 253,
       "issuer_name": "JABIL INC",
-      "reporting_owner": "Priestley Andrew",
-      "reporting_owner_cik": "0002025015",
-      "reporting_owner_position": "EVP, Chief Operations Officer",
-      "transaction_date": "2026-04-20",
-      "transaction_shares": "3169.0000",
-      "transaction_price": "330.0000",
-      "transaction_type": "S",
-      "shares_after_transaction": "57098.0000"
+      "reporting_owner": "PLANT JOHN C",
+      "reporting_owner_cik": "0001136562",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-23",
+      "transaction_shares": "600.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "6500.0000"
+    },
+    {
+      "id": 254,
+      "issuer_name": "JABIL INC",
+      "reporting_owner": "Tyagarajan N. V.",
+      "reporting_owner_cik": "0001408239",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-23",
+      "transaction_shares": "600.0000",
+      "transaction_price": "0.0000",
+      "transaction_type": "A",
+      "shares_after_transaction": "2964.0000"
     }
   ]
 }
