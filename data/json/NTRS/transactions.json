@@ -1,11 +1,23 @@
 {
   "ticker": "NTRS",
-  "last_updated": "2026-05-01T09:51:18.462437",
+  "last_updated": "2026-05-02T09:12:34.456973",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 458,
+      "id": 497,
+      "issuer_name": "NORTHERN TRUST CORP",
+      "reporting_owner": "SMITH DAVID BYRON JR",
+      "reporting_owner_cik": "0001478669",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-30",
+      "transaction_shares": "1200",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "86037"
+    },
+    {
+      "id": 498,
       "issuer_name": "NORTHERN TRUST CORP",
       "reporting_owner": "Fox David W Jr",
       "reporting_owner_cik": "0002039870",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "18588"
     },
     {
-      "id": 459,
+      "id": 499,
       "issuer_name": "NORTHERN TRUST CORP",
       "reporting_owner": "Bellows Clive",
       "reporting_owner_cik": "0002027224",
