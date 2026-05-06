@@ -1,11 +1,35 @@
 {
   "ticker": "AMZN",
-  "last_updated": "2026-05-05T10:09:42.350533",
+  "last_updated": "2026-05-06T10:25:54.734222",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 519,
+      "id": 743,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "Herrington Douglas J",
+      "reporting_owner_cik": "0001936006",
+      "reporting_owner_position": "CEO Worldwide Amazon Stores",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "1000",
+      "transaction_price": "265.65",
+      "transaction_type": "S",
+      "shares_after_transaction": "498861"
+    },
+    {
+      "id": 744,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "1033597",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "881168853"
+    },
+    {
+      "id": 745,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "RUBINSTEIN JONATHAN",
       "reporting_owner_cik": "0001209522",
@@ -15,18 +39,6 @@
       "transaction_price": "273.02",
       "transaction_type": "S",
       "shares_after_transaction": "74948"
-    },
-    {
-      "id": 518,
-      "issuer_name": "AMAZON COM INC",
-      "reporting_owner": "RUBINSTEIN JONATHAN",
-      "reporting_owner_cik": "0001209522",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-04-24",
-      "transaction_shares": "3849",
-      "transaction_price": "260",
-      "transaction_type": "S",
-      "shares_after_transaction": "78654"
     }
   ]
 }

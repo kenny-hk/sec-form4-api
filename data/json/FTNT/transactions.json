@@ -1,20 +1,56 @@
 {
   "ticker": "FTNT",
-  "last_updated": "2026-04-27T10:22:54.357136",
+  "last_updated": "2026-05-06T10:25:54.734222",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 151,
+      "id": 370,
+      "issuer_name": "Fortinet, Inc.",
+      "reporting_owner": "Xie Michael",
+      "reporting_owner_cik": "0001475586",
+      "reporting_owner_position": "VP, ENGINEERING & CTO",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "2763",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "9929637"
+    },
+    {
+      "id": 371,
       "issuer_name": "Fortinet, Inc.",
       "reporting_owner": "Xie Ken",
       "reporting_owner_cik": "0001475587",
       "reporting_owner_position": "PRESIDENT & CEO",
-      "transaction_date": "2026-04-17",
-      "transaction_shares": "236431",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "6260",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "472862"
+      "transaction_type": "M",
+      "shares_after_transaction": "52983138"
+    },
+    {
+      "id": 372,
+      "issuer_name": "Fortinet, Inc.",
+      "reporting_owner": "Whittle John",
+      "reporting_owner_cik": "0001476336",
+      "reporting_owner_position": "CHIEF OPERATING OFFICER",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "1608",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "94069"
+    },
+    {
+      "id": 373,
+      "issuer_name": "Fortinet, Inc.",
+      "reporting_owner": "Ohlgart Christiane",
+      "reporting_owner_cik": "0002016813",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "2366",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "10613"
     }
   ]
 }

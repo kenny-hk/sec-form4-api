@@ -1,7 +1,44 @@
 {
   "ticker": "COR",
-  "last_updated": "2026-04-09T09:18:10.695538",
+  "last_updated": "2026-05-06T10:25:54.734222",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 623,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "NALLY DENNIS M",
+      "reporting_owner_cik": "0001685596",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "116",
+      "transaction_price": "304",
+      "transaction_type": "A",
+      "shares_after_transaction": "13075"
+    },
+    {
+      "id": 624,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Cooper Ellen",
+      "reporting_owner_cik": "0001555614",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "99",
+      "transaction_price": "304",
+      "transaction_type": "A",
+      "shares_after_transaction": "796"
+    },
+    {
+      "id": 625,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Tyler Lauren M",
+      "reporting_owner_cik": "0001765744",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-01",
+      "transaction_shares": "99",
+      "transaction_price": "304",
+      "transaction_type": "A",
+      "shares_after_transaction": "3809"
+    }
+  ]
 }
