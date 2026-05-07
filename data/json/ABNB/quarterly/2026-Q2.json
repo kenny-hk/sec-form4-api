@@ -2,44 +2,32 @@
   "ticker": "ABNB",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-04T10:18:55.837846",
-  "count": 3,
+  "last_updated": "2026-05-07T10:31:12.439429",
+  "count": 2,
   "transactions": [
     {
-      "id": 331,
+      "id": 627,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-04",
+      "transaction_shares": "2739",
+      "transaction_price": "138.7461",
+      "transaction_type": "S",
+      "shares_after_transaction": "109276"
+    },
+    {
+      "id": 628,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
       "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-04-23",
-      "transaction_shares": "72806",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "467164.681"
-    },
-    {
-      "id": 332,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Blecharczyk Nathan",
-      "reporting_owner_cik": "0001834147",
-      "reporting_owner_position": "Chief Strategy Officer",
-      "transaction_date": "2026-04-23",
-      "transaction_shares": "39204",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "88454.232"
-    },
-    {
-      "id": 333,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Bernstein David C",
-      "reporting_owner_cik": "0001288881",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-04-23",
-      "transaction_shares": "11201",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "50433.033"
+      "transaction_date": "2026-05-04",
+      "transaction_shares": "3750",
+      "transaction_price": "143.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "463414.681"
     }
   ]
 }

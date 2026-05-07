@@ -1,11 +1,35 @@
 {
   "ticker": "CAT",
-  "last_updated": "2026-05-06T10:25:54.734222",
+  "last_updated": "2026-05-07T10:31:12.439429",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 816,
+      "id": 912,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Kaiser Jason",
+      "reporting_owner_cik": "0002005183",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "294",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "9300"
+    },
+    {
+      "id": 911,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Shurman Rodney Michael",
+      "reporting_owner_cik": "0002110101",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-05-05",
+      "transaction_shares": "5639",
+      "transaction_price": "253.98",
+      "transaction_type": "M",
+      "shares_after_transaction": "8185"
+    },
+    {
+      "id": 913,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Kaiser Jason",
       "reporting_owner_cik": "0002005183",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "17511"
     },
     {
-      "id": 817,
+      "id": 914,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "MacLennan David",
       "reporting_owner_cik": "0001498535",

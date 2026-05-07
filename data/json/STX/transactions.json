@@ -1,20 +1,44 @@
 {
   "ticker": "STX",
-  "last_updated": "2026-04-30T10:12:57.908041",
+  "last_updated": "2026-05-07T10:31:12.439429",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 213,
+      "id": 531,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Tilenius Stephanie",
+      "reporting_owner_cik": "0001534995",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-05",
+      "transaction_shares": "1540",
+      "transaction_price": "766.5953",
+      "transaction_type": "S",
+      "shares_after_transaction": "10704"
+    },
+    {
+      "id": 532,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Lee James CI",
       "reporting_owner_cik": "0001773423",
       "reporting_owner_position": "EVP & CLO",
-      "transaction_date": "2026-04-22",
-      "transaction_shares": "1237",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "1561"
+      "transaction_date": "2026-05-04",
+      "transaction_shares": "697",
+      "transaction_price": "741.17",
+      "transaction_type": "S",
+      "shares_after_transaction": "324"
+    },
+    {
+      "id": 533,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Morris John Christopher",
+      "reporting_owner_cik": "0001988271",
+      "reporting_owner_position": "EVP & CTO",
+      "transaction_date": "2026-05-04",
+      "transaction_shares": "160",
+      "transaction_price": "731.6525",
+      "transaction_type": "S",
+      "shares_after_transaction": "17420"
     }
   ]
 }
