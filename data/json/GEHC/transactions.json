@@ -1,11 +1,35 @@
 {
   "ticker": "GEHC",
-  "last_updated": "2026-05-07T10:31:12.439429",
+  "last_updated": "2026-05-08T09:31:27.530917",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 284,
+      "id": 290,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "CULP H LAWRENCE JR",
+      "reporting_owner_cik": "0001205247",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "80805",
+      "transaction_price": "61.8783",
+      "transaction_type": "P",
+      "shares_after_transaction": "151207"
+    },
+    {
+      "id": 291,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "Stromberg William J",
+      "reporting_owner_cik": "0001352578",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "1000",
+      "transaction_price": "61.6892",
+      "transaction_type": "P",
+      "shares_after_transaction": "15330"
+    },
+    {
+      "id": 289,
       "issuer_name": "GE HealthCare Technologies Inc.",
       "reporting_owner": "SACCARO JAMES",
       "reporting_owner_cik": "0001593636",
@@ -15,30 +39,6 @@
       "transaction_price": "60.5997",
       "transaction_type": "P",
       "shares_after_transaction": "87471"
-    },
-    {
-      "id": 285,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Jimenez Frank R",
-      "reporting_owner_cik": "0001465175",
-      "reporting_owner_position": "GC & Corporate Secretary",
-      "transaction_date": "2026-04-30",
-      "transaction_shares": "1750",
-      "transaction_price": "60.45",
-      "transaction_type": "P",
-      "shares_after_transaction": "93932"
-    },
-    {
-      "id": 286,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Arduini Peter J",
-      "reporting_owner_cik": "0001323134",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2026-04-30",
-      "transaction_shares": "4169",
-      "transaction_price": "59.925",
-      "transaction_type": "P",
-      "shares_after_transaction": "259424"
     }
   ]
 }
