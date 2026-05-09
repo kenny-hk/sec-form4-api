@@ -1,20 +1,32 @@
 {
   "ticker": "CVX",
-  "last_updated": "2026-04-08T09:11:25.477852",
+  "last_updated": "2026-05-09T09:27:20.595316",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 814,
+      "id": 572,
       "issuer_name": "CHEVRON CORP",
-      "reporting_owner": "Pate R. Hewitt",
-      "reporting_owner_cik": "0001469419",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-03-30",
-      "transaction_shares": "40200",
-      "transaction_price": "125.35",
-      "transaction_type": "M",
-      "shares_after_transaction": "48838"
+      "reporting_owner": "HESS JOHN B",
+      "reporting_owner_cik": "0001087997",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "28031",
+      "transaction_price": "183.903",
+      "transaction_type": "S",
+      "shares_after_transaction": "825014"
+    },
+    {
+      "id": 573,
+      "issuer_name": "CHEVRON CORP",
+      "reporting_owner": "Moyo Dambisa F",
+      "reporting_owner_cik": "0001656418",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "780",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "13518"
     }
   ]
 }
