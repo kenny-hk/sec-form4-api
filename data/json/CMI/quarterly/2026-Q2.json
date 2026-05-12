@@ -2,11 +2,35 @@
   "ticker": "CMI",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-11T11:30:16.077546",
-  "count": 1,
+  "last_updated": "2026-05-12T10:39:28.848022",
+  "count": 4,
   "transactions": [
     {
-      "id": 13,
+      "id": 2,
+      "issuer_name": "CUMMINS INC",
+      "reporting_owner": "Stoner Nathan R",
+      "reporting_owner_cik": "0001808072",
+      "reporting_owner_position": "VP - China ABO",
+      "transaction_date": "2026-05-11",
+      "transaction_shares": "607.0000",
+      "transaction_price": "694.0600",
+      "transaction_type": "S",
+      "shares_after_transaction": "9446.6690"
+    },
+    {
+      "id": 5,
+      "issuer_name": "CUMMINS INC",
+      "reporting_owner": "Fetch Bonnie J",
+      "reporting_owner_cik": "0001908640",
+      "reporting_owner_position": "EVP & President - Operations",
+      "transaction_date": "2026-05-11",
+      "transaction_shares": "652.0000",
+      "transaction_price": "700.1899",
+      "transaction_type": "S",
+      "shares_after_transaction": "11679.0000"
+    },
+    {
+      "id": 3,
       "issuer_name": "CUMMINS INC",
       "reporting_owner": "Lamb-Hale Nicole",
       "reporting_owner_cik": "0001822926",
@@ -16,6 +40,18 @@
       "transaction_price": "685.6336",
       "transaction_type": "S",
       "shares_after_transaction": "16212.0000"
+    },
+    {
+      "id": 4,
+      "issuer_name": "CUMMINS INC",
+      "reporting_owner": "Boakye Marvin",
+      "reporting_owner_cik": "0001765989",
+      "reporting_owner_position": "VP - CHRO",
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "240.0000",
+      "transaction_price": "682.6200",
+      "transaction_type": "S",
+      "shares_after_transaction": "11749.0000"
     }
   ]
 }

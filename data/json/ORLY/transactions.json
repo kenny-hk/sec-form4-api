@@ -1,7 +1,32 @@
 {
   "ticker": "ORLY",
-  "last_updated": "2026-03-24T09:00:35.628297",
+  "last_updated": "2026-05-12T10:39:28.848022",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 141,
+      "issuer_name": "O REILLY AUTOMOTIVE INC",
+      "reporting_owner": "BECKHAM BRAD W",
+      "reporting_owner_cik": "0001625889",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "13635",
+      "transaction_price": "17.12",
+      "transaction_type": "M",
+      "shares_after_transaction": "25885"
+    },
+    {
+      "id": 140,
+      "issuer_name": "O REILLY AUTOMOTIVE INC",
+      "reporting_owner": "HOPPER PHILIP M",
+      "reporting_owner_cik": "0001954524",
+      "reporting_owner_position": "SVP OF REAL ESTATE & EXPANSION",
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3700",
+      "transaction_price": "17.98",
+      "transaction_type": "M",
+      "shares_after_transaction": "8588"
+    }
+  ]
 }
