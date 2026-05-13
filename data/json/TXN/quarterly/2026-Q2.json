@@ -2,11 +2,23 @@
   "ticker": "TXN",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-12T10:39:28.848022",
+  "last_updated": "2026-05-13T10:36:57.191928",
   "count": 2,
   "transactions": [
     {
-      "id": 967,
+      "id": 890,
+      "issuer_name": "TEXAS INSTRUMENTS INC",
+      "reporting_owner": "Leonard Shanon J",
+      "reporting_owner_cik": "0001920456",
+      "reporting_owner_position": "Sr. Vice President",
+      "transaction_date": "2026-05-11",
+      "transaction_shares": "4963",
+      "transaction_price": "295.2218",
+      "transaction_type": "S",
+      "shares_after_transaction": "24867"
+    },
+    {
+      "id": 891,
       "issuer_name": "TEXAS INSTRUMENTS INC",
       "reporting_owner": "Leonard Shanon J",
       "reporting_owner_cik": "0001920456",
@@ -16,18 +28,6 @@
       "transaction_price": "280.89",
       "transaction_type": "F",
       "shares_after_transaction": "29830"
-    },
-    {
-      "id": 966,
-      "issuer_name": "TEXAS INSTRUMENTS INC",
-      "reporting_owner": "Ilan Haviv",
-      "reporting_owner_cik": "0001695466",
-      "reporting_owner_position": "Chairman, President & CEO",
-      "transaction_date": "2026-05-04",
-      "transaction_shares": "20000",
-      "transaction_price": "79.26",
-      "transaction_type": "M",
-      "shares_after_transaction": "224339"
     }
   ]
 }

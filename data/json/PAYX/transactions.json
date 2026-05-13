@@ -1,11 +1,23 @@
 {
   "ticker": "PAYX",
-  "last_updated": "2026-05-12T10:39:28.848022",
+  "last_updated": "2026-05-13T10:36:57.191928",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 392,
+      "id": 372,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "VELLI JOSEPH M",
+      "reporting_owner_cik": "0001209494",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "10220",
+      "transaction_price": "60.59",
+      "transaction_type": "M",
+      "shares_after_transaction": "89564"
+    },
+    {
+      "id": 371,
       "issuer_name": "PAYCHEX INC",
       "reporting_owner": "GOLISANO B THOMAS",
       "reporting_owner_cik": "0000903201",
@@ -15,18 +27,6 @@
       "transaction_price": "91.27",
       "transaction_type": "G",
       "shares_after_transaction": "35653923"
-    },
-    {
-      "id": 391,
-      "issuer_name": "PAYCHEX INC",
-      "reporting_owner": "GOLISANO B THOMAS",
-      "reporting_owner_cik": "0000903201",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-04",
-      "transaction_shares": "163930",
-      "transaction_price": "93.21",
-      "transaction_type": "G",
-      "shares_after_transaction": "35763223"
     }
   ]
 }

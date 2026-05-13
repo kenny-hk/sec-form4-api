@@ -1,11 +1,35 @@
 {
   "ticker": "KEY",
-  "last_updated": "2026-05-12T10:39:28.848022",
+  "last_updated": "2026-05-13T10:36:57.191928",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 113,
+      "id": 110,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "BANK OF NOVA SCOTIA",
+      "reporting_owner_cik": "0000009631",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-12",
+      "transaction_shares": "235628",
+      "transaction_price": "21.83",
+      "transaction_type": "D",
+      "shares_after_transaction": "159106920"
+    },
+    {
+      "id": 111,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "Mago Angela G",
+      "reporting_owner_cik": "0001669893",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "22826",
+      "transaction_price": "18.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "304390"
+    },
+    {
+      "id": 109,
       "issuer_name": "KEYCORP /NEW/",
       "reporting_owner": "BANK OF NOVA SCOTIA",
       "reporting_owner_cik": "0000009631",

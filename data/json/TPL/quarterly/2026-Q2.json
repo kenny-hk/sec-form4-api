@@ -2,11 +2,35 @@
   "ticker": "TPL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-12T10:39:28.848022",
-  "count": 4,
+  "last_updated": "2026-05-13T10:36:57.191928",
+  "count": 5,
   "transactions": [
     {
-      "id": 616,
+      "id": 570,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "DOYLE PETER",
+      "reporting_owner_cik": "0001295022",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "254",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "147139"
+    },
+    {
+      "id": 573,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "1",
+      "transaction_price": "402",
+      "transaction_type": "A",
+      "shares_after_transaction": "3395608"
+    },
+    {
+      "id": 572,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "3395607"
     },
     {
-      "id": 617,
+      "id": 574,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -30,7 +54,7 @@
       "shares_after_transaction": "3395606"
     },
     {
-      "id": 614,
+      "id": 571,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -40,18 +64,6 @@
       "transaction_price": "432.71",
       "transaction_type": "P",
       "shares_after_transaction": "3426154"
-    },
-    {
-      "id": 615,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-04",
-      "transaction_shares": "1",
-      "transaction_price": "438.69",
-      "transaction_type": "P",
-      "shares_after_transaction": "3426153"
     }
   ]
 }
