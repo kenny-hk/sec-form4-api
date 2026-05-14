@@ -1,83 +1,23 @@
 {
   "ticker": "GEHC",
-  "last_updated": "2026-05-13T10:36:57.191928",
+  "last_updated": "2026-05-14T10:26:00.432331",
   "retention_years": 3,
-  "count": 9,
+  "count": 10,
   "transactions": [
     {
-      "id": 303,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "LESJAK CATHERINE A",
-      "reporting_owner_cik": "0001256992",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "12702"
-    },
-    {
-      "id": 304,
+      "id": 205,
       "issuer_name": "GE HealthCare Technologies Inc.",
       "reporting_owner": "Hochman Rodney F",
       "reporting_owner_cik": "0001468966",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "17197"
+      "transaction_date": "2026-05-12",
+      "transaction_shares": "1618",
+      "transaction_price": "62.03",
+      "transaction_type": "P",
+      "shares_after_transaction": "1618"
     },
     {
-      "id": 305,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Yang Watkin Phoebe L.",
-      "reporting_owner_cik": "0001940538",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "12702"
-    },
-    {
-      "id": 306,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Stromberg William J",
-      "reporting_owner_cik": "0001352578",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "18916"
-    },
-    {
-      "id": 307,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Lobo Kevin",
-      "reporting_owner_cik": "0001519419",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "4363"
-    },
-    {
-      "id": 309,
-      "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "Madden Anne T",
-      "reporting_owner_cik": "0001684059",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3586",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "17197"
-    },
-    {
-      "id": 311,
+      "id": 203,
       "issuer_name": "GE HealthCare Technologies Inc.",
       "reporting_owner": "CULP H LAWRENCE JR",
       "reporting_owner_cik": "0001205247",
@@ -89,19 +29,79 @@
       "shares_after_transaction": "16285"
     },
     {
-      "id": 308,
+      "id": 204,
       "issuer_name": "GE HealthCare Technologies Inc.",
-      "reporting_owner": "CULP H LAWRENCE JR",
-      "reporting_owner_cik": "0001205247",
+      "reporting_owner": "Stromberg William J",
+      "reporting_owner_cik": "0001352578",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-06",
-      "transaction_shares": "80805",
-      "transaction_price": "61.8783",
-      "transaction_type": "P",
-      "shares_after_transaction": "151207"
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18916"
     },
     {
-      "id": 310,
+      "id": 206,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "Madden Anne T",
+      "reporting_owner_cik": "0001684059",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "17197"
+    },
+    {
+      "id": 208,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "Lobo Kevin",
+      "reporting_owner_cik": "0001519419",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "4363"
+    },
+    {
+      "id": 209,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "Hochman Rodney F",
+      "reporting_owner_cik": "0001468966",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "17197"
+    },
+    {
+      "id": 210,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "Yang Watkin Phoebe L.",
+      "reporting_owner_cik": "0001940538",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "12702"
+    },
+    {
+      "id": 212,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "LESJAK CATHERINE A",
+      "reporting_owner_cik": "0001256992",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "3586",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "12702"
+    },
+    {
+      "id": 207,
       "issuer_name": "GE HealthCare Technologies Inc.",
       "reporting_owner": "Stromberg William J",
       "reporting_owner_cik": "0001352578",
@@ -111,6 +111,18 @@
       "transaction_price": "61.6892",
       "transaction_type": "P",
       "shares_after_transaction": "15330"
+    },
+    {
+      "id": 211,
+      "issuer_name": "GE HealthCare Technologies Inc.",
+      "reporting_owner": "CULP H LAWRENCE JR",
+      "reporting_owner_cik": "0001205247",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-06",
+      "transaction_shares": "80805",
+      "transaction_price": "61.8783",
+      "transaction_type": "P",
+      "shares_after_transaction": "151207"
     }
   ]
 }

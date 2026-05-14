@@ -1,11 +1,23 @@
 {
   "ticker": "PWR",
-  "last_updated": "2026-05-13T10:36:57.191928",
+  "last_updated": "2026-05-14T10:26:00.432331",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 910,
+      "id": 1054,
+      "issuer_name": "QUANTA SERVICES, INC.",
+      "reporting_owner": "WYRSCH MARTHA B",
+      "reporting_owner_cik": "0001275686",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-11",
+      "transaction_shares": "2500",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "5058"
+    },
+    {
+      "id": 1053,
       "issuer_name": "QUANTA SERVICES, INC.",
       "reporting_owner": "Austin Earl C. Jr.",
       "reporting_owner_cik": "0001473203",
@@ -15,18 +27,6 @@
       "transaction_price": "765.14",
       "transaction_type": "S",
       "shares_after_transaction": "681402"
-    },
-    {
-      "id": 911,
-      "issuer_name": "QUANTA SERVICES, INC.",
-      "reporting_owner": "NOBEL PAUL",
-      "reporting_owner_cik": "0001247295",
-      "reporting_owner_position": "Chief Accounting Officer & SVP",
-      "transaction_date": "2026-05-04",
-      "transaction_shares": "4000",
-      "transaction_price": "756.98",
-      "transaction_type": "S",
-      "shares_after_transaction": "8080"
     }
   ]
 }
