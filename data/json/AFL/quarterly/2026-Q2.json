@@ -2,11 +2,23 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-14T10:26:00.432331",
-  "count": 4,
+  "last_updated": "2026-05-15T10:32:26.639546",
+  "count": 3,
   "transactions": [
     {
-      "id": 817,
+      "id": 991,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-12",
+      "transaction_shares": "5961",
+      "transaction_price": "115.08",
+      "transaction_type": "S",
+      "shares_after_transaction": "51606884"
+    },
+    {
+      "id": 989,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "51630698"
     },
     {
-      "id": 816,
+      "id": 990,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "MOSKOWITZ JOSEPH L",
       "reporting_owner_cik": "0001639880",
@@ -28,30 +40,6 @@
       "transaction_price": "113.73",
       "transaction_type": "S",
       "shares_after_transaction": "25368"
-    },
-    {
-      "id": 815,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Hosoda Miwako",
-      "reporting_owner_cik": "0001974106",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-06",
-      "transaction_shares": "243",
-      "transaction_price": "114.50",
-      "transaction_type": "S",
-      "shares_after_transaction": "7743"
-    },
-    {
-      "id": 814,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "LAKE CHARLES D II",
-      "reporting_owner_cik": "0001144994",
-      "reporting_owner_position": "Chairman & Rep. Director, ALIJ",
-      "transaction_date": "2026-05-05",
-      "transaction_shares": "6500",
-      "transaction_price": "113.432",
-      "transaction_type": "S",
-      "shares_after_transaction": "50737"
     }
   ]
 }

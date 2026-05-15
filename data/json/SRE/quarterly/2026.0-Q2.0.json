@@ -2,11 +2,23 @@
   "ticker": "SRE",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-14T10:26:00.432331",
-  "count": 4,
+  "last_updated": "2026-05-15T10:32:26.639546",
+  "count": 5,
   "transactions": [
     {
-      "id": 226,
+      "id": 128,
+      "issuer_name": "SEMPRA",
+      "reporting_owner": "DAY DIANA L",
+      "reporting_owner_cik": "0001952095",
+      "reporting_owner_position": "Chief Legal Counsel",
+      "transaction_date": "2026-05-14",
+      "transaction_shares": "3300",
+      "transaction_price": "92.13",
+      "transaction_type": "S",
+      "shares_after_transaction": "22869.79"
+    },
+    {
+      "id": 127,
       "issuer_name": "SEMPRA",
       "reporting_owner": "CONESA ANDRES",
       "reporting_owner_cik": "0001699739",
@@ -18,19 +30,7 @@
       "shares_after_transaction": "24593.49"
     },
     {
-      "id": 228,
-      "issuer_name": "SEMPRA",
-      "reporting_owner": "Ferrero Pablo",
-      "reporting_owner_cik": "0001591955",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-12",
-      "transaction_shares": "1499",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "18599.25"
-    },
-    {
-      "id": 230,
+      "id": 130,
       "issuer_name": "SEMPRA",
       "reporting_owner": "MARK RICHARD J",
       "reporting_owner_cik": "0001190100",
@@ -42,7 +42,19 @@
       "shares_after_transaction": "18913.45"
     },
     {
-      "id": 232,
+      "id": 131,
+      "issuer_name": "SEMPRA",
+      "reporting_owner": "Ferrero Pablo",
+      "reporting_owner_cik": "0001591955",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-12",
+      "transaction_shares": "1499",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18599.25"
+    },
+    {
+      "id": 137,
       "issuer_name": "SEMPRA",
       "reporting_owner": "Weaving Anya",
       "reporting_owner_cik": "0002018187",

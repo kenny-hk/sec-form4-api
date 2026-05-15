@@ -1,11 +1,35 @@
 {
   "ticker": "GLW",
-  "last_updated": "2026-05-14T10:26:00.432331",
+  "last_updated": "2026-05-15T10:32:26.639546",
   "retention_years": 3,
-  "count": 7,
+  "count": 8,
   "transactions": [
     {
-      "id": 66,
+      "id": 51,
+      "issuer_name": "CORNING INC /NY",
+      "reporting_owner": "Verkleeren Ronald L",
+      "reporting_owner_cik": "0001825613",
+      "reporting_owner_position": "SVP Emerging Innovations Group",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "10000",
+      "transaction_price": "207.7708",
+      "transaction_type": "S",
+      "shares_after_transaction": "48143"
+    },
+    {
+      "id": 52,
+      "issuer_name": "CORNING INC /NY",
+      "reporting_owner": "Becker Stefan",
+      "reporting_owner_cik": "0001825967",
+      "reporting_owner_position": "SVP, Finance & Corp Controller",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "126",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "7137"
+    },
+    {
+      "id": 46,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Seetharam Soumya",
       "reporting_owner_cik": "0001955767",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "25570"
     },
     {
-      "id": 70,
+      "id": 47,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "TILLMAN MICHAUNE D",
       "reporting_owner_cik": "0002000296",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "10174"
     },
     {
-      "id": 72,
+      "id": 49,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Zhang John Z",
       "reporting_owner_cik": "0001825618",
@@ -41,19 +65,7 @@
       "shares_after_transaction": "5138"
     },
     {
-      "id": 68,
-      "issuer_name": "CORNING INC /NY",
-      "reporting_owner": "Becker Stefan",
-      "reporting_owner_cik": "0001825967",
-      "reporting_owner_position": "SVP, Finance & Corp Controller",
-      "transaction_date": "2026-05-08",
-      "transaction_shares": "21000",
-      "transaction_price": "188.08",
-      "transaction_type": "S",
-      "shares_after_transaction": "7263"
-    },
-    {
-      "id": 69,
+      "id": 48,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "Gullo Michelle L",
       "reporting_owner_cik": "0002096996",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "37636"
     },
     {
-      "id": 71,
+      "id": 50,
       "issuer_name": "CORNING INC /NY",
       "reporting_owner": "STEVERSON LEWIS A",
       "reporting_owner_cik": "0001508144",
@@ -77,16 +89,16 @@
       "shares_after_transaction": "28152"
     },
     {
-      "id": 67,
+      "id": 53,
       "issuer_name": "CORNING INC /NY",
-      "reporting_owner": "Schlesinger Edward A",
-      "reporting_owner_cik": "0001658538",
-      "reporting_owner_position": "Exec. Vice President and CFO",
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "22562",
-      "transaction_price": "186.076",
+      "reporting_owner": "Becker Stefan",
+      "reporting_owner_cik": "0001825967",
+      "reporting_owner_position": "SVP, Finance & Corp Controller",
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "21000",
+      "transaction_price": "188.08",
       "transaction_type": "S",
-      "shares_after_transaction": "65264"
+      "shares_after_transaction": "7263"
     }
   ]
 }
