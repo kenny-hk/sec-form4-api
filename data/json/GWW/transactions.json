@@ -1,11 +1,23 @@
 {
   "ticker": "GWW",
-  "last_updated": "2026-05-15T10:32:26.639546",
+  "last_updated": "2026-05-16T09:47:43.245763",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 42,
+      "id": 85,
+      "issuer_name": "W.W. GRAINGER, INC.",
+      "reporting_owner": "Thomson Laurie R",
+      "reporting_owner_cik": "0001859197",
+      "reporting_owner_position": "VP, Controller",
+      "transaction_date": "2026-05-12",
+      "transaction_shares": "240",
+      "transaction_price": "1230.82",
+      "transaction_type": "S",
+      "shares_after_transaction": "472"
+    },
+    {
+      "id": 86,
       "issuer_name": "W.W. GRAINGER, INC.",
       "reporting_owner": "Robbins Paige K",
       "reporting_owner_cik": "0001688983",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "3307"
     },
     {
-      "id": 44,
+      "id": 87,
       "issuer_name": "W.W. GRAINGER, INC.",
       "reporting_owner": "LeRoy Jonny M",
       "reporting_owner_cik": "0002043378",
@@ -27,18 +39,6 @@
       "transaction_price": "1229.45",
       "transaction_type": "S",
       "shares_after_transaction": "2058"
-    },
-    {
-      "id": 45,
-      "issuer_name": "W.W. GRAINGER, INC.",
-      "reporting_owner": "Thomson Laurie R",
-      "reporting_owner_cik": "0001859197",
-      "reporting_owner_position": "VP, Controller",
-      "transaction_date": "2026-05-12",
-      "transaction_shares": "240",
-      "transaction_price": "1230.82",
-      "transaction_type": "S",
-      "shares_after_transaction": "472"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "CAT",
-  "last_updated": "2026-05-15T10:32:26.639546",
+  "last_updated": "2026-05-16T09:47:43.245763",
   "retention_years": 3,
-  "count": 6,
+  "count": 7,
   "transactions": [
     {
-      "id": 802,
+      "id": 263,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Johnson Denise C",
+      "reporting_owner_cik": "0001608229",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-05-14",
+      "transaction_shares": "16078",
+      "transaction_price": "196.70",
+      "transaction_type": "M",
+      "shares_after_transaction": "65903"
+    },
+    {
+      "id": 259,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Johnson Denise C",
       "reporting_owner_cik": "0001608229",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "57725"
     },
     {
-      "id": 803,
+      "id": 262,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Schaupp William E",
       "reporting_owner_cik": "0001739758",
@@ -29,19 +41,7 @@
       "shares_after_transaction": "530"
     },
     {
-      "id": 804,
-      "issuer_name": "CATERPILLAR INC",
-      "reporting_owner": "Fassino Anthony D.",
-      "reporting_owner_cik": "0001839757",
-      "reporting_owner_position": "Group President",
-      "transaction_date": "2026-05-11",
-      "transaction_shares": "21403",
-      "transaction_price": "219.76",
-      "transaction_type": "M",
-      "shares_after_transaction": "67444"
-    },
-    {
-      "id": 806,
+      "id": 260,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Pambianchi Christine M",
       "reporting_owner_cik": "0001606707",
@@ -53,7 +53,7 @@
       "shares_after_transaction": "3083"
     },
     {
-      "id": 807,
+      "id": 261,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Creed Joseph E",
       "reporting_owner_cik": "0001739859",
@@ -65,7 +65,19 @@
       "shares_after_transaction": "34507"
     },
     {
-      "id": 805,
+      "id": 264,
+      "issuer_name": "CATERPILLAR INC",
+      "reporting_owner": "Fassino Anthony D.",
+      "reporting_owner_cik": "0001839757",
+      "reporting_owner_position": "Group President",
+      "transaction_date": "2026-05-11",
+      "transaction_shares": "21403",
+      "transaction_price": "219.76",
+      "transaction_type": "M",
+      "shares_after_transaction": "67444"
+    },
+    {
+      "id": 265,
       "issuer_name": "CATERPILLAR INC",
       "reporting_owner": "Epley Kyle Joseph",
       "reporting_owner_cik": "0002131716",

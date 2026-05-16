@@ -1,11 +1,23 @@
 {
   "ticker": "TPL",
-  "last_updated": "2026-05-15T10:32:26.639546",
+  "last_updated": "2026-05-16T09:47:43.245763",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 572,
+      "id": 416,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-14",
+      "transaction_shares": "1",
+      "transaction_price": "385.21",
+      "transaction_type": "P",
+      "shares_after_transaction": "3395612"
+    },
+    {
+      "id": 414,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "3395611"
     },
     {
-      "id": 570,
+      "id": 418,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -29,19 +41,7 @@
       "shares_after_transaction": "3395610"
     },
     {
-      "id": 571,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "DOYLE PETER",
-      "reporting_owner_cik": "0001295022",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-08",
-      "transaction_shares": "254",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "147139"
-    },
-    {
-      "id": 574,
+      "id": 415,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -53,16 +53,16 @@
       "shares_after_transaction": "3395608"
     },
     {
-      "id": 573,
+      "id": 417,
       "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
+      "reporting_owner": "DOYLE PETER",
+      "reporting_owner_cik": "0001295022",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "1",
-      "transaction_price": "401.32",
-      "transaction_type": "P",
-      "shares_after_transaction": "3395607"
+      "transaction_date": "2026-05-08",
+      "transaction_shares": "254",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "147139"
     }
   ]
 }

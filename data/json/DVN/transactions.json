@@ -1,11 +1,23 @@
 {
   "ticker": "DVN",
-  "last_updated": "2026-05-15T10:32:26.639546",
+  "last_updated": "2026-05-16T09:47:43.245763",
   "retention_years": 3,
-  "count": 12,
+  "count": 13,
   "transactions": [
     {
-      "id": 244,
+      "id": 775,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "Vela Adam M",
+      "reporting_owner_cik": "0001944237",
+      "reporting_owner_position": "SVP & GENERAL COUNSEL",
+      "transaction_date": "2026-05-14",
+      "transaction_shares": "24342",
+      "transaction_price": "47.21",
+      "transaction_type": "S",
+      "shares_after_transaction": "130540"
+    },
+    {
+      "id": 766,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Ritenour Jeffrey L",
       "reporting_owner_cik": "0001704328",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "428452"
     },
     {
-      "id": 245,
+      "id": 767,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Brock Amanda M",
       "reporting_owner_cik": "0001714868",
@@ -29,67 +41,7 @@
       "shares_after_transaction": "55734"
     },
     {
-      "id": 246,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "Hernandez Jacinto J",
-      "reporting_owner_cik": "0001937040",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "6801",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "6801"
-    },
-    {
-      "id": 247,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "JORDEN THOMAS E",
-      "reporting_owner_cik": "0001196789",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "2092861",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "2092861"
-    },
-    {
-      "id": 248,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "SIRGO BLAKE A",
-      "reporting_owner_cik": "0001811762",
-      "reporting_owner_position": "EVP, Operations",
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "58497",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "58497"
-    },
-    {
-      "id": 249,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "Conaway Gregory F",
-      "reporting_owner_cik": "0001617609",
-      "reporting_owner_position": "VP, Chief Accounting Officer",
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "18361",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "18361"
-    },
-    {
-      "id": 250,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "Vela Adam M",
-      "reporting_owner_cik": "0001944237",
-      "reporting_owner_position": "SVP, General Counsel",
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "48560",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "48560"
-    },
-    {
-      "id": 251,
+      "id": 768,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Shellebarger Jeffrey Earle",
       "reporting_owner_cik": "0002068515",
@@ -101,19 +53,7 @@
       "shares_after_transaction": "6515"
     },
     {
-      "id": 252,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "WATTS MARCUS A",
-      "reporting_owner_cik": "0001225202",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "55734",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "55734"
-    },
-    {
-      "id": 253,
+      "id": 769,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Alexander Andrea",
       "reporting_owner_cik": "0001888092",
@@ -125,7 +65,55 @@
       "shares_after_transaction": "61829"
     },
     {
-      "id": 254,
+      "id": 770,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "DeShazer Michael D.",
+      "reporting_owner_cik": "0001887203",
+      "reporting_owner_position": "EVP, Exploration & Production",
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "63779",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "63779"
+    },
+    {
+      "id": 771,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "JORDEN THOMAS E",
+      "reporting_owner_cik": "0001196789",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "2092861",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "2092861"
+    },
+    {
+      "id": 773,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "WATTS MARCUS A",
+      "reporting_owner_cik": "0001225202",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "55734",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "55734"
+    },
+    {
+      "id": 774,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "Hernandez Jacinto J",
+      "reporting_owner_cik": "0001937040",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "6801",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "6801"
+    },
+    {
+      "id": 776,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Young, III Shannon E.",
       "reporting_owner_cik": "0001651794",
@@ -137,16 +125,40 @@
       "shares_after_transaction": "129490"
     },
     {
-      "id": 255,
+      "id": 777,
       "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "DeShazer Michael D.",
-      "reporting_owner_cik": "0001887203",
-      "reporting_owner_position": "EVP, Exploration & Production",
+      "reporting_owner": "Vela Adam M",
+      "reporting_owner_cik": "0001944237",
+      "reporting_owner_position": "SVP, General Counsel",
       "transaction_date": "2026-05-07",
-      "transaction_shares": "63779",
+      "transaction_shares": "48560",
       "transaction_price": null,
       "transaction_type": "A",
-      "shares_after_transaction": "63779"
+      "shares_after_transaction": "48560"
+    },
+    {
+      "id": 778,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "SIRGO BLAKE A",
+      "reporting_owner_cik": "0001811762",
+      "reporting_owner_position": "EVP, Operations",
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "58497",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "58497"
+    },
+    {
+      "id": 779,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "Conaway Gregory F",
+      "reporting_owner_cik": "0001617609",
+      "reporting_owner_position": "VP, Chief Accounting Officer",
+      "transaction_date": "2026-05-07",
+      "transaction_shares": "18361",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "18361"
     }
   ]
 }

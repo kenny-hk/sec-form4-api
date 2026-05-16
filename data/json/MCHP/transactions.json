@@ -1,7 +1,32 @@
 {
   "ticker": "MCHP",
-  "last_updated": "2026-05-15T10:32:26.639546",
+  "last_updated": "2026-05-16T09:47:43.245763",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 825,
+      "issuer_name": "MICROCHIP TECHNOLOGY INC",
+      "reporting_owner": "Bunker Mathew B",
+      "reporting_owner_cik": "0002035446",
+      "reporting_owner_position": "SENIOR VP, OPERATIONS",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "10571",
+      "transaction_price": "96.8835",
+      "transaction_type": "S",
+      "shares_after_transaction": "14587"
+    },
+    {
+      "id": 829,
+      "issuer_name": "MICROCHIP TECHNOLOGY INC",
+      "reporting_owner": "Simoncic Richard J",
+      "reporting_owner_cik": "0001181945",
+      "reporting_owner_position": "CHIEF OPERATING OFFICER",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "10000",
+      "transaction_price": "97.546",
+      "transaction_type": "S",
+      "shares_after_transaction": "136127"
+    }
+  ]
 }

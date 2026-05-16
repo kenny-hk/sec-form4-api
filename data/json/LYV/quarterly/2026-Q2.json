@@ -2,32 +2,56 @@
   "ticker": "LYV",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-15T10:32:26.639546",
-  "count": 2,
+  "last_updated": "2026-05-16T09:47:43.245763",
+  "count": 4,
   "transactions": [
     {
-      "id": 809,
+      "id": 350,
+      "issuer_name": "Live Nation Entertainment, Inc.",
+      "reporting_owner": "Berchtold Joe",
+      "reporting_owner_cik": "0001552281",
+      "reporting_owner_position": "President & CFO",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "11643",
+      "transaction_price": "168.46",
+      "transaction_type": "F",
+      "shares_after_transaction": "929054"
+    },
+    {
+      "id": 351,
+      "issuer_name": "Live Nation Entertainment, Inc.",
+      "reporting_owner": "Rapino Michael",
+      "reporting_owner_cik": "0001337041",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "17464",
+      "transaction_price": "168.46",
+      "transaction_type": "F",
+      "shares_after_transaction": "4204418"
+    },
+    {
+      "id": 352,
       "issuer_name": "Live Nation Entertainment, Inc.",
       "reporting_owner": "Rowles Michael",
       "reporting_owner_cik": "0001356771",
       "reporting_owner_position": "EVP & General Counsel",
-      "transaction_date": "2026-05-08",
-      "transaction_shares": "63776",
-      "transaction_price": "29.03",
-      "transaction_type": "M",
-      "shares_after_transaction": "268492"
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "1165",
+      "transaction_price": "168.46",
+      "transaction_type": "F",
+      "shares_after_transaction": "203551"
     },
     {
-      "id": 808,
+      "id": 353,
       "issuer_name": "Live Nation Entertainment, Inc.",
       "reporting_owner": "Hopmans John",
       "reporting_owner_cik": "0001870543",
       "reporting_owner_position": "EVP, M&A and Strategic Finance",
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "3620",
-      "transaction_price": "166.19",
-      "transaction_type": "S",
-      "shares_after_transaction": "194729"
+      "transaction_date": "2026-05-13",
+      "transaction_shares": "4266",
+      "transaction_price": "168.46",
+      "transaction_type": "F",
+      "shares_after_transaction": "184485"
     }
   ]
 }
