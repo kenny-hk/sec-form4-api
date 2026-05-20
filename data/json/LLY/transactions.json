@@ -1,20 +1,56 @@
 {
   "ticker": "LLY",
-  "last_updated": "2026-05-14T10:26:00.432331",
+  "last_updated": "2026-05-20T10:58:49.675456",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 620,
+      "id": 560,
       "issuer_name": "ELI LILLY & Co",
-      "reporting_owner": "LILLY ENDOWMENT INC",
-      "reporting_owner_cik": "0000316011",
+      "reporting_owner": "Sulzberger Gabrielle",
+      "reporting_owner_cik": "0001262388",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-06",
-      "transaction_shares": "13620",
-      "transaction_price": "995.225",
-      "transaction_type": "S",
-      "shares_after_transaction": "91883358"
+      "transaction_date": "2026-05-18",
+      "transaction_shares": "5.018",
+      "transaction_price": "988.09",
+      "transaction_type": "A",
+      "shares_after_transaction": "2986.617"
+    },
+    {
+      "id": 561,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "Alvarez Ralph",
+      "reporting_owner_cik": "0001310215",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-18",
+      "transaction_shares": "12.566",
+      "transaction_price": "988.09",
+      "transaction_type": "A",
+      "shares_after_transaction": "55627.279"
+    },
+    {
+      "id": 562,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "Fyrwald J Erik",
+      "reporting_owner_cik": "0001343564",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-18",
+      "transaction_shares": "10.036",
+      "transaction_price": "988.09",
+      "transaction_type": "A",
+      "shares_after_transaction": "75279.592"
+    },
+    {
+      "id": 563,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "LUCIANO JUAN R",
+      "reporting_owner_cik": "0001455792",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-18",
+      "transaction_shares": "16.109",
+      "transaction_price": "988.09",
+      "transaction_type": "A",
+      "shares_after_transaction": "16850.832"
     }
   ]
 }

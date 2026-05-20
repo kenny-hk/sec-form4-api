@@ -1,7 +1,68 @@
 {
   "ticker": "UBER",
-  "last_updated": "2026-05-19T11:25:34.574707",
+  "last_updated": "2026-05-20T10:58:49.675456",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 5,
+  "transactions": [
+    {
+      "id": 502,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "Hazelbaker Jill",
+      "reporting_owner_cik": "0001775297",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-05-16",
+      "transaction_shares": "1416.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "160564.00"
+    },
+    {
+      "id": 504,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "West Tony",
+      "reporting_owner_cik": "0001626201",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-05-16",
+      "transaction_shares": "1511.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "241580.00"
+    },
+    {
+      "id": 505,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "Macdonald Andrew",
+      "reporting_owner_cik": "0002071761",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-05-16",
+      "transaction_shares": "1133.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "339520.00"
+    },
+    {
+      "id": 506,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "Ceremony Glen",
+      "reporting_owner_cik": "0001525321",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-05-16",
+      "transaction_shares": "708.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "256442.00"
+    },
+    {
+      "id": 507,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "Krishnamurthy Balaji (A)",
+      "reporting_owner_cik": "0002111867",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-05-16",
+      "transaction_shares": "567.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "33104.00"
+    }
+  ]
 }

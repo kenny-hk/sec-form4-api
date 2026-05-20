@@ -2,11 +2,23 @@
   "ticker": "DVN",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-19T11:25:34.574707",
+  "last_updated": "2026-05-20T10:58:49.675456",
   "count": 2,
   "transactions": [
     {
-      "id": 769,
+      "id": 751,
+      "issuer_name": "DEVON ENERGY CORP/DE",
+      "reporting_owner": "JORDEN THOMAS E",
+      "reporting_owner_cik": "0001196789",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-15",
+      "transaction_shares": "52806",
+      "transaction_price": "49.49",
+      "transaction_type": "F",
+      "shares_after_transaction": "468042"
+    },
+    {
+      "id": 753,
       "issuer_name": "DEVON ENERGY CORP/DE",
       "reporting_owner": "Vela Adam M",
       "reporting_owner_cik": "0001944237",
@@ -16,18 +28,6 @@
       "transaction_price": "47.21",
       "transaction_type": "S",
       "shares_after_transaction": "130540"
-    },
-    {
-      "id": 767,
-      "issuer_name": "DEVON ENERGY CORP/DE",
-      "reporting_owner": "Ritenour Jeffrey L",
-      "reporting_owner_cik": "0001704328",
-      "reporting_owner_position": "EVP & CHIEF CORP DEV OFFICER",
-      "transaction_date": "2026-05-11",
-      "transaction_shares": "70029",
-      "transaction_price": "46.66",
-      "transaction_type": "S",
-      "shares_after_transaction": "428452"
     }
   ]
 }
