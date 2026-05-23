@@ -2,11 +2,23 @@
   "ticker": "FTNT",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-22T10:59:52.541755",
+  "last_updated": "2026-05-23T10:02:09.303774",
   "count": 4,
   "transactions": [
     {
-      "id": 537,
+      "id": 564,
+      "issuer_name": "Fortinet, Inc.",
+      "reporting_owner": "Whittle John",
+      "reporting_owner_cik": "0001476336",
+      "reporting_owner_position": "CHIEF OPERATING OFFICER",
+      "transaction_date": "2026-05-21",
+      "transaction_shares": "89000",
+      "transaction_price": "34.386",
+      "transaction_type": "M",
+      "shares_after_transaction": "183724"
+    },
+    {
+      "id": 565,
       "issuer_name": "Fortinet, Inc.",
       "reporting_owner": "Ohlgart Christiane",
       "reporting_owner_cik": "0002016813",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8824"
     },
     {
-      "id": 535,
+      "id": 562,
       "issuer_name": "Fortinet, Inc.",
       "reporting_owner": "GOLDMAN KENNETH A",
       "reporting_owner_cik": "0001218470",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "19250"
     },
     {
-      "id": 536,
+      "id": 563,
       "issuer_name": "Fortinet, Inc.",
       "reporting_owner": "Xie Michael",
       "reporting_owner_cik": "0001475586",
@@ -40,18 +52,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "4646144"
-    },
-    {
-      "id": 534,
-      "issuer_name": "Fortinet, Inc.",
-      "reporting_owner": "Ohlgart Christiane",
-      "reporting_owner_cik": "0002016813",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "756",
-      "transaction_price": "120",
-      "transaction_type": "S",
-      "shares_after_transaction": "9062"
     }
   ]
 }

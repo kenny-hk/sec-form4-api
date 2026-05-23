@@ -1,11 +1,23 @@
 {
   "ticker": "CVS",
-  "last_updated": "2026-05-22T10:59:52.541755",
+  "last_updated": "2026-05-23T10:02:09.303774",
   "retention_years": 3,
-  "count": 7,
+  "count": 2,
   "transactions": [
     {
-      "id": 490,
+      "id": 519,
+      "issuer_name": "CVS HEALTH Corp",
+      "reporting_owner": "AGUIRRE FERNANDO",
+      "reporting_owner_cik": "0001224983",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-20",
+      "transaction_shares": "30437",
+      "transaction_price": "93.775",
+      "transaction_type": "D",
+      "shares_after_transaction": "12076"
+    },
+    {
+      "id": 520,
       "issuer_name": "CVS HEALTH Corp",
       "reporting_owner": "ROBBINS LARRY",
       "reporting_owner_cik": "0001228603",
@@ -15,78 +27,6 @@
       "transaction_price": "94.448",
       "transaction_type": "S",
       "shares_after_transaction": "6213412"
-    },
-    {
-      "id": 483,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "AGUIRRE FERNANDO",
-      "reporting_owner_cik": "0001224983",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1563",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "42513"
-    },
-    {
-      "id": 484,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "KIRBY J SCOTT",
-      "reporting_owner_cik": "0001249555",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1447",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "14434"
-    },
-    {
-      "id": 486,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "BROWN C DAVID II",
-      "reporting_owner_cik": "0001197672",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1544",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "129316"
-    },
-    {
-      "id": 489,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "Norwalk Leslie V",
-      "reporting_owner_cik": "0001533568",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1447",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "7376"
-    },
-    {
-      "id": 494,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "SANSONE GUY P",
-      "reporting_owner_cik": "0001301446",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1447",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "15106.355"
-    },
-    {
-      "id": 495,
-      "issuer_name": "CVS HEALTH Corp",
-      "reporting_owner": "Balser Jeffrey R.",
-      "reporting_owner_cik": "0001751633",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "2058",
-      "transaction_price": "97.15",
-      "transaction_type": "A",
-      "shares_after_transaction": "15717"
     }
   ]
 }

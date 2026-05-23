@@ -2,11 +2,35 @@
   "ticker": "XYZ",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-22T10:59:52.541755",
-  "count": 1,
+  "last_updated": "2026-05-23T10:02:09.303774",
+  "count": 5,
   "transactions": [
     {
-      "id": 1008,
+      "id": 1039,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Ahuja Amrita",
+      "reporting_owner_cik": "0001765417",
+      "reporting_owner_position": "CFO & COO",
+      "transaction_date": "2026-05-20",
+      "transaction_shares": "18401",
+      "transaction_price": "70.89",
+      "transaction_type": "F",
+      "shares_after_transaction": "482415"
+    },
+    {
+      "id": 1040,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Weber Arnaud",
+      "reporting_owner_cik": "0002087197",
+      "reporting_owner_position": "Engineering Lead",
+      "transaction_date": "2026-05-20",
+      "transaction_shares": "14005",
+      "transaction_price": "70.89",
+      "transaction_type": "F",
+      "shares_after_transaction": "526156"
+    },
+    {
+      "id": 1036,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Jennings Owen Britton",
       "reporting_owner_cik": "0002047775",
@@ -16,6 +40,30 @@
       "transaction_price": "48.46",
       "transaction_type": "A",
       "shares_after_transaction": "499256"
+    },
+    {
+      "id": 1037,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Esperanza Chrysty",
+      "reporting_owner_cik": "0001965569",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-05-15",
+      "transaction_shares": "439",
+      "transaction_price": "48.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "268608"
+    },
+    {
+      "id": 1038,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Grassadonia Brian",
+      "reporting_owner_cik": "0001803649",
+      "reporting_owner_position": "Ecosystem Lead",
+      "transaction_date": "2026-05-15",
+      "transaction_shares": "438",
+      "transaction_price": "48.46",
+      "transaction_type": "A",
+      "shares_after_transaction": "618770"
     }
   ]
 }
