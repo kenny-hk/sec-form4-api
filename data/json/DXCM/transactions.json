@@ -1,20 +1,80 @@
 {
   "ticker": "DXCM",
-  "last_updated": "2026-05-25T12:00:02.483608",
+  "last_updated": "2026-05-28T11:45:13.874534",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 979,
+      "id": 186,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Leach Jacob Steven",
+      "reporting_owner_cik": "0001700255",
+      "reporting_owner_position": "President, CEO, and Director",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "1451",
+      "transaction_price": "71.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "420359"
+    },
+    {
+      "id": 188,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Coleman Jon",
+      "reporting_owner_cik": "0001442689",
+      "reporting_owner_position": "EVP, Chief Commercial Officer",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "7362",
+      "transaction_price": "71.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "105273"
+    },
+    {
+      "id": 189,
       "issuer_name": "DEXCOM INC",
       "reporting_owner": "Brown Michael Jon",
       "reporting_owner_cik": "0001899922",
-      "reporting_owner_position": "EVP, Chief Legal Officer",
-      "transaction_date": "2026-05-15",
-      "transaction_shares": "1700",
-      "transaction_price": "59.91",
+      "reporting_owner_position": "EVP Chief Legal Compliance Off",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "1451",
+      "transaction_price": "71.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "108053"
+    },
+    {
+      "id": 190,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Sylvain Jereme M",
+      "reporting_owner_cik": "0001681267",
+      "reporting_owner_position": "EVP, Chief Financal Officer",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "1451",
+      "transaction_price": "71.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "151841"
+    },
+    {
+      "id": 191,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "Stern Sadie",
+      "reporting_owner_cik": "0001797971",
+      "reporting_owner_position": "EVP Chief People & Culture Off",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "1451",
+      "transaction_price": "71.90",
+      "transaction_type": "F",
+      "shares_after_transaction": "130059"
+    },
+    {
+      "id": 187,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "SAYER KEVIN R",
+      "reporting_owner_cik": "0001286858",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2026-05-21",
+      "transaction_shares": "26759",
+      "transaction_price": "72",
       "transaction_type": "S",
-      "shares_after_transaction": "109504"
+      "shares_after_transaction": "382482"
     }
   ]
 }

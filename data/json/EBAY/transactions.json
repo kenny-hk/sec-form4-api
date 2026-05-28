@@ -1,11 +1,23 @@
 {
   "ticker": "EBAY",
-  "last_updated": "2026-05-25T12:00:02.483608",
+  "last_updated": "2026-05-28T11:45:13.874534",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 200,
+      "id": 354,
+      "issuer_name": "EBAY INC",
+      "reporting_owner": "Rawashdeh Mazen",
+      "reporting_owner_cik": "0001754322",
+      "reporting_owner_position": "SVP, Chief Technology Officer",
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "50000",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "79217"
+    },
+    {
+      "id": 353,
       "issuer_name": "EBAY INC",
       "reporting_owner": "IANNONE JAMIE",
       "reporting_owner_cik": "0001495849",
@@ -15,30 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "76328"
-    },
-    {
-      "id": 198,
-      "issuer_name": "EBAY INC",
-      "reporting_owner": "Sweetnam Jordan Douglas Bradley",
-      "reporting_owner_cik": "0002067199",
-      "reporting_owner_position": "SVP, Chief Commercial Officer",
-      "transaction_date": "2026-05-15",
-      "transaction_shares": "4322",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "35459"
-    },
-    {
-      "id": 199,
-      "issuer_name": "EBAY INC",
-      "reporting_owner": "WELLINGTON SAMANTHA",
-      "reporting_owner_cik": "0001759942",
-      "reporting_owner_position": "SVP, Chief Legal Officer",
-      "transaction_date": "2026-05-15",
-      "transaction_shares": "1835",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "14676"
     }
   ]
 }

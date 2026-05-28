@@ -2,23 +2,23 @@
   "ticker": "WMT",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-25T12:00:02.483608",
+  "last_updated": "2026-05-28T11:45:13.874534",
   "count": 4,
   "transactions": [
     {
-      "id": 521,
+      "id": 423,
       "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Furner John R.",
-      "reporting_owner_cik": "0001696737",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2026-05-21",
-      "transaction_shares": "12100",
-      "transaction_price": "124.01",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-22",
+      "transaction_shares": "638881",
+      "transaction_price": "119.6579",
       "transaction_type": "S",
-      "shares_after_transaction": "662062.405"
+      "shares_after_transaction": "512885575"
     },
     {
-      "id": 523,
+      "id": 425,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Nicholas Christopher James",
       "reporting_owner_cik": "0001992808",
@@ -30,7 +30,19 @@
       "shares_after_transaction": "577853.269"
     },
     {
-      "id": 522,
+      "id": 426,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Furner John R.",
+      "reporting_owner_cik": "0001696737",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-05-21",
+      "transaction_shares": "12100",
+      "transaction_price": "124.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "662062.405"
+    },
+    {
+      "id": 424,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Nicholas Christopher James",
       "reporting_owner_cik": "0001992808",
@@ -40,18 +52,6 @@
       "transaction_price": "133.34",
       "transaction_type": "F",
       "shares_after_transaction": "580753.269"
-    },
-    {
-      "id": 524,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Bartlett Daniel J",
-      "reporting_owner_cik": "0001579299",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2026-05-15",
-      "transaction_shares": "1250",
-      "transaction_price": "133.77",
-      "transaction_type": "S",
-      "shares_after_transaction": "635592.533"
     }
   ]
 }
