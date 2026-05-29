@@ -1,11 +1,35 @@
 {
   "ticker": "GM",
-  "last_updated": "2026-05-28T11:45:13.874534",
+  "last_updated": "2026-05-29T11:36:52.258837",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 128,
+      "id": 121,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Jacobson Paul A",
+      "reporting_owner_cik": "0001543655",
+      "reporting_owner_position": "Executive Vice President & CFO",
+      "transaction_date": "2026-05-26",
+      "transaction_shares": "40000",
+      "transaction_price": "80",
+      "transaction_type": "S",
+      "shares_after_transaction": "425675"
+    },
+    {
+      "id": 123,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Barra Mary T",
+      "reporting_owner_cik": "0001492154",
+      "reporting_owner_position": "Chair & CEO",
+      "transaction_date": "2026-05-26",
+      "transaction_shares": "91843",
+      "transaction_price": "41.40",
+      "transaction_type": "M",
+      "shares_after_transaction": "867659"
+    },
+    {
+      "id": 122,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Harvey Rory",
       "reporting_owner_cik": "0001976795",
