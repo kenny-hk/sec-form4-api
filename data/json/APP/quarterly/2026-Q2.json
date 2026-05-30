@@ -2,11 +2,23 @@
   "ticker": "APP",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-29T11:36:52.258837",
-  "count": 8,
+  "last_updated": "2026-05-30T10:06:18.423101",
+  "count": 4,
   "transactions": [
     {
-      "id": 409,
+      "id": 338,
+      "issuer_name": "AppLovin Corp",
+      "reporting_owner": "Stumpf Matthew",
+      "reporting_owner_cik": "0002003065",
+      "reporting_owner_position": "Chief Financial Officer (CFO)",
+      "transaction_date": "2026-05-28",
+      "transaction_shares": "9052.00",
+      "transaction_price": "600.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "177450.00"
+    },
+    {
+      "id": 335,
       "issuer_name": "AppLovin Corp",
       "reporting_owner": "Shikin Vasily",
       "reporting_owner_cik": "0001847757",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "19892.00"
     },
     {
-      "id": 411,
+      "id": 336,
       "issuer_name": "AppLovin Corp",
       "reporting_owner": "Shikin Vasily",
       "reporting_owner_cik": "0001847757",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "3251955.00"
     },
     {
-      "id": 414,
+      "id": 337,
       "issuer_name": "AppLovin Corp",
       "reporting_owner": "Shikin Vasily",
       "reporting_owner_cik": "0001847757",
@@ -40,66 +52,6 @@
       "transaction_price": "490.71",
       "transaction_type": "S",
       "shares_after_transaction": "18419.00"
-    },
-    {
-      "id": 410,
-      "issuer_name": "AppLovin Corp",
-      "reporting_owner": "Foroughi Arash Adam",
-      "reporting_owner_cik": "0001848395",
-      "reporting_owner_position": "CEO",
-      "transaction_date": "2026-05-20",
-      "transaction_shares": "2730.00",
-      "transaction_price": "482.28",
-      "transaction_type": "F",
-      "shares_after_transaction": "2427684.00"
-    },
-    {
-      "id": 412,
-      "issuer_name": "AppLovin Corp",
-      "reporting_owner": "Valenzuela Victoria",
-      "reporting_owner_cik": "0001846998",
-      "reporting_owner_position": "CALO & Corp. Secretary",
-      "transaction_date": "2026-05-20",
-      "transaction_shares": "2730.00",
-      "transaction_price": "482.28",
-      "transaction_type": "F",
-      "shares_after_transaction": "263961.00"
-    },
-    {
-      "id": 413,
-      "issuer_name": "AppLovin Corp",
-      "reporting_owner": "Shikin Vasily",
-      "reporting_owner_cik": "0001847757",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2026-05-20",
-      "transaction_shares": "2730.00",
-      "transaction_price": "482.28",
-      "transaction_type": "F",
-      "shares_after_transaction": "3252543.00"
-    },
-    {
-      "id": 415,
-      "issuer_name": "AppLovin Corp",
-      "reporting_owner": "Dorosh Dmitriy",
-      "reporting_owner_cik": "0002002962",
-      "reporting_owner_position": "Principal Accounting Officer",
-      "transaction_date": "2026-05-20",
-      "transaction_shares": "331.00",
-      "transaction_price": "482.28",
-      "transaction_type": "F",
-      "shares_after_transaction": "111213.00"
-    },
-    {
-      "id": 416,
-      "issuer_name": "AppLovin Corp",
-      "reporting_owner": "Stumpf Matthew",
-      "reporting_owner_cik": "0002003065",
-      "reporting_owner_position": "Chief Financial Officer (CFO)",
-      "transaction_date": "2026-05-20",
-      "transaction_shares": "2341.00",
-      "transaction_price": "482.28",
-      "transaction_type": "F",
-      "shares_after_transaction": "186502.00"
     }
   ]
 }

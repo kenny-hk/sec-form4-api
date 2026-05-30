@@ -1,11 +1,23 @@
 {
   "ticker": "EW",
-  "last_updated": "2026-05-29T11:36:52.258837",
+  "last_updated": "2026-05-30T10:06:18.423101",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 439,
+      "id": 352,
+      "issuer_name": "Edwards Lifesciences Corp",
+      "reporting_owner": "Dahl Andrew M.",
+      "reporting_owner_cik": "0002022347",
+      "reporting_owner_position": "SVP, Corporate Controller",
+      "transaction_date": "2026-05-29",
+      "transaction_shares": "567.5266",
+      "transaction_price": "86.0800",
+      "transaction_type": "S",
+      "shares_after_transaction": "15334.0948"
+    },
+    {
+      "id": 353,
       "issuer_name": "Edwards Lifesciences Corp",
       "reporting_owner": "BOBO DONALD E JR",
       "reporting_owner_cik": "0001196661",
@@ -15,18 +27,6 @@
       "transaction_price": "86.4201",
       "transaction_type": "S",
       "shares_after_transaction": "98611.0000"
-    },
-    {
-      "id": 438,
-      "issuer_name": "Edwards Lifesciences Corp",
-      "reporting_owner": "Chopra Daveen",
-      "reporting_owner_cik": "0001740963",
-      "reporting_owner_position": "CVP, TMTT & Surgical",
-      "transaction_date": "2026-05-22",
-      "transaction_shares": "1500.0000",
-      "transaction_price": "84.6035",
-      "transaction_type": "S",
-      "shares_after_transaction": "44324.0000"
     }
   ]
 }

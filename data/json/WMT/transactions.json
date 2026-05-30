@@ -1,11 +1,59 @@
 {
   "ticker": "WMT",
-  "last_updated": "2026-05-29T11:36:52.258837",
+  "last_updated": "2026-05-30T10:06:18.423101",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 400,
+      "id": 331,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Bartlett Daniel J",
+      "reporting_owner_cik": "0001579299",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-05-29",
+      "transaction_shares": "424",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "635168.533"
+    },
+    {
+      "id": 329,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "McMillon C Douglas",
+      "reporting_owner_cik": "0001335782",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-28",
+      "transaction_shares": "19416",
+      "transaction_price": "118.6265",
+      "transaction_type": "S",
+      "shares_after_transaction": "4174578.707"
+    },
+    {
+      "id": 332,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Watkins Latriece",
+      "reporting_owner_cik": "0001886367",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-05-28",
+      "transaction_shares": "11000",
+      "transaction_price": "118.97",
+      "transaction_type": "S",
+      "shares_after_transaction": "120203.366"
+    },
+    {
+      "id": 333,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-27",
+      "transaction_shares": "254178",
+      "transaction_price": "119.054",
+      "transaction_type": "S",
+      "shares_after_transaction": "509595438"
+    },
+    {
+      "id": 330,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Walton Family Holdings Trust",
       "reporting_owner_cik": "0001678632",
@@ -15,30 +63,6 @@
       "transaction_price": "119.6579",
       "transaction_type": "S",
       "shares_after_transaction": "512885575"
-    },
-    {
-      "id": 401,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Nicholas Christopher James",
-      "reporting_owner_cik": "0001992808",
-      "reporting_owner_position": "Executive Vice President",
-      "transaction_date": "2026-05-21",
-      "transaction_shares": "2900",
-      "transaction_price": "123.92",
-      "transaction_type": "S",
-      "shares_after_transaction": "577853.269"
-    },
-    {
-      "id": 402,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Furner John R.",
-      "reporting_owner_cik": "0001696737",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2026-05-21",
-      "transaction_shares": "12100",
-      "transaction_price": "124.01",
-      "transaction_type": "S",
-      "shares_after_transaction": "662062.405"
     }
   ]
 }
