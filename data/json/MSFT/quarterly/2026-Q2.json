@@ -2,20 +2,32 @@
   "ticker": "MSFT",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-25T12:00:02.483608",
-  "count": 1,
+  "last_updated": "2026-06-02T12:10:03.065992",
+  "count": 2,
   "transactions": [
     {
-      "id": 568,
+      "id": 503,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Jolla Alice L.",
+      "reporting_owner_cik": "0001819285",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "412.578",
+      "transaction_price": "450.24",
+      "transaction_type": "F",
+      "shares_after_transaction": "71148.6646"
+    },
+    {
+      "id": 504,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Coleman Amy",
       "reporting_owner_cik": "0002062356",
       "reporting_owner_position": "EVP, Chief Human Resources Off",
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "1262.312",
-      "transaction_price": "411.342",
-      "transaction_type": "S",
-      "shares_after_transaction": "46003.3801"
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "433.827",
+      "transaction_price": "450.24",
+      "transaction_type": "F",
+      "shares_after_transaction": "45480.9081"
     }
   ]
 }

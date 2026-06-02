@@ -1,7 +1,20 @@
 {
   "ticker": "HOOD",
-  "last_updated": "2026-06-01T13:42:15.170425",
+  "last_updated": "2026-06-02T12:10:03.065992",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 283,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Malka Meyer",
+      "reporting_owner_cik": "0001571355",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-05-28",
+      "transaction_shares": "249000",
+      "transaction_price": "80.3944",
+      "transaction_type": "P",
+      "shares_after_transaction": "3493427"
+    }
+  ]
 }
