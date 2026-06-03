@@ -2,20 +2,32 @@
   "ticker": "INTC",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-18T11:51:12.632280",
-  "count": 1,
+  "last_updated": "2026-06-03T12:47:52.871501",
+  "count": 2,
   "transactions": [
     {
-      "id": 883,
+      "id": 507,
       "issuer_name": "INTEL CORP",
-      "reporting_owner": "Goldsmith Andrea Jo",
-      "reporting_owner_cik": "0001730514",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-07",
-      "transaction_shares": "12552",
+      "reporting_owner": "Zinsner David",
+      "reporting_owner_cik": "0001330891",
+      "reporting_owner_position": "EVP, CFO",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "37015",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "34728"
+      "shares_after_transaction": "401933"
+    },
+    {
+      "id": 505,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Chandrasekaran Nagasubramaniyan",
+      "reporting_owner_cik": "0002082075",
+      "reporting_owner_position": "EVP, CT & Ops Off, GM Foundry",
+      "transaction_date": "2026-05-29",
+      "transaction_shares": "21024",
+      "transaction_price": "118.279",
+      "transaction_type": "S",
+      "shares_after_transaction": "205852"
     }
   ]
 }

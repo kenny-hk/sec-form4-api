@@ -2,20 +2,56 @@
   "ticker": "STX",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-05-28T11:45:13.874534",
-  "count": 1,
+  "last_updated": "2026-06-03T12:47:52.871501",
+  "count": 4,
   "transactions": [
     {
-      "id": 495,
+      "id": 486,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "BHATT PRAT",
+      "reporting_owner_cik": "0001469167",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-02",
+      "transaction_shares": "1000",
+      "transaction_price": "929.88",
+      "transaction_type": "S",
+      "shares_after_transaction": "12869"
+    },
+    {
+      "id": 487,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Conyers Yolanda Lee",
+      "reporting_owner_cik": "0001906375",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "750",
+      "transaction_price": "885.33",
+      "transaction_type": "S",
+      "shares_after_transaction": "4101"
+    },
+    {
+      "id": 488,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "MOSLEY WILLIAM D",
       "reporting_owner_cik": "0001388390",
       "reporting_owner_position": "CEO",
-      "transaction_date": "2026-05-20",
+      "transaction_date": "2026-06-01",
       "transaction_shares": "14000",
       "transaction_price": "46.23",
       "transaction_type": "M",
-      "shares_after_transaction": "369591"
+      "shares_after_transaction": "353591"
+    },
+    {
+      "id": 489,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "MOSLEY WILLIAM D",
+      "reporting_owner_cik": "0001388390",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "320",
+      "transaction_price": "916.775",
+      "transaction_type": "S",
+      "shares_after_transaction": "337051"
     }
   ]
 }

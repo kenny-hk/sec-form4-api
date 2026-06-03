@@ -1,11 +1,35 @@
 {
   "ticker": "PANW",
-  "last_updated": "2026-06-02T12:10:03.065992",
+  "last_updated": "2026-06-03T12:47:52.871501",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 84,
+      "id": 97,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Thorning-Schmidt Helle",
+      "reporting_owner_cik": "0002055370",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "211",
+      "transaction_price": "281.69",
+      "transaction_type": "F",
+      "shares_after_transaction": "6598"
+    },
+    {
+      "id": 99,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Paul Josh D.",
+      "reporting_owner_cik": "0001882285",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "1100",
+      "transaction_price": "285.08",
+      "transaction_type": "S",
+      "shares_after_transaction": "81636"
+    },
+    {
+      "id": 98,
       "issuer_name": "Palo Alto Networks Inc",
       "reporting_owner": "Klarich Lee",
       "reporting_owner_cik": "0001682260",

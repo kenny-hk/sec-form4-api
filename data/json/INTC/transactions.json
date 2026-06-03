@@ -1,7 +1,32 @@
 {
   "ticker": "INTC",
-  "last_updated": "2026-05-22T10:59:52.541755",
+  "last_updated": "2026-06-03T12:47:52.871501",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 507,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Zinsner David",
+      "reporting_owner_cik": "0001330891",
+      "reporting_owner_position": "EVP, CFO",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "37015",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "401933"
+    },
+    {
+      "id": 505,
+      "issuer_name": "INTEL CORP",
+      "reporting_owner": "Chandrasekaran Nagasubramaniyan",
+      "reporting_owner_cik": "0002082075",
+      "reporting_owner_position": "EVP, CT & Ops Off, GM Foundry",
+      "transaction_date": "2026-05-29",
+      "transaction_shares": "21024",
+      "transaction_price": "118.279",
+      "transaction_type": "S",
+      "shares_after_transaction": "205852"
+    }
+  ]
 }

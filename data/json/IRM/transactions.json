@@ -1,20 +1,32 @@
 {
   "ticker": "IRM",
-  "last_updated": "2026-06-02T12:10:03.065992",
+  "last_updated": "2026-06-03T12:47:52.871501",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 210,
+      "id": 229,
       "issuer_name": "IRON MOUNTAIN INC",
-      "reporting_owner": "Borges Daniel",
-      "reporting_owner_cik": "0001720656",
-      "reporting_owner_position": "SVP & Chief Accounting Officer",
-      "transaction_date": "2026-05-21",
-      "transaction_shares": "7189",
-      "transaction_price": "125.50",
+      "reporting_owner": "Kidd Mark",
+      "reporting_owner_cik": "0001732058",
+      "reporting_owner_position": "EVP, GM Data Centers & ALM",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "6000",
+      "transaction_price": "126.70",
       "transaction_type": "S",
-      "shares_after_transaction": "0"
+      "shares_after_transaction": "113507"
+    },
+    {
+      "id": 230,
+      "issuer_name": "IRON MOUNTAIN INC",
+      "reporting_owner": "Meaney William L",
+      "reporting_owner_cik": "0001566391",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "38474",
+      "transaction_price": "37",
+      "transaction_type": "M",
+      "shares_after_transaction": "38474"
     }
   ]
 }

@@ -1,11 +1,47 @@
 {
   "ticker": "AJG",
-  "last_updated": "2026-06-02T12:10:03.065992",
+  "last_updated": "2026-06-03T12:47:52.871501",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 405,
+      "id": 453,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "CARY RICHARD C",
+      "reporting_owner_cik": "0001185998",
+      "reporting_owner_position": "Controller, CAO",
+      "transaction_date": "2026-06-02",
+      "transaction_shares": "3000",
+      "transaction_price": "206.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "47819.487"
+    },
+    {
+      "id": 450,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "JOHNSON DAVID S",
+      "reporting_owner_cik": "0001192476",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "236.536",
+      "transaction_price": "206.10",
+      "transaction_type": "A",
+      "shares_after_transaction": "47386.554"
+    },
+    {
+      "id": 451,
+      "issuer_name": "Arthur J. Gallagher & Co.",
+      "reporting_owner": "Miskel Christopher C.",
+      "reporting_owner_cik": "0001804681",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "194.081",
+      "transaction_price": "206.10",
+      "transaction_type": "A",
+      "shares_after_transaction": "10641.773"
+    },
+    {
+      "id": 452,
       "issuer_name": "Arthur J. Gallagher & Co.",
       "reporting_owner": "GALLAGHER J PATRICK JR",
       "reporting_owner_cik": "0001186006",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "109416.9637"
     },
     {
-      "id": 406,
+      "id": 454,
       "issuer_name": "Arthur J. Gallagher & Co.",
       "reporting_owner": "Gallagher Patrick Murphy",
       "reporting_owner_cik": "0001929606",
