@@ -1,20 +1,56 @@
 {
   "ticker": "EQIX",
-  "last_updated": "2026-06-02T12:10:03.065992",
+  "last_updated": "2026-06-04T11:22:43.835145",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 36,
+      "id": 44,
       "issuer_name": "EQUINIX INC",
       "reporting_owner": "Abdel Raouf",
       "reporting_owner_cik": "0001396719",
       "reporting_owner_position": "EVP, Global Operations",
-      "transaction_date": "2026-05-22",
-      "transaction_shares": "2040",
-      "transaction_price": "1083.47",
-      "transaction_type": "S",
-      "shares_after_transaction": "5728.409"
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "364",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "6092.409"
+    },
+    {
+      "id": 45,
+      "issuer_name": "EQUINIX INC",
+      "reporting_owner": "Fox-Martin Adaire",
+      "reporting_owner_cik": "0001795624",
+      "reporting_owner_position": "CEO and President",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "5645",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "25218.661"
+    },
+    {
+      "id": 46,
+      "issuer_name": "EQUINIX INC",
+      "reporting_owner": "Lin Jonathan",
+      "reporting_owner_cik": "0001901777",
+      "reporting_owner_position": "Chief Business Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "273",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "11060.847"
+    },
+    {
+      "id": 47,
+      "issuer_name": "EQUINIX INC",
+      "reporting_owner": "Pletcher Kurt",
+      "reporting_owner_cik": "0002039256",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "182",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "4290.955"
     }
   ]
 }

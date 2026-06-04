@@ -1,11 +1,23 @@
 {
   "ticker": "BDX",
-  "last_updated": "2026-06-03T12:47:52.871501",
+  "last_updated": "2026-06-04T11:22:43.835145",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 217,
+      "id": 207,
+      "issuer_name": "BECTON DICKINSON & CO",
+      "reporting_owner": "Polen Thomas E Jr",
+      "reporting_owner_cik": "0001621793",
+      "reporting_owner_position": "Chairman, CEO and President",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "20209",
+      "transaction_price": "126.16",
+      "transaction_type": "M",
+      "shares_after_transaction": "125680"
+    },
+    {
+      "id": 208,
       "issuer_name": "BECTON DICKINSON & CO",
       "reporting_owner": "Menziuso Peter",
       "reporting_owner_cik": "0002135899",
@@ -15,18 +27,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "14258"
-    },
-    {
-      "id": 216,
-      "issuer_name": "BECTON DICKINSON & CO",
-      "reporting_owner": "Feld Michael",
-      "reporting_owner_cik": "0002034349",
-      "reporting_owner_position": "EVP, Chief Revenue Officer",
-      "transaction_date": "2026-05-26",
-      "transaction_shares": "75",
-      "transaction_price": "147.35",
-      "transaction_type": "S",
-      "shares_after_transaction": "21084"
     }
   ]
 }

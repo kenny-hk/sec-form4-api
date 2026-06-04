@@ -1,11 +1,23 @@
 {
   "ticker": "MPWR",
-  "last_updated": "2026-06-03T12:47:52.871501",
+  "last_updated": "2026-06-04T11:22:43.835145",
   "retention_years": 3,
-  "count": 5,
+  "count": 4,
   "transactions": [
     {
-      "id": 149,
+      "id": 160,
+      "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
+      "reporting_owner": "Sciammas Maurice",
+      "reporting_owner_cik": "0001360833",
+      "reporting_owner_position": "EVP, WW Sales & Marketing",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "30",
+      "transaction_price": "1533.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "1179"
+    },
+    {
+      "id": 159,
       "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
       "reporting_owner": "Sciammas Maurice",
       "reporting_owner_cik": "0001360833",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "12625"
     },
     {
-      "id": 147,
+      "id": 158,
       "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
       "reporting_owner": "Tseng Saria",
       "reporting_owner_cik": "0001312593",
@@ -29,19 +41,7 @@
       "shares_after_transaction": "144218"
     },
     {
-      "id": 148,
-      "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
-      "reporting_owner": "Zhou Jeff",
-      "reporting_owner_cik": "0001480772",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-26",
-      "transaction_shares": "486",
-      "transaction_price": "1680",
-      "transaction_type": "S",
-      "shares_after_transaction": "3800"
-    },
-    {
-      "id": 151,
+      "id": 161,
       "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
       "reporting_owner": "DEAN ROBERT W II",
       "reporting_owner_cik": "0001445300",
@@ -51,18 +51,6 @@
       "transaction_price": "1649.56",
       "transaction_type": "S",
       "shares_after_transaction": "5878"
-    },
-    {
-      "id": 150,
-      "issuer_name": "MONOLITHIC POWER SYSTEMS INC",
-      "reporting_owner": "Tseng Saria",
-      "reporting_owner_cik": "0001312593",
-      "reporting_owner_position": "EVP & General Counsel",
-      "transaction_date": "2026-05-22",
-      "transaction_shares": "200",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "156783"
     }
   ]
 }

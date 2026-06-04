@@ -2,11 +2,23 @@
   "ticker": "ADI",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-03T12:47:52.871501",
+  "last_updated": "2026-06-04T11:22:43.835145",
   "count": 2,
   "transactions": [
     {
-      "id": 721,
+      "id": 836,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "Cotter Martin",
+      "reporting_owner_cik": "0001685760",
+      "reporting_owner_position": "SVP, Vertical Business Units",
+      "transaction_date": "2026-06-02",
+      "transaction_shares": "17594",
+      "transaction_price": "83.48",
+      "transaction_type": "M",
+      "shares_after_transaction": "73925.884"
+    },
+    {
+      "id": 835,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "ROCHE VINCENT",
       "reporting_owner_cik": "0001201872",
@@ -16,18 +28,6 @@
       "transaction_price": "108.08",
       "transaction_type": "M",
       "shares_after_transaction": "147537.875"
-    },
-    {
-      "id": 722,
-      "issuer_name": "ANALOG DEVICES INC",
-      "reporting_owner": "ROCHE VINCENT",
-      "reporting_owner_cik": "0001201872",
-      "reporting_owner_position": "Chair & CEO",
-      "transaction_date": "2026-05-22",
-      "transaction_shares": "30000",
-      "transaction_price": "144.06",
-      "transaction_type": "M",
-      "shares_after_transaction": "167537.875"
     }
   ]
 }
