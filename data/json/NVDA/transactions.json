@@ -1,11 +1,23 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2026-06-05T11:37:42.288394",
+  "last_updated": "2026-06-06T10:10:41.192735",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 460,
+      "id": 452,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Neal Stephen C",
+      "reporting_owner_cik": "0001768670",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-03",
+      "transaction_shares": "15500",
+      "transaction_price": "215.7331",
+      "transaction_type": "S",
+      "shares_after_transaction": "116135"
+    },
+    {
+      "id": 451,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -15,18 +27,6 @@
       "transaction_price": "222.3774",
       "transaction_type": "S",
       "shares_after_transaction": "6899771"
-    },
-    {
-      "id": 459,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "Dabiri John",
-      "reporting_owner_cik": "0001818224",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-05-27",
-      "transaction_shares": "625",
-      "transaction_price": "214",
-      "transaction_type": "S",
-      "shares_after_transaction": "14163"
     }
   ]
 }
