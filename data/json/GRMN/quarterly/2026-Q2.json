@@ -2,20 +2,32 @@
   "ticker": "GRMN",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-03T12:47:52.871501",
-  "count": 1,
+  "last_updated": "2026-06-09T11:23:41.225656",
+  "count": 2,
   "transactions": [
     {
-      "id": 576,
+      "id": 639,
+      "issuer_name": "GARMIN LTD",
+      "reporting_owner": "Boessen Douglas G.",
+      "reporting_owner_cik": "0001450652",
+      "reporting_owner_position": "CFO and Treasurer",
+      "transaction_date": "2026-06-05",
+      "transaction_shares": "272",
+      "transaction_price": "236.5924",
+      "transaction_type": "S",
+      "shares_after_transaction": "27777"
+    },
+    {
+      "id": 640,
       "issuer_name": "GARMIN LTD",
       "reporting_owner": "BURRELL JONATHAN",
       "reporting_owner_cik": "0001134084",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-26",
-      "transaction_shares": "15600",
+      "transaction_date": "2026-06-05",
+      "transaction_shares": "753",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1742100"
+      "transaction_type": "A",
+      "shares_after_transaction": "10104"
     }
   ]
 }
