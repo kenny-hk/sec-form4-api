@@ -2,11 +2,23 @@
   "ticker": "HOOD",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-09T11:23:41.225656",
-  "count": 11,
+  "last_updated": "2026-06-10T11:44:39.950081",
+  "count": 12,
   "transactions": [
     {
-      "id": 275,
+      "id": 566,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Malka Meyer",
+      "reporting_owner_cik": "0001571355",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-05",
+      "transaction_shares": "250000",
+      "transaction_price": "80.7368",
+      "transaction_type": "P",
+      "shares_after_transaction": "3924427"
+    },
+    {
+      "id": 562,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Quirk Steven M.",
       "reporting_owner_cik": "0001659211",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "84286"
     },
     {
-      "id": 285,
+      "id": 577,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Gallagher Daniel Martin Jr",
       "reporting_owner_cik": "0001705560",
@@ -30,19 +42,7 @@
       "shares_after_transaction": "486596"
     },
     {
-      "id": 272,
-      "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Loop Paula",
-      "reporting_owner_cik": "0001870529",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "801",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "72010"
-    },
-    {
-      "id": 273,
+      "id": 563,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Zoellick Robert B.",
       "reporting_owner_cik": "0001696042",
@@ -54,7 +54,19 @@
       "shares_after_transaction": "102050"
     },
     {
-      "id": 276,
+      "id": 565,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Malka Meyer",
+      "reporting_owner_cik": "0001571355",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "801",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "1812"
+    },
+    {
+      "id": 567,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Verma Shiv",
       "reporting_owner_cik": "0002108589",
@@ -66,19 +78,19 @@
       "shares_after_transaction": "80866"
     },
     {
-      "id": 277,
+      "id": 572,
       "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Quirk Steven M.",
-      "reporting_owner_cik": "0001659211",
-      "reporting_owner_position": "Chief Brokerage Officer",
+      "reporting_owner": "Loop Paula",
+      "reporting_owner_cik": "0001870529",
+      "reporting_owner_position": null,
       "transaction_date": "2026-06-01",
-      "transaction_shares": "71176",
+      "transaction_shares": "801",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "124359"
+      "shares_after_transaction": "72010"
     },
     {
-      "id": 278,
+      "id": 573,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Bhatt Baiju",
       "reporting_owner_cik": "0001870914",
@@ -90,19 +102,7 @@
       "shares_after_transaction": "3579"
     },
     {
-      "id": 281,
-      "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Gallagher Daniel Martin Jr",
-      "reporting_owner_cik": "0001705560",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "112856",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "545705"
-    },
-    {
-      "id": 282,
+      "id": 574,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "RUBINSTEIN JONATHAN",
       "reporting_owner_cik": "0001209522",
@@ -114,7 +114,7 @@
       "shares_after_transaction": "801"
     },
     {
-      "id": 284,
+      "id": 575,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Treseder Oluwadara Johnson",
       "reporting_owner_cik": "0001817425",
@@ -126,16 +126,28 @@
       "shares_after_transaction": "76192"
     },
     {
-      "id": 286,
+      "id": 576,
       "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Malka Meyer",
-      "reporting_owner_cik": "0001571355",
-      "reporting_owner_position": null,
+      "reporting_owner": "Gallagher Daniel Martin Jr",
+      "reporting_owner_cik": "0001705560",
+      "reporting_owner_position": "Chief Legal Officer",
       "transaction_date": "2026-06-01",
-      "transaction_shares": "801",
+      "transaction_shares": "112856",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "1812"
+      "shares_after_transaction": "545705"
+    },
+    {
+      "id": 578,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Quirk Steven M.",
+      "reporting_owner_cik": "0001659211",
+      "reporting_owner_position": "Chief Brokerage Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "71176",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "124359"
     }
   ]
 }

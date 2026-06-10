@@ -2,11 +2,35 @@
   "ticker": "TPL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-09T11:23:41.225656",
-  "count": 5,
+  "last_updated": "2026-06-10T11:44:39.950081",
+  "count": 6,
   "transactions": [
     {
-      "id": 44,
+      "id": 214,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "reporting_owner_cik": "0001056823",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-08",
+      "transaction_shares": "1",
+      "transaction_price": "402.65",
+      "transaction_type": "P",
+      "shares_after_transaction": "3393548"
+    },
+    {
+      "id": 212,
+      "issuer_name": "Texas Pacific Land Corp",
+      "reporting_owner": "STEDDUM CHRIS",
+      "reporting_owner_cik": "0001863734",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-06-05",
+      "transaction_shares": "3170",
+      "transaction_price": "400.25",
+      "transaction_type": "S",
+      "shares_after_transaction": "12870"
+    },
+    {
+      "id": 217,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "3393547"
     },
     {
-      "id": 41,
+      "id": 213,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -30,7 +54,7 @@
       "shares_after_transaction": "3393546"
     },
     {
-      "id": 42,
+      "id": 215,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -42,7 +66,7 @@
       "shares_after_transaction": "3393545"
     },
     {
-      "id": 43,
+      "id": 216,
       "issuer_name": "Texas Pacific Land Corp",
       "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "reporting_owner_cik": "0001056823",
@@ -52,18 +76,6 @@
       "transaction_price": "368.20",
       "transaction_type": "P",
       "shares_after_transaction": "3393544"
-    },
-    {
-      "id": 40,
-      "issuer_name": "Texas Pacific Land Corp",
-      "reporting_owner": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "reporting_owner_cik": "0001056823",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "1",
-      "transaction_price": "387.38",
-      "transaction_type": "P",
-      "shares_after_transaction": "3393543"
     }
   ]
 }

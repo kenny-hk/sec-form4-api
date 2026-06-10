@@ -1,20 +1,32 @@
 {
   "ticker": "JCI",
-  "last_updated": "2026-05-25T12:00:02.483608",
+  "last_updated": "2026-06-10T11:44:39.950081",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 518,
+      "id": 80,
       "issuer_name": "Johnson Controls International plc",
       "reporting_owner": "Grabowski Todd M",
       "reporting_owner_cik": "0002088850",
       "reporting_owner_position": "VP and President, Americas",
-      "transaction_date": "2026-05-14",
-      "transaction_shares": "4274",
-      "transaction_price": "145.50",
+      "transaction_date": "2026-06-09",
+      "transaction_shares": "1800",
+      "transaction_price": "146.20",
       "transaction_type": "S",
-      "shares_after_transaction": "28015.42"
+      "shares_after_transaction": "26215.42"
+    },
+    {
+      "id": 81,
+      "issuer_name": "Johnson Controls International plc",
+      "reporting_owner": "ESTEVES IRENE M",
+      "reporting_owner_cik": "0001191609",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-08",
+      "transaction_shares": "937",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "937"
     }
   ]
 }

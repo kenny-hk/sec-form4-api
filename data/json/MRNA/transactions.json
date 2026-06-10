@@ -1,11 +1,11 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2026-06-09T11:23:41.225656",
+  "last_updated": "2026-06-10T11:44:39.950081",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 774,
+      "id": 430,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "71392"
     },
     {
-      "id": 771,
+      "id": 433,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -29,19 +29,7 @@
       "shares_after_transaction": "70939"
     },
     {
-      "id": 770,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Mock James M",
-      "reporting_owner_cik": "0001736359",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "2475",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "60791"
-    },
-    {
-      "id": 772,
+      "id": 431,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -53,7 +41,7 @@
       "shares_after_transaction": "68515"
     },
     {
-      "id": 773,
+      "id": 432,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Hoge Stephen",
       "reporting_owner_cik": "0001760669",
@@ -63,6 +51,18 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "1488336"
+    },
+    {
+      "id": 434,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-06-01",
+      "transaction_shares": "2475",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "60791"
     }
   ]
 }
