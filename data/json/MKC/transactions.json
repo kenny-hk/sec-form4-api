@@ -1,7 +1,56 @@
 {
   "ticker": "MKC",
-  "last_updated": "2026-06-11T12:15:40.712584",
+  "last_updated": "2026-06-12T11:49:12.274998",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 253,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Foust Andrew",
+      "reporting_owner_cik": "0001984268",
+      "reporting_owner_position": "Chief Integration Officer",
+      "transaction_date": "2026-04-28",
+      "transaction_shares": "51.87",
+      "transaction_price": "51.81",
+      "transaction_type": "J",
+      "shares_after_transaction": "13335.38"
+    },
+    {
+      "id": 254,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "Sheppard Valarie L",
+      "reporting_owner_cik": "0001334175",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-28",
+      "transaction_shares": "3.29",
+      "transaction_price": "51.81",
+      "transaction_type": "J",
+      "shares_after_transaction": "2573.77"
+    },
+    {
+      "id": 256,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "BRAMMAN ANNE L",
+      "reporting_owner_cik": "0001637584",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-28",
+      "transaction_shares": "24.09",
+      "transaction_price": "51.81",
+      "transaction_type": "J",
+      "shares_after_transaction": "8950.632"
+    },
+    {
+      "id": 258,
+      "issuer_name": "MCCORMICK & CO INC",
+      "reporting_owner": "THOMAS TERRY S",
+      "reporting_owner_cik": "0001822379",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-04-28",
+      "transaction_shares": "3.78",
+      "transaction_price": "51.81",
+      "transaction_type": "J",
+      "shares_after_transaction": "3969.79"
+    }
+  ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "CVNA",
-  "last_updated": "2026-06-11T12:15:40.712584",
+  "last_updated": "2026-06-12T11:49:12.274998",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 330,
+      "id": 370,
+      "issuer_name": "CARVANA CO.",
+      "reporting_owner": "QUAYLE J DANFORTH",
+      "reporting_owner_cik": "0001210412",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-10",
+      "transaction_shares": "14525",
+      "transaction_price": "3",
+      "transaction_type": "M",
+      "shares_after_transaction": "229485"
+    },
+    {
+      "id": 369,
       "issuer_name": "CARVANA CO.",
       "reporting_owner": "Taira Thomas",
       "reporting_owner_cik": "0001607889",
@@ -15,18 +27,6 @@
       "transaction_price": "67.15",
       "transaction_type": "S",
       "shares_after_transaction": "315075"
-    },
-    {
-      "id": 331,
-      "issuer_name": "CARVANA CO.",
-      "reporting_owner": "MAROONE MICHAEL E",
-      "reporting_owner_cik": "0001088011",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-01-08",
-      "transaction_shares": "5",
-      "transaction_price": "441.36",
-      "transaction_type": "P",
-      "shares_after_transaction": "269"
     }
   ]
 }
