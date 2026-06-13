@@ -1,7 +1,32 @@
 {
   "ticker": "PANW",
-  "last_updated": "2026-06-12T11:49:12.274998",
+  "last_updated": "2026-06-13T10:35:29.924826",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 280,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Key John P.",
+      "reporting_owner_cik": "0001772458",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-12",
+      "transaction_shares": "7500",
+      "transaction_price": "279.24",
+      "transaction_type": "S",
+      "shares_after_transaction": "12500"
+    },
+    {
+      "id": 279,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Bawa Aparna",
+      "reporting_owner_cik": "0001773301",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-10",
+      "transaction_shares": "377",
+      "transaction_price": "265",
+      "transaction_type": "S",
+      "shares_after_transaction": "8795"
+    }
+  ]
 }
