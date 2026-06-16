@@ -1,9 +1,33 @@
 {
   "ticker": "HOOD",
-  "last_updated": "2026-06-15T14:02:09.399374",
+  "last_updated": "2026-06-16T12:59:25.545475",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
+    {
+      "id": 499,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Verma Shiv",
+      "reporting_owner_cik": "0002108589",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-06-15",
+      "transaction_shares": "3984",
+      "transaction_price": "98.84",
+      "transaction_type": "S",
+      "shares_after_transaction": "59927"
+    },
+    {
+      "id": 502,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Bhatt Baiju",
+      "reporting_owner_cik": "0001870914",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-11",
+      "transaction_shares": "57898",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "57898"
+    },
     {
       "id": 500,
       "issuer_name": "Robinhood Markets, Inc.",

@@ -1,7 +1,32 @@
 {
   "ticker": "VMC",
-  "last_updated": "2026-05-19T11:25:34.574707",
+  "last_updated": "2026-06-16T12:59:25.545475",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 25,
+      "issuer_name": "Vulcan Materials CO",
+      "reporting_owner": "KENNARD LYDIA H",
+      "reporting_owner_cik": "0001223115",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-12",
+      "transaction_shares": "655.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "2112.00"
+    },
+    {
+      "id": 26,
+      "issuer_name": "Vulcan Materials CO",
+      "reporting_owner": "HALL GRAYSON",
+      "reporting_owner_cik": "0001217173",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-12",
+      "transaction_shares": "655.00",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "618.41"
+    }
+  ]
 }
