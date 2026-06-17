@@ -2,11 +2,23 @@
   "ticker": "CVNA",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-16T12:59:25.545475",
+  "last_updated": "2026-06-17T12:24:02.367490",
   "count": 2,
   "transactions": [
     {
-      "id": 452,
+      "id": 489,
+      "issuer_name": "CARVANA CO.",
+      "reporting_owner": "PLATT IRA J.",
+      "reporting_owner_cik": "0001702455",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-15",
+      "transaction_shares": "15000",
+      "transaction_price": "3",
+      "transaction_type": "M",
+      "shares_after_transaction": "201470"
+    },
+    {
+      "id": 490,
       "issuer_name": "CARVANA CO.",
       "reporting_owner": "QUAYLE J DANFORTH",
       "reporting_owner_cik": "0001210412",
@@ -16,18 +28,6 @@
       "transaction_price": "3",
       "transaction_type": "M",
       "shares_after_transaction": "229485"
-    },
-    {
-      "id": 451,
-      "issuer_name": "CARVANA CO.",
-      "reporting_owner": "Taira Thomas",
-      "reporting_owner_cik": "0001607889",
-      "reporting_owner_position": "President, Special Projects",
-      "transaction_date": "2026-06-08",
-      "transaction_shares": "5597",
-      "transaction_price": "67.15",
-      "transaction_type": "S",
-      "shares_after_transaction": "315075"
     }
   ]
 }

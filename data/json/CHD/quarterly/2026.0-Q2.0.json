@@ -2,20 +2,44 @@
   "ticker": "CHD",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-08T12:38:35.020684",
-  "count": 1,
+  "last_updated": "2026-06-17T12:24:02.367490",
+  "count": 3,
   "transactions": [
     {
-      "id": 209,
+      "id": 102,
+      "issuer_name": "CHURCH & DWIGHT CO INC /DE/",
+      "reporting_owner": "SHEARER ROBERT K",
+      "reporting_owner_cik": "0001234928",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-11",
+      "transaction_shares": "8600",
+      "transaction_price": "97.9701",
+      "transaction_type": "S",
+      "shares_after_transaction": "30678"
+    },
+    {
+      "id": 101,
       "issuer_name": "CHURCH & DWIGHT CO INC /DE/",
       "reporting_owner": "Saligram Ravichandra Krishnamurty",
       "reporting_owner_cik": "0001307991",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-29",
-      "transaction_shares": "24",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "13722.999"
+      "transaction_date": "2026-06-10",
+      "transaction_shares": "12960",
+      "transaction_price": "49.62",
+      "transaction_type": "M",
+      "shares_after_transaction": "26612.999"
+    },
+    {
+      "id": 104,
+      "issuer_name": "CHURCH & DWIGHT CO INC /DE/",
+      "reporting_owner": "Buchert Brian D",
+      "reporting_owner_cik": "0001918805",
+      "reporting_owner_position": "EVP of Strategy, M&A, and BP",
+      "transaction_date": "2026-06-10",
+      "transaction_shares": "10160",
+      "transaction_price": "49.62",
+      "transaction_type": "M",
+      "shares_after_transaction": "11446"
     }
   ]
 }
