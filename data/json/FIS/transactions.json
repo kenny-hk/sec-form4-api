@@ -1,20 +1,44 @@
 {
   "ticker": "FIS",
-  "last_updated": "2026-04-24T09:50:27.222756",
+  "last_updated": "2026-06-18T11:56:08.866470",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 209,
+      "id": 67,
       "issuer_name": "Fidelity National Information Services, Inc.",
-      "reporting_owner": "Goldstein Jeffrey A",
-      "reporting_owner_cik": "0001375299",
+      "reporting_owner": "LAMNECK KENNETH T",
+      "reporting_owner_cik": "0001282998",
       "reporting_owner_position": null,
-      "transaction_date": "2026-04-15",
-      "transaction_shares": "1197",
-      "transaction_price": "47.39",
-      "transaction_type": "P",
-      "shares_after_transaction": "15726"
+      "transaction_date": "2026-06-15",
+      "transaction_shares": "5485",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "19751"
+    },
+    {
+      "id": 69,
+      "issuer_name": "Fidelity National Information Services, Inc.",
+      "reporting_owner": "Chakravarthy Anil",
+      "reporting_owner_cik": "0001584805",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-15",
+      "transaction_shares": "5485",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "7182"
+    },
+    {
+      "id": 74,
+      "issuer_name": "Fidelity National Information Services, Inc.",
+      "reporting_owner": "Stallings James B JR",
+      "reporting_owner_cik": "0001573715",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-15",
+      "transaction_shares": "5485",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "31448"
     }
   ]
 }
