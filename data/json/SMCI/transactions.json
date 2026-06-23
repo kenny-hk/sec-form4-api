@@ -1,7 +1,32 @@
 {
   "ticker": "SMCI",
-  "last_updated": "2026-06-19T12:13:26.890656",
+  "last_updated": "2026-06-23T11:23:01.185031",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 171,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "WEIGAND DAVID E",
+      "reporting_owner_cik": "0001777404",
+      "reporting_owner_position": "SVP, Chief Financial Officer",
+      "transaction_date": "2026-06-17",
+      "transaction_shares": "5000",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "122919"
+    },
+    {
+      "id": 172,
+      "issuer_name": "Super Micro Computer, Inc.",
+      "reporting_owner": "Malyala Vikranth",
+      "reporting_owner_cik": "0002135314",
+      "reporting_owner_position": "SVP, Chief Business Officer",
+      "transaction_date": "2026-06-17",
+      "transaction_shares": "7500",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "42360"
+    }
+  ]
 }
