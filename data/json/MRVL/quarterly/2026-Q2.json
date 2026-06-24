@@ -2,11 +2,23 @@
   "ticker": "MRVL",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-23T11:23:01.185031",
-  "count": 5,
+  "last_updated": "2026-06-24T10:56:17.661255",
+  "count": 3,
   "transactions": [
     {
-      "id": 299,
+      "id": 222,
+      "issuer_name": "Marvell Technology, Inc.",
+      "reporting_owner": "Durn Daniel",
+      "reporting_owner_cik": "0001610062",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-06-23",
+      "transaction_shares": "2250",
+      "transaction_price": "281.01",
+      "transaction_type": "S",
+      "shares_after_transaction": "6902"
+    },
+    {
+      "id": 224,
       "issuer_name": "Marvell Technology, Inc.",
       "reporting_owner": "House Rebecca W",
       "reporting_owner_cik": "0001693217",
@@ -18,19 +30,7 @@
       "shares_after_transaction": "5441"
     },
     {
-      "id": 296,
-      "issuer_name": "Marvell Technology, Inc.",
-      "reporting_owner": "MURPHY MATTHEW J",
-      "reporting_owner_cik": "0001381430",
-      "reporting_owner_position": "Chairman of the Board and CEO",
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "7500",
-      "transaction_price": "298.76",
-      "transaction_type": "S",
-      "shares_after_transaction": "788009"
-    },
-    {
-      "id": 297,
+      "id": 223,
       "issuer_name": "Marvell Technology, Inc.",
       "reporting_owner": "Bharathi Sandeep",
       "reporting_owner_cik": "0001975808",
@@ -40,30 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "M",
       "shares_after_transaction": "60243"
-    },
-    {
-      "id": 298,
-      "issuer_name": "Marvell Technology, Inc.",
-      "reporting_owner": "Casper Mark",
-      "reporting_owner_cik": "0002007961",
-      "reporting_owner_position": "EVP & Chief Legal Officer",
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "44907"
-    },
-    {
-      "id": 300,
-      "issuer_name": "Marvell Technology, Inc.",
-      "reporting_owner": "House Rebecca W",
-      "reporting_owner_cik": "0001693217",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-13",
-      "transaction_shares": "3940",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "6191"
     }
   ]
 }

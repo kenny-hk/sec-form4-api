@@ -1,11 +1,23 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-06-23T11:23:01.185031",
+  "last_updated": "2026-06-24T10:56:17.661255",
   "retention_years": 3,
-  "count": 11,
+  "count": 9,
   "transactions": [
     {
-      "id": 314,
+      "id": 227,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Agarwal Amit",
+      "reporting_owner_cik": "0001540517",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-18",
+      "transaction_shares": "20000",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "21640"
+    },
+    {
+      "id": 233,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "697445"
     },
     {
-      "id": 305,
+      "id": 226,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Richardson Julie",
       "reporting_owner_cik": "0001466857",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "3178"
     },
     {
-      "id": 306,
+      "id": 228,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "COLE TITILOPE",
       "reporting_owner_cik": "0001915422",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "2288"
     },
     {
-      "id": 310,
+      "id": 229,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Acocella Kerry",
       "reporting_owner_cik": "0001903975",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "132736"
     },
     {
-      "id": 311,
+      "id": 230,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Vora Ami Prafullchandra",
       "reporting_owner_cik": "0002084727",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "5383"
     },
     {
-      "id": 312,
+      "id": 231,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Ittycheria Dev",
       "reporting_owner_cik": "0001397383",
@@ -77,7 +89,7 @@
       "shares_after_transaction": "40307"
     },
     {
-      "id": 313,
+      "id": 232,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Shah Shardul",
       "reporting_owner_cik": "0001783882",
@@ -89,7 +101,7 @@
       "shares_after_transaction": "3178"
     },
     {
-      "id": 315,
+      "id": 234,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Phillips Dominic",
       "reporting_owner_cik": "0001895148",
@@ -99,42 +111,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "6263"
-    },
-    {
-      "id": 307,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Callahan Michael James",
-      "reporting_owner_cik": "0001784030",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-12",
-      "transaction_shares": "112500",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "127496"
-    },
-    {
-      "id": 308,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "OBSTLER DAVID M",
-      "reporting_owner_cik": "0001120741",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-06-12",
-      "transaction_shares": "7500",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "442091"
-    },
-    {
-      "id": 309,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Agarwal Amit",
-      "reporting_owner_cik": "0001540517",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-12",
-      "transaction_shares": "10000",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "16541"
     }
   ]
 }

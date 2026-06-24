@@ -2,11 +2,35 @@
   "ticker": "VST",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-23T11:23:01.185031",
-  "count": 2,
+  "last_updated": "2026-06-24T10:56:17.661255",
+  "count": 3,
   "transactions": [
     {
-      "id": 294,
+      "id": 218,
+      "issuer_name": "Vistra Corp.",
+      "reporting_owner": "Acosta Arcilia",
+      "reporting_owner_cik": "0001629039",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-18",
+      "transaction_shares": "7500",
+      "transaction_price": "165.04",
+      "transaction_type": "S",
+      "shares_after_transaction": "40107"
+    },
+    {
+      "id": 220,
+      "issuer_name": "Vistra Corp.",
+      "reporting_owner": "SULT JOHN R",
+      "reporting_owner_cik": "0001342932",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-18",
+      "transaction_shares": "6500",
+      "transaction_price": "170",
+      "transaction_type": "S",
+      "shares_after_transaction": "70714"
+    },
+    {
+      "id": 219,
       "issuer_name": "Vistra Corp.",
       "reporting_owner": "HELM SCOTT B",
       "reporting_owner_cik": "0001711936",
@@ -16,18 +40,6 @@
       "transaction_price": "160",
       "transaction_type": "S",
       "shares_after_transaction": "232200"
-    },
-    {
-      "id": 293,
-      "issuer_name": "Vistra Corp.",
-      "reporting_owner": "BARBAS PAUL M",
-      "reporting_owner_cik": "0001176453",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-12",
-      "transaction_shares": "244",
-      "transaction_price": "147.93",
-      "transaction_type": "S",
-      "shares_after_transaction": "53250"
     }
   ]
 }
