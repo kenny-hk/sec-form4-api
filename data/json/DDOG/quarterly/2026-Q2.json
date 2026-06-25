@@ -2,11 +2,23 @@
   "ticker": "DDOG",
   "year": 2026,
   "quarter": 2,
-  "last_updated": "2026-06-24T10:56:17.661255",
-  "count": 9,
+  "last_updated": "2026-06-25T10:47:30.635479",
+  "count": 3,
   "transactions": [
     {
-      "id": 227,
+      "id": 164,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Le-Quoc Alexis",
+      "reporting_owner_cik": "0001783984",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2026-06-22",
+      "transaction_shares": "43224",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "553029"
+    },
+    {
+      "id": 165,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Agarwal Amit",
       "reporting_owner_cik": "0001540517",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "21640"
     },
     {
-      "id": 233,
+      "id": 166,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -28,90 +40,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "697445"
-    },
-    {
-      "id": 226,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Richardson Julie",
-      "reporting_owner_cik": "0001466857",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "3178"
-    },
-    {
-      "id": 228,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "COLE TITILOPE",
-      "reporting_owner_cik": "0001915422",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "2288"
-    },
-    {
-      "id": 229,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Acocella Kerry",
-      "reporting_owner_cik": "0001903975",
-      "reporting_owner_position": "General Counsel and Secretary",
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "501",
-      "transaction_price": "230.151",
-      "transaction_type": "S",
-      "shares_after_transaction": "132736"
-    },
-    {
-      "id": 230,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Vora Ami Prafullchandra",
-      "reporting_owner_cik": "0002084727",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "5383"
-    },
-    {
-      "id": 231,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Ittycheria Dev",
-      "reporting_owner_cik": "0001397383",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "40307"
-    },
-    {
-      "id": 232,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Shah Shardul",
-      "reporting_owner_cik": "0001783882",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "3178"
-    },
-    {
-      "id": 234,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Phillips Dominic",
-      "reporting_owner_cik": "0001895148",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "1072",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "6263"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "DELL",
-  "last_updated": "2026-06-24T10:56:17.661255",
+  "last_updated": "2026-06-25T10:47:30.635479",
   "retention_years": 3,
-  "count": 6,
+  "count": 3,
   "transactions": [
     {
-      "id": 106,
+      "id": 76,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Radakovich Lynn Vojvodich",
+      "reporting_owner_cik": "0001662205",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-22",
+      "transaction_shares": "12022",
+      "transaction_price": "31.14",
+      "transaction_type": "M",
+      "shares_after_transaction": "37289"
+    },
+    {
+      "id": 75,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Saavedra Jennifer D.",
       "reporting_owner_cik": "0001850336",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "322142"
     },
     {
-      "id": 110,
+      "id": 77,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Tunnell Jane",
       "reporting_owner_cik": "0002016161",
@@ -27,54 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "47251"
-    },
-    {
-      "id": 105,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA IV (GP), L.L.C.",
-      "reporting_owner_cik": "0001672568",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "91809",
-      "transaction_price": null,
-      "transaction_type": "J",
-      "shares_after_transaction": "0"
-    },
-    {
-      "id": 107,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SLTA V (GP), L.L.C.",
-      "reporting_owner_cik": "0001737652",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "91809",
-      "transaction_price": null,
-      "transaction_type": "J",
-      "shares_after_transaction": "0"
-    },
-    {
-      "id": 108,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Rothberg Richard J",
-      "reporting_owner_cik": "0001680902",
-      "reporting_owner_position": "General Counsel & Secretary",
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "20000",
-      "transaction_price": "410",
-      "transaction_type": "S",
-      "shares_after_transaction": "142415"
-    },
-    {
-      "id": 109,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Tunnell Jane",
-      "reporting_owner_cik": "0002016161",
-      "reporting_owner_position": "Chief Marketing Officer",
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "5879",
-      "transaction_price": "395.57",
-      "transaction_type": "F",
-      "shares_after_transaction": "47494"
     }
   ]
 }

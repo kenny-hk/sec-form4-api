@@ -1,11 +1,23 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-06-24T10:56:17.661255",
+  "last_updated": "2026-06-25T10:47:30.635479",
   "retention_years": 3,
-  "count": 6,
+  "count": 3,
   "transactions": [
     {
-      "id": 201,
+      "id": 146,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-22",
+      "transaction_shares": "58",
+      "transaction_price": "167.9612",
+      "transaction_type": "S",
+      "shares_after_transaction": "1396061"
+    },
+    {
+      "id": 147,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Voskuil Steven E",
       "reporting_owner_cik": "0001622634",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "54695"
     },
     {
-      "id": 202,
+      "id": 148,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -27,54 +39,6 @@
       "transaction_price": "171.6613",
       "transaction_type": "S",
       "shares_after_transaction": "1403281"
-    },
-    {
-      "id": 200,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "715",
-      "transaction_price": "178.4050",
-      "transaction_type": "S",
-      "shares_after_transaction": "1435404"
-    },
-    {
-      "id": 203,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Brandt Christopher W",
-      "reporting_owner_cik": "0001675463",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "72.47",
-      "transaction_price": "181.11",
-      "transaction_type": "A",
-      "shares_after_transaction": "973.296"
-    },
-    {
-      "id": 204,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Curoe Timothy William",
-      "reporting_owner_cik": "0002068682",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "166.556",
-      "transaction_price": "181.11",
-      "transaction_type": "A",
-      "shares_after_transaction": "1767.446"
-    },
-    {
-      "id": 205,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Nalebuff Barry James",
-      "reporting_owner_cik": "0002068557",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-15",
-      "transaction_shares": "144.94",
-      "transaction_price": "181.11",
-      "transaction_type": "A",
-      "shares_after_transaction": "1745.83"
     }
   ]
 }
