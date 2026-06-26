@@ -1,11 +1,23 @@
 {
   "ticker": "WMT",
-  "last_updated": "2026-06-25T10:47:30.635479",
+  "last_updated": "2026-06-26T10:57:57.096987",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 29,
+      "id": 26,
+      "issuer_name": "Walmart Inc.",
+      "reporting_owner": "Walton Family Holdings Trust",
+      "reporting_owner_cik": "0001678632",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-23",
+      "transaction_shares": "767000",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "501538752"
+    },
+    {
+      "id": 25,
       "issuer_name": "Walmart Inc.",
       "reporting_owner": "Nicholas Christopher James",
       "reporting_owner_cik": "0001992808",
@@ -15,18 +27,6 @@
       "transaction_price": "118.1904",
       "transaction_type": "S",
       "shares_after_transaction": "574953.269"
-    },
-    {
-      "id": 30,
-      "issuer_name": "Walmart Inc.",
-      "reporting_owner": "Walton Family Holdings Trust",
-      "reporting_owner_cik": "0001678632",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-16",
-      "transaction_shares": "886000",
-      "transaction_price": "0",
-      "transaction_type": "J",
-      "shares_after_transaction": "506730456"
     }
   ]
 }
