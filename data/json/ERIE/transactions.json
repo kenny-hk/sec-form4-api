@@ -1,7 +1,56 @@
 {
   "ticker": "ERIE",
-  "last_updated": "2026-06-15T14:02:09.399374",
+  "last_updated": "2026-07-02T10:47:04.934833",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 4,
+  "transactions": [
+    {
+      "id": 468,
+      "issuer_name": "ERIE INDEMNITY CO",
+      "reporting_owner": "Cook Cody",
+      "reporting_owner_cik": "0002049872",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "4.957",
+      "transaction_price": "239.75",
+      "transaction_type": "J",
+      "shares_after_transaction": "1147.268"
+    },
+    {
+      "id": 469,
+      "issuer_name": "ERIE INDEMNITY CO",
+      "reporting_owner": "Shine Sarah",
+      "reporting_owner_cik": "0002049845",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "4.601",
+      "transaction_price": "239.75",
+      "transaction_type": "J",
+      "shares_after_transaction": "557.522"
+    },
+    {
+      "id": 470,
+      "issuer_name": "ERIE INDEMNITY CO",
+      "reporting_owner": "DaBreo Anthony",
+      "reporting_owner_cik": "0002034398",
+      "reporting_owner_position": "Senior Vice President, Life",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "0.312",
+      "transaction_price": "239.75",
+      "transaction_type": "J",
+      "shares_after_transaction": "911.674"
+    },
+    {
+      "id": 471,
+      "issuer_name": "ERIE INDEMNITY CO",
+      "reporting_owner": "Smith Douglas Edward",
+      "reporting_owner_cik": "0001450863",
+      "reporting_owner_position": "EVP",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "0.081",
+      "transaction_price": "239.75",
+      "transaction_type": "J",
+      "shares_after_transaction": "5169.624"
+    }
+  ]
 }

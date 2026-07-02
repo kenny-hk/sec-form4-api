@@ -1,11 +1,35 @@
 {
   "ticker": "ABNB",
-  "last_updated": "2026-07-01T11:29:46.851002",
+  "last_updated": "2026-07-02T10:47:04.934833",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 176,
+      "id": 321,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-29",
+      "transaction_shares": "200",
+      "transaction_price": "145.90",
+      "transaction_type": "S",
+      "shares_after_transaction": "2917155"
+    },
+    {
+      "id": 322,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "CHENAULT KENNETH I",
+      "reporting_owner_cik": "0001180524",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-29",
+      "transaction_shares": "8346",
+      "transaction_price": "59.91",
+      "transaction_type": "M",
+      "shares_after_transaction": "49225"
+    },
+    {
+      "id": 319,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Blecharczyk Nathan",
       "reporting_owner_cik": "0001834147",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "108633"
     },
     {
-      "id": 177,
+      "id": 320,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Blecharczyk Nathan",
       "reporting_owner_cik": "0001834147",
