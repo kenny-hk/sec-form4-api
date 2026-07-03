@@ -1,11 +1,35 @@
 {
   "ticker": "PAYX",
-  "last_updated": "2026-07-02T10:47:04.934833",
+  "last_updated": "2026-07-03T10:42:38.409267",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 346,
+      "id": 584,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "BERGSTROM RYAN NORMAN",
+      "reporting_owner_cik": "0001857829",
+      "reporting_owner_position": "Chief Product Officer",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "2090",
+      "transaction_price": "102.71",
+      "transaction_type": "F",
+      "shares_after_transaction": "41582"
+    },
+    {
+      "id": 585,
+      "issuer_name": "PAYCHEX INC",
+      "reporting_owner": "ANTE ADAM BROOKS",
+      "reporting_owner_cik": "0001857902",
+      "reporting_owner_position": "Sr. Vice President, Paycor",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "2678",
+      "transaction_price": "102.71",
+      "transaction_type": "F",
+      "shares_after_transaction": "52865"
+    },
+    {
+      "id": 583,
       "issuer_name": "PAYCHEX INC",
       "reporting_owner": "TUCCI JOSEPH M",
       "reporting_owner_cik": "0001189198",

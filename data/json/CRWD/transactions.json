@@ -1,11 +1,35 @@
 {
   "ticker": "CRWD",
-  "last_updated": "2026-07-02T10:47:04.934833",
+  "last_updated": "2026-07-03T10:42:38.409267",
   "retention_years": 3,
-  "count": 7,
+  "count": 6,
   "transactions": [
     {
-      "id": 213,
+      "id": 299,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "GANDHI SAMEER K",
+      "reporting_owner_cik": "0001201326",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "76",
+      "transaction_price": "765.93",
+      "transaction_type": "S",
+      "shares_after_transaction": "723534"
+    },
+    {
+      "id": 300,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Kurtz George",
+      "reporting_owner_cik": "0001778564",
+      "reporting_owner_position": "PRESIDENT AND CEO",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "65",
+      "transaction_price": "766.63",
+      "transaction_type": "S",
+      "shares_after_transaction": "2075821"
+    },
+    {
+      "id": 301,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "2078256"
     },
     {
-      "id": 217,
+      "id": 304,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "2080860"
     },
     {
-      "id": 216,
+      "id": 303,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -41,7 +65,7 @@
       "shares_after_transaction": "2082372"
     },
     {
-      "id": 214,
+      "id": 302,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -51,42 +75,6 @@
       "transaction_price": "671.68",
       "transaction_type": "S",
       "shares_after_transaction": "2085834"
-    },
-    {
-      "id": 211,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Saha Anurag",
-      "reporting_owner_cik": "0001921602",
-      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
-      "transaction_date": "2026-06-24",
-      "transaction_shares": "1497",
-      "transaction_price": "680.49",
-      "transaction_type": "S",
-      "shares_after_transaction": "53223"
-    },
-    {
-      "id": 215,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2026-06-24",
-      "transaction_shares": "195",
-      "transaction_price": "678.57",
-      "transaction_type": "S",
-      "shares_after_transaction": "2086718"
-    },
-    {
-      "id": 212,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2026-06-23",
-      "transaction_shares": "13",
-      "transaction_price": "664",
-      "transaction_type": "S",
-      "shares_after_transaction": "2090873"
     }
   ]
 }

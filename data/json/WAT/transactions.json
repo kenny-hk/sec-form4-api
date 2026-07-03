@@ -1,20 +1,32 @@
 {
   "ticker": "WAT",
-  "last_updated": "2026-07-02T10:47:04.934833",
+  "last_updated": "2026-07-03T10:42:38.409267",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 333,
+      "id": 561,
       "issuer_name": "WATERS CORP /DE/",
-      "reporting_owner": "Carpio Robert L III",
-      "reporting_owner_cik": "0002027463",
-      "reporting_owner_position": "SVP Waters Analytical Sciences",
-      "transaction_date": "2026-06-24",
-      "transaction_shares": "189",
-      "transaction_price": "369.18",
-      "transaction_type": "F",
-      "shares_after_transaction": "3426"
+      "reporting_owner": "Knight Heather",
+      "reporting_owner_cik": "0001967528",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "63.03",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1280.54"
+    },
+    {
+      "id": 562,
+      "issuer_name": "WATERS CORP /DE/",
+      "reporting_owner": "Jiang Wei",
+      "reporting_owner_cik": "0001867980",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "67.42",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "3572.75"
     }
   ]
 }
