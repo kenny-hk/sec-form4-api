@@ -1,11 +1,23 @@
 {
   "ticker": "KLAC",
-  "last_updated": "2026-07-06T12:10:52.281173",
+  "last_updated": "2026-07-07T11:04:21.214939",
   "retention_years": 3,
-  "count": 5,
+  "count": 7,
   "transactions": [
     {
-      "id": 796,
+      "id": 949,
+      "issuer_name": "KLA CORP",
+      "reporting_owner": "Higgins Bren D.",
+      "reporting_owner_cik": "0001582049",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2026-07-02",
+      "transaction_shares": "27701",
+      "transaction_price": "265.69",
+      "transaction_type": "S",
+      "shares_after_transaction": "263472.1969"
+    },
+    {
+      "id": 945,
       "issuer_name": "KLA CORP",
       "reporting_owner": "Higgins Bren D.",
       "reporting_owner_cik": "0001582049",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "321740.1599"
     },
     {
-      "id": 797,
+      "id": 946,
       "issuer_name": "KLA CORP",
       "reporting_owner": "WALLACE RICHARD P",
       "reporting_owner_cik": "0001196898",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "714026.2399"
     },
     {
-      "id": 798,
+      "id": 947,
       "issuer_name": "KLA CORP",
       "reporting_owner": "Wilkinson Mary Beth",
       "reporting_owner_cik": "0001691769",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "67759.295"
     },
     {
-      "id": 799,
+      "id": 948,
       "issuer_name": "KLA CORP",
       "reporting_owner": "Khan Ahmad A.",
       "reporting_owner_cik": "0001642452",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "227428.6799"
     },
     {
-      "id": 800,
+      "id": 950,
       "issuer_name": "KLA CORP",
       "reporting_owner": "Lorig Brian",
       "reporting_owner_cik": "0001697041",
@@ -63,6 +75,18 @@
       "transaction_price": "108.33",
       "transaction_type": "J",
       "shares_after_transaction": "114986.2199"
+    },
+    {
+      "id": 951,
+      "issuer_name": "KLA CORP",
+      "reporting_owner": "Kirloskar Virendra A",
+      "reporting_owner_cik": "0001430600",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "196.1599",
+      "transaction_price": "108.33",
+      "transaction_type": "J",
+      "shares_after_transaction": "19771.0699"
     }
   ]
 }

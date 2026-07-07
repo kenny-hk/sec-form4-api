@@ -1,32 +1,44 @@
 {
   "ticker": "AEE",
-  "last_updated": "2026-06-10T11:44:39.950081",
+  "last_updated": "2026-07-07T11:04:21.214939",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 417,
+      "id": 633,
+      "issuer_name": "AMEREN CORP",
+      "reporting_owner": "Smith Patrick E",
+      "reporting_owner_cik": "0002094778",
+      "reporting_owner_position": "Chairman & President of Sub",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "280",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20275"
+    },
+    {
+      "id": 634,
       "issuer_name": "AMEREN CORP",
       "reporting_owner": "Arora Ajay K",
       "reporting_owner_cik": "0002093735",
       "reporting_owner_position": "EVP of Subsidiary",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "6797",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "716",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "22326"
+      "shares_after_transaction": "23119"
     },
     {
-      "id": 418,
+      "id": 635,
       "issuer_name": "AMEREN CORP",
       "reporting_owner": "Melda Aaron P",
       "reporting_owner_cik": "0002137318",
-      "reporting_owner_position": "Chairman and President",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "3705",
+      "reporting_owner_position": "Chairman & President of Sub",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "2520",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "3705"
+      "shares_after_transaction": "6251"
     }
   ]
 }

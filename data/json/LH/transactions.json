@@ -1,20 +1,32 @@
 {
   "ticker": "LH",
-  "last_updated": "2026-06-17T12:24:02.367490",
+  "last_updated": "2026-07-07T11:04:21.214939",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 170,
+      "id": 311,
+      "issuer_name": "LABCORP HOLDINGS INC.",
+      "reporting_owner": "Vaughn Bryan T",
+      "reporting_owner_cik": "0002103999",
+      "reporting_owner_position": "EVP and President, Diagnostics",
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "327",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "7072.5702"
+    },
+    {
+      "id": 312,
       "issuer_name": "LABCORP HOLDINGS INC.",
       "reporting_owner": "Kyle Kathryn W",
       "reporting_owner_cik": "0002103996",
       "reporting_owner_position": "EVP, Chief Legal Officer",
-      "transaction_date": "2026-06-08",
-      "transaction_shares": "762",
-      "transaction_price": "263.89",
-      "transaction_type": "S",
-      "shares_after_transaction": "3813.4574"
+      "transaction_date": "2026-07-01",
+      "transaction_shares": "256",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "4069.4574"
     }
   ]
 }
