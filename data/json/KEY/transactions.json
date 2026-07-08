@@ -1,11 +1,23 @@
 {
   "ticker": "KEY",
-  "last_updated": "2026-07-07T11:04:21.214939",
+  "last_updated": "2026-07-08T10:27:33.374844",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 720,
+      "id": 695,
+      "issuer_name": "KEYCORP /NEW/",
+      "reporting_owner": "BANK OF NOVA SCOTIA",
+      "reporting_owner_cik": "0000009631",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-07",
+      "transaction_shares": "176803",
+      "transaction_price": "23.18",
+      "transaction_type": "D",
+      "shares_after_transaction": "157470114"
+    },
+    {
+      "id": 693,
       "issuer_name": "KEYCORP /NEW/",
       "reporting_owner": "Snyder Barbara R",
       "reporting_owner_cik": "0001496583",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "92940"
     },
     {
-      "id": 721,
+      "id": 694,
       "issuer_name": "KEYCORP /NEW/",
       "reporting_owner": "VASOS TODD J",
       "reporting_owner_cik": "0001243183",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "62640"
     },
     {
-      "id": 724,
+      "id": 698,
       "issuer_name": "KEYCORP /NEW/",
       "reporting_owner": "CUTLER ALEXANDER M",
       "reporting_owner_cik": "0001188585",
@@ -39,18 +51,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "325309"
-    },
-    {
-      "id": 727,
-      "issuer_name": "KEYCORP /NEW/",
-      "reporting_owner": "BANK OF NOVA SCOTIA",
-      "reporting_owner_cik": "0000009631",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-06-30",
-      "transaction_shares": "238461",
-      "transaction_price": "23.15",
-      "transaction_type": "D",
-      "shares_after_transaction": "157646917"
     }
   ]
 }

@@ -1,7 +1,32 @@
 {
   "ticker": "COR",
-  "last_updated": "2026-07-07T11:04:21.214939",
+  "last_updated": "2026-07-08T10:27:33.374844",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 315,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Campbell Elizabeth S",
+      "reporting_owner_cik": "0001882641",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "49.889",
+      "transaction_price": "240.533",
+      "transaction_type": "A",
+      "shares_after_transaction": "30755.556"
+    },
+    {
+      "id": 316,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "Battaglia Silvana",
+      "reporting_owner_cik": "0001774724",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-06-30",
+      "transaction_shares": "58.204",
+      "transaction_price": "240.533",
+      "transaction_type": "A",
+      "shares_after_transaction": "23624.012"
+    }
+  ]
 }
