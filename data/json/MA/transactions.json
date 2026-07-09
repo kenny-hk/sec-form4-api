@@ -1,11 +1,23 @@
 {
   "ticker": "MA",
-  "last_updated": "2026-07-08T10:27:33.374844",
+  "last_updated": "2026-07-09T11:06:33.903796",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 138,
+      "id": 104,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Arkell Sandra A",
+      "reporting_owner_cik": "0001649899",
+      "reporting_owner_position": "Controller",
+      "transaction_date": "2026-07-06",
+      "transaction_shares": "200",
+      "transaction_price": "540",
+      "transaction_type": "S",
+      "shares_after_transaction": "3321.969"
+    },
+    {
+      "id": 103,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "McLaughlin Edward Grunde",
       "reporting_owner_cik": "0001704831",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "52999.396"
     },
     {
-      "id": 139,
+      "id": 105,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Seshadri Raj",
       "reporting_owner_cik": "0001772738",
