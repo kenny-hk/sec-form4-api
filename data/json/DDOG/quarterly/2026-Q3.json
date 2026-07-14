@@ -2,11 +2,23 @@
   "ticker": "DDOG",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-13T11:17:06.091490",
-  "count": 4,
+  "last_updated": "2026-07-14T10:02:54.640258",
+  "count": 3,
   "transactions": [
     {
-      "id": 258,
+      "id": 129,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Agarwal Amit",
+      "reporting_owner_cik": "0001540517",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "20000",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "21640"
+    },
+    {
+      "id": 130,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Le-Quoc Alexis",
       "reporting_owner_cik": "0001783984",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "553029"
     },
     {
-      "id": 259,
+      "id": 131,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Agarwal Amit",
       "reporting_owner_cik": "0001540517",
@@ -28,30 +40,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "21640"
-    },
-    {
-      "id": 257,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Phillips Dominic",
-      "reporting_owner_cik": "0001895148",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "48",
-      "transaction_price": "260.36",
-      "transaction_type": "A",
-      "shares_after_transaction": "6311"
-    },
-    {
-      "id": 260,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Callahan Michael James",
-      "reporting_owner_cik": "0001784030",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "12500",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "27496"
     }
   ]
 }

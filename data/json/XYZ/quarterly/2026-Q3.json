@@ -2,11 +2,23 @@
   "ticker": "XYZ",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-13T11:17:06.091490",
-  "count": 7,
+  "last_updated": "2026-07-14T10:02:54.640258",
+  "count": 3,
   "transactions": [
     {
-      "id": 267,
+      "id": 132,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Eisen Anthony Mathew",
+      "reporting_owner_cik": "0001933928",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "6000",
+      "transaction_price": "76.14",
+      "transaction_type": "S",
+      "shares_after_transaction": "1850672"
+    },
+    {
+      "id": 134,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Eisen Anthony Mathew",
       "reporting_owner_cik": "0001933928",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "1868672"
     },
     {
-      "id": 265,
+      "id": 133,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Grassadonia Brian",
       "reporting_owner_cik": "0001803649",
@@ -28,66 +40,6 @@
       "transaction_price": "80",
       "transaction_type": "S",
       "shares_after_transaction": "557654"
-    },
-    {
-      "id": 261,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "BOTHA ROELOF",
-      "reporting_owner_cik": "0001222287",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "263",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "36473"
-    },
-    {
-      "id": 262,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Meeker Mary G",
-      "reporting_owner_cik": "0001544567",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "246",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "425611"
-    },
-    {
-      "id": 263,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Carter Shawn Corey",
-      "reporting_owner_cik": "0001549211",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "164",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "32705"
-    },
-    {
-      "id": 264,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Brooks Amy",
-      "reporting_owner_cik": "0001791777",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "197",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "30528"
-    },
-    {
-      "id": 266,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Narula Neha",
-      "reporting_owner_cik": "0001974805",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "254",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "17750"
     }
   ]
 }

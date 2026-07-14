@@ -1,11 +1,23 @@
 {
   "ticker": "ANET",
-  "last_updated": "2026-07-13T11:17:06.091490",
+  "last_updated": "2026-07-14T10:02:54.640258",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 322,
+      "id": 153,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "Ullal Jayshree",
+      "reporting_owner_cik": "0001605809",
+      "reporting_owner_position": "CEO and Chairperson",
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "12005",
+      "transaction_price": "187.3122",
+      "transaction_type": "S",
+      "shares_after_transaction": "5197202"
+    },
+    {
+      "id": 152,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "BECHTOLSHEIM ANDREAS",
       "reporting_owner_cik": "0001133206",
@@ -15,30 +27,6 @@
       "transaction_price": "157.242",
       "transaction_type": "S",
       "shares_after_transaction": "182278935"
-    },
-    {
-      "id": 323,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "BECHTOLSHEIM ANDREAS",
-      "reporting_owner_cik": "0001133206",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "90",
-      "transaction_price": "170.2653",
-      "transaction_type": "S",
-      "shares_after_transaction": "182542958"
-    },
-    {
-      "id": 324,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "Giancarlo Charles H",
-      "reporting_owner_cik": "0001299634",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "28",
-      "transaction_price": "162.3357",
-      "transaction_type": "S",
-      "shares_after_transaction": "200305"
     }
   ]
 }
