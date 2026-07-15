@@ -1,11 +1,35 @@
 {
   "ticker": "AVGO",
-  "last_updated": "2026-07-14T10:02:54.640258",
+  "last_updated": "2026-07-15T10:07:19.981734",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 81,
+      "id": 100,
+      "issuer_name": "Broadcom Inc.",
+      "reporting_owner": "DELLY GAYLA J",
+      "reporting_owner_cik": "0001218358",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-10",
+      "transaction_shares": "500",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "30826"
+    },
+    {
+      "id": 102,
+      "issuer_name": "Broadcom Inc.",
+      "reporting_owner": "Brazeal Mark David",
+      "reporting_owner_cik": "0001627720",
+      "reporting_owner_position": "Chief Legal & Corp Affairs Ofc",
+      "transaction_date": "2026-07-10",
+      "transaction_shares": "25000",
+      "transaction_price": "401.329",
+      "transaction_type": "S",
+      "shares_after_transaction": "194989"
+    },
+    {
+      "id": 101,
       "issuer_name": "Broadcom Inc.",
       "reporting_owner": "Brazeal Mark David",
       "reporting_owner_cik": "0001627720",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "219989"
     },
     {
-      "id": 82,
+      "id": 103,
       "issuer_name": "Broadcom Inc.",
       "reporting_owner": "DELLY GAYLA J",
       "reporting_owner_cik": "0001218358",

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-07-14T10:02:55.076404",
+  "last_updated": "2026-07-15T10:07:20.205892",
   "large_transactions": [
+    {
+      "ticker": "CHTR",
+      "company": "CHARTER COMMUNICATIONS, INC. /MO/",
+      "insider": "Liberty Broadband Corp",
+      "position": null,
+      "date": "2026-07-14",
+      "shares": "129907",
+      "price": "135.88",
+      "type": "D",
+      "value": 17651763.16
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "insider": "Brazeal Mark David",
+      "position": "Chief Legal & Corp Affairs Ofc",
+      "date": "2026-07-10",
+      "shares": "25000",
+      "price": "401.329",
+      "type": "S",
+      "value": 10033225.0
+    },
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
@@ -11,6 +33,17 @@
       "price": "379.188",
       "type": "S",
       "value": 9479700.0
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks, Inc.",
+      "insider": "Ullal Jayshree",
+      "position": "CEO and Chairperson",
+      "date": "2026-07-10",
+      "shares": "36888",
+      "price": "187.1756",
+      "type": "S",
+      "value": 6904533.5328
     },
     {
       "ticker": "MCK",
@@ -24,6 +57,17 @@
       "value": 6715898.279999999
     },
     {
+      "ticker": "LRCX",
+      "company": "LAM RESEARCH CORP",
+      "insider": "TALWALKAR ABHIJIT Y",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "18282",
+      "price": "335",
+      "type": "S",
+      "value": 6124470.0
+    },
+    {
       "ticker": "CASY",
       "company": "CASEYS GENERAL STORES INC",
       "insider": "Bramlage Stephen P JR",
@@ -33,50 +77,6 @@
       "price": "838.16",
       "type": "S",
       "value": 4777512.0
-    },
-    {
-      "ticker": "IVZ",
-      "company": "Invesco Ltd.",
-      "insider": "Schlossberg Andrew",
-      "position": "President and CEO",
-      "date": "2026-07-02",
-      "shares": "156007",
-      "price": "27.01",
-      "type": "F",
-      "value": 4213749.07
-    },
-    {
-      "ticker": "ABNB",
-      "company": "Airbnb, Inc.",
-      "insider": "Gebbia Joseph",
-      "position": null,
-      "date": "2026-07-02",
-      "shares": "27733",
-      "price": "150.0141",
-      "type": "S",
-      "value": 4160341.0353000006
-    },
-    {
-      "ticker": "KEY",
-      "company": "KEYCORP /NEW/",
-      "insider": "BANK OF NOVA SCOTIA",
-      "position": null,
-      "date": "2026-07-07",
-      "shares": "176803",
-      "price": "23.18",
-      "type": "D",
-      "value": 4098293.54
-    },
-    {
-      "ticker": "XYZ",
-      "company": "Block, Inc.",
-      "insider": "Grassadonia Brian",
-      "position": "Ecosystem Lead",
-      "date": "2026-07-02",
-      "shares": "43348",
-      "price": "80",
-      "type": "S",
-      "value": 3467840.0
     },
     {
       "ticker": "CASY",
@@ -90,17 +90,6 @@
       "value": 2334332.0
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "insider": "Quirk Steven M.",
-      "position": "Chief Brokerage Officer",
-      "date": "2026-07-02",
-      "shares": "19377",
-      "price": "119.96",
-      "type": "S",
-      "value": 2324464.92
-    },
-    {
       "ticker": "ANET",
       "company": "Arista Networks, Inc.",
       "insider": "Ullal Jayshree",
@@ -110,28 +99,6 @@
       "price": "187.3122",
       "type": "S",
       "value": 2248682.9609999997
-    },
-    {
-      "ticker": "DXCM",
-      "company": "DEXCOM INC",
-      "insider": "SAYER KEVIN R",
-      "position": "Executive Chair",
-      "date": "2026-07-06",
-      "shares": "26756",
-      "price": "72",
-      "type": "S",
-      "value": 1926432.0
-    },
-    {
-      "ticker": "IVZ",
-      "company": "Invesco Ltd.",
-      "insider": "DUKES LAURA ALLISON",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-02",
-      "shares": "52003",
-      "price": "27.01",
-      "type": "F",
-      "value": 1404601.03
     },
     {
       "ticker": "META",
@@ -145,37 +112,15 @@
       "value": 1246437.2507999998
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "Kazmaier Gerrit S",
-      "position": "President, Prod. and Tech.",
-      "date": "2026-07-05",
-      "shares": "8976",
-      "price": "135.40",
+      "ticker": "LYV",
+      "company": "Live Nation Entertainment, Inc.",
+      "insider": "Hopmans John",
+      "position": "EVP, M&A and Strategic Finance",
+      "date": "2026-07-11",
+      "shares": "6083",
+      "price": "179.79",
       "type": "F",
-      "value": 1215350.4000000001
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "BHUSRI ANEEL",
-      "position": "CEO",
-      "date": "2026-07-05",
-      "shares": "8501",
-      "price": "135.40",
-      "type": "F",
-      "value": 1151035.4000000001
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "Rowe Zane",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-05",
-      "shares": "7953",
-      "price": "135.40",
-      "type": "F",
-      "value": 1076836.2
+      "value": 1093662.57
     },
     {
       "ticker": "PSX",
@@ -211,17 +156,6 @@
       "value": 1018117.5
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "insider": "Loop Paula",
-      "position": null,
-      "date": "2026-07-02",
-      "shares": "8336",
-      "price": "120",
-      "type": "S",
-      "value": 1000320.0
-    },
-    {
       "ticker": "CPRT",
       "company": "COPART INC",
       "insider": "Morefield Diane M",
@@ -244,17 +178,6 @@
       "value": 955455.16
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "Sauer Richard Harry",
-      "position": "Chief Legal Officer & Secty",
-      "date": "2026-07-05",
-      "shares": "6782",
-      "price": "135.40",
-      "type": "F",
-      "value": 918282.8
-    },
-    {
       "ticker": "CHRW",
       "company": "C. H. ROBINSON WORLDWIDE, INC.",
       "insider": "Lee Damon J.",
@@ -264,39 +187,6 @@
       "price": "190.95",
       "type": "F",
       "value": 897083.1
-    },
-    {
-      "ticker": "VRTX",
-      "company": "VERTEX PHARMACEUTICALS INC / MA",
-      "insider": "McKechnie Duncan",
-      "position": "EVP, Chief Commercial Officer",
-      "date": "2026-07-02",
-      "shares": "1541",
-      "price": "519",
-      "type": "S",
-      "value": 799779.0
-    },
-    {
-      "ticker": "VRTX",
-      "company": "VERTEX PHARMACEUTICALS INC / MA",
-      "insider": "Tatsis Ourania",
-      "position": "EVP, Chief Reg. & Quality Off.",
-      "date": "2026-07-02",
-      "shares": "1500",
-      "price": "524.99",
-      "type": "S",
-      "value": 787485.0
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "Enslin Robert",
-      "position": "President, CCO",
-      "date": "2026-07-05",
-      "shares": "5634",
-      "price": "135.40",
-      "type": "F",
-      "value": 762843.6
     },
     {
       "ticker": "RMD",
@@ -332,28 +222,6 @@
       "value": 728000.0
     },
     {
-      "ticker": "IVZ",
-      "company": "Invesco Ltd.",
-      "insider": "Kupor Jeffrey H",
-      "position": "Senior Managing Director",
-      "date": "2026-07-02",
-      "shares": "26002",
-      "price": "27.01",
-      "type": "F",
-      "value": 702314.02
-    },
-    {
-      "ticker": "ANET",
-      "company": "Arista Networks, Inc.",
-      "insider": "BECHTOLSHEIM ANDREAS",
-      "position": null,
-      "date": "2026-07-02",
-      "shares": "4113",
-      "price": "157.242",
-      "type": "S",
-      "value": 646736.3459999999
-    },
-    {
       "ticker": "DRI",
       "company": "DARDEN RESTAURANTS INC",
       "insider": "Connelly Susan M.",
@@ -365,26 +233,15 @@
       "value": 632505.84
     },
     {
-      "ticker": "INCY",
-      "company": "INCYTE CORP",
-      "insider": "Meury William",
-      "position": "Chief Executive Officer",
-      "date": "2026-07-02",
-      "shares": "4779",
-      "price": "116.86",
-      "type": "F",
-      "value": 558473.94
-    },
-    {
-      "ticker": "ABNB",
-      "company": "Airbnb, Inc.",
-      "insider": "Mertz Elinor",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-02",
-      "shares": "3750",
-      "price": "148.01",
+      "ticker": "TKO",
+      "company": "TKO Group Holdings, Inc.",
+      "insider": "Khan Nick",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "3356",
+      "price": "181.13",
       "type": "S",
-      "value": 555037.5
+      "value": 607872.28
     },
     {
       "ticker": "HRL",
@@ -420,17 +277,6 @@
       "value": 472620.0
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "Garfield Mark S.",
-      "position": "Chief Accounting Officer",
-      "date": "2026-07-05",
-      "shares": "3490",
-      "price": "135.40",
-      "type": "F",
-      "value": 472546.0
-    },
-    {
       "ticker": "XYZ",
       "company": "Block, Inc.",
       "insider": "Eisen Anthony Mathew",
@@ -451,6 +297,17 @@
       "price": "837.58",
       "type": "S",
       "value": 443917.4
+    },
+    {
+      "ticker": "ADI",
+      "company": "ANALOG DEVICES INC",
+      "insider": "Golz Karen",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "1000",
+      "price": "389.83",
+      "type": "S",
+      "value": 389830.0
     },
     {
       "ticker": "ABNB",
@@ -497,28 +354,6 @@
       "value": 257931.30000000002
     },
     {
-      "ticker": "INCY",
-      "company": "INCYTE CORP",
-      "insider": "Stein Steven H",
-      "position": "CMO & Head of Late-Stage Dev.",
-      "date": "2026-07-02",
-      "shares": "2177",
-      "price": "116.86",
-      "type": "F",
-      "value": 254404.22
-    },
-    {
-      "ticker": "ECHO",
-      "company": "EchoStar CORP",
-      "insider": "Hershman Lisa W.",
-      "position": null,
-      "date": "2026-07-01",
-      "shares": "10000",
-      "price": "24.49",
-      "type": "M",
-      "value": 244899.99999999997
-    },
-    {
       "ticker": "PANW",
       "company": "Palo Alto Networks Inc",
       "insider": "Thorning-Schmidt Helle",
@@ -528,17 +363,6 @@
       "price": "346.85",
       "type": "S",
       "value": 242795.00000000003
-    },
-    {
-      "ticker": "FTV",
-      "company": "Fortive Corp",
-      "insider": "Soroye Olumide",
-      "position": "President & CEO",
-      "date": "2026-07-02",
-      "shares": "3777",
-      "price": "62.65",
-      "type": "F",
-      "value": 236629.05
     },
     {
       "ticker": "SBUX",
@@ -552,6 +376,17 @@
       "value": 231816.0
     },
     {
+      "ticker": "RVI",
+      "company": "Robinhood Ventures Fund I",
+      "insider": "Robinhood Markets, Inc.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "7069",
+      "price": "30.88",
+      "type": "S",
+      "value": 218290.72
+    },
+    {
       "ticker": "AON",
       "company": "Aon plc",
       "insider": "Zeidel Darren",
@@ -561,17 +396,6 @@
       "price": "360",
       "type": "S",
       "value": 216000.0
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "insider": "Treseder Oluwadara Johnson",
-      "position": null,
-      "date": "2026-07-02",
-      "shares": "1875",
-      "price": "115",
-      "type": "S",
-      "value": 215625.0
     },
     {
       "ticker": "WAB",
@@ -618,15 +442,26 @@
       "value": 196175.0
     },
     {
-      "ticker": "REGN",
-      "company": "REGENERON PHARMACEUTICALS, INC.",
-      "insider": "RYAN ARTHUR F",
-      "position": null,
-      "date": "2026-07-02",
-      "shares": "200",
-      "price": "650.15",
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "insider": "O'Callahan Elizabeth M",
+      "position": "EVP, Chief Admin. Officer",
+      "date": "2026-07-10",
+      "shares": "1000",
+      "price": "170.92",
       "type": "S",
-      "value": 130030.0
+      "value": 170920.0
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "insider": "Garfield Mark S.",
+      "position": "Chief Accounting Officer",
+      "date": "2026-07-10",
+      "shares": "918",
+      "price": "142.19",
+      "type": "S",
+      "value": 130530.42
     },
     {
       "ticker": "CRWD",
@@ -638,17 +473,6 @@
       "price": "188.55",
       "type": "S",
       "value": 128214.00000000001
-    },
-    {
-      "ticker": "ECHO",
-      "company": "EchoStar CORP",
-      "insider": "Dodge R Stanton",
-      "position": null,
-      "date": "2026-07-01",
-      "shares": "5000",
-      "price": "24.49",
-      "type": "M",
-      "value": 122449.99999999999
     },
     {
       "ticker": "RVI",
@@ -671,6 +495,17 @@
       "price": "540",
       "type": "S",
       "value": 108000.0
+    },
+    {
+      "ticker": "QCOM",
+      "company": "QUALCOMM INC/DE",
+      "insider": "Palkhiwala Akash J.",
+      "position": "EVP, CFO & COO",
+      "date": "2026-07-14",
+      "shares": "581",
+      "price": "178.268",
+      "type": "S",
+      "value": 103573.708
     },
     {
       "ticker": "HUBB",
@@ -739,17 +574,6 @@
       "value": 57783.2632
     },
     {
-      "ticker": "GDDY",
-      "company": "GoDaddy Inc.",
-      "insider": "Sine Jared F.",
-      "position": "Chief Strategy & Legal Officer",
-      "date": "2026-07-02",
-      "shares": "644",
-      "price": "87.53",
-      "type": "S",
-      "value": 56369.32
-    },
-    {
       "ticker": "HOOD",
       "company": "Robinhood Markets, Inc.",
       "insider": "Gallagher Daniel Martin Jr",
@@ -761,17 +585,6 @@
       "value": 56028.0
     },
     {
-      "ticker": "INCY",
-      "company": "INCYTE CORP",
-      "insider": "Tray Thomas",
-      "position": "Principal Accounting Officer",
-      "date": "2026-07-02",
-      "shares": "477",
-      "price": "116.86",
-      "type": "F",
-      "value": 55742.22
-    },
-    {
       "ticker": "AXON",
       "company": "AXON ENTERPRISE, INC.",
       "insider": "SMITH PATRICK W",
@@ -781,28 +594,6 @@
       "price": "626.78",
       "type": "S",
       "value": 51395.96
-    },
-    {
-      "ticker": "GNRC",
-      "company": "GENERAC HOLDINGS INC.",
-      "insider": "Taffe Norman P",
-      "position": "President Generac Home",
-      "date": "2026-07-06",
-      "shares": "200",
-      "price": "256",
-      "type": "S",
-      "value": 51200.0
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings, Inc.",
-      "insider": "Kurtz George",
-      "position": "PRESIDENT AND CEO",
-      "date": "2026-07-02",
-      "shares": "240",
-      "price": "191.33",
-      "type": "S",
-      "value": 45919.200000000004
     },
     {
       "ticker": "EW",
@@ -825,39 +616,6 @@
       "price": "176.8958",
       "type": "S",
       "value": 43516.3668
-    },
-    {
-      "ticker": "INCY",
-      "company": "INCYTE CORP",
-      "insider": "Mayes Patrick A",
-      "position": "EVP & Chief Scientific Officer",
-      "date": "2026-07-02",
-      "shares": "350",
-      "price": "116.86",
-      "type": "F",
-      "value": 40901.0
-    },
-    {
-      "ticker": "EW",
-      "company": "Edwards Lifesciences Corp",
-      "insider": "Lippis Daniel J.",
-      "position": "CVP, TAVR",
-      "date": "2026-07-07",
-      "shares": "377.0000",
-      "price": "95.1800",
-      "type": "F",
-      "value": 35882.86
-    },
-    {
-      "ticker": "DLTR",
-      "company": "DOLLAR TREE, INC.",
-      "insider": "Schumacher Steven",
-      "position": "Chief People Officer",
-      "date": "2026-07-05",
-      "shares": "282",
-      "price": "124.05",
-      "type": "F",
-      "value": 34982.1
     },
     {
       "ticker": "SHW",
@@ -893,17 +651,6 @@
       "value": 33750.528
     },
     {
-      "ticker": "ALL",
-      "company": "ALLSTATE CORP",
-      "insider": "KEANE MARGARET M",
-      "position": null,
-      "date": "2026-07-01",
-      "shares": "138",
-      "price": "243.12",
-      "type": "A",
-      "value": 33550.56
-    },
-    {
       "ticker": "JBL",
       "company": "JABIL INC",
       "insider": "Crowley Matthew",
@@ -926,15 +673,15 @@
       "value": 31160.88
     },
     {
-      "ticker": "MSI",
-      "company": "Motorola Solutions, Inc.",
-      "insider": "Lashier Mark E",
-      "position": null,
-      "date": "2026-07-03",
-      "shares": "66",
-      "price": "422.66",
-      "type": "A",
-      "value": 27895.56
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Shaffer Megan N.",
+      "position": "Group Vice President",
+      "date": "2026-07-13",
+      "shares": "466",
+      "price": "59.31",
+      "type": "F",
+      "value": 27638.460000000003
     },
     {
       "ticker": "VRSN",
@@ -946,28 +693,6 @@
       "price": "263.64",
       "type": "S",
       "value": 26364.0
-    },
-    {
-      "ticker": "COR",
-      "company": "Cencora, Inc.",
-      "insider": "Battaglia Silvana",
-      "position": "Executive Vice President",
-      "date": "2026-06-30",
-      "shares": "58.204",
-      "price": "240.533",
-      "type": "A",
-      "value": 13999.982731999999
-    },
-    {
-      "ticker": "COR",
-      "company": "Cencora, Inc.",
-      "insider": "Campbell Elizabeth S",
-      "position": "Executive Vice President",
-      "date": "2026-06-30",
-      "shares": "49.889",
-      "price": "240.533",
-      "type": "A",
-      "value": 11999.950837
     },
     {
       "ticker": "EW",
@@ -1003,6 +728,17 @@
       "value": 6744.4
     },
     {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Nichols Brian W",
+      "position": "Group VP & Controller",
+      "date": "2026-07-13",
+      "shares": "96",
+      "price": "59.31",
+      "type": "F",
+      "value": 5693.76
+    },
+    {
       "ticker": "ADI",
       "company": "ANALOG DEVICES INC",
       "insider": "STATA RAY",
@@ -1036,6 +772,17 @@
       "value": 2324.94992
     },
     {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "OLIVERA ARMANDO J",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "19",
+      "price": "84.27",
+      "type": "A",
+      "value": 1601.1299999999999
+    },
+    {
       "ticker": "UNP",
       "company": "UNION PACIFIC CORP",
       "insider": "Powers Carrie J",
@@ -1047,6 +794,17 @@
       "value": 1580.0017599999999
     },
     {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "SONNENFELD JEFFREY",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "17",
+      "price": "84.27",
+      "type": "A",
+      "value": 1432.59
+    },
+    {
       "ticker": "UNP",
       "company": "UNION PACIFIC CORP",
       "insider": "Rocker Kenyatta G",
@@ -1056,6 +814,72 @@
       "price": "286.96",
       "type": "A",
       "value": 1400.0778399999997
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "McClure Teri P",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "Gilliam Theron I",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "Smith Dacona",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "Banse Amy",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "HUDSON SHERRILL W",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
+    },
+    {
+      "ticker": "LEN, LEN.B",
+      "company": "LENNAR CORP /NEW/",
+      "insider": "Wolfe Serena",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "14",
+      "price": "84.27",
+      "type": "A",
+      "value": 1179.78
     },
     {
       "ticker": "UNP",
@@ -1073,11 +897,11 @@
       "company": "Texas Pacific Land Corp",
       "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
       "position": null,
-      "date": "2026-07-06",
+      "date": "2026-07-13",
       "shares": "1",
-      "price": "408.89",
+      "price": "411.10",
       "type": "P",
-      "value": 408.89
+      "value": 411.1
     },
     {
       "ticker": "TPL",
@@ -1100,9 +924,306 @@
       "price": "400.13",
       "type": "P",
       "value": 400.13
+    },
+    {
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corp",
+      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "position": null,
+      "date": "2026-07-08",
+      "shares": "1",
+      "price": "397.47",
+      "type": "P",
+      "value": 397.47
+    },
+    {
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corp",
+      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1",
+      "price": "385.84",
+      "type": "P",
+      "value": 385.84
+    },
+    {
+      "ticker": "COST",
+      "company": "COSTCO WHOLESALE CORP /NEW",
+      "insider": "RAIKES JEFFREY S",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "5249",
+      "price": "0",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "BBY",
+      "company": "BEST BUY CO INC",
+      "insider": "Hartman Todd G.",
+      "position": "Chief Legal and Risk Officer",
+      "date": "2026-07-07",
+      "shares": "600.0000",
+      "price": "0.0000",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings, Inc.",
+      "insider": "OLEARY DENIS",
+      "position": null,
+      "date": "2026-07-06",
+      "shares": "49500",
+      "price": "0",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "Kant Eiso Hendricus Roland Leon",
+      "position": null,
+      "date": "2026-07-08",
+      "shares": "600",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "insider": "MOHINDRA VIVEK",
+      "position": null,
+      "date": "2026-07-08",
+      "shares": "600",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Seaman Bradley S",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "109",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "DOLAN TRACI M",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "102",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "BARGABOS SHEREE L",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "43",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Cornew Kenneth W.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "2",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Hamann Jennifer L",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "18",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Sierra Luis Manuel",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "7",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies, Inc.",
+      "insider": "ALLOUCHE ARNAUD",
+      "position": "SVP",
+      "date": "2026-07-06",
+      "shares": "1474",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "insider": "Hendrick Gregory",
+      "position": null,
+      "date": "2026-06-30",
+      "shares": "146",
+      "price": "0.00",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "insider": "Purtill Sabra R.",
+      "position": null,
+      "date": "2026-06-30",
+      "shares": "163",
+      "price": "0.00",
+      "type": "A",
+      "value": 0.0
     }
   ],
   "recent_transactions": [
+    {
+      "ticker": "QCOM",
+      "company": "QUALCOMM INC/DE",
+      "insider": "Palkhiwala Akash J.",
+      "position": "EVP, CFO & COO",
+      "date": "2026-07-14",
+      "shares": "581",
+      "price": "178.268",
+      "type": "S",
+      "value": 103573.708
+    },
+    {
+      "ticker": "CHTR",
+      "company": "CHARTER COMMUNICATIONS, INC. /MO/",
+      "insider": "Liberty Broadband Corp",
+      "position": null,
+      "date": "2026-07-14",
+      "shares": "129907",
+      "price": "135.88",
+      "type": "D",
+      "value": 17651763.16
+    },
+    {
+      "ticker": "JKHY",
+      "company": "JACK HENRY & ASSOCIATES INC",
+      "insider": "Foss David B",
+      "position": null,
+      "date": "2026-07-14",
+      "shares": "1220",
+      "price": null,
+      "type": "M",
+      "value": NaN
+    },
+    {
+      "ticker": "AZO",
+      "company": "AUTOZONE INC",
+      "insider": "McCullough Mary Denise",
+      "position": "SVP Supply Chain",
+      "date": "2026-07-13",
+      "shares": "1.0000",
+      "price": "0.0000",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "TKO",
+      "company": "TKO Group Holdings, Inc.",
+      "insider": "Khan Nick",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "3356",
+      "price": "181.13",
+      "type": "S",
+      "value": 607872.28
+    },
+    {
+      "ticker": "LRCX",
+      "company": "LAM RESEARCH CORP",
+      "insider": "TALWALKAR ABHIJIT Y",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "18282",
+      "price": "335",
+      "type": "S",
+      "value": 6124470.0
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Nichols Brian W",
+      "position": "Group VP & Controller",
+      "date": "2026-07-13",
+      "shares": "96",
+      "price": "59.31",
+      "type": "F",
+      "value": 5693.76
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Shaffer Megan N.",
+      "position": "Group Vice President",
+      "date": "2026-07-13",
+      "shares": "466",
+      "price": "59.31",
+      "type": "F",
+      "value": 27638.460000000003
+    },
+    {
+      "ticker": "ADI",
+      "company": "ANALOG DEVICES INC",
+      "insider": "Golz Karen",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "1000",
+      "price": "389.83",
+      "type": "S",
+      "value": 389830.0
+    },
+    {
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corp",
+      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+      "position": null,
+      "date": "2026-07-13",
+      "shares": "1",
+      "price": "411.10",
+      "type": "P",
+      "value": 411.1
+    },
+    {
+      "ticker": "LYV",
+      "company": "Live Nation Entertainment, Inc.",
+      "insider": "Hopmans John",
+      "position": "EVP, M&A and Strategic Finance",
+      "date": "2026-07-11",
+      "shares": "6083",
+      "price": "179.79",
+      "type": "F",
+      "value": 1093662.57
+    },
     {
       "ticker": "EW",
       "company": "Edwards Lifesciences Corp",
@@ -1113,6 +1234,303 @@
       "price": "92.2100",
       "type": "F",
       "value": 10050.89
+    },
+    {
+      "ticker": "TSN",
+      "company": "TYSON FOODS, INC.",
+      "insider": "MORRIS WES",
+      "position": "Chief Operating Officer",
+      "date": "2026-07-10",
+      "shares": "25938.094",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "TSN",
+      "company": "TYSON FOODS, INC.",
+      "insider": "Schomburger Jeffrey K",
+      "position": "President & CEO Elect",
+      "date": "2026-07-10",
+      "shares": "48417.776",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RVI",
+      "company": "Robinhood Ventures Fund I",
+      "insider": "Robinhood Markets, Inc.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "7069",
+      "price": "30.88",
+      "type": "S",
+      "value": 218290.72
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "insider": "Garfield Mark S.",
+      "position": "Chief Accounting Officer",
+      "date": "2026-07-10",
+      "shares": "918",
+      "price": "142.19",
+      "type": "S",
+      "value": 130530.42
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "SANDS RICHARD",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Flatley Edith Morgan",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "187",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Madero Garza Jose Manuel",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "SANDS ROBERT",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Clark Christy",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Zaramella Luca",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Hernandez Ernesto M",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Daniels Jennifer",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Fink Nicholas I.",
+      "position": "President & CEO",
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "MCCARTHY DANIEL J",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "GILES WILLIAM T",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "STZ",
+      "company": "CONSTELLATION BRANDS, INC.",
+      "insider": "Baldwin Christopher J",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1114",
+      "price": "0",
+      "type": "M",
+      "value": 0.0
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks, Inc.",
+      "insider": "Ullal Jayshree",
+      "position": "CEO and Chairperson",
+      "date": "2026-07-10",
+      "shares": "36888",
+      "price": "187.1756",
+      "type": "S",
+      "value": 6904533.5328
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "GEORGE MICHAEL A",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "Findley Linda",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "Cupp Debra S.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "JARRETT VALERIE B",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "Zhang Wei",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "AHRENDTS ANGELA J",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "LAUREN RALPH",
+      "position": "Exec. Chair, Chief Creative",
+      "date": "2026-07-10",
+      "shares": "1334.25",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "BENNACK FRANK A JR",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "RL",
+      "company": "RALPH LAUREN CORP",
+      "insider": "Walker Darren",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "1.49",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "insider": "O'Callahan Elizabeth M",
+      "position": "EVP, Chief Admin. Officer",
+      "date": "2026-07-10",
+      "shares": "1000",
+      "price": "170.92",
+      "type": "S",
+      "value": 170920.0
     },
     {
       "ticker": "ISRG",
@@ -1137,6 +1555,50 @@
       "value": 44988.920000000006
     },
     {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "insider": "Brazeal Mark David",
+      "position": "Chief Legal & Corp Affairs Ofc",
+      "date": "2026-07-10",
+      "shares": "25000",
+      "price": "401.329",
+      "type": "S",
+      "value": 10033225.0
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "insider": "DELLY GAYLA J",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "500",
+      "price": "0",
+      "type": "G",
+      "value": 0.0
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "insider": "SLTA IV (GP), L.L.C.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "89222",
+      "price": null,
+      "type": "J",
+      "value": NaN
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "insider": "SLTA V (GP), L.L.C.",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "89222",
+      "price": null,
+      "type": "J",
+      "value": NaN
+    },
+    {
       "ticker": "TPL",
       "company": "Texas Pacific Land Corp",
       "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
@@ -1148,510 +1610,48 @@
       "value": 385.84
     },
     {
-      "ticker": "UNP",
-      "company": "UNION PACIFIC CORP",
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Sierra Luis Manuel",
+      "position": null,
+      "date": "2026-07-10",
+      "shares": "7",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
       "insider": "Hamann Jennifer L",
-      "position": "EVP & CHIEF FINANCIAL OFFICER",
-      "date": "2026-07-10",
-      "shares": "8.102",
-      "price": "286.96",
-      "type": "A",
-      "value": 2324.94992
-    },
-    {
-      "ticker": "UNP",
-      "company": "UNION PACIFIC CORP",
-      "insider": "Rocker Kenyatta G",
-      "position": "EVP MARKETING & SALES",
-      "date": "2026-07-10",
-      "shares": "4.879",
-      "price": "286.96",
-      "type": "A",
-      "value": 1400.0778399999997
-    },
-    {
-      "ticker": "UNP",
-      "company": "UNION PACIFIC CORP",
-      "insider": "Jalali Rahul",
-      "position": "EVP & CHIEF INFORMATION OFFICE",
-      "date": "2026-07-10",
-      "shares": "8.364",
-      "price": "286.96",
-      "type": "A",
-      "value": 2400.13344
-    },
-    {
-      "ticker": "UNP",
-      "company": "UNION PACIFIC CORP",
-      "insider": "Powers Carrie J",
-      "position": "VP & CONTROLLER",
-      "date": "2026-07-10",
-      "shares": "5.506",
-      "price": "286.96",
-      "type": "A",
-      "value": 1580.0017599999999
-    },
-    {
-      "ticker": "UNP",
-      "company": "UNION PACIFIC CORP",
-      "insider": "Conlin Christina B",
-      "position": "EVP CHIEF LEGAL OFFICER & CORP",
-      "date": "2026-07-10",
-      "shares": "2.213",
-      "price": "286.96",
-      "type": "A",
-      "value": 635.04248
-    },
-    {
-      "ticker": "CSCO",
-      "company": "CISCO SYSTEMS, INC.",
-      "insider": "Tuszik Oliver",
-      "position": "EVP, Global Sales",
-      "date": "2026-07-10",
-      "shares": "2259.076",
-      "price": "118.31",
-      "type": "F",
-      "value": 267271.28156000003
-    },
-    {
-      "ticker": "CASY",
-      "company": "CASEYS GENERAL STORES INC",
-      "insider": "Koschel Williams Ena",
-      "position": "Chief Operating Officer",
-      "date": "2026-07-09",
-      "shares": "2800",
-      "price": "833.69",
-      "type": "S",
-      "value": 2334332.0
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "insider": "DUFFIELD DAVID A",
       "position": null,
-      "date": "2026-07-09",
-      "shares": "107500",
-      "price": "0",
-      "type": "C",
-      "value": 0.0
-    },
-    {
-      "ticker": "ANET",
-      "company": "Arista Networks, Inc.",
-      "insider": "Ullal Jayshree",
-      "position": "CEO and Chairperson",
-      "date": "2026-07-09",
-      "shares": "12005",
-      "price": "187.3122",
-      "type": "S",
-      "value": 2248682.9609999997
-    },
-    {
-      "ticker": "XYZ",
-      "company": "Block, Inc.",
-      "insider": "Eisen Anthony Mathew",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "6000",
-      "price": "76.14",
-      "type": "S",
-      "value": 456840.0
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog, Inc.",
-      "insider": "Agarwal Amit",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "20000",
-      "price": null,
-      "type": "C",
-      "value": NaN
-    },
-    {
-      "ticker": "DPZ",
-      "company": "DOMINOS PIZZA INC",
-      "insider": "GARCIA KELLY E",
-      "position": "EVP,  Chief Tech & Data Ofcr",
-      "date": "2026-07-09",
-      "shares": "487",
-      "price": "136.89",
-      "type": "M",
-      "value": 66665.43
-    },
-    {
-      "ticker": "TTD",
-      "company": "Trade Desk, Inc.",
-      "insider": "Olmstead Nathan",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-09",
-      "shares": "246062",
+      "date": "2026-07-10",
+      "shares": "18",
       "price": "0",
       "type": "A",
       "value": 0.0
     },
     {
-      "ticker": "HSY",
-      "company": "HERSHEY CO",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "Cornew Kenneth W.",
       "position": null,
-      "date": "2026-07-09",
-      "shares": "338",
-      "price": "170.9564",
-      "type": "S",
-      "value": 57783.2632
-    },
-    {
-      "ticker": "EW",
-      "company": "Edwards Lifesciences Corp",
-      "insider": "Mistras Theodora",
-      "position": "CVP, Chief Financial Officer",
-      "date": "2026-07-09",
-      "shares": "87595.0000",
-      "price": "0.0000",
-      "type": "A",
-      "value": 0.0
-    },
-    {
-      "ticker": "AMP",
-      "company": "AMERIPRISE FINANCIAL INC",
-      "insider": "HUNTER PETRUZILLO KELLI A.",
-      "position": "Exec VP of Human Resources",
-      "date": "2026-07-09",
-      "shares": "207.185",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "AMP",
-      "company": "AMERIPRISE FINANCIAL INC",
-      "insider": "Williams William Jerryl",
-      "position": "Pres, Wealth Mgmt Advisor Grp",
-      "date": "2026-07-09",
-      "shares": "53.9843",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "AMP",
-      "company": "AMERIPRISE FINANCIAL INC",
-      "insider": "TRUSCOTT WILLIAM F",
-      "position": "CEO, GLOBAL ASSET MANAGEMENT",
-      "date": "2026-07-09",
-      "shares": "391.6398",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "AMP",
-      "company": "AMERIPRISE FINANCIAL INC",
-      "insider": "Brockman Dawn M.",
-      "position": "SVP AND CONTROLLER",
-      "date": "2026-07-09",
-      "shares": "26.0401",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Partners V DE (AIV), L.P.",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "48990",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "SL SPV-2, L.P.",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "88164",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Partners IV, L.P.",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "90504",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Technology Investors IV, L.P.",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "1332",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Technology Investors V, L.P.",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "600",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "TPL",
-      "company": "Texas Pacific Land Corp",
-      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "position": null,
-      "date": "2026-07-09",
-      "shares": "1",
-      "price": "400.13",
-      "type": "P",
-      "value": 400.13
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings, Inc.",
-      "insider": "Kurtz George",
-      "position": "PRESIDENT AND CEO",
-      "date": "2026-07-09",
-      "shares": "680",
-      "price": "188.55",
-      "type": "S",
-      "value": 128214.00000000001
-    },
-    {
-      "ticker": "PSX",
-      "company": "Phillips 66",
-      "insider": "Mitchell Kevin J",
-      "position": "Exec. VP and CFO",
-      "date": "2026-07-09",
-      "shares": "11021",
-      "price": "94.9675",
-      "type": "M",
-      "value": 1046636.8175
-    },
-    {
-      "ticker": "CASY",
-      "company": "CASEYS GENERAL STORES INC",
-      "insider": "Wing Allison M.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "530",
-      "price": "837.58",
-      "type": "S",
-      "value": 443917.4
-    },
-    {
-      "ticker": "CASY",
-      "company": "CASEYS GENERAL STORES INC",
-      "insider": "Bramlage Stephen P JR",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-08",
-      "shares": "5700",
-      "price": "838.16",
-      "type": "S",
-      "value": 4777512.0
-    },
-    {
-      "ticker": "VRSN",
-      "company": "VERISIGN INC/CA",
-      "insider": "Indelicarto Thomas C",
-      "position": "EVP, Gen Counsel & Secretary",
-      "date": "2026-07-08",
-      "shares": "250",
-      "price": "269.23",
-      "type": "S",
-      "value": 67307.5
-    },
-    {
-      "ticker": "RVI",
-      "company": "Robinhood Ventures Fund I",
-      "insider": "Robinhood Markets, Inc.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "10041",
-      "price": "30.55",
-      "type": "S",
-      "value": 306752.55
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog, Inc.",
-      "insider": "Le-Quoc Alexis",
-      "position": "Chief Technology Officer",
-      "date": "2026-07-08",
-      "shares": "43224",
-      "price": null,
-      "type": "C",
-      "value": NaN
-    },
-    {
-      "ticker": "HRL",
-      "company": "HORMEL FOODS CORP /DE/",
-      "insider": "Bhojwani Gary C.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "20200",
-      "price": "24.5128",
-      "type": "S",
-      "value": 495158.56
-    },
-    {
-      "ticker": "DPZ",
-      "company": "DOMINOS PIZZA INC",
-      "insider": "PITTENGER MAUREEN",
-      "position": "EVP, Chief HR Officer",
-      "date": "2026-07-08",
-      "shares": "229",
-      "price": "302.35",
-      "type": "F",
-      "value": 69238.15000000001
-    },
-    {
-      "ticker": "HSY",
-      "company": "HERSHEY CO",
-      "insider": "Arends Mitchell Andrew",
-      "position": "SVP Chief Supply Chain Officer",
-      "date": "2026-07-08",
-      "shares": "3843",
+      "date": "2026-07-10",
+      "shares": "2",
       "price": "0",
       "type": "A",
       "value": 0.0
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "insider": "DELLY GAYLA J",
+      "ticker": "STLD",
+      "company": "STEEL DYNAMICS INC",
+      "insider": "BARGABOS SHEREE L",
       "position": null,
-      "date": "2026-07-08",
-      "shares": "1890",
-      "price": "385.38",
-      "type": "S",
-      "value": 728368.2
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "insider": "Brazeal Mark David",
-      "position": "Chief Legal & Corp Affairs Ofc",
-      "date": "2026-07-08",
-      "shares": "25000",
-      "price": "379.188",
-      "type": "S",
-      "value": 9479700.0
-    },
-    {
-      "ticker": "CHRW",
-      "company": "C. H. ROBINSON WORLDWIDE, INC.",
-      "insider": "Lee Damon J.",
-      "position": "Chief Financial Officer",
-      "date": "2026-07-08",
-      "shares": "4698",
-      "price": "190.95",
-      "type": "F",
-      "value": 897083.1
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Technology Investors IV, L.P.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "1412",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "SL SPV-2, L.P.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "93479",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Partners V DE (AIV), L.P.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "51943",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Technology Investors V, L.P.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "637",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "insider": "Silver Lake Partners IV, L.P.",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "95960",
-      "price": null,
-      "type": "M",
-      "value": NaN
-    },
-    {
-      "ticker": "TPL",
-      "company": "Texas Pacific Land Corp",
-      "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-      "position": null,
-      "date": "2026-07-08",
-      "shares": "1",
-      "price": "397.47",
-      "type": "P",
-      "value": 397.47
-    },
-    {
-      "ticker": "ED",
-      "company": "CONSOLIDATED EDISON INC",
-      "insider": "Andrews Kirkland B",
-      "position": "SVP & CFO",
-      "date": "2026-07-08",
-      "shares": "8524",
-      "price": "112.09",
-      "type": "F",
-      "value": 955455.16
-    },
-    {
-      "ticker": "J",
-      "company": "JACOBS SOLUTIONS INC.",
-      "insider": "Miller Shannon",
-      "position": "President",
-      "date": "2026-07-08",
-      "shares": "52",
-      "price": "129.70",
-      "type": "F",
-      "value": 6744.4
+      "date": "2026-07-10",
+      "shares": "43",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
     }
   ]
 }
