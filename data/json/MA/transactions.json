@@ -1,20 +1,32 @@
 {
   "ticker": "MA",
-  "last_updated": "2026-07-15T10:07:19.981734",
+  "last_updated": "2026-07-16T10:13:18.534924",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 31,
+      "id": 32,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "McLaughlin Edward Grunde",
+      "reporting_owner_cik": "0001704831",
+      "reporting_owner_position": "President & CTO, MA Tech",
+      "transaction_date": "2026-07-15",
+      "transaction_shares": "19800",
+      "transaction_price": "227.25",
+      "transaction_type": "M",
+      "shares_after_transaction": "58539.396"
+    },
+    {
+      "id": 33,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "Arkell Sandra A",
       "reporting_owner_cik": "0001649899",
       "reporting_owner_position": "Controller",
-      "transaction_date": "2026-07-06",
+      "transaction_date": "2026-07-14",
       "transaction_shares": "200",
       "transaction_price": "540",
       "transaction_type": "S",
-      "shares_after_transaction": "3321.969"
+      "shares_after_transaction": "2921.969"
     }
   ]
 }
