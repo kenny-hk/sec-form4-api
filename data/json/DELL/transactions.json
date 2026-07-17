@@ -1,11 +1,11 @@
 {
   "ticker": "DELL",
-  "last_updated": "2026-07-16T10:13:18.534924",
+  "last_updated": "2026-07-17T10:02:48.093894",
   "retention_years": 3,
   "count": 12,
   "transactions": [
     {
-      "id": 72,
+      "id": 6,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA V (GP), L.L.C.",
       "reporting_owner_cik": "0001737652",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 76,
+      "id": 14,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SLTA IV (GP), L.L.C.",
       "reporting_owner_cik": "0001672568",
@@ -29,31 +29,7 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 70,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Silver Lake Technology Investors V, L.P.",
-      "reporting_owner_cik": "0001735863",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-09",
-      "transaction_shares": "600",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "600"
-    },
-    {
-      "id": 73,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Silver Lake Technology Investors IV, L.P.",
-      "reporting_owner_cik": "0001672565",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-09",
-      "transaction_shares": "1332",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "1332"
-    },
-    {
-      "id": 77,
+      "id": 7,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Silver Lake Partners IV, L.P.",
       "reporting_owner_cik": "0001552054",
@@ -65,19 +41,7 @@
       "shares_after_transaction": "136696"
     },
     {
-      "id": 78,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "SL SPV-2, L.P.",
-      "reporting_owner_cik": "0001767114",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-09",
-      "transaction_shares": "88164",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "148715"
-    },
-    {
-      "id": 80,
+      "id": 10,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Silver Lake Partners V DE (AIV), L.P.",
       "reporting_owner_cik": "0001737659",
@@ -89,43 +53,43 @@
       "shares_after_transaction": "78830"
     },
     {
-      "id": 69,
+      "id": 11,
       "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Silver Lake Partners IV, L.P.",
-      "reporting_owner_cik": "0001552054",
+      "reporting_owner": "Silver Lake Technology Investors IV, L.P.",
+      "reporting_owner_cik": "0001672565",
       "reporting_owner_position": null,
-      "transaction_date": "2026-07-08",
-      "transaction_shares": "95960",
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "1332",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "119044"
+      "shares_after_transaction": "1332"
     },
     {
-      "id": 71,
+      "id": 16,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Silver Lake Technology Investors V, L.P.",
       "reporting_owner_cik": "0001735863",
       "reporting_owner_position": null,
-      "transaction_date": "2026-07-08",
-      "transaction_shares": "637",
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "600",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "637"
+      "shares_after_transaction": "600"
     },
     {
-      "id": 74,
+      "id": 17,
       "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Silver Lake Partners V DE (AIV), L.P.",
-      "reporting_owner_cik": "0001737659",
+      "reporting_owner": "SL SPV-2, L.P.",
+      "reporting_owner_cik": "0001767114",
       "reporting_owner_position": null,
-      "transaction_date": "2026-07-08",
-      "transaction_shares": "51943",
+      "transaction_date": "2026-07-09",
+      "transaction_shares": "88164",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "66844"
+      "shares_after_transaction": "148715"
     },
     {
-      "id": 75,
+      "id": 8,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "SL SPV-2, L.P.",
       "reporting_owner_cik": "0001767114",
@@ -137,7 +101,31 @@
       "shares_after_transaction": "123646"
     },
     {
-      "id": 79,
+      "id": 9,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Silver Lake Technology Investors V, L.P.",
+      "reporting_owner_cik": "0001735863",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-08",
+      "transaction_shares": "637",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "637"
+    },
+    {
+      "id": 12,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Silver Lake Partners IV, L.P.",
+      "reporting_owner_cik": "0001552054",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-08",
+      "transaction_shares": "95960",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "119044"
+    },
+    {
+      "id": 13,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Silver Lake Technology Investors IV, L.P.",
       "reporting_owner_cik": "0001672565",
@@ -147,6 +135,18 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "1412"
+    },
+    {
+      "id": 15,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "Silver Lake Partners V DE (AIV), L.P.",
+      "reporting_owner_cik": "0001737659",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-08",
+      "transaction_shares": "51943",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "66844"
     }
   ]
 }
