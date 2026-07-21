@@ -1,7 +1,32 @@
 {
   "ticker": "HONA",
-  "last_updated": "2026-07-08T10:27:33.374844",
+  "last_updated": "2026-07-21T10:31:06.653941",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 148,
+      "issuer_name": "Honeywell Aerospace Inc.",
+      "reporting_owner": "Currier James E",
+      "reporting_owner_cik": "0001986198",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-07-16",
+      "transaction_shares": "3253.2358",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "5514.2358"
+    },
+    {
+      "id": 149,
+      "issuer_name": "Honeywell Aerospace Inc.",
+      "reporting_owner": "Arlak Karen Elizabeth",
+      "reporting_owner_cik": "0002136624",
+      "reporting_owner_position": "SVP and CHRO",
+      "transaction_date": "2026-07-16",
+      "transaction_shares": "1756.5331",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "4363.3471"
+    }
+  ]
 }
