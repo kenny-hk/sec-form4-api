@@ -2,11 +2,23 @@
   "ticker": "CRWD",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-22T10:30:50.041972",
-  "count": 4,
+  "last_updated": "2026-07-23T10:30:31.332972",
+  "count": 3,
   "transactions": [
     {
-      "id": 238,
+      "id": 254,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Kurtz George",
+      "reporting_owner_cik": "0001778564",
+      "reporting_owner_position": "PRESIDENT AND CEO",
+      "transaction_date": "2026-07-21",
+      "transaction_shares": "1608",
+      "transaction_price": "190.54",
+      "transaction_type": "S",
+      "shares_after_transaction": "8171936"
+    },
+    {
+      "id": 253,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8193464"
     },
     {
-      "id": 237,
+      "id": 252,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -28,30 +40,6 @@
       "transaction_price": "205.95",
       "transaction_type": "S",
       "shares_after_transaction": "8212667"
-    },
-    {
-      "id": 236,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2026-07-13",
-      "transaction_shares": "200",
-      "transaction_price": "181.93",
-      "transaction_type": "S",
-      "shares_after_transaction": "8233344"
-    },
-    {
-      "id": 239,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "OLEARY DENIS",
-      "reporting_owner_cik": "0001253512",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-13",
-      "transaction_shares": "14500",
-      "transaction_price": "187.87",
-      "transaction_type": "S",
-      "shares_after_transaction": "35000"
     }
   ]
 }
