@@ -1,11 +1,11 @@
 {
   "ticker": "BLK",
-  "last_updated": "2026-07-23T10:30:31.332972",
+  "last_updated": "2026-07-24T10:23:10.157324",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 283,
+      "id": 282,
       "issuer_name": "BlackRock, Inc.",
       "reporting_owner": "FINK LAURENCE",
       "reporting_owner_cik": "0001059245",
@@ -15,6 +15,18 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "215979"
+    },
+    {
+      "id": 283,
+      "issuer_name": "BlackRock, Inc.",
+      "reporting_owner": "Meade Christopher J.",
+      "reporting_owner_cik": "0001689023",
+      "reporting_owner_position": "General Counsel and CLO",
+      "transaction_date": "2026-07-16",
+      "transaction_shares": "18095",
+      "transaction_price": "513.50",
+      "transaction_type": "M",
+      "shares_after_transaction": "32154"
     },
     {
       "id": 284,
@@ -27,18 +39,6 @@
       "transaction_price": "1080.57",
       "transaction_type": "S",
       "shares_after_transaction": "223831"
-    },
-    {
-      "id": 285,
-      "issuer_name": "BlackRock, Inc.",
-      "reporting_owner": "Meade Christopher J.",
-      "reporting_owner_cik": "0001689023",
-      "reporting_owner_position": "General Counsel and CLO",
-      "transaction_date": "2026-07-16",
-      "transaction_shares": "18095",
-      "transaction_price": "513.50",
-      "transaction_type": "M",
-      "shares_after_transaction": "32154"
     }
   ]
 }

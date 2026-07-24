@@ -1,7 +1,32 @@
 {
   "ticker": "VRTX",
-  "last_updated": "2026-07-23T10:30:31.332972",
+  "last_updated": "2026-07-24T10:23:10.157324",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 124,
+      "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+      "reporting_owner": "Tatsis Ourania",
+      "reporting_owner_cik": "0001789815",
+      "reporting_owner_position": "EVP, Chief Reg. & Quality Off.",
+      "transaction_date": "2026-07-21",
+      "transaction_shares": "8251",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "53572"
+    },
+    {
+      "id": 126,
+      "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+      "reporting_owner": "Sachdev Amit",
+      "reporting_owner_cik": "0001406338",
+      "reporting_owner_position": "EVP Chief Patient & Ext Af Off",
+      "transaction_date": "2026-07-21",
+      "transaction_shares": "8251",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "66512"
+    }
+  ]
 }

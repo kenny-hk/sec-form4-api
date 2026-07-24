@@ -2,11 +2,23 @@
   "ticker": "FLEX",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-23T10:30:31.332972",
+  "last_updated": "2026-07-24T10:23:10.157324",
   "count": 3,
   "transactions": [
     {
-      "id": 17,
+      "id": 154,
+      "issuer_name": "FLEX LTD.",
+      "reporting_owner": "HURLSTON MICHAEL E.",
+      "reporting_owner_cik": "0001573338",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-15",
+      "transaction_shares": "174",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "59358"
+    },
+    {
+      "id": 155,
       "issuer_name": "FLEX LTD.",
       "reporting_owner": "Tan Lay Koon",
       "reporting_owner_cik": "0001543262",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "208906"
     },
     {
-      "id": 18,
+      "id": 156,
       "issuer_name": "FLEX LTD.",
       "reporting_owner": "WATKINS WILLIAM D",
       "reporting_owner_cik": "0001233433",
@@ -28,18 +40,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "98908"
-    },
-    {
-      "id": 19,
-      "issuer_name": "FLEX LTD.",
-      "reporting_owner": "HURLSTON MICHAEL E.",
-      "reporting_owner_cik": "0001573338",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-15",
-      "transaction_shares": "174",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "59358"
     }
   ]
 }

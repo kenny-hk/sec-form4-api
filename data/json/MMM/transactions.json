@@ -1,20 +1,32 @@
 {
   "ticker": "MMM",
-  "last_updated": "2026-07-09T11:06:33.903796",
+  "last_updated": "2026-07-24T10:23:10.157324",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 389,
+      "id": 96,
       "issuer_name": "3M CO",
-      "reporting_owner": "Bauer Wendy A",
-      "reporting_owner_cik": "0002025856",
+      "reporting_owner": "Goralski Christian T JR",
+      "reporting_owner_cik": "0001973503",
       "reporting_owner_position": "Group President",
-      "transaction_date": "2026-07-01",
-      "transaction_shares": "7952",
-      "transaction_price": "159.96",
+      "transaction_date": "2026-07-22",
+      "transaction_shares": "4902",
+      "transaction_price": "154.69",
       "transaction_type": "M",
-      "shares_after_transaction": "12644"
+      "shares_after_transaction": "11873.28"
+    },
+    {
+      "id": 97,
+      "issuer_name": "3M CO",
+      "reporting_owner": "Rhodes Kevin H",
+      "reporting_owner_cik": "0001901300",
+      "reporting_owner_position": "EVP, Chief Legal Off & Secret",
+      "transaction_date": "2026-07-22",
+      "transaction_shares": "7669",
+      "transaction_price": "154.69",
+      "transaction_type": "M",
+      "shares_after_transaction": "51448.9933"
     }
   ]
 }
