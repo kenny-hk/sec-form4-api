@@ -2,11 +2,23 @@
   "ticker": "HSY",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-27T11:28:47.933310",
+  "last_updated": "2026-07-28T10:39:50.425397",
   "count": 3,
   "transactions": [
     {
-      "id": 149,
+      "id": 154,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-23",
+      "transaction_shares": "1266",
+      "transaction_price": "169.7651",
+      "transaction_type": "S",
+      "shares_after_transaction": "1174853"
+    },
+    {
+      "id": 153,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Voskuil Steven E",
       "reporting_owner_cik": "0001622634",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "53195"
     },
     {
-      "id": 151,
+      "id": 155,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -28,18 +40,6 @@
       "transaction_price": "168.8400",
       "transaction_type": "S",
       "shares_after_transaction": "1206101"
-    },
-    {
-      "id": 150,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-16",
-      "transaction_shares": "633",
-      "transaction_price": "171.5830",
-      "transaction_type": "S",
-      "shares_after_transaction": "1225486"
     }
   ]
 }
