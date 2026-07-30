@@ -1,20 +1,56 @@
 {
   "ticker": "GM",
-  "last_updated": "2026-06-25T10:47:30.635479",
+  "last_updated": "2026-07-30T10:28:46.489453",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 49,
+      "id": 15,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Hatto Christopher",
+      "reporting_owner_cik": "0001292153",
+      "reporting_owner_position": "Vice President & CAO",
+      "transaction_date": "2026-07-28",
+      "transaction_shares": "6895",
+      "transaction_price": "90",
+      "transaction_type": "S",
+      "shares_after_transaction": "18899"
+    },
+    {
+      "id": 17,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Reuss Mark L",
+      "reporting_owner_cik": "0001492362",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-07-28",
+      "transaction_shares": "71079",
+      "transaction_price": "49.46",
+      "transaction_type": "M",
+      "shares_after_transaction": "163372"
+    },
+    {
+      "id": 14,
       "issuer_name": "General Motors Co",
       "reporting_owner": "Barra Mary T",
       "reporting_owner_cik": "0001492154",
       "reporting_owner_position": "Chair & CEO",
-      "transaction_date": "2026-06-16",
-      "transaction_shares": "6867",
-      "transaction_price": "41.40",
+      "transaction_date": "2026-07-27",
+      "transaction_shares": "49495",
+      "transaction_price": "52.16",
       "transaction_type": "M",
-      "shares_after_transaction": "599109"
+      "shares_after_transaction": "641737"
+    },
+    {
+      "id": 16,
+      "issuer_name": "General Motors Co",
+      "reporting_owner": "Harvey Rory",
+      "reporting_owner_cik": "0001976795",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-07-27",
+      "transaction_shares": "8882",
+      "transaction_price": "86.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "28513"
     }
   ]
 }
