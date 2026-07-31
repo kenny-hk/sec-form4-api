@@ -1,11 +1,11 @@
 {
   "ticker": "KO",
-  "last_updated": "2026-07-30T10:28:46.489453",
+  "last_updated": "2026-07-31T10:44:13.195467",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 151,
+      "id": 136,
       "issuer_name": "COCA COLA CO",
       "reporting_owner": "Pietracci Bruno",
       "reporting_owner_cik": "0001962117",
@@ -15,6 +15,18 @@
       "transaction_price": "59.485",
       "transaction_type": "M",
       "shares_after_transaction": "35393"
+    },
+    {
+      "id": 137,
+      "issuer_name": "COCA COLA CO",
+      "reporting_owner": "Quincey James",
+      "reporting_owner_cik": "0001561264",
+      "reporting_owner_position": "Chairman",
+      "transaction_date": "2026-07-28",
+      "transaction_shares": "381140",
+      "transaction_price": "45.435",
+      "transaction_type": "M",
+      "shares_after_transaction": "503973"
     }
   ]
 }
