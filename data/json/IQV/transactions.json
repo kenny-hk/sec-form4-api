@@ -1,7 +1,44 @@
 {
   "ticker": "IQV",
-  "last_updated": "2026-07-23T10:30:31.332972",
+  "last_updated": "2026-08-01T10:03:25.653162",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 40,
+      "issuer_name": "IQVIA HOLDINGS INC.",
+      "reporting_owner": "BOUSBIB ARI",
+      "reporting_owner_cik": "0001184180",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-07-29",
+      "transaction_shares": "156206",
+      "transaction_price": "78.21",
+      "transaction_type": "M",
+      "shares_after_transaction": "992147"
+    },
+    {
+      "id": 41,
+      "issuer_name": "IQVIA HOLDINGS INC.",
+      "reporting_owner": "Sherbet Eric",
+      "reporting_owner_cik": "0001679512",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-07-29",
+      "transaction_shares": "5000",
+      "transaction_price": "249.16",
+      "transaction_type": "S",
+      "shares_after_transaction": "20999"
+    },
+    {
+      "id": 42,
+      "issuer_name": "IQVIA HOLDINGS INC.",
+      "reporting_owner": "Cherofsky Keriann",
+      "reporting_owner_cik": "0001940591",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-07-29",
+      "transaction_shares": "558",
+      "transaction_price": "245.21",
+      "transaction_type": "S",
+      "shares_after_transaction": "2989"
+    }
+  ]
 }

@@ -2,11 +2,23 @@
   "ticker": "XYZ",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-31T10:44:13.195467",
+  "last_updated": "2026-08-01T10:03:25.653162",
   "count": 2,
   "transactions": [
     {
-      "id": 53,
+      "id": 43,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Acosta Andrea",
+      "reporting_owner_cik": "0001818518",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-07-29",
+      "transaction_shares": "112191",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "112191"
+    },
+    {
+      "id": 44,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Eisen Anthony Mathew",
       "reporting_owner_cik": "0001933928",
@@ -16,18 +28,6 @@
       "transaction_price": "78.88",
       "transaction_type": "S",
       "shares_after_transaction": "1643672"
-    },
-    {
-      "id": 54,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Eisen Anthony Mathew",
-      "reporting_owner_cik": "0001933928",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-22",
-      "transaction_shares": "6000",
-      "transaction_price": "79.10",
-      "transaction_type": "S",
-      "shares_after_transaction": "1661672"
     }
   ]
 }
