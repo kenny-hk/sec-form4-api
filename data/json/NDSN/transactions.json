@@ -1,20 +1,44 @@
 {
   "ticker": "NDSN",
-  "last_updated": "2026-06-09T11:23:41.225656",
+  "last_updated": "2026-08-04T10:44:02.354105",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 775,
+      "id": 190,
       "issuer_name": "NORDSON CORP",
-      "reporting_owner": "Hopgood Daniel Roy",
-      "reporting_owner_cik": "0001454513",
-      "reporting_owner_position": "EVP, CFO",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "148",
-      "transaction_price": "281.31",
+      "reporting_owner": "MAPES CHRISTOPHER L",
+      "reporting_owner_cik": "0001219555",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "42",
+      "transaction_price": "297.78",
+      "transaction_type": "A",
+      "shares_after_transaction": "3025"
+    },
+    {
+      "id": 191,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "Rutledge Joseph M",
+      "reporting_owner_cik": "0002078512",
+      "reporting_owner_position": "VP, CAO",
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "274",
+      "transaction_price": "297.78",
       "transaction_type": "F",
-      "shares_after_transaction": "4758"
+      "shares_after_transaction": "2818"
+    },
+    {
+      "id": 192,
+      "issuer_name": "NORDSON CORP",
+      "reporting_owner": "DeFord John A",
+      "reporting_owner_cik": "0001403373",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "84",
+      "transaction_price": "297.78",
+      "transaction_type": "A",
+      "shares_after_transaction": "5902"
     }
   ]
 }
