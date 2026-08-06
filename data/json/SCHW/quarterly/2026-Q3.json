@@ -2,11 +2,23 @@
   "ticker": "SCHW",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-05T10:37:33.194375",
-  "count": 7,
+  "last_updated": "2026-08-06T10:46:17.663114",
+  "count": 6,
   "transactions": [
     {
-      "id": 39,
+      "id": 171,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab-Pomerantz Carolyn",
+      "reporting_owner_cik": "0001950787",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-04",
+      "transaction_shares": "22640",
+      "transaction_price": "106.362",
+      "transaction_type": "S",
+      "shares_after_transaction": "1350897.6599"
+    },
+    {
+      "id": 172,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "53925591"
     },
     {
-      "id": 41,
+      "id": 174,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Howard Dennis",
       "reporting_owner_cik": "0001825454",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "9178"
     },
     {
-      "id": 38,
+      "id": 170,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "54080841"
     },
     {
-      "id": 40,
+      "id": 173,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab-Pomerantz Carolyn",
       "reporting_owner_cik": "0001950787",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "1373808.6599"
     },
     {
-      "id": 42,
+      "id": 175,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Howard Dennis",
       "reporting_owner_cik": "0001825454",
@@ -64,30 +76,6 @@
       "transaction_price": "64.10",
       "transaction_type": "M",
       "shares_after_transaction": "38470"
-    },
-    {
-      "id": 37,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Murtagh Nigel J",
-      "reporting_owner_cik": "0001649599",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2026-07-27",
-      "transaction_shares": "32947",
-      "transaction_price": "46.81",
-      "transaction_type": "M",
-      "shares_after_transaction": "90919.4846"
-    },
-    {
-      "id": 43,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Bettinger Walter W",
-      "reporting_owner_cik": "0001296479",
-      "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2026-07-27",
-      "transaction_shares": "192488",
-      "transaction_price": "52.05",
-      "transaction_type": "M",
-      "shares_after_transaction": "721834"
     }
   ]
 }

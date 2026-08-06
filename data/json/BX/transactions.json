@@ -1,20 +1,32 @@
 {
   "ticker": "BX",
-  "last_updated": "2026-05-20T10:58:49.675456",
+  "last_updated": "2026-08-06T10:46:17.663114",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 95,
+      "id": 10,
       "issuer_name": "Blackstone Inc.",
-      "reporting_owner": "Porat Ruth",
-      "reporting_owner_cik": "0001479258",
+      "reporting_owner": "Sawhney Vikrant",
+      "reporting_owner_cik": "0001487995",
+      "reporting_owner_position": "Chief Administrative Officer",
+      "transaction_date": "2026-08-04",
+      "transaction_shares": "18408",
+      "transaction_price": "135.2941",
+      "transaction_type": "S",
+      "shares_after_transaction": "881261"
+    },
+    {
+      "id": 12,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Parrett William G",
+      "reporting_owner_cik": "0001418280",
       "reporting_owner_position": null,
-      "transaction_date": "2026-05-11",
-      "transaction_shares": "125.609",
-      "transaction_price": "122.7711",
-      "transaction_type": "P",
-      "shares_after_transaction": "41588.3735"
+      "transaction_date": "2026-08-03",
+      "transaction_shares": "1500",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "30029"
     }
   ]
 }

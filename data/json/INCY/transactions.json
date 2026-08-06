@@ -1,7 +1,32 @@
 {
   "ticker": "INCY",
-  "last_updated": "2026-08-02T10:02:10.099237",
+  "last_updated": "2026-08-06T10:46:17.663114",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 483,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "CAGNONI PABLO J",
+      "reporting_owner_cik": "0001205703",
+      "reporting_owner_position": "President, Global Head of R&D",
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "15888",
+      "transaction_price": "119.70",
+      "transaction_type": "S",
+      "shares_after_transaction": "215444"
+    },
+    {
+      "id": 484,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "Mayes Patrick A",
+      "reporting_owner_cik": "0002079962",
+      "reporting_owner_position": "EVP & Chief Scientific Officer",
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "2918",
+      "transaction_price": "61.18",
+      "transaction_type": "M",
+      "shares_after_transaction": "66546"
+    }
+  ]
 }

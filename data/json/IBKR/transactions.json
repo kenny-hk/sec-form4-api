@@ -1,20 +1,32 @@
 {
   "ticker": "IBKR",
-  "last_updated": "2026-07-08T10:27:33.374844",
+  "last_updated": "2026-08-06T10:46:17.663114",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 265,
+      "id": 417,
       "issuer_name": "Interactive Brokers Group, Inc.",
       "reporting_owner": "Conkling Lori A",
       "reporting_owner_cik": "0002067952",
       "reporting_owner_position": null,
-      "transaction_date": "2026-07-01",
+      "transaction_date": "2026-08-03",
       "transaction_shares": "25",
-      "transaction_price": "88.03",
+      "transaction_price": "87.03",
       "transaction_type": "P",
-      "shares_after_transaction": "2509"
+      "shares_after_transaction": "2534"
+    },
+    {
+      "id": 416,
+      "issuer_name": "Interactive Brokers Group, Inc.",
+      "reporting_owner": "Nemser Earl H",
+      "reporting_owner_cik": "0001391400",
+      "reporting_owner_position": "Vice Chairman",
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "803568",
+      "transaction_price": "87.99",
+      "transaction_type": "A",
+      "shares_after_transaction": "803568"
     }
   ]
 }

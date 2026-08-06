@@ -1,20 +1,32 @@
 {
   "ticker": "AMZN",
-  "last_updated": "2026-07-09T11:06:33.903796",
+  "last_updated": "2026-08-06T10:46:17.663114",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 359,
+      "id": 122,
       "issuer_name": "AMAZON COM INC",
       "reporting_owner": "Herrington Douglas J",
       "reporting_owner_cik": "0001936006",
       "reporting_owner_position": "CEO Worldwide Amazon Stores",
-      "transaction_date": "2026-07-01",
+      "transaction_date": "2026-08-03",
       "transaction_shares": "1000",
-      "transaction_price": "239.77",
+      "transaction_price": "278.39",
       "transaction_type": "S",
-      "shares_after_transaction": "484527"
+      "shares_after_transaction": "483527"
+    },
+    {
+      "id": 123,
+      "issuer_name": "AMAZON COM INC",
+      "reporting_owner": "BEZOS JEFFREY P",
+      "reporting_owner_cik": "0001043298",
+      "reporting_owner_position": "Executive Chair",
+      "transaction_date": "2026-08-03",
+      "transaction_shares": "1209649",
+      "transaction_price": "286.4083",
+      "transaction_type": "S",
+      "shares_after_transaction": "879739004"
     }
   ]
 }

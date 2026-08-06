@@ -1,20 +1,32 @@
 {
   "ticker": "EMR",
-  "last_updated": "2026-06-09T11:23:41.225656",
+  "last_updated": "2026-08-06T10:46:17.663114",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 183,
+      "id": 397,
       "issuer_name": "EMERSON ELECTRIC CO",
-      "reporting_owner": "Krishnan Ram R.",
-      "reporting_owner_cik": "0001847946",
-      "reporting_owner_position": "Executive Vice Pres & COO",
-      "transaction_date": "2026-06-01",
-      "transaction_shares": "11500",
-      "transaction_price": "141.22",
-      "transaction_type": "S",
-      "shares_after_transaction": "159639"
+      "reporting_owner": "Newstead Jennifer",
+      "reporting_owner_cik": "0001780525",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-03",
+      "transaction_shares": "622",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "622"
+    },
+    {
+      "id": 398,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Piazza Nicholas J.",
+      "reporting_owner_cik": "0001988238",
+      "reporting_owner_position": "Senior VP & CPO",
+      "transaction_date": "2026-08-03",
+      "transaction_shares": "1453",
+      "transaction_price": "152.5075",
+      "transaction_type": "F",
+      "shares_after_transaction": "30316"
     }
   ]
 }

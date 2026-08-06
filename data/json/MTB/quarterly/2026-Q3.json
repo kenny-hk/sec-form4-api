@@ -2,20 +2,44 @@
   "ticker": "MTB",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-07-23T10:30:31.332972",
-  "count": 1,
+  "last_updated": "2026-08-06T10:46:17.663114",
+  "count": 3,
   "transactions": [
     {
-      "id": 298,
+      "id": 399,
       "issuer_name": "M&T BANK CORP",
-      "reporting_owner": "PEARSON KEVIN J",
-      "reporting_owner_cik": "0001245781",
-      "reporting_owner_position": "Vice Chairman",
-      "transaction_date": "2026-07-15",
-      "transaction_shares": "2000",
-      "transaction_price": "242",
+      "reporting_owner": "Ledgett Richard H. Jr.",
+      "reporting_owner_cik": "0001714871",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-03",
+      "transaction_shares": "855",
+      "transaction_price": "248.161",
       "transaction_type": "S",
-      "shares_after_transaction": "44107"
+      "shares_after_transaction": "4690"
+    },
+    {
+      "id": 400,
+      "issuer_name": "M&T BANK CORP",
+      "reporting_owner": "Bible Daryl N.",
+      "reporting_owner_cik": "0001449506",
+      "reporting_owner_position": "Sr. EVP & CFO",
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "3043",
+      "transaction_price": "246.29",
+      "transaction_type": "F",
+      "shares_after_transaction": "26967"
+    },
+    {
+      "id": 401,
+      "issuer_name": "M&T BANK CORP",
+      "reporting_owner": "Jacobs Jeremy M Jr",
+      "reporting_owner_cik": "0002138652",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-07-31",
+      "transaction_shares": "589",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "589"
     }
   ]
 }
