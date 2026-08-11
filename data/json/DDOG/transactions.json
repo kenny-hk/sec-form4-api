@@ -1,11 +1,23 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-08-10T09:27:11.662476",
+  "last_updated": "2026-08-11T09:03:04.133220",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 109,
+      "id": 102,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Agarwal Amit",
+      "reporting_owner_cik": "0001540517",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-06",
+      "transaction_shares": "20000",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "21640"
+    },
+    {
+      "id": 101,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "739888"
     },
     {
-      "id": 107,
+      "id": 100,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Callahan Michael James",
       "reporting_owner_cik": "0001784030",
@@ -27,18 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "27496"
-    },
-    {
-      "id": 108,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Agarwal Amit",
-      "reporting_owner_cik": "0001540517",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-07-30",
-      "transaction_shares": "20000",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "21640"
     }
   ]
 }
