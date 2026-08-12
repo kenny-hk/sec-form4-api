@@ -1,20 +1,56 @@
 {
   "ticker": "ITW",
-  "last_updated": "2026-06-11T12:15:40.712584",
+  "last_updated": "2026-08-12T09:16:28.807784",
   "retention_years": 3,
-  "count": 1,
+  "count": 4,
   "transactions": [
     {
-      "id": 131,
+      "id": 62,
+      "issuer_name": "ILLINOIS TOOL WORKS INC",
+      "reporting_owner": "SANTI ERNEST SCOTT",
+      "reporting_owner_cik": "0001307581",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-07",
+      "transaction_shares": "117.98",
+      "transaction_price": "296.66",
+      "transaction_type": "A",
+      "shares_after_transaction": "266287.98"
+    },
+    {
+      "id": 63,
       "issuer_name": "ILLINOIS TOOL WORKS INC",
       "reporting_owner": "Scanlon Jennifer F.",
       "reporting_owner_cik": "0001426641",
       "reporting_owner_position": null,
-      "transaction_date": "2026-06-02",
-      "transaction_shares": "806",
-      "transaction_price": "247.9898",
-      "transaction_type": "P",
-      "shares_after_transaction": "1652"
+      "transaction_date": "2026-08-07",
+      "transaction_shares": "117.98",
+      "transaction_price": "296.66",
+      "transaction_type": "A",
+      "shares_after_transaction": "1775.58"
+    },
+    {
+      "id": 64,
+      "issuer_name": "ILLINOIS TOOL WORKS INC",
+      "reporting_owner": "CROWN SUSAN",
+      "reporting_owner_cik": "0001124194",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-07",
+      "transaction_shares": "58",
+      "transaction_price": "296.66",
+      "transaction_type": "A",
+      "shares_after_transaction": "59219"
+    },
+    {
+      "id": 65,
+      "issuer_name": "ILLINOIS TOOL WORKS INC",
+      "reporting_owner": "SMITH DAVID BYRON JR",
+      "reporting_owner_cik": "0001478669",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-07",
+      "transaction_shares": "130",
+      "transaction_price": "296.66",
+      "transaction_type": "A",
+      "shares_after_transaction": "30372"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "COF",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-11T09:03:04.133220",
-  "count": 5,
+  "last_updated": "2026-08-12T09:16:28.807784",
+  "count": 4,
   "transactions": [
     {
-      "id": 24,
+      "id": 19,
+      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
+      "reporting_owner": "Zamsky Michael",
+      "reporting_owner_cik": "0001938261",
+      "reporting_owner_position": "Chief Credit & Fin'l Risk Off.",
+      "transaction_date": "2026-08-10",
+      "transaction_shares": "5473",
+      "transaction_price": "218.02",
+      "transaction_type": "S",
+      "shares_after_transaction": "27992"
+    },
+    {
+      "id": 18,
       "issuer_name": "CAPITAL ONE FINANCIAL CORP",
       "reporting_owner": "Raghu Ravi",
       "reporting_owner_cik": "0001938203",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "26278"
     },
     {
-      "id": 27,
+      "id": 20,
       "issuer_name": "CAPITAL ONE FINANCIAL CORP",
       "reporting_owner": "Cooper Matthew W",
       "reporting_owner_cik": "0001727277",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "86694"
     },
     {
-      "id": 28,
+      "id": 21,
       "issuer_name": "CAPITAL ONE FINANCIAL CORP",
       "reporting_owner": "Mouadeb Mark Daniel",
       "reporting_owner_cik": "0001938196",
@@ -40,30 +52,6 @@
       "transaction_price": "220",
       "transaction_type": "S",
       "shares_after_transaction": "50331"
-    },
-    {
-      "id": 26,
-      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
-      "reporting_owner": "Mouadeb Mark Daniel",
-      "reporting_owner_cik": "0001938196",
-      "reporting_owner_position": "President,  Card",
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "690",
-      "transaction_price": "215",
-      "transaction_type": "S",
-      "shares_after_transaction": "51514"
-    },
-    {
-      "id": 25,
-      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
-      "reporting_owner": "Hanson Jason P.",
-      "reporting_owner_cik": "0001982604",
-      "reporting_owner_position": "Pres.- Global Payment Network",
-      "transaction_date": "2026-08-01",
-      "transaction_shares": "2014",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "42244"
     }
   ]
 }
