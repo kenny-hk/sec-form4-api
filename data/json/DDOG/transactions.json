@@ -1,11 +1,23 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-08-12T09:16:28.807784",
+  "last_updated": "2026-08-13T09:18:10.208093",
   "retention_years": 3,
-  "count": 3,
+  "count": 4,
   "transactions": [
     {
       "id": 75,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Le-Quoc Alexis",
+      "reporting_owner_cik": "0001783984",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2026-08-10",
+      "transaction_shares": "43224",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "553029"
+    },
+    {
+      "id": 77,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Agarwal Amit",
       "reporting_owner_cik": "0001540517",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "21640"
     },
     {
-      "id": 74,
+      "id": 76,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "739888"
     },
     {
-      "id": 73,
+      "id": 74,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Callahan Michael James",
       "reporting_owner_cik": "0001784030",

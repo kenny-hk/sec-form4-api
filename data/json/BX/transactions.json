@@ -1,32 +1,44 @@
 {
   "ticker": "BX",
-  "last_updated": "2026-08-12T09:16:28.807784",
+  "last_updated": "2026-08-13T09:18:10.208093",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
       "id": 16,
       "issuer_name": "Blackstone Inc.",
-      "reporting_owner": "Sawhney Vikrant",
-      "reporting_owner_cik": "0001487995",
-      "reporting_owner_position": "Chief Administrative Officer",
-      "transaction_date": "2026-08-04",
-      "transaction_shares": "18408",
-      "transaction_price": "135.2941",
+      "reporting_owner": "Finley John G",
+      "reporting_owner_cik": "0001500278",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-08-11",
+      "transaction_shares": "19802",
+      "transaction_price": "146.80",
       "transaction_type": "S",
-      "shares_after_transaction": "881261"
+      "shares_after_transaction": "541215"
     },
     {
-      "id": 17,
+      "id": 18,
       "issuer_name": "Blackstone Inc.",
-      "reporting_owner": "Parrett William G",
-      "reporting_owner_cik": "0001418280",
+      "reporting_owner": "Payne David",
+      "reporting_owner_cik": "0001861422",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-08-11",
+      "transaction_shares": "9500",
+      "transaction_price": "145.23",
+      "transaction_type": "S",
+      "shares_after_transaction": "64448"
+    },
+    {
+      "id": 14,
+      "issuer_name": "Blackstone Inc.",
+      "reporting_owner": "Porat Ruth",
+      "reporting_owner_cik": "0001479258",
       "reporting_owner_position": null,
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "1500",
-      "transaction_price": null,
-      "transaction_type": "J",
-      "shares_after_transaction": "30029"
+      "transaction_date": "2026-08-10",
+      "transaction_shares": "126.071",
+      "transaction_price": "137.3156",
+      "transaction_type": "P",
+      "shares_after_transaction": "41943.9403"
     }
   ]
 }

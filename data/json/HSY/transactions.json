@@ -1,11 +1,35 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-08-12T09:16:28.807784",
+  "last_updated": "2026-08-13T09:18:10.208093",
   "retention_years": 3,
-  "count": 4,
+  "count": 5,
   "transactions": [
     {
-      "id": 347,
+      "id": 317,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "Taffet Stacy",
+      "reporting_owner_cik": "0002065367",
+      "reporting_owner_position": "Chief Growth and Mktg Officer",
+      "transaction_date": "2026-08-10",
+      "transaction_shares": "1888",
+      "transaction_price": "182.75",
+      "transaction_type": "F",
+      "shares_after_transaction": "11510"
+    },
+    {
+      "id": 320,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-10",
+      "transaction_shares": "273",
+      "transaction_price": "180.7552",
+      "transaction_type": "S",
+      "shares_after_transaction": "1055846"
+    },
+    {
+      "id": 318,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "1075819"
     },
     {
-      "id": 350,
+      "id": 321,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "McCalman Jennifer",
       "reporting_owner_cik": "0001848210",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "3586"
     },
     {
-      "id": 349,
+      "id": 319,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Voskuil Steven E",
       "reporting_owner_cik": "0001622634",
@@ -39,18 +63,6 @@
       "transaction_price": "180.00",
       "transaction_type": "S",
       "shares_after_transaction": "52245"
-    },
-    {
-      "id": 348,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "16",
-      "transaction_price": "175.9884",
-      "transaction_type": "S",
-      "shares_after_transaction": "1106103"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "EMR",
-  "last_updated": "2026-08-12T09:16:28.807784",
+  "last_updated": "2026-08-13T09:18:10.208093",
   "retention_years": 3,
-  "count": 3,
+  "count": 2,
   "transactions": [
     {
-      "id": 354,
+      "id": 323,
+      "issuer_name": "EMERSON ELECTRIC CO",
+      "reporting_owner": "Karsanbhai Surendralal Lanca",
+      "reporting_owner_cik": "0001754881",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-08-11",
+      "transaction_shares": "9650",
+      "transaction_price": "161.9139",
+      "transaction_type": "S",
+      "shares_after_transaction": "271743.0331"
+    },
+    {
+      "id": 324,
       "issuer_name": "EMERSON ELECTRIC CO",
       "reporting_owner": "Train Michael H.",
       "reporting_owner_cik": "0001686963",
@@ -15,30 +27,6 @@
       "transaction_price": "158.99",
       "transaction_type": "S",
       "shares_after_transaction": "238516"
-    },
-    {
-      "id": 352,
-      "issuer_name": "EMERSON ELECTRIC CO",
-      "reporting_owner": "Newstead Jennifer",
-      "reporting_owner_cik": "0001780525",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "622",
-      "transaction_price": null,
-      "transaction_type": "A",
-      "shares_after_transaction": "622"
-    },
-    {
-      "id": 353,
-      "issuer_name": "EMERSON ELECTRIC CO",
-      "reporting_owner": "Piazza Nicholas J.",
-      "reporting_owner_cik": "0001988238",
-      "reporting_owner_position": "Senior VP & CPO",
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "1453",
-      "transaction_price": "152.5075",
-      "transaction_type": "F",
-      "shares_after_transaction": "30316"
     }
   ]
 }
