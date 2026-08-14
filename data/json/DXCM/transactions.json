@@ -1,20 +1,32 @@
 {
   "ticker": "DXCM",
-  "last_updated": "2026-08-11T09:03:04.133220",
+  "last_updated": "2026-08-14T09:11:48.167291",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 322,
+      "id": 119,
       "issuer_name": "DEXCOM INC",
-      "reporting_owner": "FOLETTA MARK G",
-      "reporting_owner_cik": "0001236389",
+      "reporting_owner": "Heller Bridgette P",
+      "reporting_owner_cik": "0001485616",
       "reporting_owner_position": null,
-      "transaction_date": "2026-07-31",
-      "transaction_shares": "2000",
-      "transaction_price": "80",
+      "transaction_date": "2026-08-12",
+      "transaction_shares": "1012",
+      "transaction_price": "88.29",
       "transaction_type": "S",
-      "shares_after_transaction": "50852"
+      "shares_after_transaction": "29570"
+    },
+    {
+      "id": 120,
+      "issuer_name": "DEXCOM INC",
+      "reporting_owner": "AUGUSTINOS NICHOLAS",
+      "reporting_owner_cik": "0001238485",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-12",
+      "transaction_shares": "1075",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "37382"
     }
   ]
 }
