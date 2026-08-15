@@ -2,11 +2,23 @@
   "ticker": "XYZ",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-14T09:11:48.167291",
+  "last_updated": "2026-08-15T08:34:40.948071",
   "count": 2,
   "transactions": [
     {
-      "id": 128,
+      "id": 122,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Eisen Anthony Mathew",
+      "reporting_owner_cik": "0001933928",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-12",
+      "transaction_shares": "6000",
+      "transaction_price": "78.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "1536672"
+    },
+    {
+      "id": 121,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Eisen Anthony Mathew",
       "reporting_owner_cik": "0001933928",
@@ -16,18 +28,6 @@
       "transaction_price": "78.90",
       "transaction_type": "S",
       "shares_after_transaction": "1554672"
-    },
-    {
-      "id": 129,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Ahuja Amrita",
-      "reporting_owner_cik": "0001765417",
-      "reporting_owner_position": "CFO & COO",
-      "transaction_date": "2026-08-05",
-      "transaction_shares": "8971",
-      "transaction_price": "85.85",
-      "transaction_type": "S",
-      "shares_after_transaction": "454275"
     }
   ]
 }

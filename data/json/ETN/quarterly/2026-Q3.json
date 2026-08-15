@@ -2,11 +2,23 @@
   "ticker": "ETN",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-14T09:11:48.167291",
+  "last_updated": "2026-08-15T08:34:40.948071",
   "count": 2,
   "transactions": [
     {
-      "id": 250,
+      "id": 237,
+      "issuer_name": "Eaton Corp plc",
+      "reporting_owner": "Johnson Gerald",
+      "reporting_owner_cik": "0001772226",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-12",
+      "transaction_shares": "70",
+      "transaction_price": "469.93",
+      "transaction_type": "P",
+      "shares_after_transaction": "1699"
+    },
+    {
+      "id": 238,
       "issuer_name": "Eaton Corp plc",
       "reporting_owner": "Monesmith Heath B.",
       "reporting_owner_cik": "0001510022",
@@ -16,18 +28,6 @@
       "transaction_price": "130.86",
       "transaction_type": "M",
       "shares_after_transaction": "50586"
-    },
-    {
-      "id": 249,
-      "issuer_name": "Eaton Corp plc",
-      "reporting_owner": "Yelton Michael",
-      "reporting_owner_cik": "0001964445",
-      "reporting_owner_position": "See Remarks below.",
-      "transaction_date": "2026-08-06",
-      "transaction_shares": "658",
-      "transaction_price": "151.76",
-      "transaction_type": "M",
-      "shares_after_transaction": "2754"
     }
   ]
 }

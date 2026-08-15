@@ -1,7 +1,20 @@
 {
   "ticker": "CPAY",
-  "last_updated": "2026-07-31T10:44:13.195467",
+  "last_updated": "2026-08-15T08:34:40.948071",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 2,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Farrelly Joseph W",
+      "reporting_owner_cik": "0001606223",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-12",
+      "transaction_shares": "1800",
+      "transaction_price": "405.09",
+      "transaction_type": "S",
+      "shares_after_transaction": "10412"
+    }
+  ]
 }
