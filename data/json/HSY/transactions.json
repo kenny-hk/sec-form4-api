@@ -1,11 +1,23 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-08-17T08:48:45.104495",
+  "last_updated": "2026-08-18T08:42:30.340908",
   "retention_years": 3,
   "count": 4,
   "transactions": [
     {
-      "id": 26,
+      "id": 32,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-13",
+      "transaction_shares": "4089",
+      "transaction_price": "185.8112",
+      "transaction_type": "S",
+      "shares_after_transaction": "1022030"
+    },
+    {
+      "id": 33,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Hoytink Heather Carol",
       "reporting_owner_cik": "0002145864",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "12024"
     },
     {
-      "id": 24,
+      "id": 31,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "1055846"
     },
     {
-      "id": 27,
+      "id": 34,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Taffet Stacy",
       "reporting_owner_cik": "0002065367",
@@ -39,18 +51,6 @@
       "transaction_price": "182.75",
       "transaction_type": "F",
       "shares_after_transaction": "11510"
-    },
-    {
-      "id": 25,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-06",
-      "transaction_shares": "300",
-      "transaction_price": "179.8487",
-      "transaction_type": "S",
-      "shares_after_transaction": "1075819"
     }
   ]
 }

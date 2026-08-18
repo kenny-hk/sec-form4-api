@@ -1,20 +1,32 @@
 {
   "ticker": "PTC",
-  "last_updated": "2026-05-19T11:25:34.574707",
+  "last_updated": "2026-08-18T08:42:30.340908",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 433,
+      "id": 163,
       "issuer_name": "PTC INC.",
-      "reporting_owner": "CHRISTENSON ALICE",
-      "reporting_owner_cik": "0002007480",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-05-12-05:00",
-      "transaction_shares": "816",
-      "transaction_price": "145.825",
-      "transaction_type": "S",
-      "shares_after_transaction": "1265"
+      "reporting_owner": "Barua Neil",
+      "reporting_owner_cik": "0001389250",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-08-15",
+      "transaction_shares": "11471",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "98024"
+    },
+    {
+      "id": 164,
+      "issuer_name": "PTC INC.",
+      "reporting_owner": "STEVENSON JON",
+      "reporting_owner_cik": "0002098061",
+      "reporting_owner_position": "Chief Product Officer",
+      "transaction_date": "2026-08-15",
+      "transaction_shares": "4099",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "4535"
     }
   ]
 }

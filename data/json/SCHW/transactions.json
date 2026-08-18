@@ -1,11 +1,35 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2026-08-17T08:48:45.104495",
+  "last_updated": "2026-08-18T08:42:30.340908",
   "retention_years": 3,
-  "count": 5,
+  "count": 4,
   "transactions": [
     {
-      "id": 215,
+      "id": 230,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Craig Jonathan M.",
+      "reporting_owner_cik": "0001733065",
+      "reporting_owner_position": "MD, Head of Retail Investing",
+      "transaction_date": "2026-08-14",
+      "transaction_shares": "21866",
+      "transaction_price": "46.81",
+      "transaction_type": "M",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 228,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Howard Dennis",
+      "reporting_owner_cik": "0001825454",
+      "reporting_owner_position": "MD, Chief Tech, OPS & Data Off",
+      "transaction_date": "2026-08-13",
+      "transaction_shares": "2198",
+      "transaction_price": "110",
+      "transaction_type": "S",
+      "shares_after_transaction": "6980"
+    },
+    {
+      "id": 229,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "30021463"
     },
     {
-      "id": 213,
+      "id": 227,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -27,42 +51,6 @@
       "transaction_price": "107.7773",
       "transaction_type": "S",
       "shares_after_transaction": "30067873"
-    },
-    {
-      "id": 214,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "SNEED PAULA A",
-      "reporting_owner_cik": "0001193024",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-07",
-      "transaction_shares": "5263",
-      "transaction_price": "107.1545",
-      "transaction_type": "S",
-      "shares_after_transaction": "91711.1605"
-    },
-    {
-      "id": 216,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Schwab Charles R.",
-      "reporting_owner_cik": "0000923738",
-      "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2026-08-06",
-      "transaction_shares": "37200",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "53775791"
-    },
-    {
-      "id": 217,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Murtagh Nigel J",
-      "reporting_owner_cik": "0001649599",
-      "reporting_owner_position": "Chief Risk Officer",
-      "transaction_date": "2026-08-06",
-      "transaction_shares": "1897",
-      "transaction_price": "46.81",
-      "transaction_type": "M",
-      "shares_after_transaction": "59869.4846"
     }
   ]
 }
