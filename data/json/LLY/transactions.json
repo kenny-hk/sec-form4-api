@@ -1,20 +1,68 @@
 {
   "ticker": "LLY",
-  "last_updated": "2026-08-18T08:42:30.340908",
+  "last_updated": "2026-08-19T08:42:41.075834",
   "retention_years": 3,
-  "count": 1,
+  "count": 5,
   "transactions": [
     {
-      "id": 106,
+      "id": 136,
       "issuer_name": "ELI LILLY & Co",
-      "reporting_owner": "Zakrowski Donald A",
-      "reporting_owner_cik": "0001561539",
-      "reporting_owner_position": "SVP, Finance, & CAO",
-      "transaction_date": "2026-08-10",
-      "transaction_shares": "2000",
-      "transaction_price": "1185.01",
+      "reporting_owner": "Alvarez Ralph",
+      "reporting_owner_cik": "0001310215",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "10.4945",
+      "transaction_price": "1183.16",
+      "transaction_type": "A",
+      "shares_after_transaction": "55744.788"
+    },
+    {
+      "id": 137,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "LUCIANO JUAN R",
+      "reporting_owner_cik": "0001455792",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "13.4527",
+      "transaction_price": "1183.16",
+      "transaction_type": "A",
+      "shares_after_transaction": "16918.0448"
+    },
+    {
+      "id": 138,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "Sulzberger Gabrielle",
+      "reporting_owner_cik": "0001262388",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "4.1908",
+      "transaction_price": "1183.16",
+      "transaction_type": "A",
+      "shares_after_transaction": "3003.9096"
+    },
+    {
+      "id": 139,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "Fyrwald J Erik",
+      "reporting_owner_cik": "0001343564",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "8.3815",
+      "transaction_price": "1183.16",
+      "transaction_type": "A",
+      "shares_after_transaction": "75418.1248"
+    },
+    {
+      "id": 140,
+      "issuer_name": "ELI LILLY & Co",
+      "reporting_owner": "Jonsson Patrik",
+      "reporting_owner_cik": "0001786054",
+      "reporting_owner_position": "EVP & President, LLY Int'l",
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "6500",
+      "transaction_price": "1175.10",
       "transaction_type": "S",
-      "shares_after_transaction": "1525.89"
+      "shares_after_transaction": "54146.62"
     }
   ]
 }

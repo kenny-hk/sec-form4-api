@@ -1,20 +1,44 @@
 {
   "ticker": "STT",
-  "last_updated": "2026-08-11T09:03:04.133220",
+  "last_updated": "2026-08-19T08:42:41.075834",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 185,
+      "id": 370,
       "issuer_name": "STATE STREET CORP",
-      "reporting_owner": "Schaefer Elizabeth",
-      "reporting_owner_cik": "0001716132",
-      "reporting_owner_position": "SVP, Chief Accounting Officer",
-      "transaction_date": "2026-08-03",
-      "transaction_shares": "500",
-      "transaction_price": "181.19",
-      "transaction_type": "S",
-      "shares_after_transaction": "8073"
+      "reporting_owner": "TAHIRI MOSTAPHA",
+      "reporting_owner_cik": "0001818588",
+      "reporting_owner_position": "EVP and COO",
+      "transaction_date": "2026-08-14",
+      "transaction_shares": "54",
+      "transaction_price": "191.74",
+      "transaction_type": "F",
+      "shares_after_transaction": "64497"
+    },
+    {
+      "id": 371,
+      "issuer_name": "STATE STREET CORP",
+      "reporting_owner": "RICHARDS MICHAEL L",
+      "reporting_owner_cik": "0001807269",
+      "reporting_owner_position": "EVP and Chief Admin Officer",
+      "transaction_date": "2026-08-14",
+      "transaction_shares": "196",
+      "transaction_price": "191.74",
+      "transaction_type": "F",
+      "shares_after_transaction": "41631"
+    },
+    {
+      "id": 372,
+      "issuer_name": "STATE STREET CORP",
+      "reporting_owner": "O HANLEY RONALD P",
+      "reporting_owner_cik": "0001180495",
+      "reporting_owner_position": "Chairman, CEO and President",
+      "transaction_date": "2026-08-14",
+      "transaction_shares": "2204",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "243163"
     }
   ]
 }

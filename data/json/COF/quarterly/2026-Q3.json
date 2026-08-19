@@ -2,11 +2,35 @@
   "ticker": "COF",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-18T08:42:30.340908",
-  "count": 2,
+  "last_updated": "2026-08-19T08:42:41.075834",
+  "count": 3,
   "transactions": [
     {
-      "id": 156,
+      "id": 194,
+      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
+      "reporting_owner": "Dean Lia",
+      "reporting_owner_cik": "0001741273",
+      "reporting_owner_position": "Pres, Banking & Prem. Products",
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "2192",
+      "transaction_price": "225.52",
+      "transaction_type": "S",
+      "shares_after_transaction": "63262"
+    },
+    {
+      "id": 196,
+      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
+      "reporting_owner": "Karam Celia",
+      "reporting_owner_cik": "0001741344",
+      "reporting_owner_position": "Pres, Retail Bank",
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "1887",
+      "transaction_price": "225.52",
+      "transaction_type": "S",
+      "shares_after_transaction": "59709"
+    },
+    {
+      "id": 195,
       "issuer_name": "CAPITAL ONE FINANCIAL CORP",
       "reporting_owner": "Mouadeb Mark Daniel",
       "reporting_owner_cik": "0001938196",
@@ -16,18 +40,6 @@
       "transaction_price": "225",
       "transaction_type": "S",
       "shares_after_transaction": "49132"
-    },
-    {
-      "id": 157,
-      "issuer_name": "CAPITAL ONE FINANCIAL CORP",
-      "reporting_owner": "Zamsky Michael",
-      "reporting_owner_cik": "0001938261",
-      "reporting_owner_position": "Chief Credit & Fin'l Risk Off.",
-      "transaction_date": "2026-08-10",
-      "transaction_shares": "5473",
-      "transaction_price": "218.02",
-      "transaction_type": "S",
-      "shares_after_transaction": "27992"
     }
   ]
 }
