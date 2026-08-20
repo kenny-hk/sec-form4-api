@@ -1,11 +1,23 @@
 {
   "ticker": "NTAP",
-  "last_updated": "2026-08-19T08:42:41.075834",
+  "last_updated": "2026-08-20T08:43:43.697664",
   "retention_years": 3,
   "count": 7,
   "transactions": [
     {
-      "id": 388,
+      "id": 385,
+      "issuer_name": "NetApp, Inc.",
+      "reporting_owner": "CERNUDA CESAR",
+      "reporting_owner_cik": "0001817313",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-08-17",
+      "transaction_shares": "1192",
+      "transaction_price": "203.63",
+      "transaction_type": "S",
+      "shares_after_transaction": "47946"
+    },
+    {
+      "id": 386,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "O'Callahan Elizabeth M",
       "reporting_owner_cik": "0001911064",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "33205"
     },
     {
-      "id": 389,
+      "id": 387,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "CERNUDA CESAR",
       "reporting_owner_cik": "0001817313",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "51208"
     },
     {
-      "id": 390,
+      "id": 388,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "Kurian George",
       "reporting_owner_cik": "0001586813",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "362354"
     },
     {
-      "id": 392,
+      "id": 389,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "JABRE WISSAM G",
       "reporting_owner_cik": "0001903967",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "39294"
     },
     {
-      "id": 393,
+      "id": 390,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "Nair Syam",
       "reporting_owner_cik": "0001980442",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "53512"
     },
     {
-      "id": 394,
+      "id": 391,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "De Lorenzo Daniel",
       "reporting_owner_cik": "0002016949",
@@ -75,18 +87,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "1833"
-    },
-    {
-      "id": 391,
-      "issuer_name": "NetApp, Inc.",
-      "reporting_owner": "O'Callahan Elizabeth M",
-      "reporting_owner_cik": "0001911064",
-      "reporting_owner_position": "EVP, Chief Admin. Officer",
-      "transaction_date": "2026-08-10",
-      "transaction_shares": "1000",
-      "transaction_price": "193.82",
-      "transaction_type": "S",
-      "shares_after_transaction": "30297"
     }
   ]
 }
