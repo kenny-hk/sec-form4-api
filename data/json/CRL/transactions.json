@@ -1,32 +1,44 @@
 {
   "ticker": "CRL",
-  "last_updated": "2026-08-20T08:43:43.697664",
+  "last_updated": "2026-08-21T08:45:22.080936",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 549,
-      "issuer_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
-      "reporting_owner": "Parisotto Shannon M",
-      "reporting_owner_cik": "0001952784",
-      "reporting_owner_position": "CEVP, Disc & Safety Assessment",
-      "transaction_date": "2026-08-11",
-      "transaction_shares": "3714",
-      "transaction_price": "179.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "8521"
-    },
-    {
-      "id": 550,
+      "id": 563,
       "issuer_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
       "reporting_owner": "Girshick Birgit",
       "reporting_owner_cik": "0001732091",
       "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-08-11",
-      "transaction_shares": "6500",
-      "transaction_price": "179.66",
+      "transaction_date": "2026-08-19",
+      "transaction_shares": "528",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "35485"
+    },
+    {
+      "id": 564,
+      "issuer_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+      "reporting_owner": "Parisotto Shannon M",
+      "reporting_owner_cik": "0001952784",
+      "reporting_owner_position": "CEVP, Disc & Safety Assessment",
+      "transaction_date": "2026-08-19",
+      "transaction_shares": "2039",
+      "transaction_price": "194.12",
       "transaction_type": "M",
-      "shares_after_transaction": "42513"
+      "shares_after_transaction": "6846"
+    },
+    {
+      "id": 565,
+      "issuer_name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+      "reporting_owner": "Andrews Nancy C",
+      "reporting_owner_cik": "0001804999",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-18",
+      "transaction_shares": "573",
+      "transaction_price": "164.30",
+      "transaction_type": "M",
+      "shares_after_transaction": "2011"
     }
   ]
 }
