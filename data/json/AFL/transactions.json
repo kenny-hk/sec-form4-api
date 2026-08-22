@@ -1,11 +1,23 @@
 {
   "ticker": "AFL",
-  "last_updated": "2026-08-21T08:45:22.080936",
+  "last_updated": "2026-08-22T08:35:35.152966",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 22,
+      "id": 24,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-19",
+      "transaction_shares": "9353",
+      "transaction_price": "116.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "50821137"
+    },
+    {
+      "id": 21,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "50831080"
     },
     {
-      "id": 21,
+      "id": 20,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "50845900"
     },
     {
-      "id": 25,
+      "id": 23,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "50858710"
     },
     {
-      "id": 24,
+      "id": 22,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -51,18 +63,6 @@
       "transaction_price": "121.09",
       "transaction_type": "S",
       "shares_after_transaction": "50872690"
-    },
-    {
-      "id": 23,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-12",
-      "transaction_shares": "12240",
-      "transaction_price": "120.76",
-      "transaction_type": "S",
-      "shares_after_transaction": "50886250"
     }
   ]
 }

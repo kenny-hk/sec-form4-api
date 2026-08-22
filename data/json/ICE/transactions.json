@@ -1,11 +1,23 @@
 {
   "ticker": "ICE",
-  "last_updated": "2026-08-21T08:45:22.080936",
+  "last_updated": "2026-08-22T08:35:35.152966",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 208,
+      "id": 202,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Gardiner Warren",
+      "reporting_owner_cik": "0001855007",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-08-19",
+      "transaction_shares": "2491",
+      "transaction_price": "156.3",
+      "transaction_type": "S",
+      "shares_after_transaction": "22698"
+    },
+    {
+      "id": 201,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Tirinnanzi Martha A",
       "reporting_owner_cik": "0001916305",
@@ -15,18 +27,6 @@
       "transaction_price": "155",
       "transaction_type": "S",
       "shares_after_transaction": "5087"
-    },
-    {
-      "id": 207,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Kapani Mayur",
-      "reporting_owner_cik": "0001917418",
-      "reporting_owner_position": "Chief Technology Officer",
-      "transaction_date": "2026-08-12",
-      "transaction_shares": "4271",
-      "transaction_price": "67",
-      "transaction_type": "M",
-      "shares_after_transaction": "69231"
     }
   ]
 }

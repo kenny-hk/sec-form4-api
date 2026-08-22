@@ -1,7 +1,44 @@
 {
   "ticker": "HD",
-  "last_updated": "2026-06-05T11:37:42.288394",
+  "last_updated": "2026-08-22T08:35:35.152966",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 561,
+      "issuer_name": "HOME DEPOT, INC.",
+      "reporting_owner": "Broggi Jordan",
+      "reporting_owner_cik": "0002025981",
+      "reporting_owner_position": "EVP-Interconnected Retail",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "1494",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "10995.6439"
+    },
+    {
+      "id": 562,
+      "issuer_name": "HOME DEPOT, INC.",
+      "reporting_owner": "Bastek William D",
+      "reporting_owner_cik": "0001970134",
+      "reporting_owner_position": "EVP, Merchandising",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "1494",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "26788.8425"
+    },
+    {
+      "id": 563,
+      "issuer_name": "HOME DEPOT, INC.",
+      "reporting_owner": "McPhail Richard V",
+      "reporting_owner_cik": "0001787630",
+      "reporting_owner_position": "EVP & CFO",
+      "transaction_date": "2026-08-19",
+      "transaction_shares": "5989",
+      "transaction_price": "147.36",
+      "transaction_type": "M",
+      "shares_after_transaction": "54092.5278"
+    }
+  ]
 }

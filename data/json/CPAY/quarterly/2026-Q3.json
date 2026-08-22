@@ -2,9 +2,33 @@
   "ticker": "CPAY",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-21T08:45:22.080936",
-  "count": 3,
+  "last_updated": "2026-08-22T08:35:35.152966",
+  "count": 4,
   "transactions": [
+    {
+      "id": 4,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "King Alan",
+      "reporting_owner_cik": "0001681825",
+      "reporting_owner_position": "GroupPresident IntlVehiclePmts",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "18423",
+      "transaction_price": "196.18",
+      "transaction_type": "M",
+      "shares_after_transaction": "42960"
+    },
+    {
+      "id": 7,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Stull Steven T",
+      "reporting_owner_cik": "0001055565",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "879",
+      "transaction_price": "412.9118",
+      "transaction_type": "S",
+      "shares_after_transaction": "22719"
+    },
     {
       "id": 5,
       "issuer_name": "CORPAY, INC.",
@@ -28,18 +52,6 @@
       "transaction_price": "261.07",
       "transaction_type": "M",
       "shares_after_transaction": "31659"
-    },
-    {
-      "id": 4,
-      "issuer_name": "CORPAY, INC.",
-      "reporting_owner": "Farrelly Joseph W",
-      "reporting_owner_cik": "0001606223",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-12",
-      "transaction_shares": "1800",
-      "transaction_price": "405.09",
-      "transaction_type": "S",
-      "shares_after_transaction": "10412"
     }
   ]
 }
