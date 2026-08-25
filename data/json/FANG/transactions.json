@@ -1,32 +1,44 @@
 {
   "ticker": "FANG",
-  "last_updated": "2026-08-23T08:36:02.157649",
+  "last_updated": "2026-08-25T08:47:31.714667",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 297,
+      "id": 321,
       "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Zmigrosky Matt",
-      "reporting_owner_cik": "0001767328",
-      "reporting_owner_position": "EVP, Chief Legal and Admin Off",
-      "transaction_date": "2026-08-14",
-      "transaction_shares": "2500",
-      "transaction_price": "202.7721",
+      "reporting_owner": "Plaumann Mark Lawrence",
+      "reporting_owner_cik": "0001290795",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "1000",
+      "transaction_price": "210.5766",
       "transaction_type": "S",
-      "shares_after_transaction": "38892"
+      "shares_after_transaction": "12437"
     },
     {
-      "id": 298,
+      "id": 320,
       "issuer_name": "Diamondback Energy, Inc.",
-      "reporting_owner": "Thompson Jere W III",
-      "reporting_owner_cik": "0002012978",
-      "reporting_owner_position": "CFO, Executive VP",
-      "transaction_date": "2026-08-14",
-      "transaction_shares": "500",
-      "transaction_price": "204.1401",
+      "reporting_owner": "Wesson Daniel N",
+      "reporting_owner_cik": "0001805429",
+      "reporting_owner_position": "Exec. VP & COO",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "7500",
+      "transaction_price": "215.2072",
       "transaction_type": "S",
-      "shares_after_transaction": "18475"
+      "shares_after_transaction": "70789"
+    },
+    {
+      "id": 322,
+      "issuer_name": "Diamondback Energy, Inc.",
+      "reporting_owner": "Van't Hof Matthew Kaes",
+      "reporting_owner_cik": "0001704666",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "9500",
+      "transaction_price": "214.64",
+      "transaction_type": "S",
+      "shares_after_transaction": "116440"
     }
   ]
 }

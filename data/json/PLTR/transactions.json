@@ -1,11 +1,35 @@
 {
   "ticker": "PLTR",
-  "last_updated": "2026-08-23T08:36:02.157649",
+  "last_updated": "2026-08-25T08:47:31.714667",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 403,
+      "id": 445,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Karp Alexander C.",
+      "reporting_owner_cik": "0001823951",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "402348",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "6834606"
+    },
+    {
+      "id": 446,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Buckley Jeffrey",
+      "reporting_owner_cik": "0001705189",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "58",
+      "transaction_price": "172.6542",
+      "transaction_type": "S",
+      "shares_after_transaction": "60168"
+    },
+    {
+      "id": 447,
       "issuer_name": "Palantir Technologies Inc.",
       "reporting_owner": "Moore Alexander D.",
       "reporting_owner_cik": "0001823952",

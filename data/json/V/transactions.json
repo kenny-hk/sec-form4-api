@@ -1,11 +1,35 @@
 {
   "ticker": "V",
-  "last_updated": "2026-08-23T08:36:02.157649",
+  "last_updated": "2026-08-25T08:47:31.714667",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 69,
+      "id": 62,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": "PRESIDENT, TECHNOLOGY",
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "17927",
+      "transaction_price": "370.9968",
+      "transaction_type": "S",
+      "shares_after_transaction": "232112"
+    },
+    {
+      "id": 63,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "MCINERNEY RYAN",
+      "reporting_owner_cik": "0001578261",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "5875",
+      "transaction_price": "134.76",
+      "transaction_type": "M",
+      "shares_after_transaction": "21049"
+    },
+    {
+      "id": 64,
       "issuer_name": "VISA INC.",
       "reporting_owner": "ANDRESKI PETER M",
       "reporting_owner_cik": "0001936131",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "11952"
     },
     {
-      "id": 70,
+      "id": 65,
       "issuer_name": "VISA INC.",
       "reporting_owner": "Suh Chris",
       "reporting_owner_cik": "0001885015",
