@@ -1,11 +1,23 @@
 {
   "ticker": "TRGP",
-  "last_updated": "2026-08-25T08:47:31.714667",
+  "last_updated": "2026-08-26T08:48:09.568311",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 121,
+      "id": 85,
+      "issuer_name": "Targa Resources Corp.",
+      "reporting_owner": "Davis Waters S IV",
+      "reporting_owner_cik": "0001645344",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "440",
+      "transaction_price": "296.3945",
+      "transaction_type": "S",
+      "shares_after_transaction": "3489"
+    },
+    {
+      "id": 83,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Chung Paul W",
       "reporting_owner_cik": "0001387728",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "30479"
     },
     {
-      "id": 122,
+      "id": 84,
       "issuer_name": "Targa Resources Corp.",
       "reporting_owner": "Muraro Robert",
       "reporting_owner_cik": "0001699420",

@@ -2,11 +2,35 @@
   "ticker": "CPAY",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-25T08:47:31.714667",
-  "count": 4,
+  "last_updated": "2026-08-26T08:48:09.568311",
+  "count": 5,
   "transactions": [
     {
+      "id": 2,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "Clarke Ronald",
+      "reporting_owner_cik": "0001506862",
+      "reporting_owner_position": "CEO & Chairman of BOD",
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "450000",
+      "transaction_price": "150.74",
+      "transaction_type": "M",
+      "shares_after_transaction": "2858233"
+    },
+    {
       "id": 4,
+      "issuer_name": "CORPAY, INC.",
+      "reporting_owner": "King Alan",
+      "reporting_owner_cik": "0001681825",
+      "reporting_owner_position": "GroupPresident IntlVehiclePmts",
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "3805",
+      "transaction_price": "416.6085",
+      "transaction_type": "S",
+      "shares_after_transaction": "20732"
+    },
+    {
+      "id": 3,
       "issuer_name": "CORPAY, INC.",
       "reporting_owner": "King Alan",
       "reporting_owner_cik": "0001681825",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "42960"
     },
     {
-      "id": 7,
+      "id": 6,
       "issuer_name": "CORPAY, INC.",
       "reporting_owner": "Stull Steven T",
       "reporting_owner_cik": "0001055565",
@@ -40,18 +64,6 @@
       "transaction_price": "410.1895",
       "transaction_type": "S",
       "shares_after_transaction": "27786"
-    },
-    {
-      "id": 6,
-      "issuer_name": "CORPAY, INC.",
-      "reporting_owner": "King Alan",
-      "reporting_owner_cik": "0001681825",
-      "reporting_owner_position": "GroupPresident IntlVehiclePmts",
-      "transaction_date": "2026-08-14",
-      "transaction_shares": "7122",
-      "transaction_price": "261.07",
-      "transaction_type": "M",
-      "shares_after_transaction": "31659"
     }
   ]
 }
