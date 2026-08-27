@@ -1,11 +1,35 @@
 {
   "ticker": "ABNB",
-  "last_updated": "2026-08-26T08:48:09.568311",
+  "last_updated": "2026-08-27T19:00:11.740080",
   "retention_years": 3,
-  "count": 4,
+  "count": 5,
   "transactions": [
     {
-      "id": 482,
+      "id": 395,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Gebbia Joseph",
+      "reporting_owner_cik": "0001834171",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-24",
+      "transaction_shares": "960000",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "960215"
+    },
+    {
+      "id": 396,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Blecharczyk Nathan",
+      "reporting_owner_cik": "0001834147",
+      "reporting_owner_position": "Chief Strategy Officer",
+      "transaction_date": "2026-08-24",
+      "transaction_shares": "150640",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "171207"
+    },
+    {
+      "id": 393,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Blecharczyk Nathan",
       "reporting_owner_cik": "0001834147",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "77546.445"
     },
     {
-      "id": 483,
+      "id": 394,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Mertz Elinor",
       "reporting_owner_cik": "0001938411",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "434600.778"
     },
     {
-      "id": 485,
+      "id": 397,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Bernstein David C",
       "reporting_owner_cik": "0001288881",
@@ -39,18 +63,6 @@
       "transaction_price": "183.25",
       "transaction_type": "F",
       "shares_after_transaction": "48513.054"
-    },
-    {
-      "id": 484,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Blecharczyk Nathan",
-      "reporting_owner_cik": "0001834147",
-      "reporting_owner_position": "Chief Strategy Officer",
-      "transaction_date": "2026-08-17",
-      "transaction_shares": "17692",
-      "transaction_price": null,
-      "transaction_type": "C",
-      "shares_after_transaction": "37809"
     }
   ]
 }

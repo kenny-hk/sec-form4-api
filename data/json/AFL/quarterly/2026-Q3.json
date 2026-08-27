@@ -2,11 +2,35 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-26T08:48:09.568311",
-  "count": 5,
+  "last_updated": "2026-08-27T19:00:11.740080",
+  "count": 6,
   "transactions": [
     {
-      "id": 12,
+      "id": 16,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-25",
+      "transaction_shares": "12066",
+      "transaction_price": "116.44",
+      "transaction_type": "S",
+      "shares_after_transaction": "50766224"
+    },
+    {
+      "id": 14,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-24",
+      "transaction_shares": "7765",
+      "transaction_price": "117.90",
+      "transaction_type": "S",
+      "shares_after_transaction": "50784025"
+    },
+    {
+      "id": 13,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "50791870"
     },
     {
-      "id": 15,
+      "id": 18,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -30,7 +54,7 @@
       "shares_after_transaction": "50808169"
     },
     {
-      "id": 14,
+      "id": 17,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -42,7 +66,7 @@
       "shares_after_transaction": "50821137"
     },
     {
-      "id": 13,
+      "id": 15,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -52,18 +76,6 @@
       "transaction_price": "121.91",
       "transaction_type": "S",
       "shares_after_transaction": "50831080"
-    },
-    {
-      "id": 11,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-17",
-      "transaction_shares": "12690",
-      "transaction_price": "121.26",
-      "transaction_type": "S",
-      "shares_after_transaction": "50845900"
     }
   ]
 }

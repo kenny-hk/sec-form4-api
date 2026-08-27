@@ -2,20 +2,32 @@
   "ticker": "VMRK",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-19T08:42:41.075834",
-  "count": 1,
+  "last_updated": "2026-08-27T19:00:11.740080",
+  "count": 2,
   "transactions": [
     {
-      "id": 396,
+      "id": 300,
       "issuer_name": "VIVMARK RESIDENTIAL",
-      "reporting_owner": "Kaufman Ian",
-      "reporting_owner_cik": "0001381170",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-08-14",
-      "transaction_shares": "30",
-      "transaction_price": "56.07",
-      "transaction_type": "A",
-      "shares_after_transaction": "29657"
+      "reporting_owner": "Willson Sean Thomas",
+      "reporting_owner_cik": "0002048274",
+      "reporting_owner_position": "Senior Vice President & CAO",
+      "transaction_date": "2026-08-21",
+      "transaction_shares": "300",
+      "transaction_price": "66.31",
+      "transaction_type": "S",
+      "shares_after_transaction": "17988"
+    },
+    {
+      "id": 301,
+      "issuer_name": "VIVMARK RESIDENTIAL",
+      "reporting_owner": "Birenbaum Matthew H.",
+      "reporting_owner_cik": "0001532949",
+      "reporting_owner_position": "Executive Vice President & CDO",
+      "transaction_date": "2026-08-20",
+      "transaction_shares": "1400",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "272749"
     }
   ]
 }

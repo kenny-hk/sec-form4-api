@@ -2,20 +2,32 @@
   "ticker": "SCHW",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-26T08:48:09.568311",
-  "count": 1,
+  "last_updated": "2026-08-27T19:00:11.740080",
+  "count": 2,
   "transactions": [
     {
-      "id": 240,
+      "id": 194,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Bettinger Walter W",
+      "reporting_owner_cik": "0001296479",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2026-08-24",
+      "transaction_shares": "176210",
+      "transaction_price": "46.81",
+      "transaction_type": "M",
+      "shares_after_transaction": "786570"
+    },
+    {
+      "id": 195,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
       "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2026-08-17",
-      "transaction_shares": "45500",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "53730291"
+      "transaction_date": "2026-08-24",
+      "transaction_shares": "117000",
+      "transaction_price": "113.2001",
+      "transaction_type": "S",
+      "shares_after_transaction": "53558741"
     }
   ]
 }
