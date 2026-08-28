@@ -1,11 +1,23 @@
 {
   "ticker": "AMD",
-  "last_updated": "2026-08-27T19:00:11.740080",
+  "last_updated": "2026-08-28T20:03:26.642845",
   "retention_years": 3,
-  "count": 4,
+  "count": 3,
   "transactions": [
     {
-      "id": 70,
+      "id": 73,
+      "issuer_name": "ADVANCED MICRO DEVICES INC",
+      "reporting_owner": "Hu Jean X.",
+      "reporting_owner_cik": "0001452385",
+      "reporting_owner_position": "EVP, CFO and Treasurer",
+      "transaction_date": "2026-08-25",
+      "transaction_shares": "900",
+      "transaction_price": "470.13",
+      "transaction_type": "S",
+      "shares_after_transaction": "175079"
+    },
+    {
+      "id": 71,
       "issuer_name": "ADVANCED MICRO DEVICES INC",
       "reporting_owner": "Norrod Forrest Eugene",
       "reporting_owner_cik": "0001622864",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "390578"
     },
     {
-      "id": 73,
+      "id": 72,
       "issuer_name": "ADVANCED MICRO DEVICES INC",
       "reporting_owner": "Papermaster Mark D",
       "reporting_owner_cik": "0001449649",
@@ -27,30 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "1290272"
-    },
-    {
-      "id": 72,
-      "issuer_name": "ADVANCED MICRO DEVICES INC",
-      "reporting_owner": "Hahn Ava",
-      "reporting_owner_cik": "0001267376",
-      "reporting_owner_position": "SVP, GC & Corporate Secretary",
-      "transaction_date": "2026-08-18",
-      "transaction_shares": "2993",
-      "transaction_price": "488.69",
-      "transaction_type": "S",
-      "shares_after_transaction": "26623"
-    },
-    {
-      "id": 74,
-      "issuer_name": "ADVANCED MICRO DEVICES INC",
-      "reporting_owner": "Su Lisa T",
-      "reporting_owner_cik": "0001405109",
-      "reporting_owner_position": "Chair, President & CEO",
-      "transaction_date": "2026-08-18",
-      "transaction_shares": "700",
-      "transaction_price": "475.90",
-      "transaction_type": "S",
-      "shares_after_transaction": "3116456"
     }
   ]
 }
