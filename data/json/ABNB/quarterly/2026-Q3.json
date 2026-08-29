@@ -2,11 +2,23 @@
   "ticker": "ABNB",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-08-28T20:03:26.642845",
-  "count": 5,
+  "last_updated": "2026-08-29T13:45:58.352932",
+  "count": 3,
   "transactions": [
     {
-      "id": 408,
+      "id": 359,
+      "issuer_name": "Airbnb, Inc.",
+      "reporting_owner": "Blecharczyk Nathan",
+      "reporting_owner_cik": "0001834147",
+      "reporting_owner_position": "Chief Strategy Officer",
+      "transaction_date": "2026-08-26",
+      "transaction_shares": "19659",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "40226"
+    },
+    {
+      "id": 360,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Gebbia Joseph",
       "reporting_owner_cik": "0001834171",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "960215"
     },
     {
-      "id": 409,
+      "id": 361,
       "issuer_name": "Airbnb, Inc.",
       "reporting_owner": "Blecharczyk Nathan",
       "reporting_owner_cik": "0001834147",
@@ -28,42 +40,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "171207"
-    },
-    {
-      "id": 406,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Blecharczyk Nathan",
-      "reporting_owner_cik": "0001834147",
-      "reporting_owner_position": "Chief Strategy Officer",
-      "transaction_date": "2026-08-19",
-      "transaction_shares": "4084.648",
-      "transaction_price": "183.25",
-      "transaction_type": "F",
-      "shares_after_transaction": "77546.445"
-    },
-    {
-      "id": 407,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Mertz Elinor",
-      "reporting_owner_cik": "0001938411",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-08-19",
-      "transaction_shares": "6941.699",
-      "transaction_price": "183.25",
-      "transaction_type": "F",
-      "shares_after_transaction": "434600.778"
-    },
-    {
-      "id": 410,
-      "issuer_name": "Airbnb, Inc.",
-      "reporting_owner": "Bernstein David C",
-      "reporting_owner_cik": "0001288881",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-08-19",
-      "transaction_shares": "1070.04",
-      "transaction_price": "183.25",
-      "transaction_type": "F",
-      "shares_after_transaction": "48513.054"
     }
   ]
 }
