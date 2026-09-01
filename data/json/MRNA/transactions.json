@@ -1,20 +1,44 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2026-08-14T09:11:48.167291",
+  "last_updated": "2026-09-01T13:14:49.001099",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 355,
+      "id": 237,
       "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Bancel Stephane",
-      "reporting_owner_cik": "0001443340",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-08-05",
-      "transaction_shares": "499246",
-      "transaction_price": "19.15",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-08-27",
+      "transaction_shares": "774",
+      "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "6687037"
+      "shares_after_transaction": "67210"
+    },
+    {
+      "id": 238,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Klinger Shannon Thyme",
+      "reporting_owner_cik": "0001866132",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-08-27",
+      "transaction_shares": "774",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "74335"
+    },
+    {
+      "id": 239,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Hoge Stephen",
+      "reporting_owner_cik": "0001760669",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-08-27",
+      "transaction_shares": "1437",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "1485285"
     }
   ]
 }
