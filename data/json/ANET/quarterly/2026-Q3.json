@@ -2,11 +2,23 @@
   "ticker": "ANET",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-01T13:14:49.001099",
+  "last_updated": "2026-09-02T12:40:25.559039",
   "count": 3,
   "transactions": [
     {
-      "id": 18,
+      "id": 17,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "Duda Kenneth",
+      "reporting_owner_cik": "0001605808",
+      "reporting_owner_position": "President and CTO",
+      "transaction_date": "2026-08-28",
+      "transaction_shares": "85875",
+      "transaction_price": "0.0",
+      "transaction_type": "J",
+      "shares_after_transaction": "1101043"
+    },
+    {
+      "id": 15,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "BECHTOLSHEIM ANDREAS",
       "reporting_owner_cik": "0001133206",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "181127995"
     },
     {
-      "id": 19,
+      "id": 16,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "Ullal Jayshree",
       "reporting_owner_cik": "0001605809",
@@ -28,18 +40,6 @@
       "transaction_price": "191.1012",
       "transaction_type": "S",
       "shares_after_transaction": "20445"
-    },
-    {
-      "id": 20,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "Battles Kelly Bodnar",
-      "reporting_owner_cik": "0001817763",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-21",
-      "transaction_shares": "70",
-      "transaction_price": "184.7679",
-      "transaction_type": "S",
-      "shares_after_transaction": "10546"
     }
   ]
 }
