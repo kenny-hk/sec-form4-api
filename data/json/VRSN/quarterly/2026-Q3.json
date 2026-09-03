@@ -2,11 +2,35 @@
   "ticker": "VRSN",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-02T12:40:25.559039",
-  "count": 2,
+  "last_updated": "2026-09-03T12:44:55.744272",
+  "count": 3,
   "transactions": [
     {
-      "id": 186,
+      "id": 262,
+      "issuer_name": "VERISIGN INC/CA",
+      "reporting_owner": "BIDZOS D JAMES",
+      "reporting_owner_cik": "0001204816",
+      "reporting_owner_position": "Exec. Chairman, Pres, & CEO",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "200",
+      "transaction_price": "288.3033",
+      "transaction_type": "S",
+      "shares_after_transaction": "398027.4109"
+    },
+    {
+      "id": 263,
+      "issuer_name": "VERISIGN INC/CA",
+      "reporting_owner": "Indelicarto Thomas C",
+      "reporting_owner_cik": "0001624651",
+      "reporting_owner_position": "EVP, Gen Counsel & Secretary",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "500",
+      "transaction_price": "290.78",
+      "transaction_type": "S",
+      "shares_after_transaction": "33394.5328"
+    },
+    {
+      "id": 261,
       "issuer_name": "VERISIGN INC/CA",
       "reporting_owner": "Armstrong Courtney D",
       "reporting_owner_cik": "0001869319",
@@ -16,18 +40,6 @@
       "transaction_price": "293.444",
       "transaction_type": "P",
       "shares_after_transaction": "5231.679"
-    },
-    {
-      "id": 187,
-      "issuer_name": "VERISIGN INC/CA",
-      "reporting_owner": "BIDZOS D JAMES",
-      "reporting_owner_cik": "0001204816",
-      "reporting_owner_position": "Exec. Chairman, Pres, & CEO",
-      "transaction_date": "2026-08-25",
-      "transaction_shares": "1700",
-      "transaction_price": "289.2759",
-      "transaction_type": "S",
-      "shares_after_transaction": "399688.6626"
     }
   ]
 }

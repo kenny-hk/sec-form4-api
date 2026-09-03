@@ -2,11 +2,23 @@
   "ticker": "SCHW",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-02T12:40:25.559039",
-  "count": 6,
+  "last_updated": "2026-09-03T12:44:55.744272",
+  "count": 5,
   "transactions": [
     {
-      "id": 167,
+      "id": 216,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Hathi Neesha",
+      "reporting_owner_cik": "0001879974",
+      "reporting_owner_position": "MD, Head Wealth Adv, Bnk, Tst",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "3177",
+      "transaction_price": "52.05",
+      "transaction_type": "M",
+      "shares_after_transaction": "0"
+    },
+    {
+      "id": 219,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Bettinger Walter W",
       "reporting_owner_cik": "0001296479",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "684748"
     },
     {
-      "id": 168,
+      "id": 220,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Hathi Neesha",
       "reporting_owner_cik": "0001879974",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 163,
+      "id": 217,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "53549441"
     },
     {
-      "id": 164,
+      "id": 218,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab-Pomerantz Carolyn",
       "reporting_owner_cik": "0001950787",
@@ -52,30 +64,6 @@
       "transaction_price": "109.2531",
       "transaction_type": "S",
       "shares_after_transaction": "1323161.6599"
-    },
-    {
-      "id": 165,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Bettinger Walter W",
-      "reporting_owner_cik": "0001296479",
-      "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2026-08-24",
-      "transaction_shares": "176210",
-      "transaction_price": "46.81",
-      "transaction_type": "M",
-      "shares_after_transaction": "786570"
-    },
-    {
-      "id": 166,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Schwab Charles R.",
-      "reporting_owner_cik": "0000923738",
-      "reporting_owner_position": "Co-Chairman",
-      "transaction_date": "2026-08-24",
-      "transaction_shares": "117000",
-      "transaction_price": "113.2001",
-      "transaction_type": "S",
-      "shares_after_transaction": "53558741"
     }
   ]
 }

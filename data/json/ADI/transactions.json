@@ -1,11 +1,23 @@
 {
   "ticker": "ADI",
-  "last_updated": "2026-09-02T12:40:25.559039",
+  "last_updated": "2026-09-03T12:44:55.744272",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 234,
+      "id": 320,
+      "issuer_name": "ANALOG DEVICES INC",
+      "reporting_owner": "ROCHE VINCENT",
+      "reporting_owner_cik": "0001201872",
+      "reporting_owner_position": "Chair & CEO",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "10000",
+      "transaction_price": "108.08",
+      "transaction_type": "M",
+      "shares_after_transaction": "144660.083"
+    },
+    {
+      "id": 318,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "Golz Karen",
       "reporting_owner_cik": "0001744712",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "10019"
     },
     {
-      "id": 235,
+      "id": 319,
       "issuer_name": "ANALOG DEVICES INC",
       "reporting_owner": "Puccio Richard C Jr",
       "reporting_owner_cik": "0002009110",

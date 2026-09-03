@@ -1,7 +1,32 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2026-08-31T15:59:15.003012",
+  "last_updated": "2026-09-03T12:44:55.744272",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 144,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Teter Timothy S.",
+      "reporting_owner_cik": "0001696841",
+      "reporting_owner_position": "EVP, General Counsel and Sec",
+      "transaction_date": "2026-08-31",
+      "transaction_shares": "6692",
+      "transaction_price": "216.8411",
+      "transaction_type": "S",
+      "shares_after_transaction": "2710968"
+    },
+    {
+      "id": 145,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "STEVENS MARK A",
+      "reporting_owner_cik": "0001199039",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-31",
+      "transaction_shares": "447400",
+      "transaction_price": "220.0959",
+      "transaction_type": "S",
+      "shares_after_transaction": "4759871"
+    }
+  ]
 }

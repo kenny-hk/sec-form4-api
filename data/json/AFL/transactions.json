@@ -1,11 +1,23 @@
 {
   "ticker": "AFL",
-  "last_updated": "2026-09-02T12:40:25.559039",
+  "last_updated": "2026-09-03T12:44:55.744272",
   "retention_years": 3,
   "count": 5,
   "transactions": [
     {
-      "id": 11,
+      "id": 15,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-31",
+      "transaction_shares": "12700",
+      "transaction_price": "116",
+      "transaction_type": "S",
+      "shares_after_transaction": "50713990"
+    },
+    {
+      "id": 16,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "50726690"
     },
     {
-      "id": 8,
+      "id": 13,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "50740130"
     },
     {
-      "id": 12,
+      "id": 17,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "50752390"
     },
     {
-      "id": 10,
+      "id": 14,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -51,18 +63,6 @@
       "transaction_price": "116.44",
       "transaction_type": "S",
       "shares_after_transaction": "50766224"
-    },
-    {
-      "id": 9,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-24",
-      "transaction_shares": "7765",
-      "transaction_price": "117.90",
-      "transaction_type": "S",
-      "shares_after_transaction": "50784025"
     }
   ]
 }
