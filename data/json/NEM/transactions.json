@@ -1,20 +1,44 @@
 {
   "ticker": "NEM",
-  "last_updated": "2026-09-02T12:40:25.559039",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 208,
+      "id": 44,
       "issuer_name": "NEWMONT Corp /DE/",
-      "reporting_owner": "BOYCE GREGORY H",
-      "reporting_owner_cik": "0001265769",
+      "reporting_owner": "Beaven Peter David",
+      "reporting_owner_cik": "0002150921",
       "reporting_owner_position": null,
-      "transaction_date": "2026-08-24",
-      "transaction_shares": "46871",
+      "transaction_date": "2026-09-02",
+      "transaction_shares": "1092",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "0"
+      "transaction_type": "A",
+      "shares_after_transaction": "1092"
+    },
+    {
+      "id": 45,
+      "issuer_name": "NEWMONT Corp /DE/",
+      "reporting_owner": "Toth Peter",
+      "reporting_owner_cik": "0001936354",
+      "reporting_owner_position": "EVP, Chief Sustain & Dev Off",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "3000",
+      "transaction_price": "123.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "37315"
+    },
+    {
+      "id": 46,
+      "issuer_name": "NEWMONT Corp /DE/",
+      "reporting_owner": "Viljoen Natascha",
+      "reporting_owner_cik": "0001994131",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "3882",
+      "transaction_price": "123.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "131353"
     }
   ]
 }

@@ -1,11 +1,47 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2026-09-03T12:44:55.744272",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
-  "count": 3,
+  "count": 6,
   "transactions": [
     {
-      "id": 338,
+      "id": 105,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Hoge Stephen",
+      "reporting_owner_cik": "0001760669",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "9283",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "1494188"
+    },
+    {
+      "id": 106,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "2475",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "69479"
+    },
+    {
+      "id": 109,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Klinger Shannon Thyme",
+      "reporting_owner_cik": "0001866132",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "3471",
+      "transaction_price": "30.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "77600"
+    },
+    {
+      "id": 107,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "67210"
     },
     {
-      "id": 339,
+      "id": 108,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -29,7 +65,7 @@
       "shares_after_transaction": "74335"
     },
     {
-      "id": 340,
+      "id": 110,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Hoge Stephen",
       "reporting_owner_cik": "0001760669",

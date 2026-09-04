@@ -1,11 +1,11 @@
 {
   "ticker": "HAS",
-  "last_updated": "2026-09-03T12:44:55.744272",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 364,
+      "id": 319,
       "issuer_name": "HASBRO, INC.",
       "reporting_owner": "Barbacovi Holly",
       "reporting_owner_cik": "0002033228",
@@ -15,6 +15,18 @@
       "transaction_price": "94.20",
       "transaction_type": "S",
       "shares_after_transaction": "37486"
+    },
+    {
+      "id": 318,
+      "issuer_name": "HASBRO, INC.",
+      "reporting_owner": "Hamren Elizabeth",
+      "reporting_owner_cik": "0001879287",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-26",
+      "transaction_shares": "1500",
+      "transaction_price": null,
+      "transaction_type": "G",
+      "shares_after_transaction": "8396"
     }
   ]
 }

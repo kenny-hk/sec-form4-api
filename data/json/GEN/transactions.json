@@ -1,11 +1,23 @@
 {
   "ticker": "GEN",
-  "last_updated": "2026-09-03T12:44:55.744272",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 280,
+      "id": 424,
+      "issuer_name": "Gen Digital Inc.",
+      "reporting_owner": "Vlcek Ondrej",
+      "reporting_owner_cik": "0001911039",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "128",
+      "transaction_price": "30.02",
+      "transaction_type": "F",
+      "shares_after_transaction": "3332776"
+    },
+    {
+      "id": 423,
       "issuer_name": "Gen Digital Inc.",
       "reporting_owner": "Vlcek Ondrej",
       "reporting_owner_cik": "0001911039",
@@ -15,18 +27,6 @@
       "transaction_price": "30",
       "transaction_type": "S",
       "shares_after_transaction": "3332904"
-    },
-    {
-      "id": 281,
-      "issuer_name": "Gen Digital Inc.",
-      "reporting_owner": "Vlcek Ondrej",
-      "reporting_owner_cik": "0001911039",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-25",
-      "transaction_shares": "152358",
-      "transaction_price": "29.0001",
-      "transaction_type": "S",
-      "shares_after_transaction": "3532904"
     }
   ]
 }

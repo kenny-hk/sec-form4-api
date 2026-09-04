@@ -1,11 +1,23 @@
 {
   "ticker": "DD",
-  "last_updated": "2026-09-03T12:44:55.744272",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 405,
+      "id": 210,
+      "issuer_name": "DuPont de Nemours, Inc.",
+      "reporting_owner": "Macpherson Donald G",
+      "reporting_owner_cik": "0001451437",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-08-28",
+      "transaction_shares": "237.2609",
+      "transaction_price": "136.98",
+      "transaction_type": "A",
+      "shares_after_transaction": "2195.8595"
+    },
+    {
+      "id": 211,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "CUTLER ALEXANDER M",
       "reporting_owner_cik": "0001188585",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "25154.7973"
     },
     {
-      "id": 406,
+      "id": 212,
       "issuer_name": "DuPont de Nemours, Inc.",
       "reporting_owner": "Lowery Frederick M.",
       "reporting_owner_cik": "0001777440",
@@ -27,18 +39,6 @@
       "transaction_price": "136.98",
       "transaction_type": "A",
       "shares_after_transaction": "13862.3372"
-    },
-    {
-      "id": 407,
-      "issuer_name": "DuPont de Nemours, Inc.",
-      "reporting_owner": "Macpherson Donald G",
-      "reporting_owner_cik": "0001451437",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-28",
-      "transaction_shares": "237.2609",
-      "transaction_price": "136.98",
-      "transaction_type": "A",
-      "shares_after_transaction": "2195.8595"
     }
   ]
 }

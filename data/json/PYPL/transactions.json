@@ -1,20 +1,68 @@
 {
   "ticker": "PYPL",
-  "last_updated": "2026-08-26T08:48:09.568311",
+  "last_updated": "2026-09-04T12:38:52.310589",
   "retention_years": 3,
-  "count": 1,
+  "count": 5,
   "transactions": [
     {
-      "id": 376,
+      "id": 427,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Webster Aaron",
+      "reporting_owner_cik": "0001862209",
+      "reporting_owner_position": "EVP, Global Chief Risk Officer",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "4602",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "67858"
+    },
+    {
+      "id": 428,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Miller Jamie S",
+      "reporting_owner_cik": "0001290697",
+      "reporting_owner_position": "Chief Fin & Op Officer",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "7414",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "84318"
+    },
+    {
+      "id": 429,
       "issuer_name": "PayPal Holdings, Inc.",
       "reporting_owner": "Kereere Suzan",
       "reporting_owner_cik": "0001896086",
       "reporting_owner_position": "President, Global Markets",
-      "transaction_date": "2026-08-18",
-      "transaction_shares": "3362",
-      "transaction_price": "60.8563",
-      "transaction_type": "S",
-      "shares_after_transaction": "31783"
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "6903",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "37886"
+    },
+    {
+      "id": 430,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Natali Chris",
+      "reporting_owner_cik": "0001905272",
+      "reporting_owner_position": "SVP, Chief Accounting Officer",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "1023",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "3239"
+    },
+    {
+      "id": 431,
+      "issuer_name": "PayPal Holdings, Inc.",
+      "reporting_owner": "Keller Frank",
+      "reporting_owner_cik": "0002006416",
+      "reporting_owner_position": "Pres., Checkout Sol. & Paypal",
+      "transaction_date": "2026-09-01",
+      "transaction_shares": "3418",
+      "transaction_price": "0.0",
+      "transaction_type": "M",
+      "shares_after_transaction": "44985"
     }
   ]
 }
