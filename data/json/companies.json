@@ -1,7 +1,14 @@
 {
-  "last_updated": "2026-09-04T12:38:52.308923",
-  "count": 212,
+  "last_updated": "2026-09-05T11:46:45.556745",
+  "count": 225,
   "companies": [
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR INC",
+      "transaction_count": 19,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
     {
       "ticker": "BG",
       "name": "Bunge Global SA",
@@ -12,9 +19,23 @@
     {
       "ticker": "ADP",
       "name": "AUTOMATIC DATA PROCESSING INC",
-      "transaction_count": 14,
-      "latest_transaction": "2026-09-01",
+      "transaction_count": 15,
+      "latest_transaction": "2026-09-03",
       "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "transaction_count": 14,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "CASY",
+      "name": "CASEYS GENERAL STORES INC",
+      "transaction_count": 11,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "ETR",
@@ -38,6 +59,20 @@
       "earliest_transaction": null
     },
     {
+      "ticker": "CTSH",
+      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "transaction_count": 10,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-31"
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog, Inc.",
+      "transaction_count": 10,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-01"
+    },
+    {
       "ticker": "NFLX",
       "name": "NETFLIX INC",
       "transaction_count": 10,
@@ -45,11 +80,11 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "CTSH",
-      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+      "ticker": "COHR",
+      "name": "COHERENT CORP.",
       "transaction_count": 9,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-31"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "DECK",
@@ -66,25 +101,11 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "PCAR",
-      "name": "PACCAR INC",
-      "transaction_count": 9,
-      "latest_transaction": null,
-      "earliest_transaction": null
-    },
-    {
       "ticker": "VEEV",
       "name": "VEEVA SYSTEMS INC",
       "transaction_count": 9,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-08-27"
-    },
-    {
-      "ticker": "COHR",
-      "name": "COHERENT CORP.",
-      "transaction_count": 8,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "CVNA",
@@ -129,13 +150,6 @@
       "earliest_transaction": "2026-08-31"
     },
     {
-      "ticker": "INTU",
-      "name": "INTUIT INC.",
-      "transaction_count": 7,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-27"
-    },
-    {
       "ticker": "PPG",
       "name": "PPG INDUSTRIES INC",
       "transaction_count": 7,
@@ -157,18 +171,25 @@
       "earliest_transaction": "2026-08-28"
     },
     {
-      "ticker": "GEHC",
-      "name": "GE HealthCare Technologies Inc.",
-      "transaction_count": 6,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-09-01"
-    },
-    {
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
       "transaction_count": 6,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-08-28"
+    },
+    {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "transaction_count": 6,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "INTU",
+      "name": "INTUIT INC.",
+      "transaction_count": 6,
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "JKHY",
@@ -195,15 +216,8 @@
       "ticker": "AFL",
       "name": "AFLAC INC",
       "transaction_count": 5,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-26"
-    },
-    {
-      "ticker": "AMCR",
-      "name": "Amcor plc",
-      "transaction_count": 5,
-      "latest_transaction": "2026-08-28",
-      "earliest_transaction": "2026-08-26"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-27"
     },
     {
       "ticker": "AXON",
@@ -211,6 +225,13 @@
       "transaction_count": 5,
       "latest_transaction": "2026-08-31",
       "earliest_transaction": "2026-08-31"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "transaction_count": 5,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-27"
     },
     {
       "ticker": "GIS",
@@ -244,15 +265,8 @@
       "ticker": "TPL",
       "name": "Texas Pacific Land Corp",
       "transaction_count": 5,
-      "latest_transaction": "2026-09-02",
-      "earliest_transaction": "2026-08-27"
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb, Inc.",
-      "transaction_count": 4,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-26"
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "CHD",
@@ -262,25 +276,11 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "DASH",
+      "name": "DoorDash, Inc.",
       "transaction_count": 4,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-27"
-    },
-    {
-      "ticker": "HOOD",
-      "name": "Robinhood Markets, Inc.",
-      "transaction_count": 4,
-      "latest_transaction": "2026-09-01",
+      "latest_transaction": "2026-09-02",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "ICE",
-      "name": "Intercontinental Exchange, Inc.",
-      "transaction_count": 4,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-26"
     },
     {
       "ticker": "KR",
@@ -311,11 +311,11 @@
       "earliest_transaction": "2026-08-31"
     },
     {
-      "ticker": "SCHW",
-      "name": "SCHWAB CHARLES CORP",
+      "ticker": "MSCI",
+      "name": "MSCI Inc.",
       "transaction_count": 4,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-27"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "SPG",
@@ -330,6 +330,13 @@
       "transaction_count": 4,
       "latest_transaction": "2026-08-31",
       "earliest_transaction": "2026-08-31"
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb, Inc.",
+      "transaction_count": 3,
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "ANET",
@@ -351,13 +358,6 @@
       "transaction_count": 3,
       "latest_transaction": null,
       "earliest_transaction": null
-    },
-    {
-      "ticker": "DASH",
-      "name": "DoorDash, Inc.",
-      "transaction_count": 3,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "DD",
@@ -395,20 +395,6 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "MSCI",
-      "name": "MSCI Inc.",
-      "transaction_count": 3,
-      "latest_transaction": "2026-08-28",
-      "earliest_transaction": "2026-08-28"
-    },
-    {
-      "ticker": "NDSN",
-      "name": "NORDSON CORP",
-      "transaction_count": 3,
-      "latest_transaction": "2026-09-02",
-      "earliest_transaction": "2026-08-27"
-    },
-    {
       "ticker": "NEM",
       "name": "NEWMONT Corp /DE/",
       "transaction_count": 3,
@@ -423,11 +409,18 @@
       "earliest_transaction": "2026-08-27"
     },
     {
-      "ticker": "RSG",
-      "name": "REPUBLIC SERVICES, INC.",
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "transaction_count": 3,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-31"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "SCHWAB CHARLES CORP",
       "transaction_count": 3,
       "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-26"
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "SMCI",
@@ -435,6 +428,13 @@
       "transaction_count": 3,
       "latest_transaction": null,
       "earliest_transaction": null
+    },
+    {
+      "ticker": "SO",
+      "name": "SOUTHERN CO",
+      "transaction_count": 3,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "UPS",
@@ -458,13 +458,6 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "YUM",
-      "name": "YUM BRANDS INC",
-      "transaction_count": 3,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-09-01"
-    },
-    {
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "transaction_count": 2,
@@ -479,11 +472,11 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "ADI",
-      "name": "ANALOG DEVICES INC",
+      "ticker": "AJG",
+      "name": "Arthur J. Gallagher & Co.",
       "transaction_count": 2,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-27"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "ARE",
@@ -535,18 +528,18 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "DDOG",
-      "name": "Datadog, Inc.",
-      "transaction_count": 2,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-09-01"
-    },
-    {
       "ticker": "DGX",
       "name": "QUEST DIAGNOSTICS INC",
       "transaction_count": 2,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-08-28"
+    },
+    {
+      "ticker": "DLTR",
+      "name": "DOLLAR TREE, INC.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-04",
+      "earliest_transaction": "2026-08-31"
     },
     {
       "ticker": "DRI",
@@ -556,11 +549,11 @@
       "earliest_transaction": "2026-08-30"
     },
     {
-      "ticker": "EW",
-      "name": "Edwards Lifesciences Corp",
+      "ticker": "ELV",
+      "name": "Elevance Health, Inc.",
       "transaction_count": 2,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-28"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "FSLR",
@@ -568,13 +561,6 @@
       "transaction_count": 2,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "GEN",
-      "name": "Gen Digital Inc.",
-      "transaction_count": 2,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-08-27"
     },
     {
       "ticker": "GNRC",
@@ -598,11 +584,11 @@
       "earliest_transaction": "2026-08-27"
     },
     {
-      "ticker": "IBM",
-      "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange, Inc.",
       "transaction_count": 2,
-      "latest_transaction": "2026-08-26",
-      "earliest_transaction": "2026-08-26"
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "IVZ",
@@ -612,11 +598,32 @@
       "earliest_transaction": "2026-08-31"
     },
     {
+      "ticker": "KKR",
+      "name": "KKR & Co. Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
       "ticker": "LEN, LEN.B",
       "name": "LENNAR CORP /NEW/",
       "transaction_count": 2,
       "latest_transaction": "2026-08-31",
       "earliest_transaction": "2026-08-31"
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-28"
+    },
+    {
+      "ticker": "LLY",
+      "name": "ELI LILLY & Co",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "LRCX",
@@ -654,6 +661,13 @@
       "earliest_transaction": "2026-09-02"
     },
     {
+      "ticker": "MSI",
+      "name": "Motorola Solutions, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
       "ticker": "MTD",
       "name": "METTLER TOLEDO INTERNATIONAL INC/",
       "transaction_count": 2,
@@ -661,11 +675,11 @@
       "earliest_transaction": "2026-08-27"
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA CORP",
+      "ticker": "NDSN",
+      "name": "NORDSON CORP",
       "transaction_count": 2,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-31"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "PANW",
@@ -689,11 +703,11 @@
       "earliest_transaction": "2026-09-02"
     },
     {
-      "ticker": "ROK",
-      "name": "ROCKWELL AUTOMATION, INC",
+      "ticker": "RSG",
+      "name": "REPUBLIC SERVICES, INC.",
       "transaction_count": 2,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-27"
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "RVI",
@@ -710,6 +724,13 @@
       "earliest_transaction": "2026-08-31"
     },
     {
+      "ticker": "STT",
+      "name": "STATE STREET CORP",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-31"
+    },
+    {
       "ticker": "STX",
       "name": "Seagate Technology Holdings plc",
       "transaction_count": 2,
@@ -722,6 +743,13 @@
       "transaction_count": 2,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "TTWO",
+      "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "ULTA",
@@ -752,6 +780,13 @@
       "earliest_transaction": "2026-08-27"
     },
     {
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-08-27"
+    },
+    {
       "ticker": "WDC",
       "name": "WESTERN DIGITAL CORP",
       "transaction_count": 2,
@@ -759,8 +794,22 @@
       "earliest_transaction": "2026-08-31"
     },
     {
-      "ticker": "AJG",
-      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "XYZ",
+      "name": "Block, Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-08-28"
+    },
+    {
+      "ticker": "YUM",
+      "name": "YUM BRANDS INC",
+      "transaction_count": 2,
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "ADI",
+      "name": "ANALOG DEVICES INC",
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
@@ -792,6 +841,13 @@
       "transaction_count": 1,
       "latest_transaction": "2026-08-27",
       "earliest_transaction": "2026-08-27"
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor plc",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "AMZN",
@@ -829,6 +885,13 @@
       "earliest_transaction": "2026-08-28"
     },
     {
+      "ticker": "BAC",
+      "name": "BANK OF AMERICA CORP /DE/",
+      "transaction_count": 1,
+      "latest_transaction": "2026-03-10",
+      "earliest_transaction": "2026-03-10"
+    },
+    {
       "ticker": "BDX",
       "name": "BECTON DICKINSON & CO",
       "transaction_count": 1,
@@ -855,6 +918,13 @@
       "transaction_count": 1,
       "latest_transaction": "2026-08-27",
       "earliest_transaction": "2026-08-27"
+    },
+    {
+      "ticker": "BRK.A",
+      "name": "BERKSHIRE HATHAWAY INC",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-03"
     },
     {
       "ticker": "BSX",
@@ -916,8 +986,8 @@
       "ticker": "CRM",
       "name": "Salesforce, Inc.",
       "transaction_count": 1,
-      "latest_transaction": "2026-08-28",
-      "earliest_transaction": "2026-08-28"
+      "latest_transaction": "2026-09-04",
+      "earliest_transaction": "2026-09-04"
     },
     {
       "ticker": "CSX",
@@ -955,25 +1025,11 @@
       "earliest_transaction": "2026-08-27"
     },
     {
-      "ticker": "DLTR",
-      "name": "DOLLAR TREE, INC.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-31"
-    },
-    {
       "ticker": "DTE",
       "name": "DTE ENERGY CO",
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "DXCM",
-      "name": "DEXCOM INC",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-27",
-      "earliest_transaction": "2026-08-27"
     },
     {
       "ticker": "EOG",
@@ -997,11 +1053,11 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "FCX",
-      "name": "FREEPORT-MCMORAN INC",
+      "ticker": "EW",
+      "name": "Edwards Lifesciences Corp",
       "transaction_count": 1,
-      "latest_transaction": "2026-08-27",
-      "earliest_transaction": "2026-08-27"
+      "latest_transaction": "2026-08-31",
+      "earliest_transaction": "2026-08-31"
     },
     {
       "ticker": "FDX",
@@ -1023,6 +1079,20 @@
       "transaction_count": 1,
       "latest_transaction": null,
       "earliest_transaction": null
+    },
+    {
+      "ticker": "GD",
+      "name": "GENERAL DYNAMICS CORP",
+      "transaction_count": 1,
+      "latest_transaction": null,
+      "earliest_transaction": null
+    },
+    {
+      "ticker": "GEN",
+      "name": "Gen Digital Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-01",
+      "earliest_transaction": "2026-09-01"
     },
     {
       "ticker": "GILD",
@@ -1053,11 +1123,11 @@
       "earliest_transaction": "2026-08-31"
     },
     {
-      "ticker": "HCA",
-      "name": "HCA Healthcare, Inc.",
+      "ticker": "HBAN",
+      "name": "HUNTINGTON BANCSHARES INC /MD/",
       "transaction_count": 1,
-      "latest_transaction": "2026-08-26",
-      "earliest_transaction": "2026-08-26"
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-03"
     },
     {
       "ticker": "HD",
@@ -1109,11 +1179,25 @@
       "earliest_transaction": "2026-08-29"
     },
     {
-      "ticker": "KEYS",
-      "name": "Keysight Technologies, Inc.",
+      "ticker": "IQV",
+      "name": "IQVIA HOLDINGS INC.",
       "transaction_count": 1,
-      "latest_transaction": "2026-08-26",
-      "earliest_transaction": "2026-08-26"
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "JOHNSON & JOHNSON",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-03",
+      "earliest_transaction": "2026-09-03"
     },
     {
       "ticker": "LDOS",
@@ -1121,13 +1205,6 @@
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "LITE",
-      "name": "Lumentum Holdings Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-28",
-      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "LVS",
@@ -1142,6 +1219,13 @@
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "MDLZ",
+      "name": "Mondelez International, Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "MKC",
@@ -1163,13 +1247,6 @@
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "transaction_count": 1,
-      "latest_transaction": "2026-06-26",
-      "earliest_transaction": "2026-06-26"
     },
     {
       "ticker": "N/A",
@@ -1214,6 +1291,13 @@
       "earliest_transaction": "2026-08-28"
     },
     {
+      "ticker": "OTIS",
+      "name": "Otis Worldwide Corp",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
       "ticker": "PAYX",
       "name": "PAYCHEX INC",
       "transaction_count": 1,
@@ -1242,18 +1326,18 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "PH",
-      "name": "Parker-Hannifin Corp",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-26",
-      "earliest_transaction": "2026-08-26"
-    },
-    {
       "ticker": "PLTR",
       "name": "Palantir Technologies Inc.",
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
+    },
+    {
+      "ticker": "PNR",
+      "name": "PENTAIR plc",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "PPL",
@@ -1275,6 +1359,13 @@
       "transaction_count": 1,
       "latest_transaction": null,
       "earliest_transaction": null
+    },
+    {
+      "ticker": "PSKY",
+      "name": "Paramount Skydance Corp",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
     },
     {
       "ticker": "QCOM",
@@ -1305,6 +1396,13 @@
       "earliest_transaction": "2026-09-02"
     },
     {
+      "ticker": "ROK",
+      "name": "ROCKWELL AUTOMATION, INC",
+      "transaction_count": 1,
+      "latest_transaction": "2026-08-31",
+      "earliest_transaction": "2026-08-31"
+    },
+    {
       "ticker": "SNA",
       "name": "Snap-on Inc",
       "transaction_count": 1,
@@ -1319,25 +1417,11 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "SO",
-      "name": "SOUTHERN CO",
-      "transaction_count": 1,
-      "latest_transaction": "2026-09-01",
-      "earliest_transaction": "2026-09-01"
-    },
-    {
       "ticker": "SOLV",
       "name": "Solventum Corp",
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "STT",
-      "name": "STATE STREET CORP",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-31",
-      "earliest_transaction": "2026-08-31"
     },
     {
       "ticker": "SYK",
@@ -1368,6 +1452,13 @@
       "earliest_transaction": "2026-09-01"
     },
     {
+      "ticker": "TRMB",
+      "name": "TRIMBLE INC.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
       "ticker": "TRV",
       "name": "TRAVELERS COMPANIES, INC.",
       "transaction_count": 1,
@@ -1387,6 +1478,20 @@
       "transaction_count": 1,
       "latest_transaction": "2026-08-28",
       "earliest_transaction": "2026-08-28"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UNITEDHEALTH GROUP INC",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-02",
+      "earliest_transaction": "2026-09-02"
+    },
+    {
+      "ticker": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2026-09-04",
+      "earliest_transaction": "2026-09-04"
     },
     {
       "ticker": "USB",
@@ -1431,13 +1536,6 @@
       "earliest_transaction": "2026-09-01"
     },
     {
-      "ticker": "WBD",
-      "name": "Warner Bros. Discovery, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-27",
-      "earliest_transaction": "2026-08-27"
-    },
-    {
       "ticker": "WDAY",
       "name": "Workday, Inc.",
       "transaction_count": 1,
@@ -1471,13 +1569,6 @@
       "transaction_count": 1,
       "latest_transaction": "2026-09-01",
       "earliest_transaction": "2026-09-01"
-    },
-    {
-      "ticker": "XYZ",
-      "name": "Block, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-08-28",
-      "earliest_transaction": "2026-08-28"
     },
     {
       "ticker": "ZTS",

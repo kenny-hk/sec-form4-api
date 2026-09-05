@@ -1,11 +1,35 @@
 {
   "ticker": "SO",
-  "last_updated": "2026-09-04T12:38:52.310589",
+  "last_updated": "2026-09-05T11:46:45.558481",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 450,
+      "id": 501,
+      "issuer_name": "SOUTHERN CO",
+      "reporting_owner": "Kim Matthew M.",
+      "reporting_owner_cik": "0002082705",
+      "reporting_owner_position": "Comptroller",
+      "transaction_date": "2026-09-03",
+      "transaction_shares": "1400",
+      "transaction_price": "88.87",
+      "transaction_type": "S",
+      "shares_after_transaction": "4988"
+    },
+    {
+      "id": 502,
+      "issuer_name": "SOUTHERN CO",
+      "reporting_owner": "Sena Peter P III",
+      "reporting_owner_cik": "0002023851",
+      "reporting_owner_position": "Chairman,President & CEO, SNC",
+      "transaction_date": "2026-09-03",
+      "transaction_shares": "4266",
+      "transaction_price": "88.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "26935"
+    },
+    {
+      "id": 500,
       "issuer_name": "SOUTHERN CO",
       "reporting_owner": "Kim Matthew M.",
       "reporting_owner_cik": "0002082705",
