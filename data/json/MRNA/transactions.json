@@ -1,11 +1,11 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2026-09-07T14:07:20.441704",
+  "last_updated": "2026-09-08T12:44:50.474006",
   "retention_years": 3,
-  "count": 6,
+  "count": 3,
   "transactions": [
     {
-      "id": 102,
+      "id": 89,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Hoge Stephen",
       "reporting_owner_cik": "0001760669",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "1494188"
     },
     {
-      "id": 103,
+      "id": 90,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
@@ -29,7 +29,7 @@
       "shares_after_transaction": "69479"
     },
     {
-      "id": 106,
+      "id": 91,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -39,42 +39,6 @@
       "transaction_price": "30.96",
       "transaction_type": "M",
       "shares_after_transaction": "77600"
-    },
-    {
-      "id": 104,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Mock James M",
-      "reporting_owner_cik": "0001736359",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-08-27",
-      "transaction_shares": "774",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "67210"
-    },
-    {
-      "id": 105,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Klinger Shannon Thyme",
-      "reporting_owner_cik": "0001866132",
-      "reporting_owner_position": "Chief Legal Officer",
-      "transaction_date": "2026-08-27",
-      "transaction_shares": "774",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "74335"
-    },
-    {
-      "id": 107,
-      "issuer_name": "Moderna, Inc.",
-      "reporting_owner": "Hoge Stephen",
-      "reporting_owner_cik": "0001760669",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-08-27",
-      "transaction_shares": "1437",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "1485285"
     }
   ]
 }
