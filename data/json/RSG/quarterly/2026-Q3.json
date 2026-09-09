@@ -2,11 +2,23 @@
   "ticker": "RSG",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-08T12:44:50.474006",
+  "last_updated": "2026-09-09T12:51:24.117501",
   "count": 2,
   "transactions": [
     {
-      "id": 532,
+      "id": 514,
+      "issuer_name": "REPUBLIC SERVICES, INC.",
+      "reporting_owner": "CASCADE INVESTMENT, L.L.C.",
+      "reporting_owner_cik": "0001052192",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-03",
+      "transaction_shares": "22720",
+      "transaction_price": "222.8052",
+      "transaction_type": "P",
+      "shares_after_transaction": "115044247"
+    },
+    {
+      "id": 513,
       "issuer_name": "REPUBLIC SERVICES, INC.",
       "reporting_owner": "CASCADE INVESTMENT, L.L.C.",
       "reporting_owner_cik": "0001052192",
@@ -16,18 +28,6 @@
       "transaction_price": "221.3543",
       "transaction_type": "P",
       "shares_after_transaction": "114508766"
-    },
-    {
-      "id": 533,
-      "issuer_name": "REPUBLIC SERVICES, INC.",
-      "reporting_owner": "CASCADE INVESTMENT, L.L.C.",
-      "reporting_owner_cik": "0001052192",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-08-28",
-      "transaction_shares": "58533",
-      "transaction_price": "220.2897",
-      "transaction_type": "P",
-      "shares_after_transaction": "113993660"
     }
   ]
 }
