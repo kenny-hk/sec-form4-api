@@ -1,7 +1,20 @@
 {
   "ticker": "NFLX",
-  "last_updated": "2026-09-09T12:51:24.117501",
+  "last_updated": "2026-09-10T12:49:38.774996",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 174,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "BARTON RICHARD N",
+      "reporting_owner_cik": "0001184230",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-08",
+      "transaction_shares": "720",
+      "transaction_price": "20.107",
+      "transaction_type": "M",
+      "shares_after_transaction": "3180"
+    }
+  ]
 }
