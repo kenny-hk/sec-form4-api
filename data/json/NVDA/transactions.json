@@ -1,11 +1,23 @@
 {
   "ticker": "NVDA",
-  "last_updated": "2026-09-11T12:43:11.630315",
+  "last_updated": "2026-09-12T12:03:58.297996",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 173,
+      "id": 155,
+      "issuer_name": "NVIDIA CORP",
+      "reporting_owner": "Parker Nicholas P.",
+      "reporting_owner_cik": "0002152188",
+      "reporting_owner_position": "EVP, Worldwide Field Ops",
+      "transaction_date": "2026-09-09",
+      "transaction_shares": "172507",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "172507"
+    },
+    {
+      "id": 156,
       "issuer_name": "NVIDIA CORP",
       "reporting_owner": "STEVENS MARK A",
       "reporting_owner_cik": "0001199039",
@@ -15,18 +27,6 @@
       "transaction_price": "227.6954",
       "transaction_type": "S",
       "shares_after_transaction": "3160063"
-    },
-    {
-      "id": 172,
-      "issuer_name": "NVIDIA CORP",
-      "reporting_owner": "COXE TENCH",
-      "reporting_owner_cik": "0001197647",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-02",
-      "transaction_shares": "500000",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "24171360"
     }
   ]
 }
