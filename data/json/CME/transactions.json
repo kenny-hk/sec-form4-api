@@ -1,11 +1,23 @@
 {
   "ticker": "CME",
-  "last_updated": "2026-09-14T14:52:05.174096",
+  "last_updated": "2026-09-15T13:19:19.279764",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 66,
+      "id": 103,
+      "issuer_name": "CME GROUP INC.",
+      "reporting_owner": "Cook Elizabeth A",
+      "reporting_owner_cik": "0001643475",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "500",
+      "transaction_price": "280.11",
+      "transaction_type": "S",
+      "shares_after_transaction": "17916"
+    },
+    {
+      "id": 104,
       "issuer_name": "CME GROUP INC.",
       "reporting_owner": "DUFFY TERRENCE A",
       "reporting_owner_cik": "0001212809",

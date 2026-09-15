@@ -1,11 +1,23 @@
 {
   "ticker": "MRNA",
-  "last_updated": "2026-09-14T14:52:05.174096",
+  "last_updated": "2026-09-15T13:19:19.279764",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 14,
+      "id": 22,
+      "issuer_name": "Moderna, Inc.",
+      "reporting_owner": "Mock James M",
+      "reporting_owner_cik": "0001736359",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-10",
+      "transaction_shares": "19836",
+      "transaction_price": "30.96",
+      "transaction_type": "M",
+      "shares_after_transaction": "94211"
+    },
+    {
+      "id": 23,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Klinger Shannon Thyme",
       "reporting_owner_cik": "0001866132",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "87044"
     },
     {
-      "id": 15,
+      "id": 24,
       "issuer_name": "Moderna, Inc.",
       "reporting_owner": "Mock James M",
       "reporting_owner_cik": "0001736359",
