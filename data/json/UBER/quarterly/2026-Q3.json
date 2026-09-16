@@ -2,11 +2,23 @@
   "ticker": "UBER",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-15T13:19:19.279764",
+  "last_updated": "2026-09-16T13:17:28.897792",
   "count": 2,
   "transactions": [
     {
-      "id": 200,
+      "id": 207,
+      "issuer_name": "Uber Technologies, Inc",
+      "reporting_owner": "Hazelbaker Jill",
+      "reporting_owner_cik": "0001775297",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-09-11",
+      "transaction_shares": "28170.00",
+      "transaction_price": "71.3054",
+      "transaction_type": "S",
+      "shares_after_transaction": "149525.00"
+    },
+    {
+      "id": 208,
       "issuer_name": "Uber Technologies, Inc",
       "reporting_owner": "KHOSROWSHAHI DARA",
       "reporting_owner_cik": "0001184237",
@@ -16,18 +28,6 @@
       "transaction_price": "70.9642",
       "transaction_type": "P",
       "shares_after_transaction": "1367100.00"
-    },
-    {
-      "id": 199,
-      "issuer_name": "Uber Technologies, Inc",
-      "reporting_owner": "Macdonald Andrew",
-      "reporting_owner_cik": "0002071761",
-      "reporting_owner_position": "See Remarks",
-      "transaction_date": "2026-09-04",
-      "transaction_shares": "54325.00",
-      "transaction_price": "75.6526",
-      "transaction_type": "P",
-      "shares_after_transaction": "410645.00"
     }
   ]
 }

@@ -1,7 +1,32 @@
 {
   "ticker": "FFIV",
-  "last_updated": "2026-09-09T12:51:24.117501",
+  "last_updated": "2026-09-16T13:17:28.897792",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 10,
+      "issuer_name": "F5, INC.",
+      "reporting_owner": "Maddison John Anthony",
+      "reporting_owner_cik": "0002046054",
+      "reporting_owner_position": "Chief Product  Mkting Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "204",
+      "transaction_price": "406.24",
+      "transaction_type": "S",
+      "shares_after_transaction": "1149"
+    },
+    {
+      "id": 11,
+      "issuer_name": "F5, INC.",
+      "reporting_owner": "MONTOYA MICHAEL F",
+      "reporting_owner_cik": "0001869466",
+      "reporting_owner_position": "Chief Technology Ops Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "1296",
+      "transaction_price": "406.24",
+      "transaction_type": "S",
+      "shares_after_transaction": "4439"
+    }
+  ]
 }

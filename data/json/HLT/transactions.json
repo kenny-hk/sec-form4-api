@@ -1,20 +1,32 @@
 {
   "ticker": "HLT",
-  "last_updated": "2026-08-13T09:18:10.208093",
+  "last_updated": "2026-09-16T13:17:28.897792",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 268,
+      "id": 201,
       "issuer_name": "Hilton Worldwide Holdings Inc.",
-      "reporting_owner": "Charnaux Christian H.",
-      "reporting_owner_cik": "0002076715",
-      "reporting_owner_position": "See remarks",
-      "transaction_date": "2026-08-05",
-      "transaction_shares": "1854",
-      "transaction_price": "324.56",
-      "transaction_type": "F",
-      "shares_after_transaction": "16435"
+      "reporting_owner": "Fuentes Laura",
+      "reporting_owner_cik": "0001827369",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "7936",
+      "transaction_price": "58.02",
+      "transaction_type": "M",
+      "shares_after_transaction": "35859"
+    },
+    {
+      "id": 202,
+      "issuer_name": "Hilton Worldwide Holdings Inc.",
+      "reporting_owner": "Carr Chris",
+      "reporting_owner_cik": "0001821096",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "439",
+      "transaction_price": "310.34",
+      "transaction_type": "S",
+      "shares_after_transaction": "8251.793"
     }
   ]
 }

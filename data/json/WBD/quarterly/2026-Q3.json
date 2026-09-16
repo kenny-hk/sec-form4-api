@@ -2,11 +2,23 @@
   "ticker": "WBD",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-15T13:19:19.279764",
+  "last_updated": "2026-09-16T13:17:28.897792",
   "count": 4,
   "transactions": [
     {
       "id": 256,
+      "issuer_name": "Warner Bros. Discovery, Inc.",
+      "reporting_owner": "Locke Lori C.",
+      "reporting_owner_cik": "0001646563",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "29115",
+      "transaction_price": "28.13",
+      "transaction_type": "S",
+      "shares_after_transaction": "86906"
+    },
+    {
+      "id": 253,
       "issuer_name": "Warner Bros. Discovery, Inc.",
       "reporting_owner": "FISHER RICHARD W",
       "reporting_owner_cik": "0001287510",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "52846"
     },
     {
-      "id": 257,
+      "id": 254,
       "issuer_name": "Warner Bros. Discovery, Inc.",
       "reporting_owner": "LOWE KENNETH W",
       "reporting_owner_cik": "0001186933",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "590108"
     },
     {
-      "id": 259,
+      "id": 255,
       "issuer_name": "Warner Bros. Discovery, Inc.",
       "reporting_owner": "Girdwood Amy",
       "reporting_owner_cik": "0002060469",
@@ -40,18 +52,6 @@
       "transaction_price": "27.98",
       "transaction_type": "S",
       "shares_after_transaction": "539374"
-    },
-    {
-      "id": 258,
-      "issuer_name": "Warner Bros. Discovery, Inc.",
-      "reporting_owner": "LEVY ANTON J",
-      "reporting_owner_cik": "0001396681",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-03",
-      "transaction_shares": "340000",
-      "transaction_price": "28.39",
-      "transaction_type": "S",
-      "shares_after_transaction": "618067"
     }
   ]
 }

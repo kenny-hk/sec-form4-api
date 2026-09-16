@@ -2,11 +2,47 @@
   "ticker": "MSFT",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-15T13:19:19.279764",
+  "last_updated": "2026-09-16T13:17:28.897792",
   "count": 4,
   "transactions": [
     {
-      "id": 353,
+      "id": 317,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Coleman Amy",
+      "reporting_owner_cik": "0002062356",
+      "reporting_owner_position": "EVP, Chief Human Resources Off",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "35.943",
+      "transaction_price": "505.41",
+      "transaction_type": "F",
+      "shares_after_transaction": "44451.4031"
+    },
+    {
+      "id": 323,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Jolla Alice L.",
+      "reporting_owner_cik": "0001819285",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "122.773",
+      "transaction_price": "505.41",
+      "transaction_type": "F",
+      "shares_after_transaction": "81119.1096"
+    },
+    {
+      "id": 328,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Hood Amy",
+      "reporting_owner_cik": "0001576843",
+      "reporting_owner_position": "EVP, Chief Financial Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "4339",
+      "transaction_price": "495.974",
+      "transaction_type": "S",
+      "shares_after_transaction": "570959.427"
+    },
+    {
+      "id": 327,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "SMITH BRADFORD L",
       "reporting_owner_cik": "0001193119",
@@ -16,42 +52,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "444716.2944"
-    },
-    {
-      "id": 340,
-      "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "STANTON JOHN W",
-      "reporting_owner_cik": "0000904858",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-05",
-      "transaction_shares": "125",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "84179"
-    },
-    {
-      "id": 341,
-      "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "SCHARF CHARLES W",
-      "reporting_owner_cik": "0001195358",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-05",
-      "transaction_shares": "125",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "45166"
-    },
-    {
-      "id": 354,
-      "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "List Teri",
-      "reporting_owner_cik": "0001529370",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-05",
-      "transaction_shares": "125",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "125"
     }
   ]
 }
