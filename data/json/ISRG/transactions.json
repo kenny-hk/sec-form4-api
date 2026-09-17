@@ -1,11 +1,23 @@
 {
   "ticker": "ISRG",
-  "last_updated": "2026-09-16T13:17:28.897792",
+  "last_updated": "2026-09-17T13:11:26.050775",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 183,
+      "id": 223,
+      "issuer_name": "INTUITIVE SURGICAL INC",
+      "reporting_owner": "Widman Fredrik",
+      "reporting_owner_cik": "0001897970",
+      "reporting_owner_position": "VP Corporate Controller",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "546",
+      "transaction_price": "79.6378",
+      "transaction_type": "M",
+      "shares_after_transaction": "1572"
+    },
+    {
+      "id": 222,
       "issuer_name": "INTUITIVE SURGICAL INC",
       "reporting_owner": "Brosius Mark",
       "reporting_owner_cik": "0002010300",
@@ -15,18 +27,6 @@
       "transaction_price": "347.66",
       "transaction_type": "S",
       "shares_after_transaction": "789"
-    },
-    {
-      "id": 184,
-      "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "Brosius Mark",
-      "reporting_owner_cik": "0002010300",
-      "reporting_owner_position": "EVP & Chief Mfg and Supply Cha",
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "46",
-      "transaction_price": "361.23",
-      "transaction_type": "S",
-      "shares_after_transaction": "835"
     }
   ]
 }

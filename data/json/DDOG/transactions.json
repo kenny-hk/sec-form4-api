@@ -1,11 +1,47 @@
 {
   "ticker": "DDOG",
-  "last_updated": "2026-09-16T13:17:28.897792",
+  "last_updated": "2026-09-17T13:11:26.050775",
   "retention_years": 3,
-  "count": 4,
+  "count": 6,
   "transactions": [
     {
-      "id": 81,
+      "id": 87,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "OBSTLER DAVID M",
+      "reporting_owner_cik": "0001120741",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "12000",
+      "transaction_price": "0",
+      "transaction_type": "C",
+      "shares_after_transaction": "12000"
+    },
+    {
+      "id": 88,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "OBSTLER DAVID M",
+      "reporting_owner_cik": "0001120741",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "2656",
+      "transaction_price": "221.2371",
+      "transaction_type": "S",
+      "shares_after_transaction": "415411"
+    },
+    {
+      "id": 89,
+      "issuer_name": "Datadog, Inc.",
+      "reporting_owner": "Acocella Kerry",
+      "reporting_owner_cik": "0001903975",
+      "reporting_owner_position": "General Counsel and Secretary",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "200",
+      "transaction_price": "221.6285",
+      "transaction_type": "S",
+      "shares_after_transaction": "120323"
+    },
+    {
+      "id": 90,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Walters Sean Michael",
       "reporting_owner_cik": "0001903980",
@@ -17,7 +53,7 @@
       "shares_after_transaction": "244045"
     },
     {
-      "id": 82,
+      "id": 91,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Li Yanbing",
       "reporting_owner_cik": "0001783061",
@@ -29,7 +65,7 @@
       "shares_after_transaction": "262746"
     },
     {
-      "id": 79,
+      "id": 86,
       "issuer_name": "Datadog, Inc.",
       "reporting_owner": "Pomel Olivier",
       "reporting_owner_cik": "0001783990",
@@ -39,18 +75,6 @@
       "transaction_price": "0",
       "transaction_type": "C",
       "shares_after_transaction": "675913"
-    },
-    {
-      "id": 80,
-      "issuer_name": "Datadog, Inc.",
-      "reporting_owner": "Richardson Julie",
-      "reporting_owner_cik": "0001466857",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-04",
-      "transaction_shares": "5625",
-      "transaction_price": "0",
-      "transaction_type": "C",
-      "shares_after_transaction": "8803"
     }
   ]
 }

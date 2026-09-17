@@ -2,20 +2,32 @@
   "ticker": "TER",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-09T12:51:24.117501",
-  "count": 1,
+  "last_updated": "2026-09-17T13:11:26.050775",
+  "count": 2,
   "transactions": [
     {
-      "id": 358,
+      "id": 268,
       "issuer_name": "TERADYNE, INC",
-      "reporting_owner": "JOHNSON MERCEDES",
-      "reporting_owner_cik": "0001225110",
+      "reporting_owner": "MATZ MARILYN",
+      "reporting_owner_cik": "0001618274",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-01",
-      "transaction_shares": "167",
-      "transaction_price": "341.30",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "800",
+      "transaction_price": "337.83",
       "transaction_type": "S",
-      "shares_after_transaction": "6364"
+      "shares_after_transaction": "14240.675"
+    },
+    {
+      "id": 269,
+      "issuer_name": "TERADYNE, INC",
+      "reporting_owner": "Smith Gregory Stephen",
+      "reporting_owner_cik": "0001666934",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "4000",
+      "transaction_price": "337.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "108495.4075"
     }
   ]
 }
