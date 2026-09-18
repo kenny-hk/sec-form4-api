@@ -1,11 +1,23 @@
 {
   "ticker": "META",
-  "last_updated": "2026-09-17T13:11:26.050775",
+  "last_updated": "2026-09-18T12:52:07.054913",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 370,
+      "id": 399,
+      "issuer_name": "Meta Platforms, Inc.",
+      "reporting_owner": "Cox Christopher K",
+      "reporting_owner_cik": "0001607459",
+      "reporting_owner_position": "Chief Product Officer",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "20000",
+      "transaction_price": "675.2278",
+      "transaction_type": "S",
+      "shares_after_transaction": "224516"
+    },
+    {
+      "id": 400,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Olivan Javier",
       "reporting_owner_cik": "0001564475",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "10716"
     },
     {
-      "id": 371,
+      "id": 401,
       "issuer_name": "Meta Platforms, Inc.",
       "reporting_owner": "Cox Christopher K",
       "reporting_owner_cik": "0001607459",
@@ -27,18 +39,6 @@
       "transaction_price": "650.2121",
       "transaction_type": "S",
       "shares_after_transaction": "245938"
-    },
-    {
-      "id": 372,
-      "issuer_name": "Meta Platforms, Inc.",
-      "reporting_owner": "Olivan Javier",
-      "reporting_owner_cik": "0001564475",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "258",
-      "transaction_price": "612.9883",
-      "transaction_type": "S",
-      "shares_after_transaction": "14242"
     }
   ]
 }

@@ -2,11 +2,23 @@
   "ticker": "AFL",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-17T13:11:26.050775",
+  "last_updated": "2026-09-18T12:52:07.054913",
   "count": 6,
   "transactions": [
     {
-      "id": 178,
+      "id": 215,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Simard Frederic Jean Guy",
+      "reporting_owner_cik": "0001991729",
+      "reporting_owner_position": "Deputy President, Aflac U.S.",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "409",
+      "transaction_price": "117.55",
+      "transaction_type": "F",
+      "shares_after_transaction": "985"
+    },
+    {
+      "id": 219,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "50580571"
     },
     {
-      "id": 180,
+      "id": 220,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "50588645"
     },
     {
-      "id": 176,
+      "id": 217,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "50599017"
     },
     {
-      "id": 177,
+      "id": 218,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -54,7 +66,7 @@
       "shares_after_transaction": "50613725"
     },
     {
-      "id": 175,
+      "id": 216,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -64,18 +76,6 @@
       "transaction_price": "114.82",
       "transaction_type": "S",
       "shares_after_transaction": "50625490"
-    },
-    {
-      "id": 179,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "11500",
-      "transaction_price": "115.32",
-      "transaction_type": "S",
-      "shares_after_transaction": "50641190"
     }
   ]
 }

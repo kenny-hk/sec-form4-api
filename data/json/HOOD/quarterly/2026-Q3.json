@@ -2,11 +2,23 @@
   "ticker": "HOOD",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-17T13:11:26.050775",
+  "last_updated": "2026-09-18T12:52:07.054913",
   "count": 2,
   "transactions": [
     {
-      "id": 380,
+      "id": 415,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Verma Shiv",
+      "reporting_owner_cik": "0002108589",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-15",
+      "transaction_shares": "300",
+      "transaction_price": "106.1767",
+      "transaction_type": "S",
+      "shares_after_transaction": "68030"
+    },
+    {
+      "id": 414,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Bhatt Baiju",
       "reporting_owner_cik": "0001870914",
@@ -16,18 +28,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "43373"
-    },
-    {
-      "id": 381,
-      "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Treseder Oluwadara Johnson",
-      "reporting_owner_cik": "0001817425",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "1875",
-      "transaction_price": "125",
-      "transaction_type": "S",
-      "shares_after_transaction": "70567"
     }
   ]
 }
