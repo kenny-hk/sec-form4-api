@@ -2,20 +2,32 @@
   "ticker": "GNRC",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-16T13:17:28.897792",
-  "count": 1,
+  "last_updated": "2026-09-19T12:26:10.632399",
+  "count": 2,
   "transactions": [
     {
-      "id": 108,
+      "id": 165,
       "issuer_name": "GENERAC HOLDINGS INC.",
       "reporting_owner": "Taffe Norman P",
       "reporting_owner_cik": "0001338627",
       "reporting_owner_position": "President Generac Home",
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "200",
-      "transaction_price": "188.27",
+      "transaction_date": "2026-09-17",
+      "transaction_shares": "150",
+      "transaction_price": "119.54",
+      "transaction_type": "M",
+      "shares_after_transaction": "11426"
+    },
+    {
+      "id": 166,
+      "issuer_name": "GENERAC HOLDINGS INC.",
+      "reporting_owner": "Raabe Kyle Andrew",
+      "reporting_owner_cik": "0001851000",
+      "reporting_owner_position": "President, Home Power Gen.",
+      "transaction_date": "2026-09-17",
+      "transaction_shares": "390",
+      "transaction_price": "229.50",
       "transaction_type": "S",
-      "shares_after_transaction": "11376"
+      "shares_after_transaction": "10356"
     }
   ]
 }
