@@ -2,11 +2,23 @@
   "ticker": "HSY",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-21T14:59:54.736697",
+  "last_updated": "2026-09-22T13:15:21.851188",
   "count": 5,
   "transactions": [
     {
-      "id": 512,
+      "id": 452,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-17",
+      "transaction_shares": "4400",
+      "transaction_price": "168.5581",
+      "transaction_type": "S",
+      "shares_after_transaction": "781719"
+    },
+    {
+      "id": 451,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Nalebuff Barry James",
       "reporting_owner_cik": "0002068557",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "2163.797"
     },
     {
-      "id": 513,
+      "id": 453,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Curoe Timothy William",
       "reporting_owner_cik": "0002068682",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "2222.087"
     },
     {
-      "id": 514,
+      "id": 454,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Brandt Christopher W",
       "reporting_owner_cik": "0001675463",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "1309.34"
     },
     {
-      "id": 515,
+      "id": 455,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -52,18 +64,6 @@
       "transaction_price": "173.8061",
       "transaction_type": "S",
       "shares_after_transaction": "811729"
-    },
-    {
-      "id": 516,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-10",
-      "transaction_shares": "4172",
-      "transaction_price": "173.5825",
-      "transaction_type": "S",
-      "shares_after_transaction": "831947"
     }
   ]
 }
