@@ -1,11 +1,23 @@
 {
   "ticker": "ALB",
-  "last_updated": "2026-09-22T13:15:21.851188",
+  "last_updated": "2026-09-23T13:29:50.349639",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 178,
+      "id": 2,
+      "issuer_name": "ALBEMARLE CORP",
+      "reporting_owner": "Gagarinas Autumn M.",
+      "reporting_owner_cik": "0002082528",
+      "reporting_owner_position": "Chief People Officer",
+      "transaction_date": "2026-09-14",
+      "transaction_shares": "5217",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "10610"
+    },
+    {
+      "id": 3,
       "issuer_name": "ALBEMARLE CORP",
       "reporting_owner": "Norris Eric",
       "reporting_owner_cik": "0001624621",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "64310"
     },
     {
-      "id": 179,
+      "id": 4,
       "issuer_name": "ALBEMARLE CORP",
       "reporting_owner": "Mummert Mark Richard",
       "reporting_owner_cik": "0002014946",
@@ -27,18 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "23601"
-    },
-    {
-      "id": 180,
-      "issuer_name": "ALBEMARLE CORP",
-      "reporting_owner": "Gagarinas Autumn M.",
-      "reporting_owner_cik": "0002082528",
-      "reporting_owner_position": "Chief People Officer",
-      "transaction_date": "2026-09-14",
-      "transaction_shares": "5217",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "10610"
     }
   ]
 }
