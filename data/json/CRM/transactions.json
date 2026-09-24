@@ -1,11 +1,59 @@
 {
   "ticker": "CRM",
-  "last_updated": "2026-09-23T13:29:50.349639",
+  "last_updated": "2026-09-24T13:24:02.625195",
   "retention_years": 3,
-  "count": 3,
+  "count": 5,
   "transactions": [
     {
-      "id": 252,
+      "id": 191,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Milano Miguel",
+      "reporting_owner_cik": "0001988208",
+      "reporting_owner_position": "President and COO",
+      "transaction_date": "2026-09-22",
+      "transaction_shares": "1015",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "33234"
+    },
+    {
+      "id": 192,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Niles Sabastian",
+      "reporting_owner_cik": "0001988207",
+      "reporting_owner_position": "President and CLO",
+      "transaction_date": "2026-09-22",
+      "transaction_shares": "1015",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "19179"
+    },
+    {
+      "id": 193,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Washington Robin L",
+      "reporting_owner_cik": "0001327145",
+      "reporting_owner_position": "President and COFO",
+      "transaction_date": "2026-09-22",
+      "transaction_shares": "1831",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "50658"
+    },
+    {
+      "id": 194,
+      "issuer_name": "Salesforce, Inc.",
+      "reporting_owner": "Harris Parker",
+      "reporting_owner_cik": "0001294774",
+      "reporting_owner_position": "Co-Founder",
+      "transaction_date": "2026-09-22",
+      "transaction_shares": "1269",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "164557"
+    },
+    {
+      "id": 195,
       "issuer_name": "Salesforce, Inc.",
       "reporting_owner": "Kirk David Blair",
       "reporting_owner_cik": "0002077892",
@@ -15,30 +63,6 @@
       "transaction_price": "239.3321",
       "transaction_type": "P",
       "shares_after_transaction": "18748"
-    },
-    {
-      "id": 250,
-      "issuer_name": "Salesforce, Inc.",
-      "reporting_owner": "Milano Miguel",
-      "reporting_owner_cik": "0001988208",
-      "reporting_owner_position": "President and COO",
-      "transaction_date": "2026-09-15",
-      "transaction_shares": "6535",
-      "transaction_price": "255.65",
-      "transaction_type": "F",
-      "shares_after_transaction": "32219"
-    },
-    {
-      "id": 251,
-      "issuer_name": "Salesforce, Inc.",
-      "reporting_owner": "Niles Sabastian",
-      "reporting_owner_cik": "0001988207",
-      "reporting_owner_position": "President and CLO",
-      "transaction_date": "2026-09-15",
-      "transaction_shares": "8873",
-      "transaction_price": "255.65",
-      "transaction_type": "F",
-      "shares_after_transaction": "18164"
     }
   ]
 }

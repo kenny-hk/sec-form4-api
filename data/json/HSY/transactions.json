@@ -1,11 +1,23 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-09-23T13:29:50.349639",
+  "last_updated": "2026-09-24T13:24:02.625195",
   "retention_years": 3,
   "count": 7,
   "transactions": [
     {
-      "id": 8,
+      "id": 6,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-21",
+      "transaction_shares": "6432",
+      "transaction_price": "167.6639",
+      "transaction_type": "S",
+      "shares_after_transaction": "759687"
+    },
+    {
+      "id": 4,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Schechtman Natalie",
       "reporting_owner_cik": "0001675001",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "4224"
     },
     {
-      "id": 9,
+      "id": 5,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Tanner Kirk",
       "reporting_owner_cik": "0001671693",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "60245.179"
     },
     {
-      "id": 10,
+      "id": 7,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "781719"
     },
     {
-      "id": 7,
+      "id": 3,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Nalebuff Barry James",
       "reporting_owner_cik": "0002068557",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "2163.797"
     },
     {
-      "id": 11,
+      "id": 8,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Curoe Timothy William",
       "reporting_owner_cik": "0002068682",
@@ -65,7 +77,7 @@
       "shares_after_transaction": "2222.087"
     },
     {
-      "id": 12,
+      "id": 9,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Brandt Christopher W",
       "reporting_owner_cik": "0001675463",
@@ -75,18 +87,6 @@
       "transaction_price": "170.42",
       "transaction_type": "A",
       "shares_after_transaction": "1309.34"
-    },
-    {
-      "id": 6,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-14",
-      "transaction_shares": "4390",
-      "transaction_price": "173.8061",
-      "transaction_type": "S",
-      "shares_after_transaction": "811729"
     }
   ]
 }

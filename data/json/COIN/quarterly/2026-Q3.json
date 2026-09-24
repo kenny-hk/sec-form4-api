@@ -2,20 +2,32 @@
   "ticker": "COIN",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-17T13:11:26.050775",
-  "count": 1,
+  "last_updated": "2026-09-24T13:24:02.625195",
+  "count": 2,
   "transactions": [
     {
-      "id": 338,
+      "id": 22,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "HAAS ALESIA J",
+      "reporting_owner_cik": "0001668711",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-09-21",
+      "transaction_shares": "410",
+      "transaction_price": "203.6671",
+      "transaction_type": "S",
+      "shares_after_transaction": "383996"
+    },
+    {
+      "id": 23,
       "issuer_name": "Coinbase Global, Inc.",
       "reporting_owner": "Andreessen Marc L",
       "reporting_owner_cik": "0001160077",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-08",
-      "transaction_shares": "13676",
-      "transaction_price": "181.1392",
+      "transaction_date": "2026-09-21",
+      "transaction_shares": "6838",
+      "transaction_price": "205.05",
       "transaction_type": "S",
-      "shares_after_transaction": "1136324"
+      "shares_after_transaction": "1129486"
     }
   ]
 }
