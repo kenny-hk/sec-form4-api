@@ -2,11 +2,23 @@
   "ticker": "HOOD",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-24T13:24:02.625195",
+  "last_updated": "2026-09-25T13:23:45.052757",
   "count": 2,
   "transactions": [
     {
-      "id": 49,
+      "id": 40,
+      "issuer_name": "Robinhood Markets, Inc.",
+      "reporting_owner": "Tenev Vladimir",
+      "reporting_owner_cik": "0001871006",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-09-22",
+      "transaction_shares": "240834",
+      "transaction_price": null,
+      "transaction_type": "C",
+      "shares_after_transaction": "240834"
+    },
+    {
+      "id": 39,
       "issuer_name": "Robinhood Markets, Inc.",
       "reporting_owner": "Tenev Vladimir",
       "reporting_owner_cik": "0001871006",
@@ -16,18 +28,6 @@
       "transaction_price": null,
       "transaction_type": "C",
       "shares_after_transaction": "259166"
-    },
-    {
-      "id": 48,
-      "issuer_name": "Robinhood Markets, Inc.",
-      "reporting_owner": "Verma Shiv",
-      "reporting_owner_cik": "0002108589",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-09-15",
-      "transaction_shares": "300",
-      "transaction_price": "106.1767",
-      "transaction_type": "S",
-      "shares_after_transaction": "68030"
     }
   ]
 }
