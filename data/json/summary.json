@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T13:39:26.466430",
+  "last_updated": "2026-09-28T16:37:19.438446",
   "large_transactions": [
     {
       "ticker": "NVDA",
@@ -794,6 +794,17 @@
       "value": 256368.0
     },
     {
+      "ticker": "PGR",
+      "company": "PROGRESSIVE CORP/OH/",
+      "insider": "Broz Steven",
+      "position": "Chief Information Officer",
+      "date": "2026-09-24",
+      "shares": "1225",
+      "price": "204.29",
+      "type": "S",
+      "value": 250255.25
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks, Inc.",
       "insider": "Duda Kenneth",
@@ -959,6 +970,17 @@
       "value": 99756.8
     },
     {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Vincent George H.",
+      "position": "Executive Vice President",
+      "date": "2026-09-25",
+      "shares": "1677",
+      "price": "58.74",
+      "type": "F",
+      "value": 98506.98000000001
+    },
+    {
       "ticker": "COIN",
       "company": "Coinbase Global, Inc.",
       "insider": "HAAS ALESIA J",
@@ -1078,28 +1100,6 @@
       "price": "1085.00",
       "type": "A",
       "value": 49910.0
-    },
-    {
-      "ticker": "TDG",
-      "company": "TransDigm Group INC",
-      "insider": "HENNESSY SEAN P",
-      "position": null,
-      "date": "2026-09-18",
-      "shares": "46.00",
-      "price": "1085.00",
-      "type": "A",
-      "value": 49910.0
-    },
-    {
-      "ticker": "TDG",
-      "company": "TransDigm Group INC",
-      "insider": "MCCULLOUGH GARY E",
-      "position": null,
-      "date": "2026-09-18",
-      "shares": "41.00",
-      "price": "1085.00",
-      "type": "A",
-      "value": 44485.0
     }
   ],
   "recent_transactions": [
@@ -1113,6 +1113,39 @@
       "price": "200.0",
       "type": "S",
       "value": 2000000.0
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Shaffer Megan N.",
+      "position": "Group Vice President",
+      "date": "2026-09-25",
+      "shares": "269",
+      "price": "58.74",
+      "type": "F",
+      "value": 15801.060000000001
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "Vincent George H.",
+      "position": "Executive Vice President",
+      "date": "2026-09-25",
+      "shares": "1677",
+      "price": "58.74",
+      "type": "F",
+      "value": 98506.98000000001
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "insider": "DEMARTINO EMILEE F.",
+      "position": "Executive Vice President",
+      "date": "2026-09-25",
+      "shares": "12769",
+      "price": "0",
+      "type": "A",
+      "value": 0.0
     },
     {
       "ticker": "FDX",
@@ -1258,6 +1291,17 @@
       "value": 0.0
     },
     {
+      "ticker": "PGR",
+      "company": "PROGRESSIVE CORP/OH/",
+      "insider": "Broz Steven",
+      "position": "Chief Information Officer",
+      "date": "2026-09-24",
+      "shares": "1225",
+      "price": "204.29",
+      "type": "S",
+      "value": 250255.25
+    },
+    {
       "ticker": "LITE",
       "company": "Lumentum Holdings Inc.",
       "insider": "Wupen Yuen",
@@ -1267,6 +1311,61 @@
       "price": "921.07",
       "type": "S",
       "value": 460535.0
+    },
+    {
+      "ticker": "BR",
+      "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "insider": "Mosconi Patricia Ann",
+      "position": null,
+      "date": "2026-09-24",
+      "shares": "180.0000",
+      "price": "0.0000",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "BR",
+      "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "insider": "Nazareth Annette L.",
+      "position": null,
+      "date": "2026-09-24",
+      "shares": "180.0000",
+      "price": "0.0000",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "BR",
+      "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "insider": "Zavery Amit",
+      "position": null,
+      "date": "2026-09-24",
+      "shares": "180.0000",
+      "price": "0.0000",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "BR",
+      "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "insider": "Markus Maura A.",
+      "position": null,
+      "date": "2026-09-24",
+      "shares": "209.0000",
+      "price": "0.0000",
+      "type": "A",
+      "value": 0.0
+    },
+    {
+      "ticker": "BR",
+      "company": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+      "insider": "MURRAY EILEEN K",
+      "position": null,
+      "date": "2026-09-24",
+      "shares": "389.0000",
+      "price": "0.0000",
+      "type": "A",
+      "value": 0.0
     },
     {
       "ticker": "TPL",
@@ -1553,105 +1652,6 @@
       "price": "352.95",
       "type": "P",
       "value": 352.95
-    },
-    {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies, Inc.",
-      "insider": "POOLE LISA M.",
-      "position": "VP and Controller",
-      "date": "2026-09-23",
-      "shares": "200",
-      "price": "348.01",
-      "type": "S",
-      "value": 69602.0
-    },
-    {
-      "ticker": "LEN",
-      "company": "LENNAR CORP /NEW/",
-      "insider": "BERKSHIRE HATHAWAY INC",
-      "position": null,
-      "date": "2026-09-23",
-      "shares": "532993",
-      "price": "81.65",
-      "type": "P",
-      "value": 43518878.45
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "insider": "SAMUELI HENRY",
-      "position": null,
-      "date": "2026-09-23",
-      "shares": "22624",
-      "price": "354.75",
-      "type": "S",
-      "value": 8025864.0
-    },
-    {
-      "ticker": "GD",
-      "company": "GENERAL DYNAMICS CORP",
-      "insider": "STEEL ROBERT K",
-      "position": null,
-      "date": "2026-09-23",
-      "shares": "2770",
-      "price": "168.56",
-      "type": "M",
-      "value": 466911.2
-    },
-    {
-      "ticker": "NONE",
-      "company": "Blackstone Private Real Estate Credit & Income Fund",
-      "insider": "Blackstone Holdings IV L.P.",
-      "position": null,
-      "date": "2026-09-23",
-      "shares": "191058.464",
-      "price": "26.17",
-      "type": "P",
-      "value": 5000000.0028800005
-    },
-    {
-      "ticker": "CIEN",
-      "company": "CIENA CORP",
-      "insider": "NEVENS THOMAS MICHAEL",
-      "position": null,
-      "date": "2026-09-23",
-      "shares": "3738",
-      "price": "359.04",
-      "type": "S",
-      "value": 1342091.52
-    },
-    {
-      "ticker": "ODFL",
-      "company": "OLD DOMINION FREIGHT LINE, INC.",
-      "insider": "JACKMAN WORTHING",
-      "position": null,
-      "date": "2026-09-22",
-      "shares": "545",
-      "price": "0",
-      "type": "A",
-      "value": 0.0
-    },
-    {
-      "ticker": "P",
-      "company": "Everpure, Inc.",
-      "insider": "Colgrove John",
-      "position": "Chief Visionary Officer",
-      "date": "2026-09-22",
-      "shares": "100000",
-      "price": "0",
-      "type": "G",
-      "value": 0.0
-    },
-    {
-      "ticker": "ADI",
-      "company": "ANALOG DEVICES INC",
-      "insider": "Puccio Richard C Jr",
-      "position": "Chief Financial Officer",
-      "date": "2026-09-22",
-      "shares": "1500",
-      "price": "382.19",
-      "type": "S",
-      "value": 573285.0
     }
   ]
 }
