@@ -2,11 +2,23 @@
   "ticker": "HSY",
   "year": 2026,
   "quarter": 3,
-  "last_updated": "2026-09-28T16:37:19.079276",
+  "last_updated": "2026-09-29T14:44:29.424259",
   "count": 4,
   "transactions": [
     {
-      "id": 5,
+      "id": 3,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-24",
+      "transaction_shares": "4159",
+      "transaction_price": "166.8124",
+      "transaction_type": "S",
+      "shares_after_transaction": "731960"
+    },
+    {
+      "id": 6,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "759687"
     },
     {
-      "id": 3,
+      "id": 4,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Schechtman Natalie",
       "reporting_owner_cik": "0001675001",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "4224"
     },
     {
-      "id": 4,
+      "id": 5,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "Tanner Kirk",
       "reporting_owner_cik": "0001671693",
@@ -40,18 +52,6 @@
       "transaction_price": "169.79",
       "transaction_type": "F",
       "shares_after_transaction": "60245.179"
-    },
-    {
-      "id": 6,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-17",
-      "transaction_shares": "4400",
-      "transaction_price": "168.5581",
-      "transaction_type": "S",
-      "shares_after_transaction": "781719"
     }
   ]
 }

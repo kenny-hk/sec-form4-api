@@ -1,11 +1,35 @@
 {
   "ticker": "PANW",
-  "last_updated": "2026-09-28T16:37:19.079276",
+  "last_updated": "2026-09-29T14:44:29.424259",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 94,
+      "id": 106,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Bawa Aparna",
+      "reporting_owner_cik": "0001773301",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-24",
+      "transaction_shares": "260",
+      "transaction_price": "392.685",
+      "transaction_type": "S",
+      "shares_after_transaction": "4677"
+    },
+    {
+      "id": 107,
+      "issuer_name": "Palo Alto Networks Inc",
+      "reporting_owner": "Golechha Dipak",
+      "reporting_owner_cik": "0001852540",
+      "reporting_owner_position": "EVP, Chief Financial Officer",
+      "transaction_date": "2026-09-24",
+      "transaction_shares": "900",
+      "transaction_price": "388.688",
+      "transaction_type": "S",
+      "shares_after_transaction": "144350"
+    },
+    {
+      "id": 108,
       "issuer_name": "Palo Alto Networks Inc",
       "reporting_owner": "Paul Josh D.",
       "reporting_owner_cik": "0001882285",
@@ -15,18 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "A",
       "shares_after_transaction": "79695"
-    },
-    {
-      "id": 93,
-      "issuer_name": "Palo Alto Networks Inc",
-      "reporting_owner": "GOETZ JAMES J",
-      "reporting_owner_cik": "0001219231",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-17",
-      "transaction_shares": "900",
-      "transaction_price": "372.5144",
-      "transaction_type": "S",
-      "shares_after_transaction": "19100"
     }
   ]
 }
