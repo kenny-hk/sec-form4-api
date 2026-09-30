@@ -1,11 +1,11 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-09-29T14:44:29.424259",
+  "last_updated": "2026-09-30T14:45:31.667779",
   "retention_years": 3,
-  "count": 4,
+  "count": 2,
   "transactions": [
     {
-      "id": 3,
+      "id": 4,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "731960"
     },
     {
-      "id": 6,
+      "id": 5,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -27,30 +27,6 @@
       "transaction_price": "167.6639",
       "transaction_type": "S",
       "shares_after_transaction": "759687"
-    },
-    {
-      "id": 4,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Schechtman Natalie",
-      "reporting_owner_cik": "0001675001",
-      "reporting_owner_position": "SVP and CHRO",
-      "transaction_date": "2026-09-18",
-      "transaction_shares": "102",
-      "transaction_price": "169.79",
-      "transaction_type": "F",
-      "shares_after_transaction": "4224"
-    },
-    {
-      "id": 5,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "Tanner Kirk",
-      "reporting_owner_cik": "0001671693",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2026-09-18",
-      "transaction_shares": "6649",
-      "transaction_price": "169.79",
-      "transaction_type": "F",
-      "shares_after_transaction": "60245.179"
     }
   ]
 }

@@ -1,11 +1,23 @@
 {
   "ticker": "P",
-  "last_updated": "2026-09-29T14:44:29.424259",
+  "last_updated": "2026-09-30T14:45:31.667779",
   "retention_years": 3,
-  "count": 7,
+  "count": 3,
   "transactions": [
     {
-      "id": 241,
+      "id": 273,
+      "issuer_name": "Everpure, Inc.",
+      "reporting_owner": "Colgrove John",
+      "reporting_owner_cik": "0001651902",
+      "reporting_owner_position": "Chief Visionary Officer",
+      "transaction_date": "2026-09-25",
+      "transaction_shares": "100000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "5593309"
+    },
+    {
+      "id": 274,
       "issuer_name": "Everpure, Inc.",
       "reporting_owner": "Singh Ajay",
       "reporting_owner_cik": "0001897944",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "288362"
     },
     {
-      "id": 239,
+      "id": 272,
       "issuer_name": "Everpure, Inc.",
       "reporting_owner": "Colgrove John",
       "reporting_owner_cik": "0001651902",
@@ -27,66 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "5793309"
-    },
-    {
-      "id": 236,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "Chu Mona",
-      "reporting_owner_cik": "0001915915",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-09-20",
-      "transaction_shares": "2864",
-      "transaction_price": "104.14",
-      "transaction_type": "F",
-      "shares_after_transaction": "133946"
-    },
-    {
-      "id": 237,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "Colgrove John",
-      "reporting_owner_cik": "0001651902",
-      "reporting_owner_position": "Chief Visionary Officer",
-      "transaction_date": "2026-09-20",
-      "transaction_shares": "15956",
-      "transaction_price": "104.14",
-      "transaction_type": "F",
-      "shares_after_transaction": "5993309"
-    },
-    {
-      "id": 238,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "Singh Ajay",
-      "reporting_owner_cik": "0001897944",
-      "reporting_owner_position": "Chief Product Officer",
-      "transaction_date": "2026-09-20",
-      "transaction_shares": "9821",
-      "transaction_price": "104.14",
-      "transaction_type": "F",
-      "shares_after_transaction": "331292"
-    },
-    {
-      "id": 240,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "ROBBIATI TAREK",
-      "reporting_owner_cik": "0001651113",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-09-20",
-      "transaction_shares": "33860",
-      "transaction_price": "104.14",
-      "transaction_type": "F",
-      "shares_after_transaction": "300616"
-    },
-    {
-      "id": 242,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "Giancarlo Charles H",
-      "reporting_owner_cik": "0001299634",
-      "reporting_owner_position": "CEO",
-      "transaction_date": "2026-09-20",
-      "transaction_shares": "30036",
-      "transaction_price": "104.14",
-      "transaction_type": "F",
-      "shares_after_transaction": "1509735"
     }
   ]
 }
