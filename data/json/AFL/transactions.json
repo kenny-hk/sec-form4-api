@@ -1,11 +1,23 @@
 {
   "ticker": "AFL",
-  "last_updated": "2026-09-30T14:45:31.667779",
+  "last_updated": "2026-10-01T15:16:07.001292",
   "retention_years": 3,
   "count": 6,
   "transactions": [
     {
-      "id": 209,
+      "id": 221,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "Japan Post Holdings Co., Ltd.",
+      "reporting_owner_cik": "0001783464",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-29",
+      "transaction_shares": "6378",
+      "transaction_price": "113.10",
+      "transaction_type": "S",
+      "shares_after_transaction": "50451012"
+    },
+    {
+      "id": 222,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "50457550"
     },
     {
-      "id": 205,
+      "id": 218,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -29,7 +41,7 @@
       "shares_after_transaction": "50469750"
     },
     {
-      "id": 207,
+      "id": 219,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -41,7 +53,7 @@
       "shares_after_transaction": "50486383"
     },
     {
-      "id": 208,
+      "id": 220,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -53,7 +65,7 @@
       "shares_after_transaction": "50503548"
     },
     {
-      "id": 210,
+      "id": 223,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
@@ -63,18 +75,6 @@
       "transaction_price": "114.55",
       "transaction_type": "S",
       "shares_after_transaction": "50507090"
-    },
-    {
-      "id": 206,
-      "issuer_name": "AFLAC INC",
-      "reporting_owner": "Japan Post Holdings Co., Ltd.",
-      "reporting_owner_cik": "0001783464",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-21",
-      "transaction_shares": "10373",
-      "transaction_price": "115.36",
-      "transaction_type": "S",
-      "shares_after_transaction": "50521117"
     }
   ]
 }
