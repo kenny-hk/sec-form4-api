@@ -1,7 +1,20 @@
 {
   "ticker": "PCG",
-  "last_updated": "2026-10-01T15:16:07.001292",
+  "last_updated": "2026-10-02T14:35:54.328907",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 1,
+  "transactions": [
+    {
+      "id": 80,
+      "issuer_name": "PG&E Corp",
+      "reporting_owner": "LARSEN JOHN O",
+      "reporting_owner_cik": "0001483963",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "7500",
+      "transaction_price": "12.20",
+      "transaction_type": "P",
+      "shares_after_transaction": "36685.19"
+    }
+  ]
 }

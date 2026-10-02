@@ -1,20 +1,32 @@
 {
   "ticker": "FCX",
-  "last_updated": "2026-09-04T12:38:52.310589",
+  "last_updated": "2026-10-02T14:35:54.328907",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 364,
+      "id": 194,
       "issuer_name": "FREEPORT-MCMORAN INC",
-      "reporting_owner": "KENNARD LYDIA H",
-      "reporting_owner_cik": "0001223115",
+      "reporting_owner": "STEPHENS JOHN JOSEPH",
+      "reporting_owner_cik": "0001258391",
       "reporting_owner_position": null,
-      "transaction_date": "2026-08-27",
-      "transaction_shares": "3798",
-      "transaction_price": "79.1129",
-      "transaction_type": "S",
-      "shares_after_transaction": "122702"
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "294",
+      "transaction_price": "70.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "71798"
+    },
+    {
+      "id": 195,
+      "issuer_name": "FREEPORT-MCMORAN INC",
+      "reporting_owner": "GRANT HUGH",
+      "reporting_owner_cik": "0001083211",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "482",
+      "transaction_price": "70.00",
+      "transaction_type": "A",
+      "shares_after_transaction": "50332"
     }
   ]
 }

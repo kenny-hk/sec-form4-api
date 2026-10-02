@@ -1,20 +1,32 @@
 {
   "ticker": "PLTR",
-  "last_updated": "2026-09-24T13:24:02.625195",
+  "last_updated": "2026-10-02T14:35:54.328907",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 51,
+      "id": 44,
       "issuer_name": "Palantir Technologies Inc.",
-      "reporting_owner": "Moore Alexander D.",
-      "reporting_owner_cik": "0001823952",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-15",
-      "transaction_shares": "1308",
-      "transaction_price": "170.2616",
-      "transaction_type": "S",
-      "shares_after_transaction": "1077787"
+      "reporting_owner": "Taylor Ryan D.",
+      "reporting_owner_cik": "0001823923",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-09-29",
+      "transaction_shares": "92908",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "292667"
+    },
+    {
+      "id": 46,
+      "issuer_name": "Palantir Technologies Inc.",
+      "reporting_owner": "Glazer David A.",
+      "reporting_owner_cik": "0001823940",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-09-29",
+      "transaction_shares": "92908",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "468150"
     }
   ]
 }
