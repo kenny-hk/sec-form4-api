@@ -1,20 +1,44 @@
 {
   "ticker": "INCY",
-  "last_updated": "2026-10-01T15:16:07.001292",
+  "last_updated": "2026-10-03T13:12:50.671182",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 75,
+      "id": 160,
       "issuer_name": "INCYTE CORP",
-      "reporting_owner": "Gardner David H",
-      "reporting_owner_cik": "0002085970",
-      "reporting_owner_position": "EVP, Chief Strategy Officer",
-      "transaction_date": "2026-09-22",
-      "transaction_shares": "920",
-      "transaction_price": "126.93",
-      "transaction_type": "F",
-      "shares_after_transaction": "15904"
+      "reporting_owner": "HARRIGAN EDMUND",
+      "reporting_owner_cik": "0001177917",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "206",
+      "transaction_price": "121.35",
+      "transaction_type": "A",
+      "shares_after_transaction": "23225"
+    },
+    {
+      "id": 161,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "BAKER BROS. ADVISORS LP",
+      "reporting_owner_cik": "0001263508",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "322",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "2835403"
+    },
+    {
+      "id": 162,
+      "issuer_name": "INCYTE CORP",
+      "reporting_owner": "Clancy Paul J",
+      "reporting_owner_cik": "0001409601",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "203",
+      "transaction_price": "121.35",
+      "transaction_type": "A",
+      "shares_after_transaction": "25838"
     }
   ]
 }

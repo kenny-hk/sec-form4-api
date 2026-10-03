@@ -1,20 +1,32 @@
 {
   "ticker": "WAT",
-  "last_updated": "2026-08-14T09:11:48.167291",
+  "last_updated": "2026-10-03T13:12:50.671182",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 416,
+      "id": 2,
       "issuer_name": "WATERS CORP /DE/",
-      "reporting_owner": "KUEBLER CHRISTOPHER A",
-      "reporting_owner_cik": "0001229877",
+      "reporting_owner": "Knight Heather",
+      "reporting_owner_cik": "0001967528",
       "reporting_owner_position": null,
-      "transaction_date": "2026-08-06",
-      "transaction_shares": "3626",
-      "transaction_price": "136.43",
-      "transaction_type": "M",
-      "shares_after_transaction": "21434"
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "57.41",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "1337.95"
+    },
+    {
+      "id": 3,
+      "issuer_name": "WATERS CORP /DE/",
+      "reporting_owner": "Jiang Wei",
+      "reporting_owner_cik": "0001867980",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-09-30",
+      "transaction_shares": "57.41",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "3630.16"
     }
   ]
 }

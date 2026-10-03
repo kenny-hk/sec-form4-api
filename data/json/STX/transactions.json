@@ -1,20 +1,32 @@
 {
   "ticker": "STX",
-  "last_updated": "2026-09-29T14:44:29.424259",
+  "last_updated": "2026-10-03T13:12:50.671182",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 211,
+      "id": 614,
       "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Morris John Christopher",
-      "reporting_owner_cik": "0001988271",
-      "reporting_owner_position": "EVP & CTO",
-      "transaction_date": "2026-09-21",
-      "transaction_shares": "915",
-      "transaction_price": "158.40",
+      "reporting_owner": "MOSLEY WILLIAM D",
+      "reporting_owner_cik": "0001388390",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "14000",
+      "transaction_price": "46.23",
       "transaction_type": "M",
-      "shares_after_transaction": "32047.25"
+      "shares_after_transaction": "392108.25"
+    },
+    {
+      "id": 615,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "MOSLEY WILLIAM D",
+      "reporting_owner_cik": "0001388390",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "360",
+      "transaction_price": "929.0089",
+      "transaction_type": "S",
+      "shares_after_transaction": "372750.25"
     }
   ]
 }
