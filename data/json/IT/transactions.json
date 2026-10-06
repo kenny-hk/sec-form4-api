@@ -1,20 +1,80 @@
 {
   "ticker": "IT",
-  "last_updated": "2026-09-22T13:15:21.851188",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 1,
+  "count": 6,
   "transactions": [
     {
-      "id": 65,
+      "id": 265,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "CESAN RAUL E",
+      "reporting_owner_cik": "0001023201",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "130",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "54213"
+    },
+    {
+      "id": 269,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "GUTIERREZ JOSE M",
+      "reporting_owner_cik": "0001257702",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "78",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "3029"
+    },
+    {
+      "id": 270,
       "issuer_name": "GARTNER INC",
       "reporting_owner": "GRABE WILLIAM O",
       "reporting_owner_cik": "0001185567",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-11",
-      "transaction_shares": "672",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "126",
       "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "1896"
+      "transaction_type": "J",
+      "shares_after_transaction": "2022"
+    },
+    {
+      "id": 271,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "PAGLIUCA STEPHEN G",
+      "reporting_owner_cik": "0001240386",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "130",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "112732"
+    },
+    {
+      "id": 272,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "FUCHS ANNE SUTHERLAND",
+      "reporting_owner_cik": "0001246335",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "70",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "8167"
+    },
+    {
+      "id": 276,
+      "issuer_name": "GARTNER INC",
+      "reporting_owner": "FERGUSON DIANA SUE",
+      "reporting_owner_cik": "0001275975",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "139",
+      "transaction_price": "0",
+      "transaction_type": "J",
+      "shares_after_transaction": "2946"
     }
   ]
 }

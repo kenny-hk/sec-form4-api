@@ -1,11 +1,71 @@
 {
   "ticker": "XYZ",
-  "last_updated": "2026-10-05T17:00:02.095987",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 2,
+  "count": 6,
   "transactions": [
     {
-      "id": 305,
+      "id": 404,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Carter Shawn Corey",
+      "reporting_owner_cik": "0001549211",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "169",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "32874"
+    },
+    {
+      "id": 406,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "BOTHA ROELOF",
+      "reporting_owner_cik": "0001222287",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "271",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "36744"
+    },
+    {
+      "id": 407,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Brooks Amy",
+      "reporting_owner_cik": "0001791777",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "203",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "30731"
+    },
+    {
+      "id": 408,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Meeker Mary G",
+      "reporting_owner_cik": "0001544567",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "254",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "425865"
+    },
+    {
+      "id": 409,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Narula Neha",
+      "reporting_owner_cik": "0001974805",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "263",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "18013"
+    },
+    {
+      "id": 405,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Eisen Anthony Mathew",
       "reporting_owner_cik": "0001933928",
@@ -15,18 +75,6 @@
       "transaction_price": "73.29",
       "transaction_type": "S",
       "shares_after_transaction": "1338672"
-    },
-    {
-      "id": 306,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Eisen Anthony Mathew",
-      "reporting_owner_cik": "0001933928",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "6000",
-      "transaction_price": "74.58",
-      "transaction_type": "S",
-      "shares_after_transaction": "1356672"
     }
   ]
 }

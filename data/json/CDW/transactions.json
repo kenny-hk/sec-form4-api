@@ -1,20 +1,32 @@
 {
   "ticker": "CDW",
-  "last_updated": "2026-10-05T17:00:02.095987",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 211,
+      "id": 296,
       "issuer_name": "CDW Corp",
-      "reporting_owner": "Sanderson Katherine Elizabeth",
-      "reporting_owner_cik": "0002037332",
-      "reporting_owner_position": "See Remarks",
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "231.81",
-      "transaction_price": "153.74",
-      "transaction_type": "F",
-      "shares_after_transaction": "24510.71"
+      "reporting_owner": "Swedish Joseph",
+      "reporting_owner_cik": "0001179745",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "212",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "20443.53"
+    },
+    {
+      "id": 297,
+      "issuer_name": "CDW Corp",
+      "reporting_owner": "NELMS DAVID W",
+      "reporting_owner_cik": "0001183830",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "258",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "51820.61"
     }
   ]
 }

@@ -1,11 +1,35 @@
 {
   "ticker": "CRWD",
-  "last_updated": "2026-10-05T17:00:02.095987",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 4,
+  "count": 5,
   "transactions": [
     {
-      "id": 634,
+      "id": 836,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Saha Anurag",
+      "reporting_owner_cik": "0001921602",
+      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "700",
+      "transaction_price": "259.95",
+      "transaction_type": "S",
+      "shares_after_transaction": "205176"
+    },
+    {
+      "id": 839,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "GANDHI SAMEER K",
+      "reporting_owner_cik": "0001201326",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "457",
+      "transaction_price": "260.34",
+      "transaction_type": "S",
+      "shares_after_transaction": "2895513"
+    },
+    {
+      "id": 838,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -17,7 +41,7 @@
       "shares_after_transaction": "7570971"
     },
     {
-      "id": 635,
+      "id": 840,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Sentonas Michael",
       "reporting_owner_cik": "0001968270",
@@ -29,7 +53,7 @@
       "shares_after_transaction": "1487461"
     },
     {
-      "id": 633,
+      "id": 837,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -39,18 +63,6 @@
       "transaction_price": "248.24",
       "transaction_type": "S",
       "shares_after_transaction": "7591300"
-    },
-    {
-      "id": 636,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "2344",
-      "transaction_price": "259.47",
-      "transaction_type": "S",
-      "shares_after_transaction": "7609160"
     }
   ]
 }

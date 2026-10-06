@@ -1,11 +1,23 @@
 {
   "ticker": "DELL",
-  "last_updated": "2026-10-05T17:00:02.095987",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 7,
+  "count": 2,
   "transactions": [
     {
-      "id": 369,
+      "id": 514,
+      "issuer_name": "Dell Technologies Inc.",
+      "reporting_owner": "DORMAN DAVID W",
+      "reporting_owner_cik": "0001082870",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "9214",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "69643"
+    },
+    {
+      "id": 515,
       "issuer_name": "Dell Technologies Inc.",
       "reporting_owner": "Kennedy David Alan",
       "reporting_owner_cik": "0002086800",
@@ -15,78 +27,6 @@
       "transaction_price": "539.59",
       "transaction_type": "F",
       "shares_after_transaction": "158368"
-    },
-    {
-      "id": 368,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "MOLLENKOPF STEVEN M",
-      "reporting_owner_cik": "0001434806",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "633",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "10575"
-    },
-    {
-      "id": 370,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "GRAIN DAVID J",
-      "reporting_owner_cik": "0001249303",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "633",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "25517"
-    },
-    {
-      "id": 371,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Radakovich Lynn Vojvodich",
-      "reporting_owner_cik": "0001662205",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "419",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "25686"
-    },
-    {
-      "id": 372,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "GREEN WILLIAM D",
-      "reporting_owner_cik": "0001232906",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "680",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "48299"
-    },
-    {
-      "id": 373,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "Kullman Ellen Jamison",
-      "reporting_owner_cik": "0001303141",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "419",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "66081"
-    },
-    {
-      "id": 374,
-      "issuer_name": "Dell Technologies Inc.",
-      "reporting_owner": "DORMAN DAVID W",
-      "reporting_owner_cik": "0001082870",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-24",
-      "transaction_shares": "633",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "78857"
     }
   ]
 }

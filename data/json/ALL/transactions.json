@@ -1,32 +1,44 @@
 {
   "ticker": "ALL",
-  "last_updated": "2026-09-15T13:19:19.279764",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 112,
-      "issuer_name": "ALLSTATE CORP",
-      "reporting_owner": "Jeevanjee Zulfikar",
-      "reporting_owner_cik": "0001990362",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-06",
-      "transaction_shares": "483",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "16584"
-    },
-    {
-      "id": 113,
+      "id": 984,
       "issuer_name": "ALLSTATE CORP",
       "reporting_owner": "KEANE MARGARET M",
       "reporting_owner_cik": "0001614718",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-03",
-      "transaction_shares": "944",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "17557.515"
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "150",
+      "transaction_price": "224.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "17749.256"
+    },
+    {
+      "id": 985,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "Perold Jacques P",
+      "reporting_owner_cik": "0001648837",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "189",
+      "transaction_price": "224.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "2382.631"
+    },
+    {
+      "id": 986,
+      "issuer_name": "ALLSTATE CORP",
+      "reporting_owner": "TRAQUINA PERRY M",
+      "reporting_owner_cik": "0001228062",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "183",
+      "transaction_price": "224.41",
+      "transaction_type": "A",
+      "shares_after_transaction": "8254.5"
     }
   ]
 }

@@ -1,20 +1,32 @@
 {
   "ticker": "TSCO",
-  "last_updated": "2026-09-16T13:17:28.897792",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 432,
+      "id": 231,
       "issuer_name": "TRACTOR SUPPLY CO /DE/",
       "reporting_owner": "Ham Margaret M",
       "reporting_owner_cik": "0001989273",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-04",
-      "transaction_shares": "84.895",
-      "transaction_price": "35.047",
-      "transaction_type": "L",
-      "shares_after_transaction": "19612.622"
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "555.289",
+      "transaction_price": "31.29",
+      "transaction_type": "A",
+      "shares_after_transaction": "20167.911"
+    },
+    {
+      "id": 232,
+      "issuer_name": "TRACTOR SUPPLY CO /DE/",
+      "reporting_owner": "Krishnan Ramkumar",
+      "reporting_owner_cik": "0001689525",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "838.926",
+      "transaction_price": "31.29",
+      "transaction_type": "A",
+      "shares_after_transaction": "48935.015"
     }
   ]
 }

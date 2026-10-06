@@ -1,20 +1,32 @@
 {
   "ticker": "COR",
-  "last_updated": "2026-09-24T13:24:02.625195",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 107,
+      "id": 304,
       "issuer_name": "Cencora, Inc.",
-      "reporting_owner": "GREENBERG LON R",
-      "reporting_owner_cik": "0001234234",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-16",
-      "transaction_shares": "1280",
-      "transaction_price": "321.30",
+      "reporting_owner": "Krikorian Lazarus",
+      "reporting_owner_cik": "0001627534",
+      "reporting_owner_position": "SVP & Chief Accounting Officer",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "986",
+      "transaction_price": "303.18",
       "transaction_type": "S",
-      "shares_after_transaction": "17128"
+      "shares_after_transaction": "15183"
+    },
+    {
+      "id": 305,
+      "issuer_name": "Cencora, Inc.",
+      "reporting_owner": "SANCHEZ ROBERT E",
+      "reporting_owner_cik": "0001216931",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "275",
+      "transaction_price": null,
+      "transaction_type": "A",
+      "shares_after_transaction": "275"
     }
   ]
 }

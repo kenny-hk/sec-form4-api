@@ -1,20 +1,68 @@
 {
   "ticker": "MA",
-  "last_updated": "2026-09-10T12:49:38.774996",
+  "last_updated": "2026-10-06T14:56:58.965667",
   "retention_years": 3,
-  "count": 1,
+  "count": 5,
   "transactions": [
     {
-      "id": 391,
+      "id": 875,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Huntsman Jon M Jr",
+      "reporting_owner_cik": "0001541785",
+      "reporting_owner_position": "V Chair & Pres Strategic Grwth",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "178",
+      "transaction_price": "551.66",
+      "transaction_type": "F",
+      "shares_after_transaction": "4666"
+    },
+    {
+      "id": 876,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Ling Hai",
+      "reporting_owner_cik": "0001923565",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "88",
+      "transaction_price": "551.66",
+      "transaction_type": "F",
+      "shares_after_transaction": "35750.5"
+    },
+    {
+      "id": 877,
       "issuer_name": "Mastercard Inc",
       "reporting_owner": "SACHIN J. MEHRA",
       "reporting_owner_cik": "0001427531",
       "reporting_owner_position": "Chief Business Officer",
-      "transaction_date": "2026-09-02",
-      "transaction_shares": "3266",
-      "transaction_price": "584",
-      "transaction_type": "S",
-      "shares_after_transaction": "36650.083"
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "207",
+      "transaction_price": "551.66",
+      "transaction_type": "F",
+      "shares_after_transaction": "36443.083"
+    },
+    {
+      "id": 878,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "McLaughlin Edward Grunde",
+      "reporting_owner_cik": "0001704831",
+      "reporting_owner_position": "President & CTO, MA Tech",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "99",
+      "transaction_price": "551.66",
+      "transaction_type": "F",
+      "shares_after_transaction": "38640.396"
+    },
+    {
+      "id": 879,
+      "issuer_name": "Mastercard Inc",
+      "reporting_owner": "Miebach Michael",
+      "reporting_owner_cik": "0001771933",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "530",
+      "transaction_price": "551.66",
+      "transaction_type": "F",
+      "shares_after_transaction": "93162.721"
     }
   ]
 }
