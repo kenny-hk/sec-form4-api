@@ -1,20 +1,44 @@
 {
   "ticker": "CIEN",
-  "last_updated": "2026-10-06T14:56:58.965667",
+  "last_updated": "2026-10-08T15:24:41.569379",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
+    {
+      "id": 55,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "Phipps Jason",
+      "reporting_owner_cik": "0001699193",
+      "reporting_owner_position": "EVP & Chief Customer Officer",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "2629",
+      "transaction_price": "355.19",
+      "transaction_type": "S",
+      "shares_after_transaction": "57388"
+    },
     {
       "id": 56,
       "issuer_name": "CIENA CORP",
-      "reporting_owner": "Cumello Joseph",
-      "reporting_owner_cik": "0001963638",
-      "reporting_owner_position": "EVP & General Mgr.",
-      "transaction_date": "2026-09-25",
-      "transaction_shares": "1586",
-      "transaction_price": "358.5151",
+      "reporting_owner": "Graff Marc D.",
+      "reporting_owner_cik": "0002080157",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "97",
+      "transaction_price": "355.19",
       "transaction_type": "S",
-      "shares_after_transaction": "39570"
+      "shares_after_transaction": "107136"
+    },
+    {
+      "id": 57,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "Kosaraju Sheela",
+      "reporting_owner_cik": "0001963781",
+      "reporting_owner_position": "EVP & Chief Legal Officer",
+      "transaction_date": "2026-10-01",
+      "transaction_shares": "2101",
+      "transaction_price": "355.19",
+      "transaction_type": "S",
+      "shares_after_transaction": "84065"
     }
   ]
 }
