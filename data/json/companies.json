@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T15:43:16.871727",
-  "count": 84,
+  "last_updated": "2026-10-14T13:27:49.098305",
+  "count": 81,
   "companies": [
     {
       "ticker": "NWS",
@@ -19,16 +19,16 @@
     {
       "ticker": "MGM",
       "name": "MGM Resorts International",
-      "transaction_count": 18,
+      "transaction_count": 12,
       "latest_transaction": "2026-10-07",
-      "earliest_transaction": "2026-10-02"
+      "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "ACN",
-      "name": "Accenture plc",
+      "ticker": "WTW",
+      "name": "WILLIS TOWERS WATSON PLC",
       "transaction_count": 9,
-      "latest_transaction": "2026-10-08",
-      "earliest_transaction": "2026-10-05"
+      "latest_transaction": null,
+      "earliest_transaction": null
     },
     {
       "ticker": "LEN, LEN.B",
@@ -52,11 +52,18 @@
       "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "BR",
-      "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
-      "transaction_count": 7,
-      "latest_transaction": "2026-10-05",
+      "ticker": "WDAY",
+      "name": "Workday, Inc.",
+      "transaction_count": 8,
+      "latest_transaction": "2026-10-09",
       "earliest_transaction": "2026-10-05"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc.",
+      "transaction_count": 8,
+      "latest_transaction": null,
+      "earliest_transaction": null
     },
     {
       "ticker": "CLX",
@@ -66,10 +73,17 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "WDAY",
-      "name": "Workday, Inc.",
+      "ticker": "SWKS",
+      "name": "SKYWORKS SOLUTIONS, INC.",
       "transaction_count": 7,
-      "latest_transaction": "2026-10-06",
+      "latest_transaction": "2026-10-05",
+      "earliest_transaction": "2026-10-05"
+    },
+    {
+      "ticker": "AFL",
+      "name": "AFLAC INC",
+      "transaction_count": 6,
+      "latest_transaction": "2026-10-12",
       "earliest_transaction": "2026-10-05"
     },
     {
@@ -87,25 +101,11 @@
       "earliest_transaction": "2026-10-09"
     },
     {
-      "ticker": "AFL",
-      "name": "AFLAC INC",
-      "transaction_count": 5,
-      "latest_transaction": "2026-10-08",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
       "ticker": "DELL",
       "name": "Dell Technologies Inc.",
       "transaction_count": 5,
       "latest_transaction": "2026-10-06",
       "earliest_transaction": "2026-10-06"
-    },
-    {
-      "ticker": "KVUE",
-      "name": "Kenvue Inc.",
-      "transaction_count": 5,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
     },
     {
       "ticker": "VRSK",
@@ -115,32 +115,25 @@
       "earliest_transaction": "2026-09-30"
     },
     {
-      "ticker": "ALL",
-      "name": "ALLSTATE CORP",
+      "ticker": "ADI",
+      "name": "ANALOG DEVICES INC",
       "transaction_count": 4,
-      "latest_transaction": "2026-10-03",
-      "earliest_transaction": "2026-10-03"
+      "latest_transaction": "2026-10-12",
+      "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "CIEN",
-      "name": "CIENA CORP",
+      "ticker": "ANET",
+      "name": "Arista Networks, Inc.",
       "transaction_count": 4,
-      "latest_transaction": "2026-10-01",
-      "earliest_transaction": "2026-10-01"
+      "latest_transaction": "2026-10-08",
+      "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "SHW",
-      "name": "SHERWIN WILLIAMS CO",
+      "ticker": "FERG",
+      "name": "Ferguson Enterprises Inc. /DE/",
       "transaction_count": 4,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
-      "ticker": "SWKS",
-      "name": "SKYWORKS SOLUTIONS, INC.",
-      "transaction_count": 4,
-      "latest_transaction": "2026-10-05",
-      "earliest_transaction": "2026-10-05"
+      "latest_transaction": "2026-10-06",
+      "earliest_transaction": "2026-10-06"
     },
     {
       "ticker": "WMT",
@@ -150,17 +143,10 @@
       "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "ADI",
-      "name": "ANALOG DEVICES INC",
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
       "transaction_count": 3,
-      "latest_transaction": "2026-10-07",
-      "earliest_transaction": "2026-10-06"
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks, Inc.",
-      "transaction_count": 3,
-      "latest_transaction": "2026-10-07",
+      "latest_transaction": "2026-10-12",
       "earliest_transaction": "2026-10-06"
     },
     {
@@ -178,10 +164,17 @@
       "earliest_transaction": null
     },
     {
-      "ticker": "PG",
-      "name": "PROCTER & GAMBLE Co",
+      "ticker": "P",
+      "name": "Everpure, Inc.",
       "transaction_count": 3,
-      "latest_transaction": "2026-10-05",
+      "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-06"
+    },
+    {
+      "ticker": "RVI",
+      "name": "Robinhood Ventures Fund I",
+      "transaction_count": 3,
+      "latest_transaction": "2026-10-09",
       "earliest_transaction": "2026-10-05"
     },
     {
@@ -199,6 +192,13 @@
       "earliest_transaction": null
     },
     {
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "transaction_count": 2,
+      "latest_transaction": "2026-10-12",
+      "earliest_transaction": "2026-10-08"
+    },
+    {
       "ticker": "COHR",
       "name": "COHERENT CORP.",
       "transaction_count": 2,
@@ -206,18 +206,11 @@
       "earliest_transaction": "2025-11-28"
     },
     {
-      "ticker": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CSCO",
+      "name": "CISCO SYSTEMS, INC.",
       "transaction_count": 2,
-      "latest_transaction": "2026-10-06",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
-      "ticker": "GNRC",
-      "name": "GENERAC HOLDINGS INC.",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-05",
-      "earliest_transaction": "2026-10-02"
+      "latest_transaction": "2026-10-10",
+      "earliest_transaction": "2026-10-09"
     },
     {
       "ticker": "HOOD",
@@ -227,13 +220,6 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "HRL",
-      "name": "HORMEL FOODS CORP /DE/",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-05",
-      "earliest_transaction": "2026-10-03"
-    },
-    {
       "ticker": "HSY",
       "name": "HERSHEY CO",
       "transaction_count": 2,
@@ -241,17 +227,24 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "P",
-      "name": "Everpure, Inc.",
+      "ticker": "ISRG",
+      "name": "INTUITIVE SURGICAL INC",
       "transaction_count": 2,
-      "latest_transaction": "2026-10-06",
-      "earliest_transaction": "2026-10-02"
+      "latest_transaction": "2026-10-10",
+      "earliest_transaction": "2026-10-10"
     },
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks Inc",
       "transaction_count": 2,
       "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-08"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "transaction_count": 2,
+      "latest_transaction": "2026-10-08",
       "earliest_transaction": "2026-10-08"
     },
     {
@@ -262,25 +255,11 @@
       "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "RVI",
-      "name": "Robinhood Ventures Fund I",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-07",
-      "earliest_transaction": "2026-10-05"
-    },
-    {
       "ticker": "SMCI",
       "name": "Super Micro Computer, Inc.",
       "transaction_count": 2,
       "latest_transaction": "2026-10-07",
       "earliest_transaction": "2026-10-07"
-    },
-    {
-      "ticker": "SNPS",
-      "name": "SYNOPSYS INC",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-06",
-      "earliest_transaction": "2026-10-05"
     },
     {
       "ticker": "VRSN",
@@ -297,20 +276,6 @@
       "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "VYLR",
-      "name": "Vylor Inc.",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-01",
-      "earliest_transaction": "2026-10-01"
-    },
-    {
-      "ticker": "XYZ",
-      "name": "Block, Inc.",
-      "transaction_count": 2,
-      "latest_transaction": "2026-10-07",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "transaction_count": 1,
@@ -323,6 +288,13 @@
       "transaction_count": 1,
       "latest_transaction": "2026-10-06",
       "earliest_transaction": "2026-10-06"
+    },
+    {
+      "ticker": "CIEN",
+      "name": "CIENA CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-01",
+      "earliest_transaction": "2026-10-01"
     },
     {
       "ticker": "COF",
@@ -339,11 +311,11 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "DASH",
-      "name": "DoorDash, Inc.",
+      "ticker": "CVNA",
+      "name": "CARVANA CO.",
       "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
+      "latest_transaction": "2026-10-12",
+      "earliest_transaction": "2026-10-12"
     },
     {
       "ticker": "DDOG",
@@ -381,18 +353,11 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "ELV",
-      "name": "Elevance Health, Inc.",
+      "ticker": "EIX",
+      "name": "EDISON INTERNATIONAL",
       "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
-      "ticker": "ETN",
-      "name": "Eaton Corp plc",
-      "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
+      "latest_transaction": "2026-10-12",
+      "earliest_transaction": "2026-10-12"
     },
     {
       "ticker": "EVRG",
@@ -423,25 +388,18 @@
       "earliest_transaction": "2026-10-06"
     },
     {
-      "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise Co",
+      "ticker": "GNRC",
+      "name": "GENERAC HOLDINGS INC.",
       "transaction_count": 1,
       "latest_transaction": "2026-10-05",
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "HPQ",
-      "name": "HP INC",
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Co",
       "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
-      "ticker": "HWM",
-      "name": "Howmet Aerospace Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
+      "latest_transaction": "2026-10-05",
+      "earliest_transaction": "2026-10-05"
     },
     {
       "ticker": "ILMN",
@@ -463,6 +421,20 @@
       "transaction_count": 1,
       "latest_transaction": "2026-10-07",
       "earliest_transaction": "2026-10-07"
+    },
+    {
+      "ticker": "LULU",
+      "name": "lululemon athletica inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-09"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-09"
     },
     {
       "ticker": "META",
@@ -493,13 +465,6 @@
       "earliest_transaction": "2026-10-08"
     },
     {
-      "ticker": "MSI",
-      "name": "Motorola Solutions, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
       "ticker": "NEE",
       "name": "NEXTERA ENERGY INC",
       "transaction_count": 1,
@@ -514,13 +479,6 @@
       "earliest_transaction": "2026-10-08"
     },
     {
-      "ticker": "NTAP",
-      "name": "NetApp, Inc.",
-      "transaction_count": 1,
-      "latest_transaction": "2026-10-02",
-      "earliest_transaction": "2026-10-02"
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA CORP",
       "transaction_count": 1,
@@ -528,11 +486,11 @@
       "earliest_transaction": "2026-10-07"
     },
     {
-      "ticker": "PTC",
-      "name": "PTC INC.",
+      "ticker": "PCQ",
+      "name": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND",
       "transaction_count": 1,
-      "latest_transaction": "2026-10-05",
-      "earliest_transaction": "2026-10-05"
+      "latest_transaction": "2026-10-12",
+      "earliest_transaction": "2026-10-12"
     },
     {
       "ticker": "RMD",
@@ -547,6 +505,20 @@
       "transaction_count": 1,
       "latest_transaction": "2026-10-05",
       "earliest_transaction": "2026-10-05"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-06",
+      "earliest_transaction": "2026-10-06"
+    },
+    {
+      "ticker": "STT",
+      "name": "STATE STREET CORP",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-09"
     },
     {
       "ticker": "T",
@@ -570,18 +542,25 @@
       "earliest_transaction": "2026-10-05"
     },
     {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings Co",
-      "transaction_count": 1,
-      "latest_transaction": "2026-10-05",
-      "earliest_transaction": "2026-10-05"
-    },
-    {
       "ticker": "WAB",
       "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
       "transaction_count": 1,
       "latest_transaction": "2026-10-05",
       "earliest_transaction": "2026-10-05"
+    },
+    {
+      "ticker": "WSM",
+      "name": "WILLIAMS SONOMA INC",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-09",
+      "earliest_transaction": "2026-10-09"
+    },
+    {
+      "ticker": "XYZ",
+      "name": "Block, Inc.",
+      "transaction_count": 1,
+      "latest_transaction": "2026-10-07",
+      "earliest_transaction": "2026-10-07"
     },
     {
       "ticker": "YUM",

@@ -2,11 +2,35 @@
   "ticker": "P",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-13T15:43:16.872590",
-  "count": 2,
+  "last_updated": "2026-10-14T13:27:49.099101",
+  "count": 3,
   "transactions": [
     {
-      "id": 247,
+      "id": 237,
+      "issuer_name": "Everpure, Inc.",
+      "reporting_owner": "Chu Mona",
+      "reporting_owner_cik": "0001915915",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-10-09",
+      "transaction_shares": "5112",
+      "transaction_price": "151.40",
+      "transaction_type": "S",
+      "shares_after_transaction": "125982"
+    },
+    {
+      "id": 238,
+      "issuer_name": "Everpure, Inc.",
+      "reporting_owner": "Brown Andrew William Fraser",
+      "reporting_owner_cik": "0001593803",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-08",
+      "transaction_shares": "4268",
+      "transaction_price": "156.03",
+      "transaction_type": "S",
+      "shares_after_transaction": "23415"
+    },
+    {
+      "id": 236,
       "issuer_name": "Everpure, Inc.",
       "reporting_owner": "Yen Mallun",
       "reporting_owner_cik": "0001511893",
@@ -16,18 +40,6 @@
       "transaction_price": "145.95",
       "transaction_type": "S",
       "shares_after_transaction": "39382"
-    },
-    {
-      "id": 246,
-      "issuer_name": "Everpure, Inc.",
-      "reporting_owner": "Chu Mona",
-      "reporting_owner_cik": "0001915915",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-10-02",
-      "transaction_shares": "2852",
-      "transaction_price": "140.20",
-      "transaction_type": "S",
-      "shares_after_transaction": "131094"
     }
   ]
 }
