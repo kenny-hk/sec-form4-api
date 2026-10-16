@@ -1,11 +1,23 @@
 {
   "ticker": "CRWD",
-  "last_updated": "2026-10-15T13:12:10.920906",
+  "last_updated": "2026-10-16T13:08:41.353087",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
       "id": 242,
+      "issuer_name": "CrowdStrike Holdings, Inc.",
+      "reporting_owner": "Kurtz George",
+      "reporting_owner_cik": "0001778564",
+      "reporting_owner_position": "PRESIDENT AND CEO",
+      "transaction_date": "2026-10-13",
+      "transaction_shares": "600",
+      "transaction_price": "260.70",
+      "transaction_type": "S",
+      "shares_after_transaction": "7480904"
+    },
+    {
+      "id": 241,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "7482464"
     },
     {
-      "id": 241,
+      "id": 240,
       "issuer_name": "CrowdStrike Holdings, Inc.",
       "reporting_owner": "Kurtz George",
       "reporting_owner_cik": "0001778564",
@@ -27,18 +39,6 @@
       "transaction_price": "262.51",
       "transaction_type": "S",
       "shares_after_transaction": "7511104"
-    },
-    {
-      "id": 243,
-      "issuer_name": "CrowdStrike Holdings, Inc.",
-      "reporting_owner": "Kurtz George",
-      "reporting_owner_cik": "0001778564",
-      "reporting_owner_position": "PRESIDENT AND CEO",
-      "transaction_date": "2026-10-06",
-      "transaction_shares": "120",
-      "transaction_price": "277.02",
-      "transaction_type": "S",
-      "shares_after_transaction": "7531384"
     }
   ]
 }
