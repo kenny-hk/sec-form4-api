@@ -1,20 +1,32 @@
 {
   "ticker": "MDT",
-  "last_updated": "2026-09-24T13:24:02.625195",
+  "last_updated": "2026-10-17T12:05:00.619543",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 327,
+      "id": 270,
       "issuer_name": "Medtronic plc",
-      "reporting_owner": "KIIL HARRY SKIP",
-      "reporting_owner_cik": "0001708062",
-      "reporting_owner_position": "EVP & President Cardiovascular",
-      "transaction_date": "2026-09-16",
-      "transaction_shares": "1483",
-      "transaction_price": "93.65",
+      "reporting_owner": "Martha Geoffrey",
+      "reporting_owner_cik": "0001560409",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "50000",
+      "transaction_price": "95",
       "transaction_type": "S",
-      "shares_after_transaction": "42186"
+      "shares_after_transaction": "277866"
+    },
+    {
+      "id": 272,
+      "issuer_name": "Medtronic plc",
+      "reporting_owner": "Marinaro Michael",
+      "reporting_owner_cik": "0001984186",
+      "reporting_owner_position": "EVP, Pres MedSurg and Americas",
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "10420",
+      "transaction_price": "96",
+      "transaction_type": "S",
+      "shares_after_transaction": "105916"
     }
   ]
 }
