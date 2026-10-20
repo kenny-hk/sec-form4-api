@@ -1,32 +1,68 @@
 {
   "ticker": "ARE",
-  "last_updated": "2026-10-09T15:08:24.744260",
+  "last_updated": "2026-10-20T13:27:37.971537",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 612,
+      "id": 229,
+      "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reporting_owner": "KLEIN RICHARD HUNTER",
+      "reporting_owner_cik": "0001274646",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "130",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "21996"
+    },
+    {
+      "id": 230,
+      "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reporting_owner": "Hash Steve",
+      "reporting_owner_cik": "0001594073",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "398",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "31395"
+    },
+    {
+      "id": 231,
       "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
       "reporting_owner": "Woronoff Michael A",
       "reporting_owner_cik": "0001711289",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-30",
-      "transaction_shares": "896",
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "500",
       "transaction_price": "0",
       "transaction_type": "A",
-      "shares_after_transaction": "29401"
+      "shares_after_transaction": "29901"
     },
     {
-      "id": 613,
+      "id": 232,
       "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
-      "reporting_owner": "Moglia Peter M",
-      "reporting_owner_cik": "0001545076",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-09-30",
-      "transaction_shares": "1068",
-      "transaction_price": "47.46",
-      "transaction_type": "F",
-      "shares_after_transaction": "370886"
+      "reporting_owner": "McGrath Sheila K.",
+      "reporting_owner_cik": "0001961416",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "150",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "12355"
+    },
+    {
+      "id": 233,
+      "issuer_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reporting_owner": "Cain James P",
+      "reporting_owner_cik": "0001660432",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "168",
+      "transaction_price": "0",
+      "transaction_type": "A",
+      "shares_after_transaction": "13595"
     }
   ]
 }
