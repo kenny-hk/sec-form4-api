@@ -2,11 +2,23 @@
   "ticker": "MDT",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-21T13:36:44.668332",
-  "count": 2,
+  "last_updated": "2026-10-22T13:37:12.188068",
+  "count": 3,
   "transactions": [
     {
-      "id": 353,
+      "id": 192,
+      "issuer_name": "Medtronic plc",
+      "reporting_owner": "Marinaro Michael",
+      "reporting_owner_cik": "0001984186",
+      "reporting_owner_position": "EVP, Pres MedSurg and Americas",
+      "transaction_date": "2026-10-15",
+      "transaction_shares": "10420",
+      "transaction_price": "96",
+      "transaction_type": "S",
+      "shares_after_transaction": "105916"
+    },
+    {
+      "id": 193,
       "issuer_name": "Medtronic plc",
       "reporting_owner": "Martha Geoffrey",
       "reporting_owner_cik": "0001560409",
@@ -18,16 +30,16 @@
       "shares_after_transaction": "277866"
     },
     {
-      "id": 355,
+      "id": 194,
       "issuer_name": "Medtronic plc",
-      "reporting_owner": "Marinaro Michael",
-      "reporting_owner_cik": "0001984186",
-      "reporting_owner_position": "EVP, Pres MedSurg and Americas",
+      "reporting_owner": "Lofton Kevin E",
+      "reporting_owner_cik": "0001468818",
+      "reporting_owner_position": null,
       "transaction_date": "2026-10-15",
-      "transaction_shares": "10420",
-      "transaction_price": "96",
-      "transaction_type": "S",
-      "shares_after_transaction": "105916"
+      "transaction_shares": "182",
+      "transaction_price": null,
+      "transaction_type": "J",
+      "shares_after_transaction": "9977"
     }
   ]
 }

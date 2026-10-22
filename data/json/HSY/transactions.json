@@ -1,11 +1,23 @@
 {
   "ticker": "HSY",
-  "last_updated": "2026-10-21T13:36:44.668332",
+  "last_updated": "2026-10-22T13:37:12.188068",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 20,
+      "id": 226,
+      "issuer_name": "HERSHEY CO",
+      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "reporting_owner_cik": "0000938543",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-19",
+      "transaction_shares": "633",
+      "transaction_price": "166.9661",
+      "transaction_type": "S",
+      "shares_after_transaction": "565486"
+    },
+    {
+      "id": 225,
       "issuer_name": "HERSHEY CO",
       "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
       "reporting_owner_cik": "0000938543",
@@ -15,18 +27,6 @@
       "transaction_price": "166.9713",
       "transaction_type": "S",
       "shares_after_transaction": "585912"
-    },
-    {
-      "id": 19,
-      "issuer_name": "HERSHEY CO",
-      "reporting_owner": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "reporting_owner_cik": "0000938543",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-12",
-      "transaction_shares": "211",
-      "transaction_price": "160.8387",
-      "transaction_type": "S",
-      "shares_after_transaction": "615908"
     }
   ]
 }
