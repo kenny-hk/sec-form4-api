@@ -1,11 +1,23 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2026-10-22T13:37:12.188068",
+  "last_updated": "2026-10-23T13:13:16.815660",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 8,
+      "id": 244,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Newstead Jennifer",
+      "reporting_owner_cik": "0001780525",
+      "reporting_owner_position": "SVP, GC and Government Affairs",
+      "transaction_date": "2026-10-20",
+      "transaction_shares": "2399",
+      "transaction_price": "339.62",
+      "transaction_type": "S",
+      "shares_after_transaction": "34795"
+    },
+    {
+      "id": 241,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Parekh Kevan",
       "reporting_owner_cik": "0002050912",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "24292"
     },
     {
-      "id": 11,
+      "id": 242,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Borders Ben",
       "reporting_owner_cik": "0002100523",
@@ -27,18 +39,6 @@
       "transaction_price": null,
       "transaction_type": "M",
       "shares_after_transaction": "40451"
-    },
-    {
-      "id": 10,
-      "issuer_name": "Apple Inc.",
-      "reporting_owner": "Newstead Jennifer",
-      "reporting_owner_cik": "0001780525",
-      "reporting_owner_position": "SVP, GC and Government Affairs",
-      "transaction_date": "2026-10-13",
-      "transaction_shares": "2399",
-      "transaction_price": "345.00",
-      "transaction_type": "S",
-      "shares_after_transaction": "37194"
     }
   ]
 }
