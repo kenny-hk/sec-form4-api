@@ -1,11 +1,23 @@
 {
   "ticker": "PG",
-  "last_updated": "2026-10-26T14:58:50.020124",
+  "last_updated": "2026-10-27T14:10:22.082200",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 193,
+      "id": 116,
+      "issuer_name": "PROCTER & GAMBLE Co",
+      "reporting_owner": "Purushothaman Balaji",
+      "reporting_owner_cik": "0001957262",
+      "reporting_owner_position": "Chief Human Resources Officer",
+      "transaction_date": "2026-10-23",
+      "transaction_shares": "4181",
+      "transaction_price": "160.71",
+      "transaction_type": "S",
+      "shares_after_transaction": "11295.7953"
+    },
+    {
+      "id": 117,
       "issuer_name": "PROCTER & GAMBLE Co",
       "reporting_owner": "Gama Paul",
       "reporting_owner_cik": "0002110932",
@@ -15,6 +27,18 @@
       "transaction_price": "161.27",
       "transaction_type": "S",
       "shares_after_transaction": "46792.8803"
+    },
+    {
+      "id": 118,
+      "issuer_name": "PROCTER & GAMBLE Co",
+      "reporting_owner": "Jejurikar Shailesh",
+      "reporting_owner_cik": "0001746310",
+      "reporting_owner_position": "Chairman, President and CEO",
+      "transaction_date": "2026-10-23",
+      "transaction_shares": "35000",
+      "transaction_price": "78.52",
+      "transaction_type": "M",
+      "shares_after_transaction": "90390.9973"
     }
   ]
 }

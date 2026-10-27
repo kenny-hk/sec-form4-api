@@ -1,11 +1,11 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2026-10-26T14:58:50.020124",
+  "last_updated": "2026-10-27T14:10:22.082200",
   "retention_years": 3,
-  "count": 3,
+  "count": 1,
   "transactions": [
     {
-      "id": 198,
+      "id": 224,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Newstead Jennifer",
       "reporting_owner_cik": "0001780525",
@@ -15,30 +15,6 @@
       "transaction_price": "339.62",
       "transaction_type": "S",
       "shares_after_transaction": "34795"
-    },
-    {
-      "id": 195,
-      "issuer_name": "Apple Inc.",
-      "reporting_owner": "Parekh Kevan",
-      "reporting_owner_cik": "0002050912",
-      "reporting_owner_position": "Senior Vice President,  CFO",
-      "transaction_date": "2026-10-15",
-      "transaction_shares": "10926",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "24292"
-    },
-    {
-      "id": 196,
-      "issuer_name": "Apple Inc.",
-      "reporting_owner": "Borders Ben",
-      "reporting_owner_cik": "0002100523",
-      "reporting_owner_position": "Principal Accounting Officer",
-      "transaction_date": "2026-10-15",
-      "transaction_shares": "1714",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "40451"
     }
   ]
 }
