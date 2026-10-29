@@ -2,11 +2,23 @@
   "ticker": "ISRG",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-28T14:59:50.362769",
-  "count": 4,
+  "last_updated": "2026-10-29T15:03:49.079685",
+  "count": 5,
   "transactions": [
     {
-      "id": 155,
+      "id": 6,
+      "issuer_name": "INTUITIVE SURGICAL INC",
+      "reporting_owner": "Brosius Mark",
+      "reporting_owner_cik": "0002010300",
+      "reporting_owner_position": "EVP & Chief Mfg and Supply Cha",
+      "transaction_date": "2026-10-26",
+      "transaction_shares": "61",
+      "transaction_price": "451.75",
+      "transaction_type": "S",
+      "shares_after_transaction": "703"
+    },
+    {
+      "id": 2,
       "issuer_name": "INTUITIVE SURGICAL INC",
       "reporting_owner": "Widman Fredrik",
       "reporting_owner_cik": "0001897970",
@@ -18,19 +30,19 @@
       "shares_after_transaction": "1333"
     },
     {
-      "id": 156,
+      "id": 3,
       "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "GUTHART GARY S",
-      "reporting_owner_cik": "0001280628",
+      "reporting_owner": "BARRATT CRAIG H",
+      "reporting_owner_cik": "0001277620",
       "reporting_owner_position": null,
       "transaction_date": "2026-10-23",
-      "transaction_shares": "20095",
-      "transaction_price": "451.6117",
-      "transaction_type": "S",
-      "shares_after_transaction": "1204530"
+      "transaction_shares": "1150",
+      "transaction_price": "90.4944",
+      "transaction_type": "M",
+      "shares_after_transaction": "1150"
     },
     {
-      "id": 157,
+      "id": 4,
       "issuer_name": "INTUITIVE SURGICAL INC",
       "reporting_owner": "WADORS PATRICIA L",
       "reporting_owner_cik": "0001274559",
@@ -42,16 +54,16 @@
       "shares_after_transaction": "0"
     },
     {
-      "id": 158,
+      "id": 5,
       "issuer_name": "INTUITIVE SURGICAL INC",
-      "reporting_owner": "BARRATT CRAIG H",
-      "reporting_owner_cik": "0001277620",
+      "reporting_owner": "GUTHART GARY S",
+      "reporting_owner_cik": "0001280628",
       "reporting_owner_position": null,
       "transaction_date": "2026-10-23",
-      "transaction_shares": "1150",
-      "transaction_price": "90.4944",
-      "transaction_type": "M",
-      "shares_after_transaction": "1150"
+      "transaction_shares": "20095",
+      "transaction_price": "451.6117",
+      "transaction_type": "S",
+      "shares_after_transaction": "1204530"
     }
   ]
 }
