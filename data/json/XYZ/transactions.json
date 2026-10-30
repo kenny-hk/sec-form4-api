@@ -1,11 +1,23 @@
 {
   "ticker": "XYZ",
-  "last_updated": "2026-10-29T15:03:49.079685",
+  "last_updated": "2026-10-30T14:57:42.177471",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 216,
+      "id": 202,
+      "issuer_name": "Block, Inc.",
+      "reporting_owner": "Eisen Anthony Mathew",
+      "reporting_owner_cik": "0001933928",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-28",
+      "transaction_shares": "6000",
+      "transaction_price": "74.44",
+      "transaction_type": "S",
+      "shares_after_transaction": "1212672"
+    },
+    {
+      "id": 201,
       "issuer_name": "Block, Inc.",
       "reporting_owner": "Eisen Anthony Mathew",
       "reporting_owner_cik": "0001933928",
@@ -15,18 +27,6 @@
       "transaction_price": "77.84",
       "transaction_type": "S",
       "shares_after_transaction": "1230672"
-    },
-    {
-      "id": 217,
-      "issuer_name": "Block, Inc.",
-      "reporting_owner": "Eisen Anthony Mathew",
-      "reporting_owner_cik": "0001933928",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-20",
-      "transaction_shares": "6000",
-      "transaction_price": "77.25",
-      "transaction_type": "S",
-      "shares_after_transaction": "1248672"
     }
   ]
 }

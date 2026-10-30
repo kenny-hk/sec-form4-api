@@ -1,11 +1,23 @@
 {
   "ticker": "NDAQ",
-  "last_updated": "2026-10-29T15:03:49.079685",
+  "last_updated": "2026-10-30T14:57:42.177471",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
       "id": 37,
+      "issuer_name": "NASDAQ, INC.",
+      "reporting_owner": "Peterson Bradley J",
+      "reporting_owner_cik": "0001568592",
+      "reporting_owner_position": "EVP, CIO",
+      "transaction_date": "2026-10-27",
+      "transaction_shares": "3987",
+      "transaction_price": "104.75",
+      "transaction_type": "S",
+      "shares_after_transaction": "114306"
+    },
+    {
+      "id": 38,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Peterson Bradley J",
       "reporting_owner_cik": "0001568592",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "118293"
     },
     {
-      "id": 38,
+      "id": 39,
       "issuer_name": "NASDAQ, INC.",
       "reporting_owner": "Tal Cohen",
       "reporting_owner_cik": "0001781714",
@@ -27,18 +39,6 @@
       "transaction_price": "103.34",
       "transaction_type": "S",
       "shares_after_transaction": "205076"
-    },
-    {
-      "id": 36,
-      "issuer_name": "NASDAQ, INC.",
-      "reporting_owner": "SKULE JEREMY",
-      "reporting_owner_cik": "0001736565",
-      "reporting_owner_position": "EVP, CSO",
-      "transaction_date": "2026-10-20",
-      "transaction_shares": "1125",
-      "transaction_price": "95.00",
-      "transaction_type": "S",
-      "shares_after_transaction": "96561"
     }
   ]
 }
