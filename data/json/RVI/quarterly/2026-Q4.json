@@ -2,11 +2,23 @@
   "ticker": "RVI",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-30T14:57:42.177471",
+  "last_updated": "2026-10-31T14:26:28.087244",
   "count": 3,
   "transactions": [
     {
-      "id": 227,
+      "id": 226,
+      "issuer_name": "Robinhood Ventures Fund I",
+      "reporting_owner": "Robinhood Markets, Inc.",
+      "reporting_owner_cik": "0001783879",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-28",
+      "transaction_shares": "124319",
+      "transaction_price": "24.77",
+      "transaction_type": "S",
+      "shares_after_transaction": "12921815"
+    },
+    {
+      "id": 228,
       "issuer_name": "Robinhood Ventures Fund I",
       "reporting_owner": "Robinhood Markets, Inc.",
       "reporting_owner_cik": "0001783879",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "12921815"
     },
     {
-      "id": 226,
+      "id": 227,
       "issuer_name": "Robinhood Ventures Fund I",
       "reporting_owner": "Robinhood Markets, Inc.",
       "reporting_owner_cik": "0001783879",
@@ -28,18 +40,6 @@
       "transaction_price": "25.04",
       "transaction_type": "S",
       "shares_after_transaction": "12922229"
-    },
-    {
-      "id": 225,
-      "issuer_name": "Robinhood Ventures Fund I",
-      "reporting_owner": "Robinhood Markets, Inc.",
-      "reporting_owner_cik": "0001783879",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-21",
-      "transaction_shares": "85",
-      "transaction_price": "25.01",
-      "transaction_type": "S",
-      "shares_after_transaction": "12926363"
     }
   ]
 }
