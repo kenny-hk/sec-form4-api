@@ -1,20 +1,32 @@
 {
   "ticker": "ROL",
-  "last_updated": "2026-09-28T16:37:19.079276",
+  "last_updated": "2026-11-03T15:58:43.072529",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 80,
+      "id": 188,
       "issuer_name": "ROLLINS INC",
-      "reporting_owner": "Gary W. Rollins Voting Trust U/A dated September 14, 1994",
-      "reporting_owner_cik": "0001820491",
+      "reporting_owner": "R. Randall Rollins Voting Trust U/A dated August 25, 1994",
+      "reporting_owner_cik": "0001820515",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-17",
-      "transaction_shares": "145284066",
-      "transaction_price": null,
-      "transaction_type": "J",
-      "shares_after_transaction": "0"
+      "transaction_date": "2026-10-29",
+      "transaction_shares": "1444402",
+      "transaction_price": "34.5864",
+      "transaction_type": "P",
+      "shares_after_transaction": "146728468"
+    },
+    {
+      "id": 189,
+      "issuer_name": "ROLLINS INC",
+      "reporting_owner": "LOR INC",
+      "reporting_owner_cik": "0001212243",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-29",
+      "transaction_shares": "1444402",
+      "transaction_price": "34.5864",
+      "transaction_type": "P",
+      "shares_after_transaction": "146728468"
     }
   ]
 }

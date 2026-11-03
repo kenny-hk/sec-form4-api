@@ -1,11 +1,35 @@
 {
   "ticker": "EFX",
-  "last_updated": "2026-11-02T18:01:09.480766",
+  "last_updated": "2026-11-03T15:58:43.072529",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 30,
+      "id": 37,
+      "issuer_name": "EQUIFAX INC",
+      "reporting_owner": "Schneider Harald",
+      "reporting_owner_cik": "0002013260",
+      "reporting_owner_position": "EVP, Chief D&A Officer",
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "689.0000",
+      "transaction_price": "184.6000",
+      "transaction_type": "F",
+      "shares_after_transaction": "8589.0000"
+    },
+    {
+      "id": 36,
+      "issuer_name": "EQUIFAX INC",
+      "reporting_owner": "GAMBLE JOHN W JR",
+      "reporting_owner_cik": "0001222712",
+      "reporting_owner_position": "EVP, CFO & COO",
+      "transaction_date": "2026-10-29",
+      "transaction_shares": "4000.0000",
+      "transaction_price": "177.6800",
+      "transaction_type": "S",
+      "shares_after_transaction": "65145.0000"
+    },
+    {
+      "id": 35,
       "issuer_name": "EQUIFAX INC",
       "reporting_owner": "Begor Mark W",
       "reporting_owner_cik": "0001335111",
