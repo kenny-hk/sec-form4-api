@@ -2,11 +2,35 @@
   "ticker": "NONE",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-03T15:58:43.072529",
-  "count": 2,
+  "last_updated": "2026-11-04T16:05:17.743507",
+  "count": 4,
   "transactions": [
     {
-      "id": 333,
+      "id": 230,
+      "issuer_name": "Ares Private Markets Fund",
+      "reporting_owner": "ARES CAPITAL MANAGEMENT II LLC",
+      "reporting_owner_cik": "0001525559",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "484652",
+      "transaction_price": "41.27",
+      "transaction_type": "S",
+      "shares_after_transaction": "2519348"
+    },
+    {
+      "id": 409,
+      "issuer_name": "KKR Real Estate Select Trust Inc.",
+      "reporting_owner": "KKR Alternative Assets LLC",
+      "reporting_owner_cik": "0001820655",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "66167.612",
+      "transaction_price": "22.23",
+      "transaction_type": "J",
+      "shares_after_transaction": "9996346.931"
+    },
+    {
+      "id": 495,
       "issuer_name": "Invesco Real Estate Income Trust Inc.",
       "reporting_owner": "Invesco Advisers, Inc.",
       "reporting_owner_cik": "0000020430",
@@ -18,7 +42,7 @@
       "shares_after_transaction": "180284.898"
     },
     {
-      "id": 138,
+      "id": 169,
       "issuer_name": "PGIM Private Credit Fund",
       "reporting_owner": "PRUDENTIAL INSURANCE CO OF AMERICA",
       "reporting_owner_cik": "0000729057",

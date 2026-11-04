@@ -1,7 +1,32 @@
 {
   "ticker": "AXP",
-  "last_updated": "2026-10-09T15:08:24.744260",
+  "last_updated": "2026-11-04T16:05:17.743507",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 434,
+      "issuer_name": "AMERICAN EXPRESS CO",
+      "reporting_owner": "Marrs Anna",
+      "reporting_owner_cik": "0001753557",
+      "reporting_owner_position": "Group Pres., GMNS",
+      "transaction_date": "2026-11-02",
+      "transaction_shares": "44910",
+      "transaction_price": "148.45",
+      "transaction_type": "M",
+      "shares_after_transaction": "65418.938"
+    },
+    {
+      "id": 439,
+      "issuer_name": "AMERICAN EXPRESS CO",
+      "reporting_owner": "Seeger Laureen",
+      "reporting_owner_cik": "0001357325",
+      "reporting_owner_position": "Chief Legal Officer",
+      "transaction_date": "2026-11-02",
+      "transaction_shares": "69860",
+      "transaction_price": "148.45",
+      "transaction_type": "M",
+      "shares_after_transaction": "78862.033"
+    }
+  ]
 }

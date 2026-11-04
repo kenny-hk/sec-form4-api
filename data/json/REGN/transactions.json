@@ -1,20 +1,44 @@
 {
   "ticker": "REGN",
-  "last_updated": "2026-10-22T13:37:12.188068",
+  "last_updated": "2026-11-04T16:05:17.743507",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 296,
+      "id": 463,
       "issuer_name": "REGENERON PHARMACEUTICALS, INC.",
-      "reporting_owner": "MURPHY ANDREW J",
-      "reporting_owner_cik": "0001796226",
-      "reporting_owner_position": "Co-Chief Scientific Officer",
-      "transaction_date": "2026-10-13",
-      "transaction_shares": "17000",
-      "transaction_price": "381.92",
+      "reporting_owner": "McCourt Marion",
+      "reporting_owner_cik": "0001663758",
+      "reporting_owner_position": "EVP Commercial",
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "1132",
+      "transaction_price": "869.43",
+      "transaction_type": "S",
+      "shares_after_transaction": "10871"
+    },
+    {
+      "id": 464,
+      "issuer_name": "REGENERON PHARMACEUTICALS, INC.",
+      "reporting_owner": "Guarini Kathryn",
+      "reporting_owner_cik": "0001992352",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "400",
+      "transaction_price": "719.37",
       "transaction_type": "M",
-      "shares_after_transaction": "64833"
+      "shares_after_transaction": "1003"
+    },
+    {
+      "id": 465,
+      "issuer_name": "REGENERON PHARMACEUTICALS, INC.",
+      "reporting_owner": "BROWN MICHAEL S",
+      "reporting_owner_cik": "0001174475",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-10-30",
+      "transaction_shares": "1929",
+      "transaction_price": "725.89",
+      "transaction_type": "M",
+      "shares_after_transaction": "3309"
     }
   ]
 }
