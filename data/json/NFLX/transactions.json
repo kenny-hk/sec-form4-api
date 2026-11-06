@@ -1,11 +1,11 @@
 {
   "ticker": "NFLX",
-  "last_updated": "2026-11-05T16:19:08.470691",
+  "last_updated": "2026-11-06T15:49:45.234441",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 120,
+      "id": 124,
       "issuer_name": "NETFLIX INC",
       "reporting_owner": "HYMAN DAVID A",
       "reporting_owner_cik": "0001507747",
@@ -19,14 +19,50 @@
     {
       "id": 127,
       "issuer_name": "NETFLIX INC",
+      "reporting_owner": "SARANDOS THEODORE A",
+      "reporting_owner_cik": "0001393838",
+      "reporting_owner_position": "Co-CEO",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "14018",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "192972"
+    },
+    {
+      "id": 132,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Willems Cletus R",
+      "reporting_owner_cik": "0002065325",
+      "reporting_owner_position": "Chief Global Affairs Officer",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "1470",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "7747"
+    },
+    {
+      "id": 133,
+      "issuer_name": "NETFLIX INC",
+      "reporting_owner": "Neumann Spencer Adam",
+      "reporting_owner_cik": "0001543133",
+      "reporting_owner_position": "Chief Financial Officer",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "8790",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "82577"
+    },
+    {
+      "id": 137,
+      "issuer_name": "NETFLIX INC",
       "reporting_owner": "Peters Gregory K",
       "reporting_owner_cik": "0001583109",
       "reporting_owner_position": "Co-CEO",
-      "transaction_date": "2026-10-28",
-      "transaction_shares": "1519",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "119412"
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "14018",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "133430"
     }
   ]
 }

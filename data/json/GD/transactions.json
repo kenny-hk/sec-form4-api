@@ -1,20 +1,44 @@
 {
   "ticker": "GD",
-  "last_updated": "2026-10-02T14:35:54.328907",
+  "last_updated": "2026-11-06T15:49:45.234441",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 71,
+      "id": 646,
       "issuer_name": "GENERAL DYNAMICS CORP",
-      "reporting_owner": "STEEL ROBERT K",
-      "reporting_owner_cik": "0001180592",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-09-23",
-      "transaction_shares": "2770",
+      "reporting_owner": "Gallopoulos Gregory S",
+      "reporting_owner_cik": "0001477746",
+      "reporting_owner_position": "Senior VP, Gen. Counsel, Sec.",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "7300",
+      "transaction_price": "372.321",
+      "transaction_type": "S",
+      "shares_after_transaction": "116964"
+    },
+    {
+      "id": 647,
+      "issuer_name": "GENERAL DYNAMICS CORP",
+      "reporting_owner": "NOVAKOVIC PHEBE N",
+      "reporting_owner_cik": "0001222195",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "151150",
       "transaction_price": "168.56",
       "transaction_type": "M",
-      "shares_after_transaction": "5866"
+      "shares_after_transaction": "917607"
+    },
+    {
+      "id": 648,
+      "issuer_name": "GENERAL DYNAMICS CORP",
+      "reporting_owner": "Aiken Jason W",
+      "reporting_owner_cik": "0001486897",
+      "reporting_owner_position": "Executive Vice President",
+      "transaction_date": "2026-11-03",
+      "transaction_shares": "14645",
+      "transaction_price": "223.93",
+      "transaction_type": "M",
+      "shares_after_transaction": "199122"
     }
   ]
 }
