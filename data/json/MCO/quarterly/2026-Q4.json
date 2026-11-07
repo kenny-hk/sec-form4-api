@@ -2,11 +2,23 @@
   "ticker": "MCO",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-06T15:49:45.234441",
+  "last_updated": "2026-11-07T14:49:04.186256",
   "count": 5,
   "transactions": [
     {
-      "id": 352,
+      "id": 382,
+      "issuer_name": "MOODYS CORP /DE/",
+      "reporting_owner": "Phillips Jason D",
+      "reporting_owner_cik": "0002062050",
+      "reporting_owner_position": "Chief Acctg Off & Controller",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "95",
+      "transaction_price": "519.325",
+      "transaction_type": "S",
+      "shares_after_transaction": "1798.9385"
+    },
+    {
+      "id": 383,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "West Michael L",
       "reporting_owner_cik": "0001791243",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "8178.98"
     },
     {
-      "id": 353,
+      "id": 384,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "Demmings Keith",
       "reporting_owner_cik": "0001762769",
@@ -30,7 +42,7 @@
       "shares_after_transaction": "458"
     },
     {
-      "id": 355,
+      "id": 385,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "West Michael L",
       "reporting_owner_cik": "0001791243",
@@ -42,7 +54,7 @@
       "shares_after_transaction": "8373.98"
     },
     {
-      "id": 356,
+      "id": 386,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "Phillips Jason D",
       "reporting_owner_cik": "0002062050",
@@ -52,18 +64,6 @@
       "transaction_price": "509.232",
       "transaction_type": "S",
       "shares_after_transaction": "1893.9385"
-    },
-    {
-      "id": 354,
-      "issuer_name": "MOODYS CORP /DE/",
-      "reporting_owner": "West Michael L",
-      "reporting_owner_cik": "0001791243",
-      "reporting_owner_position": "CEO - Moody's Ratings",
-      "transaction_date": "2026-10-29",
-      "transaction_shares": "200",
-      "transaction_price": "486.52",
-      "transaction_type": "S",
-      "shares_after_transaction": "8558.98"
     }
   ]
 }
