@@ -2,11 +2,23 @@
   "ticker": "ANET",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "count": 3,
   "transactions": [
     {
-      "id": 170,
+      "id": 157,
+      "issuer_name": "Arista Networks, Inc.",
+      "reporting_owner": "BECHTOLSHEIM ANDREAS",
+      "reporting_owner_cik": "0001133206",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-06",
+      "transaction_shares": "88958",
+      "transaction_price": "167.7389",
+      "transaction_type": "S",
+      "shares_after_transaction": "179926198"
+    },
+    {
+      "id": 158,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "BECHTOLSHEIM ANDREAS",
       "reporting_owner_cik": "0001133206",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "180266381"
     },
     {
-      "id": 171,
+      "id": 159,
       "issuer_name": "Arista Networks, Inc.",
       "reporting_owner": "TEMPLETON MARK B",
       "reporting_owner_cik": "0001201938",
@@ -28,18 +40,6 @@
       "transaction_price": "164.0672",
       "transaction_type": "S",
       "shares_after_transaction": "47010"
-    },
-    {
-      "id": 169,
-      "issuer_name": "Arista Networks, Inc.",
-      "reporting_owner": "BECHTOLSHEIM ANDREAS",
-      "reporting_owner_cik": "0001133206",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-30",
-      "transaction_shares": "13617",
-      "transaction_price": "167.506",
-      "transaction_type": "S",
-      "shares_after_transaction": "180529431"
     }
   ]
 }

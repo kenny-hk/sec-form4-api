@@ -2,11 +2,23 @@
   "ticker": "GNRC",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-10T16:16:25.869907",
-  "count": 6,
+  "last_updated": "2026-11-11T16:01:16.725819",
+  "count": 3,
   "transactions": [
     {
-      "id": 468,
+      "id": 418,
+      "issuer_name": "GENERAC HOLDINGS INC.",
+      "reporting_owner": "Taffe Norman P",
+      "reporting_owner_cik": "0001338627",
+      "reporting_owner_position": "President Generac Home",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "100",
+      "transaction_price": "119.54",
+      "transaction_type": "M",
+      "shares_after_transaction": "10776"
+    },
+    {
+      "id": 417,
       "issuer_name": "GENERAC HOLDINGS INC.",
       "reporting_owner": "Taffe Norman P",
       "reporting_owner_cik": "0001338627",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "10776"
     },
     {
-      "id": 467,
+      "id": 416,
       "issuer_name": "GENERAC HOLDINGS INC.",
       "reporting_owner": "Raabe Kyle Andrew",
       "reporting_owner_cik": "0001851000",
@@ -28,54 +40,6 @@
       "transaction_price": "210",
       "transaction_type": "S",
       "shares_after_transaction": "9580"
-    },
-    {
-      "id": 471,
-      "issuer_name": "GENERAC HOLDINGS INC.",
-      "reporting_owner": "Jagdfeld Aaron",
-      "reporting_owner_cik": "0001483001",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "5000",
-      "transaction_price": "200.61",
-      "transaction_type": "S",
-      "shares_after_transaction": "539528"
-    },
-    {
-      "id": 466,
-      "issuer_name": "GENERAC HOLDINGS INC.",
-      "reporting_owner": "Morgan Bennett J",
-      "reporting_owner_cik": "0001307660",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-30",
-      "transaction_shares": "165",
-      "transaction_price": "197.30",
-      "transaction_type": "A",
-      "shares_after_transaction": "32772"
-    },
-    {
-      "id": 469,
-      "issuer_name": "GENERAC HOLDINGS INC.",
-      "reporting_owner": "Zarcone Dominick P",
-      "reporting_owner_cik": "0001635955",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-30",
-      "transaction_shares": "127",
-      "transaction_price": "197.30",
-      "transaction_type": "A",
-      "shares_after_transaction": "19843"
-    },
-    {
-      "id": 470,
-      "issuer_name": "GENERAC HOLDINGS INC.",
-      "reporting_owner": "LAMPEREUR ANDREW",
-      "reporting_owner_cik": "0001210581",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-10-30",
-      "transaction_shares": "159",
-      "transaction_price": "197.30",
-      "transaction_type": "A",
-      "shares_after_transaction": "29113"
     }
   ]
 }

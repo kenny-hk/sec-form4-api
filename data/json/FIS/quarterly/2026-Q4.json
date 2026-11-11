@@ -2,20 +2,44 @@
   "ticker": "FIS",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-23T13:13:16.815660",
-  "count": 1,
+  "last_updated": "2026-11-11T16:01:16.725819",
+  "count": 3,
   "transactions": [
     {
-      "id": 325,
+      "id": 375,
       "issuer_name": "Fidelity National Information Services, Inc.",
-      "reporting_owner": "Goldstein Jeffrey A",
-      "reporting_owner_cik": "0001375299",
+      "reporting_owner": "Brooks Alexandra Dawn",
+      "reporting_owner_cik": "0001829263",
+      "reporting_owner_position": "EVP, Chief Accounting Officer",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "3856",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "8488"
+    },
+    {
+      "id": 376,
+      "issuer_name": "Fidelity National Information Services, Inc.",
+      "reporting_owner": "Toohey Robert",
+      "reporting_owner_cik": "0001918701",
+      "reporting_owner_position": "CEVP, Chief People Officer",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "18510",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "35186"
+    },
+    {
+      "id": 374,
+      "issuer_name": "Fidelity National Information Services, Inc.",
+      "reporting_owner": "Gibson Kourtney",
+      "reporting_owner_cik": "0001818810",
       "reporting_owner_position": null,
-      "transaction_date": "2026-10-15",
-      "transaction_shares": "1585",
-      "transaction_price": "36.40",
+      "transaction_date": "2026-11-06",
+      "transaction_shares": "1800",
+      "transaction_price": "29",
       "transaction_type": "P",
-      "shares_after_transaction": "18697"
+      "shares_after_transaction": "5903"
     }
   ]
 }

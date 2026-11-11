@@ -1,11 +1,23 @@
 {
   "ticker": "SCHW",
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 110,
+      "id": 108,
+      "issuer_name": "SCHWAB CHARLES CORP",
+      "reporting_owner": "Schwab Charles R.",
+      "reporting_owner_cik": "0000923738",
+      "reporting_owner_position": "Co-Chairman",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "70750",
+      "transaction_price": "93.0074",
+      "transaction_type": "S",
+      "shares_after_transaction": "53263866"
+    },
+    {
+      "id": 109,
       "issuer_name": "SCHWAB CHARLES CORP",
       "reporting_owner": "Schwab Charles R.",
       "reporting_owner_cik": "0000923738",
@@ -15,18 +27,6 @@
       "transaction_price": "89.2149",
       "transaction_type": "S",
       "shares_after_transaction": "53334616"
-    },
-    {
-      "id": 111,
-      "issuer_name": "SCHWAB CHARLES CORP",
-      "reporting_owner": "Hathi Neesha",
-      "reporting_owner_cik": "0001879974",
-      "reporting_owner_position": "MD, Head Wealth Adv, Bnk, Tst",
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "5000",
-      "transaction_price": "64.10",
-      "transaction_type": "M",
-      "shares_after_transaction": "0"
     }
   ]
 }

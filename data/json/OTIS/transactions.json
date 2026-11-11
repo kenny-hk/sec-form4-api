@@ -1,11 +1,23 @@
 {
   "ticker": "OTIS",
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "retention_years": 3,
   "count": 2,
   "transactions": [
     {
-      "id": 112,
+      "id": 110,
+      "issuer_name": "Otis Worldwide Corp",
+      "reporting_owner": "Lefebure Thibault Pierre Marie",
+      "reporting_owner_cik": "0002107340",
+      "reporting_owner_position": "President, Otis EMEA",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "900",
+      "transaction_price": "78.952",
+      "transaction_type": "S",
+      "shares_after_transaction": "3108"
+    },
+    {
+      "id": 111,
       "issuer_name": "Otis Worldwide Corp",
       "reporting_owner": "Armas Joseph Jay",
       "reporting_owner_cik": "0002067209",
@@ -15,18 +27,6 @@
       "transaction_price": "78.0177",
       "transaction_type": "S",
       "shares_after_transaction": "2415"
-    },
-    {
-      "id": 113,
-      "issuer_name": "Otis Worldwide Corp",
-      "reporting_owner": "Minarro Viseras Enrique",
-      "reporting_owner_cik": "0001705737",
-      "reporting_owner_position": "EVP & CHIEF OPERATING OFFICER",
-      "transaction_date": "2026-11-01",
-      "transaction_shares": "2805",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "35227"
     }
   ]
 }

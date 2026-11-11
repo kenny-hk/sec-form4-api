@@ -1,11 +1,59 @@
 {
   "ticker": "UAL",
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "retention_years": 3,
-  "count": 2,
+  "count": 5,
   "transactions": [
     {
-      "id": 347,
+      "id": 329,
+      "issuer_name": "United Airlines Holdings, Inc.",
+      "reporting_owner": "KIRBY J SCOTT",
+      "reporting_owner_cik": "0001249555",
+      "reporting_owner_position": "Chief Executive Officer",
+      "transaction_date": "2026-11-10",
+      "transaction_shares": "90367",
+      "transaction_price": "119.79",
+      "transaction_type": "S",
+      "shares_after_transaction": "750755"
+    },
+    {
+      "id": 327,
+      "issuer_name": "United Airlines Holdings, Inc.",
+      "reporting_owner": "Gebo Kate",
+      "reporting_owner_cik": "0001724931",
+      "reporting_owner_position": "EVP HR and Labor Relations",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "28283",
+      "transaction_price": "119.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "40735"
+    },
+    {
+      "id": 331,
+      "issuer_name": "United Airlines Holdings, Inc.",
+      "reporting_owner": "Nocella Andrew P",
+      "reporting_owner_cik": "0001314824",
+      "reporting_owner_position": "EVP & Chief Commercial Officer",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "7500",
+      "transaction_price": "119.41",
+      "transaction_type": "S",
+      "shares_after_transaction": "207455"
+    },
+    {
+      "id": 330,
+      "issuer_name": "United Airlines Holdings, Inc.",
+      "reporting_owner": "Leskinen Michael D.",
+      "reporting_owner_cik": "0001994659",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2026-11-06",
+      "transaction_shares": "14711",
+      "transaction_price": "112.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "32725"
+    },
+    {
+      "id": 328,
       "issuer_name": "United Airlines Holdings, Inc.",
       "reporting_owner": "SHAPIRO EDWARD",
       "reporting_owner_cik": "0001168692",
@@ -15,18 +63,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "100000"
-    },
-    {
-      "id": 346,
-      "issuer_name": "United Airlines Holdings, Inc.",
-      "reporting_owner": "Hart Brett J",
-      "reporting_owner_cik": "0001466338",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-10-30",
-      "transaction_shares": "39000",
-      "transaction_price": "102.68",
-      "transaction_type": "S",
-      "shares_after_transaction": "325122"
     }
   ]
 }

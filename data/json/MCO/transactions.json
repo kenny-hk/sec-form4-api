@@ -1,11 +1,23 @@
 {
   "ticker": "MCO",
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "retention_years": 3,
-  "count": 5,
+  "count": 3,
   "transactions": [
     {
-      "id": 403,
+      "id": 372,
+      "issuer_name": "MOODYS CORP /DE/",
+      "reporting_owner": "Fauber Robert",
+      "reporting_owner_cik": "0001481153",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "662",
+      "transaction_price": "173.58",
+      "transaction_type": "M",
+      "shares_after_transaction": "52025.918"
+    },
+    {
+      "id": 370,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "Phillips Jason D",
       "reporting_owner_cik": "0002062050",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "1798.9385"
     },
     {
-      "id": 404,
+      "id": 371,
       "issuer_name": "MOODYS CORP /DE/",
       "reporting_owner": "West Michael L",
       "reporting_owner_cik": "0001791243",
@@ -27,42 +39,6 @@
       "transaction_price": "529.2328",
       "transaction_type": "S",
       "shares_after_transaction": "8178.98"
-    },
-    {
-      "id": 405,
-      "issuer_name": "MOODYS CORP /DE/",
-      "reporting_owner": "Demmings Keith",
-      "reporting_owner_cik": "0001762769",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "458",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "458"
-    },
-    {
-      "id": 406,
-      "issuer_name": "MOODYS CORP /DE/",
-      "reporting_owner": "West Michael L",
-      "reporting_owner_cik": "0001791243",
-      "reporting_owner_position": "CEO - Moody's Ratings",
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "185",
-      "transaction_price": "506.885",
-      "transaction_type": "S",
-      "shares_after_transaction": "8373.98"
-    },
-    {
-      "id": 407,
-      "issuer_name": "MOODYS CORP /DE/",
-      "reporting_owner": "Phillips Jason D",
-      "reporting_owner_cik": "0002062050",
-      "reporting_owner_position": "Chief Acctg Off & Controller",
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "195",
-      "transaction_price": "509.232",
-      "transaction_type": "S",
-      "shares_after_transaction": "1893.9385"
     }
   ]
 }

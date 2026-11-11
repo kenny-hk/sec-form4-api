@@ -1,11 +1,23 @@
 {
   "ticker": "RCL",
-  "last_updated": "2026-11-10T16:16:25.869907",
+  "last_updated": "2026-11-11T16:01:16.725819",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 658,
+      "id": 544,
+      "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
+      "reporting_owner": "Wilhelmsen Arne Alexander",
+      "reporting_owner_cik": "0001317345",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-06",
+      "transaction_shares": "760",
+      "transaction_price": "321.44",
+      "transaction_type": "S",
+      "shares_after_transaction": "16185150"
+    },
+    {
+      "id": 543,
       "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
       "reporting_owner": "Wilhelmsen Arne Alexander",
       "reporting_owner_cik": "0001317345",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "16434440"
     },
     {
-      "id": 657,
+      "id": 542,
       "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
       "reporting_owner": "Fain Richard D",
       "reporting_owner_cik": "0001316987",
@@ -27,18 +39,6 @@
       "transaction_price": "0",
       "transaction_type": "G",
       "shares_after_transaction": "47090"
-    },
-    {
-      "id": 659,
-      "issuer_name": "ROYAL CARIBBEAN CRUISES LTD",
-      "reporting_owner": "Lake Robert Alexander",
-      "reporting_owner_cik": "0001697820",
-      "reporting_owner_position": "SVP,  CLO & Secretary",
-      "transaction_date": "2026-11-02",
-      "transaction_shares": "1000",
-      "transaction_price": "315",
-      "transaction_type": "S",
-      "shares_after_transaction": "36449"
     }
   ]
 }
