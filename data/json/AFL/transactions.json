@@ -1,20 +1,32 @@
 {
   "ticker": "AFL",
-  "last_updated": "2026-10-26T14:58:50.020124",
+  "last_updated": "2026-11-12T16:43:57.090877",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 145,
+      "id": 169,
       "issuer_name": "AFLAC INC",
       "reporting_owner": "Japan Post Holdings Co., Ltd.",
       "reporting_owner_cik": "0001783464",
       "reporting_owner_position": null,
-      "transaction_date": "2026-10-15",
-      "transaction_shares": "88114",
-      "transaction_price": "118.19",
+      "transaction_date": "2026-11-10",
+      "transaction_shares": "1003",
+      "transaction_price": "125.77",
       "transaction_type": "S",
-      "shares_after_transaction": "50159826"
+      "shares_after_transaction": "50133326"
+    },
+    {
+      "id": 170,
+      "issuer_name": "AFLAC INC",
+      "reporting_owner": "MOSKOWITZ JOSEPH L",
+      "reporting_owner_cik": "0001639880",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "600",
+      "transaction_price": "124.99",
+      "transaction_type": "S",
+      "shares_after_transaction": "32119"
     }
   ]
 }

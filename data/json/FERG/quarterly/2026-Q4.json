@@ -2,20 +2,44 @@
   "ticker": "FERG",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-10-27T14:10:22.082200",
-  "count": 1,
+  "last_updated": "2026-11-12T16:43:57.090877",
+  "count": 3,
   "transactions": [
     {
-      "id": 17,
+      "id": 37,
+      "issuer_name": "Ferguson Enterprises Inc. /DE/",
+      "reporting_owner": "Winckler Richard",
+      "reporting_owner_cik": "0001984098",
+      "reporting_owner_position": "CAO & SVP Finance",
+      "transaction_date": "2026-11-10",
+      "transaction_shares": "919",
+      "transaction_price": "259.32",
+      "transaction_type": "S",
+      "shares_after_transaction": "2162"
+    },
+    {
+      "id": 38,
+      "issuer_name": "Ferguson Enterprises Inc. /DE/",
+      "reporting_owner": "Paisley James A.",
+      "reporting_owner_cik": "0001572806",
+      "reporting_owner_position": "Chief Digital & Info. Officer",
+      "transaction_date": "2026-11-10",
+      "transaction_shares": "2300",
+      "transaction_price": "258.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "5262.643"
+    },
+    {
+      "id": 39,
       "issuer_name": "Ferguson Enterprises Inc. /DE/",
       "reporting_owner": "Graham Ian T.",
       "reporting_owner_cik": "0001984156",
-      "reporting_owner_position": "See Remarks",
-      "transaction_date": "2026-10-16",
-      "transaction_shares": "1097",
-      "transaction_price": "230",
+      "reporting_owner_position": "CLO & Corporate Secretary",
+      "transaction_date": "2026-11-09",
+      "transaction_shares": "1093",
+      "transaction_price": "260",
       "transaction_type": "S",
-      "shares_after_transaction": "9874"
+      "shares_after_transaction": "8781"
     }
   ]
 }
