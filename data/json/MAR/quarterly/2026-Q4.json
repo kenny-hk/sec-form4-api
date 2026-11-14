@@ -2,11 +2,23 @@
   "ticker": "MAR",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-13T16:02:55.671773",
-  "count": 6,
+  "last_updated": "2026-11-14T14:55:29.569581",
+  "count": 4,
   "transactions": [
     {
-      "id": 89,
+      "id": 334,
+      "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
+      "reporting_owner": "Breland Benjamin T.",
+      "reporting_owner_cik": "0001891273",
+      "reporting_owner_position": "CHRO & EVP, Global Ops. Serv.",
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "2408.0000",
+      "transaction_price": "424.5201",
+      "transaction_type": "S",
+      "shares_after_transaction": "21242.6153"
+    },
+    {
+      "id": 331,
       "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
       "reporting_owner": "Lee Felitia",
       "reporting_owner_cik": "0001818268",
@@ -18,19 +30,7 @@
       "shares_after_transaction": "6055.7386"
     },
     {
-      "id": 91,
-      "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
-      "reporting_owner": "Harrison Deborah Marriott",
-      "reporting_owner_cik": "0001359807",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-10",
-      "transaction_shares": "11985.0000",
-      "transaction_price": "421.3536",
-      "transaction_type": "S",
-      "shares_after_transaction": "163225.0000"
-    },
-    {
-      "id": 93,
+      "id": 332,
       "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
       "reporting_owner": "Breland Benjamin T.",
       "reporting_owner_cik": "0001891273",
@@ -42,40 +42,16 @@
       "shares_after_transaction": "23650.6153"
     },
     {
-      "id": 88,
+      "id": 333,
       "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
-      "reporting_owner": "Capuano Anthony",
-      "reporting_owner_cik": "0001461996",
-      "reporting_owner_position": "President & CEO",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "16428.0000",
-      "transaction_price": "139.5400",
-      "transaction_type": "M",
-      "shares_after_transaction": "130045.0000"
-    },
-    {
-      "id": 90,
-      "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
-      "reporting_owner": "Breland Benjamin T.",
-      "reporting_owner_cik": "0001891273",
-      "reporting_owner_position": "CHRO & EVP, Global Ops. Serv.",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "2500.0000",
-      "transaction_price": "423.3200",
+      "reporting_owner": "Harrison Deborah Marriott",
+      "reporting_owner_cik": "0001359807",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-10",
+      "transaction_shares": "11985.0000",
+      "transaction_price": "421.3536",
       "transaction_type": "S",
-      "shares_after_transaction": "23898.6153"
-    },
-    {
-      "id": 92,
-      "issuer_name": "MARRIOTT INTERNATIONAL INC /MD/",
-      "reporting_owner": "Reiss Rena Hozore",
-      "reporting_owner_cik": "0001497635",
-      "reporting_owner_position": "EVP &  General Counsel",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "8000.0000",
-      "transaction_price": "120.1600",
-      "transaction_type": "M",
-      "shares_after_transaction": "38187.0000"
+      "shares_after_transaction": "163225.0000"
     }
   ]
 }

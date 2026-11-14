@@ -2,11 +2,23 @@
   "ticker": "ICE",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-13T16:02:55.671773",
-  "count": 5,
+  "last_updated": "2026-11-14T14:55:29.569581",
+  "count": 3,
   "transactions": [
     {
-      "id": 160,
+      "id": 366,
+      "issuer_name": "Intercontinental Exchange, Inc.",
+      "reporting_owner": "Kapani Mayur",
+      "reporting_owner_cik": "0001917418",
+      "reporting_owner_position": "Chief Technology Officer",
+      "transaction_date": "2026-11-11",
+      "transaction_shares": "4272",
+      "transaction_price": "67",
+      "transaction_type": "M",
+      "shares_after_transaction": "72260"
+    },
+    {
+      "id": 365,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Surdykowski Andrew J",
       "reporting_owner_cik": "0001755922",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "45129"
     },
     {
-      "id": 157,
+      "id": 364,
       "issuer_name": "Intercontinental Exchange, Inc.",
       "reporting_owner": "Bowen Sharon",
       "reporting_owner_cik": "0001724974",
@@ -28,42 +40,6 @@
       "transaction_price": "174.5102",
       "transaction_type": "S",
       "shares_after_transaction": "12977"
-    },
-    {
-      "id": 158,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Jackson Benjamin",
-      "reporting_owner_cik": "0001722067",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "7332",
-      "transaction_price": "175.0072",
-      "transaction_type": "S",
-      "shares_after_transaction": "156932"
-    },
-    {
-      "id": 159,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "Namkung James W",
-      "reporting_owner_cik": "0001729468",
-      "reporting_owner_position": "Chief Accounting Officer",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "3777",
-      "transaction_price": "175",
-      "transaction_type": "S",
-      "shares_after_transaction": "10325"
-    },
-    {
-      "id": 161,
-      "issuer_name": "Intercontinental Exchange, Inc.",
-      "reporting_owner": "King Elizabeth Kathryn",
-      "reporting_owner_cik": "0002006961",
-      "reporting_owner_position": "Global Head of Clearing & CRO",
-      "transaction_date": "2026-11-04",
-      "transaction_shares": "1919",
-      "transaction_price": "175",
-      "transaction_type": "S",
-      "shares_after_transaction": "21835"
     }
   ]
 }

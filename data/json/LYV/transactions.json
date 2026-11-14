@@ -1,7 +1,44 @@
 {
   "ticker": "LYV",
-  "last_updated": "2026-11-11T16:01:16.725819",
+  "last_updated": "2026-11-14T14:55:29.569581",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 194,
+      "issuer_name": "Live Nation Entertainment, Inc.",
+      "reporting_owner": "Hopmans John",
+      "reporting_owner_cik": "0001870543",
+      "reporting_owner_position": "EVP, M&A and Strategic Finance",
+      "transaction_date": "2026-11-13",
+      "transaction_shares": "11133",
+      "transaction_price": "180.50",
+      "transaction_type": "S",
+      "shares_after_transaction": "163299"
+    },
+    {
+      "id": 196,
+      "issuer_name": "Live Nation Entertainment, Inc.",
+      "reporting_owner": "Berchtold Joe",
+      "reporting_owner_cik": "0001552281",
+      "reporting_owner_position": "President & CFO",
+      "transaction_date": "2026-11-13",
+      "transaction_shares": "93537",
+      "transaction_price": "29.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "995154"
+    },
+    {
+      "id": 195,
+      "issuer_name": "Live Nation Entertainment, Inc.",
+      "reporting_owner": "Rapino Michael",
+      "reporting_owner_cik": "0001337041",
+      "reporting_owner_position": "President & CEO",
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "195578",
+      "transaction_price": "29.03",
+      "transaction_type": "M",
+      "shares_after_transaction": "4383745"
+    }
+  ]
 }

@@ -2,11 +2,23 @@
   "ticker": "ACN",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-13T16:02:55.671773",
+  "last_updated": "2026-11-14T14:55:29.569581",
   "count": 8,
   "transactions": [
     {
-      "id": 379,
+      "id": 73,
+      "issuer_name": "Accenture plc",
+      "reporting_owner": "Burgum Melissa A",
+      "reporting_owner_cik": "0001455134",
+      "reporting_owner_position": "Chief Accounting Officer",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "75",
+      "transaction_price": "268.37",
+      "transaction_type": "A",
+      "shares_after_transaction": "9836"
+    },
+    {
+      "id": 74,
       "issuer_name": "Accenture plc",
       "reporting_owner": "Sharma Manish",
       "reporting_owner_cik": "0001911109",
@@ -18,67 +30,7 @@
       "shares_after_transaction": "10626"
     },
     {
-      "id": 380,
-      "issuer_name": "Accenture plc",
-      "reporting_owner": "Unruch Joel",
-      "reporting_owner_cik": "0001783059",
-      "reporting_owner_position": "General Counsel, Corp Sec, CRO",
-      "transaction_date": "2026-11-05",
-      "transaction_shares": "102",
-      "transaction_price": "268.37",
-      "transaction_type": "A",
-      "shares_after_transaction": "22993"
-    },
-    {
-      "id": 381,
-      "issuer_name": "Accenture plc",
-      "reporting_owner": "Hogan Catherine Kiernan",
-      "reporting_owner_cik": "0002080406",
-      "reporting_owner_position": "Chief Operating Officer",
-      "transaction_date": "2026-11-05",
-      "transaction_shares": "80",
-      "transaction_price": "268.37",
-      "transaction_type": "A",
-      "shares_after_transaction": "13084"
-    },
-    {
-      "id": 382,
-      "issuer_name": "Accenture plc",
-      "reporting_owner": "Sweet Julie Spellman",
-      "reporting_owner_cik": "0001487630",
-      "reporting_owner_position": "Chair and CEO",
-      "transaction_date": "2026-11-05",
-      "transaction_shares": "144",
-      "transaction_price": "268.37",
-      "transaction_type": "A",
-      "shares_after_transaction": "49054"
-    },
-    {
-      "id": 383,
-      "issuer_name": "Accenture plc",
-      "reporting_owner": "Park Angie Y",
-      "reporting_owner_cik": "0002028611",
-      "reporting_owner_position": "Chief Financial Officer",
-      "transaction_date": "2026-11-05",
-      "transaction_shares": "102",
-      "transaction_price": "268.37",
-      "transaction_type": "A",
-      "shares_after_transaction": "14327"
-    },
-    {
-      "id": 384,
-      "issuer_name": "Accenture plc",
-      "reporting_owner": "Clifford Katherine Lee",
-      "reporting_owner_cik": "0002080407",
-      "reporting_owner_position": "Chief Leadership & HR Officer",
-      "transaction_date": "2026-11-05",
-      "transaction_shares": "65",
-      "transaction_price": "268.37",
-      "transaction_type": "A",
-      "shares_after_transaction": "7058"
-    },
-    {
-      "id": 385,
+      "id": 75,
       "issuer_name": "Accenture plc",
       "reporting_owner": "Walsh John F",
       "reporting_owner_cik": "0001792845",
@@ -90,16 +42,64 @@
       "shares_after_transaction": "31523"
     },
     {
-      "id": 386,
+      "id": 76,
       "issuer_name": "Accenture plc",
-      "reporting_owner": "Burgum Melissa A",
-      "reporting_owner_cik": "0001455134",
-      "reporting_owner_position": "Chief Accounting Officer",
+      "reporting_owner": "Park Angie Y",
+      "reporting_owner_cik": "0002028611",
+      "reporting_owner_position": "Chief Financial Officer",
       "transaction_date": "2026-11-05",
-      "transaction_shares": "75",
+      "transaction_shares": "102",
       "transaction_price": "268.37",
       "transaction_type": "A",
-      "shares_after_transaction": "9836"
+      "shares_after_transaction": "14327"
+    },
+    {
+      "id": 77,
+      "issuer_name": "Accenture plc",
+      "reporting_owner": "Clifford Katherine Lee",
+      "reporting_owner_cik": "0002080407",
+      "reporting_owner_position": "Chief Leadership & HR Officer",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "65",
+      "transaction_price": "268.37",
+      "transaction_type": "A",
+      "shares_after_transaction": "7058"
+    },
+    {
+      "id": 78,
+      "issuer_name": "Accenture plc",
+      "reporting_owner": "Hogan Catherine Kiernan",
+      "reporting_owner_cik": "0002080406",
+      "reporting_owner_position": "Chief Operating Officer",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "80",
+      "transaction_price": "268.37",
+      "transaction_type": "A",
+      "shares_after_transaction": "13084"
+    },
+    {
+      "id": 79,
+      "issuer_name": "Accenture plc",
+      "reporting_owner": "Unruch Joel",
+      "reporting_owner_cik": "0001783059",
+      "reporting_owner_position": "General Counsel, Corp Sec, CRO",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "102",
+      "transaction_price": "268.37",
+      "transaction_type": "A",
+      "shares_after_transaction": "22993"
+    },
+    {
+      "id": 80,
+      "issuer_name": "Accenture plc",
+      "reporting_owner": "Sweet Julie Spellman",
+      "reporting_owner_cik": "0001487630",
+      "reporting_owner_position": "Chair and CEO",
+      "transaction_date": "2026-11-05",
+      "transaction_shares": "144",
+      "transaction_price": "268.37",
+      "transaction_type": "A",
+      "shares_after_transaction": "49054"
     }
   ]
 }
