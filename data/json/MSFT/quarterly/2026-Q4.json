@@ -2,11 +2,23 @@
   "ticker": "MSFT",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-16T18:06:04.629376",
+  "last_updated": "2026-11-17T17:32:05.087816",
   "count": 3,
   "transactions": [
     {
-      "id": 370,
+      "id": 412,
+      "issuer_name": "MICROSOFT CORP",
+      "reporting_owner": "Coleman Amy",
+      "reporting_owner_cik": "0002062356",
+      "reporting_owner_position": "EVP, Chief Human Resources Off",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "89.044",
+      "transaction_price": "523.88",
+      "transaction_type": "F",
+      "shares_after_transaction": "50836.4151"
+    },
+    {
+      "id": 411,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Numoto Takeshi",
       "reporting_owner_cik": "0001899931",
@@ -18,7 +30,7 @@
       "shares_after_transaction": "54412.2403"
     },
     {
-      "id": 371,
+      "id": 413,
       "issuer_name": "MICROSOFT CORP",
       "reporting_owner": "Hood Amy",
       "reporting_owner_cik": "0001576843",
@@ -28,18 +40,6 @@
       "transaction_price": "544.2359",
       "transaction_type": "S",
       "shares_after_transaction": "549484.427"
-    },
-    {
-      "id": 369,
-      "issuer_name": "MICROSOFT CORP",
-      "reporting_owner": "Nadella Satya",
-      "reporting_owner_cik": "0001513142",
-      "reporting_owner_position": "Chief Executive Officer",
-      "transaction_date": "2026-11-06",
-      "transaction_shares": "4704",
-      "transaction_price": "0",
-      "transaction_type": "G",
-      "shares_after_transaction": "482058.5340"
     }
   ]
 }

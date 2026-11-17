@@ -1,20 +1,32 @@
 {
   "ticker": "ODFL",
-  "last_updated": "2026-10-01T15:16:07.001292",
+  "last_updated": "2026-11-17T17:32:05.087816",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 306,
+      "id": 282,
       "issuer_name": "OLD DOMINION FREIGHT LINE, INC.",
-      "reporting_owner": "JACKMAN WORTHING",
-      "reporting_owner_cik": "0001229832",
+      "reporting_owner": "CONGDON EARL E",
+      "reporting_owner_cik": "0001067863",
+      "reporting_owner_position": "Chair Emeritus & Sr. Advisor",
+      "transaction_date": "2026-11-13",
+      "transaction_shares": "6261",
+      "transaction_price": "174.54",
+      "transaction_type": "I",
+      "shares_after_transaction": "52619"
+    },
+    {
+      "id": 283,
+      "issuer_name": "OLD DOMINION FREIGHT LINE, INC.",
+      "reporting_owner": "Stith Thomas A. III",
+      "reporting_owner_cik": "0001856545",
       "reporting_owner_position": null,
-      "transaction_date": "2026-09-22",
-      "transaction_shares": "545",
-      "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "545"
+      "transaction_date": "2026-11-13",
+      "transaction_shares": "550",
+      "transaction_price": "173.83",
+      "transaction_type": "S",
+      "shares_after_transaction": "4267"
     }
   ]
 }

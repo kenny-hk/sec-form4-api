@@ -1,32 +1,56 @@
 {
   "ticker": "GOOGL",
-  "last_updated": "2026-11-06T15:49:45.234441",
+  "last_updated": "2026-11-17T17:32:05.087816",
   "retention_years": 3,
-  "count": 2,
+  "count": 4,
   "transactions": [
     {
-      "id": 139,
+      "id": 217,
       "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "ARNOLD FRANCES",
-      "reporting_owner_cik": "0001665419",
+      "reporting_owner": "Hennessy John L.",
+      "reporting_owner_cik": "0001198046",
       "reporting_owner_position": null,
-      "transaction_date": "2026-10-29",
-      "transaction_shares": "82",
-      "transaction_price": "284",
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "300",
+      "transaction_price": "300",
       "transaction_type": "S",
-      "shares_after_transaction": "19157"
+      "shares_after_transaction": "2919"
     },
     {
-      "id": 323,
+      "id": 218,
       "issuer_name": "Alphabet Inc.",
-      "reporting_owner": "ARNOLD FRANCES",
-      "reporting_owner_cik": "0001665419",
+      "reporting_owner": "Shriram Kavitark Ram",
+      "reporting_owner_cik": "0001295084",
       "reporting_owner_position": null,
-      "transaction_date": "2026-10-29",
-      "transaction_shares": "82",
-      "transaction_price": "284",
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "500000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "72772"
+    },
+    {
+      "id": 547,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "Hennessy John L.",
+      "reporting_owner_cik": "0001198046",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "300",
+      "transaction_price": "300",
       "transaction_type": "S",
-      "shares_after_transaction": "19157"
+      "shares_after_transaction": "2919"
+    },
+    {
+      "id": 548,
+      "issuer_name": "Alphabet Inc.",
+      "reporting_owner": "Shriram Kavitark Ram",
+      "reporting_owner_cik": "0001295084",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-12",
+      "transaction_shares": "500000",
+      "transaction_price": "0",
+      "transaction_type": "G",
+      "shares_after_transaction": "72772"
     }
   ]
 }
