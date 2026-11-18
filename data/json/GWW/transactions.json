@@ -1,20 +1,44 @@
 {
   "ticker": "GWW",
-  "last_updated": "2026-10-09T15:08:24.744260",
+  "last_updated": "2026-11-18T17:04:48.988093",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 607,
+      "id": 209,
       "issuer_name": "W.W. GRAINGER, INC.",
-      "reporting_owner": "Thomson Laurie R",
-      "reporting_owner_cik": "0001859197",
-      "reporting_owner_position": "Interim CFO and VP, Controller",
-      "transaction_date": "2026-10-01",
-      "transaction_shares": "590",
+      "reporting_owner": "Berardinelli Krantz Nancy L",
+      "reporting_owner_cik": "0001963842",
+      "reporting_owner_position": "Sr. VP & CLO",
+      "transaction_date": "2026-11-17",
+      "transaction_shares": "70",
+      "transaction_price": "1485.59",
+      "transaction_type": "S",
+      "shares_after_transaction": "3721"
+    },
+    {
+      "id": 207,
+      "issuer_name": "W.W. GRAINGER, INC.",
+      "reporting_owner": "LeRoy Jonny M",
+      "reporting_owner_cik": "0002043378",
+      "reporting_owner_position": "SVP, Chief Technology Officer",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "50",
+      "transaction_price": "1503.51",
+      "transaction_type": "S",
+      "shares_after_transaction": "1504"
+    },
+    {
+      "id": 208,
+      "issuer_name": "W.W. GRAINGER, INC.",
+      "reporting_owner": "Macpherson Donald G",
+      "reporting_owner_cik": "0001451437",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-11-13",
+      "transaction_shares": "1670",
       "transaction_price": "0",
-      "transaction_type": "A",
-      "shares_after_transaction": "989"
+      "transaction_type": "G",
+      "shares_after_transaction": "107070"
     }
   ]
 }

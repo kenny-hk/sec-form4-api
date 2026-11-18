@@ -1,20 +1,44 @@
 {
   "ticker": "BE",
-  "last_updated": "2026-11-12T16:43:57.090877",
+  "last_updated": "2026-11-18T17:04:48.988093",
   "retention_years": 3,
-  "count": 1,
+  "count": 3,
   "transactions": [
     {
-      "id": 452,
+      "id": 355,
       "issuer_name": "Bloom Energy Corp",
-      "reporting_owner": "Burger Barbara J",
-      "reporting_owner_cik": "0001944715",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-03",
-      "transaction_shares": "2333",
-      "transaction_price": "215.05",
+      "reporting_owner": "SODERBERG SHAWN MARIE",
+      "reporting_owner_cik": "0001591851",
+      "reporting_owner_position": "See Remarks",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "3081",
+      "transaction_price": "178.39",
       "transaction_type": "S",
-      "shares_after_transaction": "36607"
+      "shares_after_transaction": "123419"
+    },
+    {
+      "id": 356,
+      "issuer_name": "Bloom Energy Corp",
+      "reporting_owner": "Joshi Aman",
+      "reporting_owner_cik": "0002007932",
+      "reporting_owner_position": "Chief Commercial Officer",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "5148",
+      "transaction_price": "178.53",
+      "transaction_type": "S",
+      "shares_after_transaction": "141944"
+    },
+    {
+      "id": 357,
+      "issuer_name": "Bloom Energy Corp",
+      "reporting_owner": "Chitoori Satish",
+      "reporting_owner_cik": "0002023038",
+      "reporting_owner_position": "Chief Operations Officer",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "2260",
+      "transaction_price": "178.38",
+      "transaction_type": "S",
+      "shares_after_transaction": "200234"
     }
   ]
 }
