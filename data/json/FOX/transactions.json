@@ -1,7 +1,32 @@
 {
   "ticker": "FOX",
-  "last_updated": "2026-11-12T16:43:57.090877",
+  "last_updated": "2026-11-19T17:14:50.906702",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 2,
+  "transactions": [
+    {
+      "id": 484,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "Wood Anthony J.",
+      "reporting_owner_cik": "0001716837",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-17",
+      "transaction_shares": "11028",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "644376"
+    },
+    {
+      "id": 788,
+      "issuer_name": "Fox Corp",
+      "reporting_owner": "Wood Anthony J.",
+      "reporting_owner_cik": "0001716837",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-17",
+      "transaction_shares": "11028",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "644376"
+    }
+  ]
 }

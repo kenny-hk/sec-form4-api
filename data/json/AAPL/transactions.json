@@ -1,11 +1,23 @@
 {
   "ticker": "AAPL",
-  "last_updated": "2026-11-18T17:04:48.988093",
+  "last_updated": "2026-11-19T17:14:50.906702",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 216,
+      "id": 266,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "LEVINSON ARTHUR D",
+      "reporting_owner_cik": "0001214128",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "36792",
+      "transaction_price": "352.26",
+      "transaction_type": "S",
+      "shares_after_transaction": "3662784"
+    },
+    {
+      "id": 267,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Newstead Jennifer",
       "reporting_owner_cik": "0001780525",
