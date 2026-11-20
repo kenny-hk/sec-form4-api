@@ -1,20 +1,32 @@
 {
   "ticker": "CME",
-  "last_updated": "2026-11-17T17:32:05.087816",
+  "last_updated": "2026-11-20T16:52:26.372752",
   "retention_years": 3,
-  "count": 1,
+  "count": 2,
   "transactions": [
     {
-      "id": 185,
+      "id": 646,
       "issuer_name": "CME GROUP INC.",
-      "reporting_owner": "Kaye Daniel G",
-      "reporting_owner_cik": "0001556974",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-09",
-      "transaction_shares": "532",
-      "transaction_price": "304.17",
+      "reporting_owner": "Marchese John Clifford",
+      "reporting_owner_cik": "0002153052",
+      "reporting_owner_position": "Sr MD, General Counsel",
+      "transaction_date": "2026-11-18",
+      "transaction_shares": "655",
+      "transaction_price": "310.75",
       "transaction_type": "S",
-      "shares_after_transaction": "4313"
+      "shares_after_transaction": "2943"
+    },
+    {
+      "id": 647,
+      "issuer_name": "CME GROUP INC.",
+      "reporting_owner": "DUFFY TERRENCE A",
+      "reporting_owner_cik": "0001212809",
+      "reporting_owner_position": "Chairman and CEO",
+      "transaction_date": "2026-11-18",
+      "transaction_shares": "10000",
+      "transaction_price": "308.54",
+      "transaction_type": "S",
+      "shares_after_transaction": "52442"
     }
   ]
 }

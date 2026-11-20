@@ -1,11 +1,11 @@
 {
   "ticker": "CIEN",
-  "last_updated": "2026-11-19T17:14:50.906702",
+  "last_updated": "2026-11-20T16:52:26.372752",
   "retention_years": 3,
-  "count": 2,
+  "count": 3,
   "transactions": [
     {
-      "id": 174,
+      "id": 697,
       "issuer_name": "CIENA CORP",
       "reporting_owner": "SMITH GARY B",
       "reporting_owner_cik": "0001032553",
@@ -17,7 +17,7 @@
       "shares_after_transaction": "219551"
     },
     {
-      "id": 175,
+      "id": 698,
       "issuer_name": "CIENA CORP",
       "reporting_owner": "Rothenstein David M",
       "reporting_owner_cik": "0001444157",
@@ -27,6 +27,18 @@
       "transaction_price": "260.8915",
       "transaction_type": "S",
       "shares_after_transaction": "170381"
+    },
+    {
+      "id": 699,
+      "issuer_name": "CIENA CORP",
+      "reporting_owner": "Graff Marc D.",
+      "reporting_owner_cik": "0002080157",
+      "reporting_owner_position": "EVP & Chief Financial Officer",
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "1240",
+      "transaction_price": "265.0",
+      "transaction_type": "S",
+      "shares_after_transaction": "102137"
     }
   ]
 }

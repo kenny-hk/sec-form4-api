@@ -2,71 +2,11 @@
   "ticker": "STZ",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-19T17:14:50.906702",
-  "count": 11,
+  "last_updated": "2026-11-20T16:52:26.372752",
+  "count": 10,
   "transactions": [
     {
-      "id": 132,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "BENNETT ABIGAIL J",
-      "reporting_owner_cik": "0001454180",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "75000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "3290715"
-    },
-    {
-      "id": 133,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "RES Business Holdings LP",
-      "reporting_owner_cik": "0001454182",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "150000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "4916666"
-    },
-    {
-      "id": 134,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "AJB Business Holdings LP",
-      "reporting_owner_cik": "0001955386",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "75000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "3290715"
-    },
-    {
-      "id": 135,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "SANDS ROBERT",
-      "reporting_owner_cik": "0001245564",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "150000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "2014138"
-    },
-    {
-      "id": 136,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "STERN ZACHARY M",
-      "reporting_owner_cik": "0001462935",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "75000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "3231078"
-    },
-    {
-      "id": 137,
+      "id": 283,
       "issuer_name": "CONSTELLATION BRANDS, INC.",
       "reporting_owner": "WildStar Partners LLC",
       "reporting_owner_cik": "0001690696",
@@ -78,22 +18,10 @@
       "shares_after_transaction": "3231078"
     },
     {
-      "id": 138,
+      "id": 284,
       "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "WSP Holdings Trust",
-      "reporting_owner_cik": "0002070036",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "450000",
-      "transaction_price": "145",
-      "transaction_type": "S",
-      "shares_after_transaction": "19978521"
-    },
-    {
-      "id": 140,
-      "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "SANDS RICHARD",
-      "reporting_owner_cik": "0001245563",
+      "reporting_owner": "RES Business Holdings LP",
+      "reporting_owner_cik": "0001454182",
       "reporting_owner_position": null,
       "transaction_date": "2026-11-16",
       "transaction_shares": "150000",
@@ -102,7 +30,31 @@
       "shares_after_transaction": "4916666"
     },
     {
-      "id": 141,
+      "id": 285,
+      "issuer_name": "CONSTELLATION BRANDS, INC.",
+      "reporting_owner": "SANDS ROBERT",
+      "reporting_owner_cik": "0001245564",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "150000",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "2014138"
+    },
+    {
+      "id": 286,
+      "issuer_name": "CONSTELLATION BRANDS, INC.",
+      "reporting_owner": "AJB Business Holdings LP",
+      "reporting_owner_cik": "0001955386",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "75000",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "3290715"
+    },
+    {
+      "id": 287,
       "issuer_name": "CONSTELLATION BRANDS, INC.",
       "reporting_owner": "ZMSS Business Holdings LP",
       "reporting_owner_cik": "0001955193",
@@ -114,7 +66,31 @@
       "shares_after_transaction": "3231078"
     },
     {
-      "id": 142,
+      "id": 288,
+      "issuer_name": "CONSTELLATION BRANDS, INC.",
+      "reporting_owner": "SANDS RICHARD",
+      "reporting_owner_cik": "0001245563",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "150000",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "4916666"
+    },
+    {
+      "id": 289,
+      "issuer_name": "CONSTELLATION BRANDS, INC.",
+      "reporting_owner": "WSP Holdings Trust",
+      "reporting_owner_cik": "0002070036",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "450000",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "19978521"
+    },
+    {
+      "id": 290,
       "issuer_name": "CONSTELLATION BRANDS, INC.",
       "reporting_owner": "SSR Business Holdings LP",
       "reporting_owner_cik": "0001937264",
@@ -126,16 +102,28 @@
       "shares_after_transaction": "2014138"
     },
     {
-      "id": 139,
+      "id": 291,
       "issuer_name": "CONSTELLATION BRANDS, INC.",
-      "reporting_owner": "Glaetzer Samuel J",
-      "reporting_owner_cik": "0002013420",
-      "reporting_owner_position": "EVP & Pres. Wine and Spirits",
-      "transaction_date": "2026-11-09",
-      "transaction_shares": "750",
-      "transaction_price": "145.66",
+      "reporting_owner": "STERN ZACHARY M",
+      "reporting_owner_cik": "0001462935",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "75000",
+      "transaction_price": "145",
       "transaction_type": "S",
-      "shares_after_transaction": "3783"
+      "shares_after_transaction": "3231078"
+    },
+    {
+      "id": 292,
+      "issuer_name": "CONSTELLATION BRANDS, INC.",
+      "reporting_owner": "BENNETT ABIGAIL J",
+      "reporting_owner_cik": "0001454180",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-16",
+      "transaction_shares": "75000",
+      "transaction_price": "145",
+      "transaction_type": "S",
+      "shares_after_transaction": "3290715"
     }
   ]
 }

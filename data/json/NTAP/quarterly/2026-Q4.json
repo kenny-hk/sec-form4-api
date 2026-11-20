@@ -2,11 +2,11 @@
   "ticker": "NTAP",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-19T17:14:50.906702",
-  "count": 7,
+  "last_updated": "2026-11-20T16:52:26.372752",
+  "count": 6,
   "transactions": [
     {
-      "id": 191,
+      "id": 401,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "CERNUDA CESAR",
       "reporting_owner_cik": "0001817313",
@@ -18,55 +18,7 @@
       "shares_after_transaction": "47231"
     },
     {
-      "id": 188,
-      "issuer_name": "NetApp, Inc.",
-      "reporting_owner": "Kurian George",
-      "reporting_owner_cik": "0001586813",
-      "reporting_owner_position": "CEO",
-      "transaction_date": "2026-11-15",
-      "transaction_shares": "7567",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "217916"
-    },
-    {
-      "id": 190,
-      "issuer_name": "NetApp, Inc.",
-      "reporting_owner": "CERNUDA CESAR",
-      "reporting_owner_cik": "0001817313",
-      "reporting_owner_position": "President",
-      "transaction_date": "2026-11-15",
-      "transaction_shares": "4402",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "51910"
-    },
-    {
-      "id": 192,
-      "issuer_name": "NetApp, Inc.",
-      "reporting_owner": "De Lorenzo Daniel",
-      "reporting_owner_cik": "0002016949",
-      "reporting_owner_position": "SVP, Chief Accounting Officer",
-      "transaction_date": "2026-11-15",
-      "transaction_shares": "743",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "2831"
-    },
-    {
-      "id": 193,
-      "issuer_name": "NetApp, Inc.",
-      "reporting_owner": "O'Callahan Elizabeth M",
-      "reporting_owner_cik": "0001911064",
-      "reporting_owner_position": "EVP, Chief Admin. Officer",
-      "transaction_date": "2026-11-15",
-      "transaction_shares": "2908",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "32331"
-    },
-    {
-      "id": 194,
+      "id": 400,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "JABRE WISSAM G",
       "reporting_owner_cik": "0001903967",
@@ -78,16 +30,52 @@
       "shares_after_transaction": "40824"
     },
     {
-      "id": 189,
+      "id": 402,
       "issuer_name": "NetApp, Inc.",
       "reporting_owner": "O'Callahan Elizabeth M",
       "reporting_owner_cik": "0001911064",
       "reporting_owner_position": "EVP, Chief Admin. Officer",
-      "transaction_date": "2026-11-10",
-      "transaction_shares": "1000",
-      "transaction_price": "175.95",
-      "transaction_type": "S",
-      "shares_after_transaction": "29423"
+      "transaction_date": "2026-11-15",
+      "transaction_shares": "2908",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "32331"
+    },
+    {
+      "id": 403,
+      "issuer_name": "NetApp, Inc.",
+      "reporting_owner": "Kurian George",
+      "reporting_owner_cik": "0001586813",
+      "reporting_owner_position": "CEO",
+      "transaction_date": "2026-11-15",
+      "transaction_shares": "7567",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "217916"
+    },
+    {
+      "id": 404,
+      "issuer_name": "NetApp, Inc.",
+      "reporting_owner": "De Lorenzo Daniel",
+      "reporting_owner_cik": "0002016949",
+      "reporting_owner_position": "SVP, Chief Accounting Officer",
+      "transaction_date": "2026-11-15",
+      "transaction_shares": "743",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "2831"
+    },
+    {
+      "id": 405,
+      "issuer_name": "NetApp, Inc.",
+      "reporting_owner": "CERNUDA CESAR",
+      "reporting_owner_cik": "0001817313",
+      "reporting_owner_position": "President",
+      "transaction_date": "2026-11-15",
+      "transaction_shares": "4402",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "51910"
     }
   ]
 }
