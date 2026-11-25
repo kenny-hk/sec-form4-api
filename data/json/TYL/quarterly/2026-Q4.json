@@ -2,11 +2,23 @@
   "ticker": "TYL",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-24T19:29:31.900495",
+  "last_updated": "2026-11-25T18:34:19.488891",
   "count": 2,
   "transactions": [
     {
-      "id": 168,
+      "id": 164,
+      "issuer_name": "TYLER TECHNOLOGIES INC",
+      "reporting_owner": "MOORE H LYNN JR",
+      "reporting_owner_cik": "0001250902",
+      "reporting_owner_position": "President and CEO",
+      "transaction_date": "2026-11-20",
+      "transaction_shares": "20000",
+      "transaction_price": "205.66",
+      "transaction_type": "M",
+      "shares_after_transaction": "120391.8394"
+    },
+    {
+      "id": 165,
       "issuer_name": "TYLER TECHNOLOGIES INC",
       "reporting_owner": "MILLER BRIAN K",
       "reporting_owner_cik": "0001086072",
@@ -16,18 +28,6 @@
       "transaction_price": "345.87",
       "transaction_type": "M",
       "shares_after_transaction": "25594.0038"
-    },
-    {
-      "id": 167,
-      "issuer_name": "TYLER TECHNOLOGIES INC",
-      "reporting_owner": "MOORE H LYNN JR",
-      "reporting_owner_cik": "0001250902",
-      "reporting_owner_position": "President and CEO",
-      "transaction_date": "2026-11-13",
-      "transaction_shares": "10000",
-      "transaction_price": "205.66",
-      "transaction_type": "M",
-      "shares_after_transaction": "110391.8394"
     }
   ]
 }

@@ -1,7 +1,44 @@
 {
   "ticker": "COIN",
-  "last_updated": "2026-11-24T19:29:31.900495",
+  "last_updated": "2026-11-25T18:34:19.488891",
   "retention_years": 3,
-  "count": 0,
-  "transactions": []
+  "count": 3,
+  "transactions": [
+    {
+      "id": 493,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "HAAS ALESIA J",
+      "reporting_owner_cik": "0001668711",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2026-11-20",
+      "transaction_shares": "5869",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "351245"
+    },
+    {
+      "id": 494,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Jones Jennifer N.",
+      "reporting_owner_cik": "0001851432",
+      "reporting_owner_position": "CHIEF ACCOUNTING OFFICER",
+      "transaction_date": "2026-11-20",
+      "transaction_shares": "1320",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "1320"
+    },
+    {
+      "id": 495,
+      "issuer_name": "Coinbase Global, Inc.",
+      "reporting_owner": "Choi Emilie",
+      "reporting_owner_cik": "0001851658",
+      "reporting_owner_position": "PRESIDENT & COO",
+      "transaction_date": "2026-11-20",
+      "transaction_shares": "11738",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "579900"
+    }
+  ]
 }
