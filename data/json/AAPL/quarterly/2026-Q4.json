@@ -2,11 +2,23 @@
   "ticker": "AAPL",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-25T18:34:19.488891",
+  "last_updated": "2026-11-26T18:15:37.119433",
   "count": 2,
   "transactions": [
     {
-      "id": 515,
+      "id": 345,
+      "issuer_name": "Apple Inc.",
+      "reporting_owner": "Newstead Jennifer",
+      "reporting_owner_cik": "0001780525",
+      "reporting_owner_position": "SVP, GC and Government Affairs",
+      "transaction_date": "2026-11-24",
+      "transaction_shares": "2398",
+      "transaction_price": "347.56",
+      "transaction_type": "S",
+      "shares_after_transaction": "22802"
+    },
+    {
+      "id": 346,
       "issuer_name": "Apple Inc.",
       "reporting_owner": "Newstead Jennifer",
       "reporting_owner_cik": "0001780525",
@@ -16,18 +28,6 @@
       "transaction_price": "352.77",
       "transaction_type": "S",
       "shares_after_transaction": "25200"
-    },
-    {
-      "id": 513,
-      "issuer_name": "Apple Inc.",
-      "reporting_owner": "LEVINSON ARTHUR D",
-      "reporting_owner_cik": "0001214128",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-16",
-      "transaction_shares": "36792",
-      "transaction_price": "352.26",
-      "transaction_type": "S",
-      "shares_after_transaction": "3662784"
     }
   ]
 }

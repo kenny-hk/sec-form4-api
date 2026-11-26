@@ -1,11 +1,23 @@
 {
   "ticker": "DIS",
-  "last_updated": "2026-11-25T18:34:19.488891",
+  "last_updated": "2026-11-26T18:15:37.119433",
   "retention_years": 3,
   "count": 3,
   "transactions": [
     {
-      "id": 602,
+      "id": 508,
+      "issuer_name": "Walt Disney Co",
+      "reporting_owner": "IGER ROBERT A",
+      "reporting_owner_cik": "0001207394",
+      "reporting_owner_position": null,
+      "transaction_date": "2026-11-18",
+      "transaction_shares": "321694",
+      "transaction_price": "105.21",
+      "transaction_type": "M",
+      "shares_after_transaction": "554356.8168"
+    },
+    {
+      "id": 509,
       "issuer_name": "Walt Disney Co",
       "reporting_owner": "Roeder Paul M",
       "reporting_owner_cik": "0002121555",
@@ -17,7 +29,7 @@
       "shares_after_transaction": "4854"
     },
     {
-      "id": 603,
+      "id": 510,
       "issuer_name": "Walt Disney Co",
       "reporting_owner": "Gutierrez Horacio E",
       "reporting_owner_cik": "0001905613",
@@ -27,18 +39,6 @@
       "transaction_price": "120",
       "transaction_type": "S",
       "shares_after_transaction": "35197"
-    },
-    {
-      "id": 604,
-      "issuer_name": "Walt Disney Co",
-      "reporting_owner": "IGER ROBERT A",
-      "reporting_owner_cik": "0001207394",
-      "reporting_owner_position": null,
-      "transaction_date": "2026-11-18",
-      "transaction_shares": "321694",
-      "transaction_price": "105.21",
-      "transaction_type": "M",
-      "shares_after_transaction": "554356.8168"
     }
   ]
 }

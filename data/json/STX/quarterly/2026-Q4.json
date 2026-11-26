@@ -2,11 +2,23 @@
   "ticker": "STX",
   "year": 2026,
   "quarter": 4,
-  "last_updated": "2026-11-25T18:34:19.488891",
+  "last_updated": "2026-11-26T18:15:37.119433",
   "count": 6,
   "transactions": [
     {
-      "id": 499,
+      "id": 101,
+      "issuer_name": "Seagate Technology Holdings plc",
+      "reporting_owner": "Chong Kian Fatt",
+      "reporting_owner_cik": "0001987421",
+      "reporting_owner_position": "EVP Global Operations",
+      "transaction_date": "2026-11-20",
+      "transaction_shares": "327",
+      "transaction_price": "0",
+      "transaction_type": "M",
+      "shares_after_transaction": "25420"
+    },
+    {
+      "id": 102,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Morris John Christopher",
       "reporting_owner_cik": "0001988271",
@@ -18,19 +30,7 @@
       "shares_after_transaction": "21847.25"
     },
     {
-      "id": 500,
-      "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Teh Ban Seng",
-      "reporting_owner_cik": "0001801425",
-      "reporting_owner_position": "EVP & Chief Commercial Officer",
-      "transaction_date": "2026-11-20",
-      "transaction_shares": "567",
-      "transaction_price": "0",
-      "transaction_type": "M",
-      "shares_after_transaction": "6377"
-    },
-    {
-      "id": 501,
+      "id": 103,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "MOSLEY WILLIAM D",
       "reporting_owner_cik": "0001388390",
@@ -42,7 +42,7 @@
       "shares_after_transaction": "347709.25"
     },
     {
-      "id": 502,
+      "id": 104,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Romano Gianluca",
       "reporting_owner_cik": "0001764650",
@@ -54,7 +54,7 @@
       "shares_after_transaction": "72015.5"
     },
     {
-      "id": 503,
+      "id": 105,
       "issuer_name": "Seagate Technology Holdings plc",
       "reporting_owner": "Lee James CI",
       "reporting_owner_cik": "0001773423",
@@ -66,16 +66,16 @@
       "shares_after_transaction": "1414.75"
     },
     {
-      "id": 504,
+      "id": 106,
       "issuer_name": "Seagate Technology Holdings plc",
-      "reporting_owner": "Chong Kian Fatt",
-      "reporting_owner_cik": "0001987421",
-      "reporting_owner_position": "EVP Global Operations",
+      "reporting_owner": "Teh Ban Seng",
+      "reporting_owner_cik": "0001801425",
+      "reporting_owner_position": "EVP & Chief Commercial Officer",
       "transaction_date": "2026-11-20",
-      "transaction_shares": "327",
+      "transaction_shares": "567",
       "transaction_price": "0",
       "transaction_type": "M",
-      "shares_after_transaction": "25420"
+      "shares_after_transaction": "6377"
     }
   ]
 }
