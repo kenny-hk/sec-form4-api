@@ -1,23 +1,11 @@
 {
   "ticker": "V",
-  "last_updated": "2026-11-26T18:15:37.119433",
+  "last_updated": "2026-11-27T18:06:14.902148",
   "retention_years": 3,
   "count": 9,
   "transactions": [
     {
-      "id": 375,
-      "issuer_name": "VISA INC.",
-      "reporting_owner": "Fabara Paul D",
-      "reporting_owner_cik": "0001646987",
-      "reporting_owner_position": "CHIEF RISK & CLIENT SVCS OFC",
-      "transaction_date": "2026-11-24",
-      "transaction_shares": "852",
-      "transaction_price": "409.00",
-      "transaction_type": "S",
-      "shares_after_transaction": "33913"
-    },
-    {
-      "id": 380,
+      "id": 259,
       "issuer_name": "VISA INC.",
       "reporting_owner": "Taneja Rajat",
       "reporting_owner_cik": "0001532601",
@@ -29,7 +17,31 @@
       "shares_after_transaction": "232112"
     },
     {
-      "id": 372,
+      "id": 264,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "Fabara Paul D",
+      "reporting_owner_cik": "0001646987",
+      "reporting_owner_position": "CHIEF RISK & CLIENT SVCS OFC",
+      "transaction_date": "2026-11-24",
+      "transaction_shares": "852",
+      "transaction_price": "409.00",
+      "transaction_type": "S",
+      "shares_after_transaction": "33913"
+    },
+    {
+      "id": 258,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "MAHON TULLIER KELLY",
+      "reporting_owner_cik": "0001621104",
+      "reporting_owner_position": "VICE CHAIR, CHF PPL & CORP AFF",
+      "transaction_date": "2026-11-19",
+      "transaction_shares": "2505",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "52167"
+    },
+    {
+      "id": 260,
       "issuer_name": "VISA INC.",
       "reporting_owner": "MCINERNEY RYAN",
       "reporting_owner_cik": "0001578261",
@@ -41,55 +53,7 @@
       "shares_after_transaction": "6595"
     },
     {
-      "id": 373,
-      "issuer_name": "VISA INC.",
-      "reporting_owner": "Taneja Rajat",
-      "reporting_owner_cik": "0001532601",
-      "reporting_owner_position": "PRESIDENT, TECHNOLOGY",
-      "transaction_date": "2026-11-19",
-      "transaction_shares": "4174",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "236286"
-    },
-    {
-      "id": 374,
-      "issuer_name": "VISA INC.",
-      "reporting_owner": "Fabara Paul D",
-      "reporting_owner_cik": "0001646987",
-      "reporting_owner_position": "CHIEF RISK & CLIENT SVCS OFC",
-      "transaction_date": "2026-11-19",
-      "transaction_shares": "1503",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "35416"
-    },
-    {
-      "id": 376,
-      "issuer_name": "VISA INC.",
-      "reporting_owner": "ANDRESKI PETER M",
-      "reporting_owner_cik": "0001936131",
-      "reporting_owner_position": "GBL CORP CONTROLLER, CAO",
-      "transaction_date": "2026-11-19",
-      "transaction_shares": "501",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "10739"
-    },
-    {
-      "id": 377,
-      "issuer_name": "VISA INC.",
-      "reporting_owner": "Suh Chris",
-      "reporting_owner_cik": "0001885015",
-      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
-      "transaction_date": "2026-11-19",
-      "transaction_shares": "3006",
-      "transaction_price": null,
-      "transaction_type": "M",
-      "shares_after_transaction": "21175"
-    },
-    {
-      "id": 378,
+      "id": 261,
       "issuer_name": "VISA INC.",
       "reporting_owner": "ROTTENBERG JULIE B",
       "reporting_owner_cik": "0001887192",
@@ -101,16 +65,52 @@
       "shares_after_transaction": "19573"
     },
     {
-      "id": 379,
+      "id": 262,
       "issuer_name": "VISA INC.",
-      "reporting_owner": "MAHON TULLIER KELLY",
-      "reporting_owner_cik": "0001621104",
-      "reporting_owner_position": "VICE CHAIR, CHF PPL & CORP AFF",
+      "reporting_owner": "ANDRESKI PETER M",
+      "reporting_owner_cik": "0001936131",
+      "reporting_owner_position": "GBL CORP CONTROLLER, CAO",
       "transaction_date": "2026-11-19",
-      "transaction_shares": "2505",
+      "transaction_shares": "501",
       "transaction_price": null,
       "transaction_type": "M",
-      "shares_after_transaction": "52167"
+      "shares_after_transaction": "10739"
+    },
+    {
+      "id": 263,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "Suh Chris",
+      "reporting_owner_cik": "0001885015",
+      "reporting_owner_position": "CHIEF FINANCIAL OFFICER",
+      "transaction_date": "2026-11-19",
+      "transaction_shares": "3006",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "21175"
+    },
+    {
+      "id": 265,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "Taneja Rajat",
+      "reporting_owner_cik": "0001532601",
+      "reporting_owner_position": "PRESIDENT, TECHNOLOGY",
+      "transaction_date": "2026-11-19",
+      "transaction_shares": "4174",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "236286"
+    },
+    {
+      "id": 266,
+      "issuer_name": "VISA INC.",
+      "reporting_owner": "Fabara Paul D",
+      "reporting_owner_cik": "0001646987",
+      "reporting_owner_position": "CHIEF RISK & CLIENT SVCS OFC",
+      "transaction_date": "2026-11-19",
+      "transaction_shares": "1503",
+      "transaction_price": null,
+      "transaction_type": "M",
+      "shares_after_transaction": "35416"
     }
   ]
 }
